@@ -16,7 +16,7 @@ export default function Home() {
       <div className="flex flex-1 overflow-hidden">
         <Sidebar isOpen={sidebarOpen} onClose={() => setSidebarOpen(false)} />
 
-        <main className="flex-1 overflow-y-auto bg-[#1b2838]">
+        <main className="flex-1 overflow-y-auto bg-background">
           <GameGridHeader totalGames={0} />
 
           <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-5 xl:grid-cols-6 2xl:grid-cols-7 gap-4 px-4 pb-6 sm:px-6">
