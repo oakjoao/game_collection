@@ -1,0 +1,287 @@
+{
+  "details": {
+    "id": 22511,
+    "slug": "the-legend-of-zelda-breath-of-the-wild",
+    "name": "The Legend of Zelda: Breath of the Wild",
+    "name_original": "The Legend of Zelda: Breath of the Wild",
+    "description": "<p>The Legend of Zelda: Breath of the Wild is an adventure game developed by Nintendo. It is the nineteenth installment in the series.</p>\n<p>After awakening from a hundred year sleep, memoryless Link hears a mysterious female voice that guides him to a destroyed kingdom of Hyrule. He finds a Wiseman who says that a ruthless creature, Calamity Ganon, was imprisoned for 100 years. Even though the creature is trapped, it is still gaining power. Link sets out to kill Ganon before he frees himself and destroys the world.</p>\n<p>In contrast to the previous titles in the series, Breath of the Wild the player to explore a vast open world. At the beginning of the game, a small tutorial is given to the players and they are free to travel the world at the pace they see fit. Link can climb almost every surface in the world, cook food to restore health. Fast travel to certain places in the world is also available for the players. The world is highly interactive thanks to the chemistry engine.</p>",
+    "metacritic": 97,
+    "metacritic_platforms": [],
+    "released": "2017-03-03",
+    "tba": false,
+    "updated": "2026-02-28T16:15:34",
+    "background_image": "https://media.rawg.io/media/games/cc1/cc196a5ad763955d6532cdba236f730c.jpg",
+    "background_image_additional": "https://media.rawg.io/media/screenshots/1e5/1e58e8a064da6906f09dba1edb3fdea6.jpg",
+    "website": "https://www.nintendo.com/games/detail/the-legend-of-zelda-breath-of-the-wild-switch",
+    "rating": 4.47,
+    "rating_top": 5,
+    "ratings": [
+      {
+        "id": 5,
+        "title": "exceptional",
+        "count": 2311,
+        "percent": 71.26
+      },
+      {
+        "id": 4,
+        "title": "recommended",
+        "count": 539,
+        "percent": 16.62
+      },
+      {
+        "id": 3,
+        "title": "meh",
+        "count": 200,
+        "percent": 6.17
+      },
+      {
+        "id": 1,
+        "title": "skip",
+        "count": 193,
+        "percent": 5.95
+      }
+    ],
+    "reactions": {
+      "1": 38,
+      "2": 2,
+      "3": 26,
+      "4": 12,
+      "5": 1,
+      "6": 10,
+      "7": 16,
+      "8": 1,
+      "9": 1,
+      "10": 5,
+      "11": 12,
+      "12": 13,
+      "14": 1,
+      "15": 2,
+      "16": 1,
+      "20": 1,
+      "21": 1
+    },
+    "added": 6342,
+    "added_by_status": {
+      "yet": 360,
+      "owned": 1542,
+      "beaten": 2404,
+      "toplay": 805,
+      "dropped": 509,
+      "playing": 722
+    },
+    "playtime": 121,
+    "screenshots_count": 6,
+    "movies_count": 0,
+    "creators_count": 32,
+    "achievements_count": 0,
+    "parent_achievements_count": 0,
+    "reddit_url": "https://www.reddit.com/r/Breath_of_the_Wild/",
+    "reddit_name": "",
+    "reddit_description": "",
+    "reddit_logo": "",
+    "reddit_count": 9548,
+    "twitch_count": 161,
+    "youtube_count": 1000000,
+    "reviews_text_count": 65,
+    "ratings_count": 3178,
+    "suggestions_count": 318,
+    "alternative_names": [
+      "BOTW"
+    ],
+    "metacritic_url": "",
+    "parents_count": 0,
+    "additions_count": 0,
+    "game_series_count": 26,
+    "user_game": null,
+    "reviews_count": 3243,
+    "saturated_color": "0f0f0f",
+    "dominant_color": "0f0f0f",
+    "parent_platforms": [
+      {
+        "platform": {
+          "id": 7,
+          "name": "Nintendo",
+          "slug": "nintendo"
+        }
+      }
+    ],
+    "platforms": [
+      {
+        "platform": {
+          "id": 7,
+          "name": "Nintendo Switch",
+          "slug": "nintendo-switch",
+          "image": null,
+          "year_end": null,
+          "year_start": null,
+          "games_count": 5759,
+          "image_background": "https://media.rawg.io/media/games/618/618c2031a07bbff6b4f611f10b6bcdbc.jpg"
+        },
+        "released_at": "2017-03-03",
+        "requirements": {}
+      },
+      {
+        "platform": {
+          "id": 10,
+          "name": "Wii U",
+          "slug": "wii-u",
+          "image": null,
+          "year_end": null,
+          "year_start": null,
+          "games_count": 1114,
+          "image_background": "https://media.rawg.io/media/games/cc1/cc196a5ad763955d6532cdba236f730c.jpg"
+        },
+        "released_at": "2017-03-03",
+        "requirements": {}
+      }
+    ],
+    "stores": [
+      {
+        "id": 31384,
+        "url": "",
+        "store": {
+          "id": 6,
+          "name": "Nintendo Store",
+          "slug": "nintendo",
+          "domain": "nintendo.com",
+          "games_count": 9147,
+          "image_background": "https://media.rawg.io/media/games/e04/e04963f3ac4c4fa83a1dc0b9231e50db.jpg"
+        }
+      }
+    ],
+    "developers": [
+      {
+        "id": 16257,
+        "name": "Nintendo",
+        "slug": "nintendo",
+        "games_count": 429,
+        "image_background": "https://media.rawg.io/media/games/c23/c231ef56cdd277fad5fbcd2f6b7d2951.jpg"
+      }
+    ],
+    "genres": [
+      {
+        "id": 4,
+        "name": "Action",
+        "slug": "action",
+        "games_count": 191451,
+        "image_background": "https://media.rawg.io/media/games/587/587588c64afbff80e6f444eb2e46f9da.jpg"
+      },
+      {
+        "id": 3,
+        "name": "Adventure",
+        "slug": "adventure",
+        "games_count": 151632,
+        "image_background": "https://media.rawg.io/media/games/58a/58ac7f6569259dcc0b60b921869b19fc.jpg"
+      },
+      {
+        "id": 5,
+        "name": "RPG",
+        "slug": "role-playing-games-rpg",
+        "games_count": 61917,
+        "image_background": "https://media.rawg.io/media/games/f87/f87457e8347484033cb34cde6101d08d.jpg"
+      }
+    ],
+    "tags": [
+      {
+        "id": 24,
+        "name": "RPG",
+        "slug": "rpg",
+        "language": "eng",
+        "games_count": 26602,
+        "image_background": "https://media.rawg.io/media/games/6cd/6cd653e0aaef5ff8bbd295bf4bcb12eb.jpg"
+      },
+      {
+        "id": 36,
+        "name": "Open World",
+        "slug": "open-world",
+        "language": "eng",
+        "games_count": 9253,
+        "image_background": "https://media.rawg.io/media/games/20a/20aa03a10cda45239fe22d035c0ebe64.jpg"
+      },
+      {
+        "id": 37,
+        "name": "Sandbox",
+        "slug": "sandbox",
+        "language": "eng",
+        "games_count": 8507,
+        "image_background": "https://media.rawg.io/media/games/15c/15c95a4915f88a3e89c821526afe05fc.jpg"
+      },
+      {
+        "id": 69,
+        "name": "Action-Adventure",
+        "slug": "action-adventure",
+        "language": "eng",
+        "games_count": 21003,
+        "image_background": "https://media.rawg.io/media/games/34b/34b1f1850a1c06fd971bc6ab3ac0ce0e.jpg"
+      },
+      {
+        "id": 37796,
+        "name": "exclusive",
+        "slug": "exclusive",
+        "language": "eng",
+        "games_count": 4491,
+        "image_background": "https://media.rawg.io/media/games/b7d/b7d3f1715fa8381a4e780173a197a615.jpg"
+      }
+    ],
+    "publishers": [
+      {
+        "id": 10681,
+        "name": "Nintendo",
+        "slug": "nintendo",
+        "games_count": 1241,
+        "image_background": "https://media.rawg.io/media/games/3a0/3a0c8e9ed3a711c542218831b893a0fa.jpg"
+      }
+    ],
+    "esrb_rating": {
+      "id": 2,
+      "name": "Everyone 10+",
+      "slug": "everyone-10-plus"
+    },
+    "clip": null,
+    "description_raw": "The Legend of Zelda: Breath of the Wild is an adventure game developed by Nintendo. It is the nineteenth installment in the series.\n\nAfter awakening from a hundred year sleep, memoryless Link hears a mysterious female voice that guides him to a destroyed kingdom of Hyrule. He finds a Wiseman who says that a ruthless creature, Calamity Ganon, was imprisoned for 100 years. Even though the creature is trapped, it is still gaining power. Link sets out to kill Ganon before he frees himself and destroys the world.\n\nIn contrast to the previous titles in the series, Breath of the Wild the player to explore a vast open world. At the beginning of the game, a small tutorial is given to the players and they are free to travel the world at the pace they see fit. Link can climb almost every surface in the world, cook food to restore health. Fast travel to certain places in the world is also available for the players. The world is highly interactive thanks to the chemistry engine."
+  },
+  "screenshots": [
+    {
+      "id": 806574,
+      "image": "https://media.rawg.io/media/screenshots/3c4/3c4a8f6b1994def75e73e1cb64624e7f.jpg",
+      "width": 1920,
+      "height": 1080,
+      "is_deleted": false
+    },
+    {
+      "id": 806575,
+      "image": "https://media.rawg.io/media/screenshots/8f5/8f5d4264b12090bb7aa5626fcfb5be18.jpg",
+      "width": 1920,
+      "height": 1080,
+      "is_deleted": false
+    },
+    {
+      "id": 806576,
+      "image": "https://media.rawg.io/media/screenshots/b77/b771adc0585c655f8a747d3160e5325a.jpg",
+      "width": 1920,
+      "height": 1080,
+      "is_deleted": false
+    },
+    {
+      "id": 806577,
+      "image": "https://media.rawg.io/media/screenshots/ef7/ef7d89471e5c0dc5553c249b2c34d9cd.jpg",
+      "width": 1920,
+      "height": 1080,
+      "is_deleted": false
+    },
+    {
+      "id": 806578,
+      "image": "https://media.rawg.io/media/screenshots/1e5/1e58e8a064da6906f09dba1edb3fdea6.jpg",
+      "width": 1920,
+      "height": 1080,
+      "is_deleted": false
+    },
+    {
+      "id": 806579,
+      "image": "https://media.rawg.io/media/screenshots/bef/bef44f5547b97d44c5e14f8773f9876c.jpg",
+      "width": 1920,
+      "height": 1080,
+      "is_deleted": false
+    }
+  ]
+}
