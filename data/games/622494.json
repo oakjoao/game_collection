@@ -1,0 +1,197 @@
+{
+  "details": {
+    "id": 622494,
+    "slug": "mario-party-superstars",
+    "name": "Mario Party Superstars",
+    "name_original": "Mario Party Superstars",
+    "description": "<p>A Superstar collection of classic Nintendo 64™ boards<br />\nCalling all superstars! The Mario Party™ series is back with 5 classic boards from the Nintendo 64 Mario Party games. Race to get the most stars (and sabotage your opponents) on boards like the stellar Space Land or the spooky Horror Land! Party at your own pace by suspending a game and picking up right where you left off! The tides can turn quickly in Mario Party, so stay vigilant, partygoers. All modes can be played online*, too!</p>\n<p>Play 100 classic minigames from the Nintendo 64 and Nintendo GameCube™ games and more in Mt. Minigames!</p>\n<p>Try your hand at a superstar collection of minigames from throughout the Mario Party series. Whether you are saving up coins for stars in board game mode or enjoy one of the 7 modes included in Mt. Minigames, there is nothing quite like being the last one standing in Bumper Balls or the first team making it out of the darkness in Dungeon Duos. All minigames are played with button controls, so you can stick to the Joy-Con™ controller or bust out the Nintendo Switch™ Pro Controller or a Nintendo Switch Lite system.</p>\n<p>Party with superstars near or far</p>\n<p>Bring the party anytime, anywhere with same-system<strong>, local wireless</strong>, or online* play. Use stickers to praise or pester fellow players as you race across the board collecting stars. All modes support online multiplayer, so you can hop in with friends for a few minigames or a marathon 30-turn match. Victory is just as sweet (and stealing stars is just as satisfying) from anywhere across the globe.</p>",
+    "metacritic": null,
+    "metacritic_platforms": [],
+    "released": "2021-10-29",
+    "tba": false,
+    "updated": "2025-12-04T19:33:01",
+    "background_image": "https://media.rawg.io/media/games/92c/92cb7c505365879a95d08fe11cc6ac8b.jpg",
+    "background_image_additional": "https://media.rawg.io/media/screenshots/9f3/9f3109083f617171933228e605cd9dda.jpg",
+    "website": "",
+    "rating": 3.89,
+    "rating_top": 4,
+    "ratings": [
+      {
+        "id": 4,
+        "title": "recommended",
+        "count": 42,
+        "percent": 66.67
+      },
+      {
+        "id": 5,
+        "title": "exceptional",
+        "count": 10,
+        "percent": 15.87
+      },
+      {
+        "id": 3,
+        "title": "meh",
+        "count": 8,
+        "percent": 12.7
+      },
+      {
+        "id": 1,
+        "title": "skip",
+        "count": 3,
+        "percent": 4.76
+      }
+    ],
+    "reactions": {
+      "3": 1,
+      "8": 2
+    },
+    "added": 189,
+    "added_by_status": {
+      "yet": 8,
+      "owned": 26,
+      "beaten": 51,
+      "toplay": 39,
+      "dropped": 44,
+      "playing": 21
+    },
+    "playtime": 0,
+    "screenshots_count": 5,
+    "movies_count": 0,
+    "creators_count": 0,
+    "achievements_count": 0,
+    "parent_achievements_count": 0,
+    "reddit_url": "",
+    "reddit_name": "",
+    "reddit_description": "",
+    "reddit_logo": "",
+    "reddit_count": 0,
+    "twitch_count": 187,
+    "youtube_count": 0,
+    "reviews_text_count": 3,
+    "ratings_count": 60,
+    "suggestions_count": 168,
+    "alternative_names": [],
+    "metacritic_url": "https://www.metacritic.com/game/switch/mario-party-superstars",
+    "parents_count": 0,
+    "additions_count": 0,
+    "game_series_count": 11,
+    "user_game": null,
+    "reviews_count": 63,
+    "saturated_color": "0f0f0f",
+    "dominant_color": "0f0f0f",
+    "parent_platforms": [
+      {
+        "platform": {
+          "id": 7,
+          "name": "Nintendo",
+          "slug": "nintendo"
+        }
+      }
+    ],
+    "platforms": [
+      {
+        "platform": {
+          "id": 7,
+          "name": "Nintendo Switch",
+          "slug": "nintendo-switch",
+          "image": null,
+          "year_end": null,
+          "year_start": null,
+          "games_count": 5765,
+          "image_background": "https://media.rawg.io/media/games/5a4/5a44112251d70a25291cc33757220fce.jpg"
+        },
+        "released_at": "2021-10-29",
+        "requirements": {}
+      }
+    ],
+    "stores": [
+      {
+        "id": 670054,
+        "url": "",
+        "store": {
+          "id": 6,
+          "name": "Nintendo Store",
+          "slug": "nintendo",
+          "domain": "nintendo.com",
+          "games_count": 9150,
+          "image_background": "https://media.rawg.io/media/games/5eb/5eb49eb2fa0738fdb5bacea557b1bc57.jpg"
+        }
+      }
+    ],
+    "developers": [
+      {
+        "id": 16257,
+        "name": "Nintendo",
+        "slug": "nintendo",
+        "games_count": 429,
+        "image_background": "https://media.rawg.io/media/games/c23/c231ef56cdd277fad5fbcd2f6b7d2951.jpg"
+      }
+    ],
+    "genres": [
+      {
+        "id": 11,
+        "name": "Arcade",
+        "slug": "arcade",
+        "games_count": 22685,
+        "image_background": "https://media.rawg.io/media/games/786/7863e587bac630de82fca50d799236a9.jpg"
+      },
+      {
+        "id": 40,
+        "name": "Casual",
+        "slug": "casual",
+        "games_count": 67642,
+        "image_background": "https://media.rawg.io/media/games/d11/d11470677a829e34562e95a4002c2c7f.jpg"
+      }
+    ],
+    "tags": [],
+    "publishers": [
+      {
+        "id": 10681,
+        "name": "Nintendo",
+        "slug": "nintendo",
+        "games_count": 1241,
+        "image_background": "https://media.rawg.io/media/games/3a0/3a0c8e9ed3a711c542218831b893a0fa.jpg"
+      }
+    ],
+    "esrb_rating": null,
+    "clip": null,
+    "description_raw": "A Superstar collection of classic Nintendo 64™ boards\nCalling all superstars! The Mario Party™ series is back with 5 classic boards from the Nintendo 64 Mario Party games. Race to get the most stars (and sabotage your opponents) on boards like the stellar Space Land or the spooky Horror Land! Party at your own pace by suspending a game and picking up right where you left off! The tides can turn quickly in Mario Party, so stay vigilant, partygoers. All modes can be played online*, too!\n\nPlay 100 classic minigames from the Nintendo 64 and Nintendo GameCube™ games and more in Mt. Minigames!\n\nTry your hand at a superstar collection of minigames from throughout the Mario Party series. Whether you are saving up coins for stars in board game mode or enjoy one of the 7 modes included in Mt. Minigames, there is nothing quite like being the last one standing in Bumper Balls or the first team making it out of the darkness in Dungeon Duos. All minigames are played with button controls, so you can stick to the Joy-Con™ controller or bust out the Nintendo Switch™ Pro Controller or a Nintendo Switch Lite system.\n\nParty with superstars near or far\n\nBring the party anytime, anywhere with same-system**, local wireless**, or online* play. Use stickers to praise or pester fellow players as you race across the board collecting stars. All modes support online multiplayer, so you can hop in with friends for a few minigames or a marathon 30-turn match. Victory is just as sweet (and stealing stars is just as satisfying) from anywhere across the globe."
+  },
+  "screenshots": [
+    {
+      "id": 2897085,
+      "image": "https://media.rawg.io/media/screenshots/4b8/4b854ff1631610e3e18cf72988ddb367.jpg",
+      "width": 1090,
+      "height": 604,
+      "is_deleted": false
+    },
+    {
+      "id": 2897086,
+      "image": "https://media.rawg.io/media/screenshots/8e8/8e853fe5477956b336306fc3fd1cff7d.jpg",
+      "width": 1097,
+      "height": 608,
+      "is_deleted": false
+    },
+    {
+      "id": 2897087,
+      "image": "https://media.rawg.io/media/screenshots/a8c/a8c093ddb57a559670eed4036f6edf69.jpg",
+      "width": 1097,
+      "height": 605,
+      "is_deleted": false
+    },
+    {
+      "id": 3051160,
+      "image": "https://media.rawg.io/media/screenshots/9f3/9f3109083f617171933228e605cd9dda.jpg",
+      "width": 1280,
+      "height": 720,
+      "is_deleted": false
+    },
+    {
+      "id": 3051161,
+      "image": "https://media.rawg.io/media/screenshots/f51/f512aee77e1d43b6c877b8f49baeb222.jpg",
+      "width": 1280,
+      "height": 720,
+      "is_deleted": false
+    }
+  ]
+}

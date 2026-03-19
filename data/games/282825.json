@@ -1,0 +1,256 @@
+{
+  "details": {
+    "id": 282825,
+    "slug": "pokemon-2019",
+    "name": "Pokémon Sword and Shield",
+    "name_original": "Pokémon Sword and Shield",
+    "description": "<p>Pokémon Sword and Pokémon Shield will be set in Galar, an expansive region with many environments—idyllic countryside, contemporary cities, thick forests, and craggy, snow-covered mountains. The people and Pokémon live together in this region, and they’ve worked together to develop the industries here.</p>\n<p>The adventure begins in Pokémon Sword and Pokémon Shield when players choose one of three new Pokémon—Grookey, Scorbunny, or Sobble. Grookey, a Grass-type Chimp Pokémon, is mischievous and full of boundless curiosity. Bursting with energy, Scorbunny, a Fire-type Rabbit Pokémon, is always running about. The stealthy Sobble, a Water-type Water Lizard Pokémon, shoots out attacks as it hides itself in water.</p>\n<p>You’ll visit the various Gyms in the Galar region, aiming for the enviable and admirable title of Champion!</p>",
+    "metacritic": 80,
+    "metacritic_platforms": [
+      {
+        "metascore": 80,
+        "url": "https://www.metacritic.com/game/switch/pokemon-sword",
+        "platform": {
+          "platform": 7,
+          "name": "Nintendo Switch",
+          "slug": "nintendo-switch"
+        }
+      }
+    ],
+    "released": "2019-11-15",
+    "tba": false,
+    "updated": "2026-03-01T10:52:07",
+    "background_image": "https://media.rawg.io/media/games/82f/82f7b1424c5ee7eebee83faf694889c5.jpg",
+    "background_image_additional": "https://media.rawg.io/media/screenshots/1eb/1ebdaa2c34191583d762397fd537cbc7.jpg",
+    "website": "https://swordshield.pokemon.com/",
+    "rating": 3.71,
+    "rating_top": 4,
+    "ratings": [
+      {
+        "id": 4,
+        "title": "recommended",
+        "count": 269,
+        "percent": 53.69
+      },
+      {
+        "id": 3,
+        "title": "meh",
+        "count": 128,
+        "percent": 25.55
+      },
+      {
+        "id": 5,
+        "title": "exceptional",
+        "count": 74,
+        "percent": 14.77
+      },
+      {
+        "id": 1,
+        "title": "skip",
+        "count": 30,
+        "percent": 5.99
+      }
+    ],
+    "reactions": {
+      "3": 3,
+      "7": 2,
+      "8": 2,
+      "9": 1,
+      "12": 1,
+      "13": 1,
+      "14": 2,
+      "15": 2,
+      "16": 2,
+      "19": 1
+    },
+    "added": 1219,
+    "added_by_status": {
+      "yet": 66,
+      "owned": 156,
+      "beaten": 580,
+      "toplay": 201,
+      "dropped": 103,
+      "playing": 113
+    },
+    "playtime": 0,
+    "screenshots_count": 42,
+    "movies_count": 0,
+    "creators_count": 11,
+    "achievements_count": 0,
+    "parent_achievements_count": 0,
+    "reddit_url": "https://www.reddit.com/r/PokemonSwordShield/",
+    "reddit_name": "",
+    "reddit_description": "",
+    "reddit_logo": "",
+    "reddit_count": 4327,
+    "twitch_count": 0,
+    "youtube_count": 1000000,
+    "reviews_text_count": 12,
+    "ratings_count": 489,
+    "suggestions_count": 437,
+    "alternative_names": [
+      "Pokemon Shield",
+      "Pokemon Sword",
+      "Pokémon Shield",
+      "Pokémon Sword"
+    ],
+    "metacritic_url": "https://www.metacritic.com/game/switch/pokemon-sword",
+    "parents_count": 0,
+    "additions_count": 3,
+    "game_series_count": 12,
+    "user_game": null,
+    "reviews_count": 501,
+    "saturated_color": "0f0f0f",
+    "dominant_color": "0f0f0f",
+    "parent_platforms": [
+      {
+        "platform": {
+          "id": 7,
+          "name": "Nintendo",
+          "slug": "nintendo"
+        }
+      }
+    ],
+    "platforms": [
+      {
+        "platform": {
+          "id": 7,
+          "name": "Nintendo Switch",
+          "slug": "nintendo-switch",
+          "image": null,
+          "year_end": null,
+          "year_start": null,
+          "games_count": 5765,
+          "image_background": "https://media.rawg.io/media/games/5a4/5a44112251d70a25291cc33757220fce.jpg"
+        },
+        "released_at": "2019-11-15",
+        "requirements": {}
+      }
+    ],
+    "stores": [
+      {
+        "id": 324803,
+        "url": "",
+        "store": {
+          "id": 6,
+          "name": "Nintendo Store",
+          "slug": "nintendo",
+          "domain": "nintendo.com",
+          "games_count": 9150,
+          "image_background": "https://media.rawg.io/media/games/5eb/5eb49eb2fa0738fdb5bacea557b1bc57.jpg"
+        }
+      }
+    ],
+    "developers": [
+      {
+        "id": 8230,
+        "name": "Game Freak",
+        "slug": "game-freak",
+        "games_count": 61,
+        "image_background": "https://media.rawg.io/media/games/82f/82f7b1424c5ee7eebee83faf694889c5.jpg"
+      }
+    ],
+    "genres": [
+      {
+        "id": 3,
+        "name": "Adventure",
+        "slug": "adventure",
+        "games_count": 151684,
+        "image_background": "https://media.rawg.io/media/games/c50/c5085506fe4b5e20fc7aa5ace842c20b.jpg"
+      },
+      {
+        "id": 5,
+        "name": "RPG",
+        "slug": "role-playing-games-rpg",
+        "games_count": 61936,
+        "image_background": "https://media.rawg.io/media/games/d1a/d1a2e99ade53494c6330a0ed945fe823.jpg"
+      }
+    ],
+    "tags": [
+      {
+        "id": 468,
+        "name": "role-playing",
+        "slug": "role-playing",
+        "language": "eng",
+        "games_count": 1657,
+        "image_background": "https://media.rawg.io/media/games/8ca/8ca40b562a755d6a0e30d48e6c74b178.jpg"
+      },
+      {
+        "id": 37796,
+        "name": "exclusive",
+        "slug": "exclusive",
+        "language": "eng",
+        "games_count": 4491,
+        "image_background": "https://media.rawg.io/media/games/b7d/b7d3f1715fa8381a4e780173a197a615.jpg"
+      },
+      {
+        "id": 37797,
+        "name": "true exclusive",
+        "slug": "true-exclusive",
+        "language": "eng",
+        "games_count": 3981,
+        "image_background": "https://media.rawg.io/media/games/d30/d30ef0c7dd4878161b1f781e297ae6a0.jpg"
+      }
+    ],
+    "publishers": [
+      {
+        "id": 10681,
+        "name": "Nintendo",
+        "slug": "nintendo",
+        "games_count": 1241,
+        "image_background": "https://media.rawg.io/media/games/3a0/3a0c8e9ed3a711c542218831b893a0fa.jpg"
+      }
+    ],
+    "esrb_rating": {
+      "id": 1,
+      "name": "Everyone",
+      "slug": "everyone"
+    },
+    "clip": null,
+    "description_raw": "Pokémon Sword and Pokémon Shield will be set in Galar, an expansive region with many environments—idyllic countryside, contemporary cities, thick forests, and craggy, snow-covered mountains. The people and Pokémon live together in this region, and they’ve worked together to develop the industries here.\n\nThe adventure begins in Pokémon Sword and Pokémon Shield when players choose one of three new Pokémon—Grookey, Scorbunny, or Sobble. Grookey, a Grass-type Chimp Pokémon, is mischievous and full of boundless curiosity. Bursting with energy, Scorbunny, a Fire-type Rabbit Pokémon, is always running about. The stealthy Sobble, a Water-type Water Lizard Pokémon, shoots out attacks as it hides itself in water.\n\nYou’ll visit the various Gyms in the Galar region, aiming for the enviable and admirable title of Champion!"
+  },
+  "screenshots": [
+    {
+      "id": 1852990,
+      "image": "https://media.rawg.io/media/screenshots/a4c/a4c6d591c61e6cc9fc67581fceab23ad.jpg",
+      "width": 1392,
+      "height": 780,
+      "is_deleted": false
+    },
+    {
+      "id": 1852991,
+      "image": "https://media.rawg.io/media/screenshots/2cd/2cdf0d6a8790d91d72eed926e384f1c4.jpg",
+      "width": 1393,
+      "height": 782,
+      "is_deleted": false
+    },
+    {
+      "id": 1852992,
+      "image": "https://media.rawg.io/media/screenshots/559/55927d65a4031ecae28e9ac71cf5c5e9.jpg",
+      "width": 1392,
+      "height": 784,
+      "is_deleted": false
+    },
+    {
+      "id": 1852993,
+      "image": "https://media.rawg.io/media/screenshots/e4a/e4a2de9c02ddded2c830fd5444faf325.jpg",
+      "width": 1392,
+      "height": 781,
+      "is_deleted": false
+    },
+    {
+      "id": 1852994,
+      "image": "https://media.rawg.io/media/screenshots/192/192a7443982f5955ad00825df34f7e55.jpg",
+      "width": 1392,
+      "height": 780,
+      "is_deleted": false
+    },
+    {
+      "id": 1852995,
+      "image": "https://media.rawg.io/media/screenshots/909/90931d3bee95e95873b2709c684a3db3.jpg",
+      "width": 1391,
+      "height": 781,
+      "is_deleted": false
+    }
+  ]
+}

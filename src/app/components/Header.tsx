@@ -1,5 +1,6 @@
 "use client";
 
+import { useState, useRef, useEffect } from "react";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faSearch, faFilter, faBars, faTimes, faFileExport } from "@fortawesome/free-solid-svg-icons";
 import { Button } from "@/components/ui/button";
@@ -40,6 +41,15 @@ export default function Header({
   onClearConsoles,
   onExportCsv,
 }: HeaderProps) {
+  const [mobileSearchOpen, setMobileSearchOpen] = useState(false);
+  const mobileInputRef = useRef<HTMLInputElement>(null);
+
+  useEffect(() => {
+    if (mobileSearchOpen && mobileInputRef.current) {
+      mobileInputRef.current.focus();
+    }
+  }, [mobileSearchOpen]);
+
   return (
     <header className="sticky top-0 z-30 bg-[#171a21] border-b border-border">
       <div className="flex h-[57px] items-center">
@@ -74,14 +84,15 @@ export default function Header({
         </div>
 
         {/* Right section — matches main content area padding */}
-        <div className="flex items-center gap-3 flex-1 px-4 sm:px-6">
-          <div className="flex-1 max-w-[623px] relative">
+        <div className="flex items-center gap-2 sm:gap-3 flex-1 px-2 sm:px-6">
+          {/* Desktop search — always visible on sm+ */}
+          <div className="hidden sm:flex flex-1 max-w-[623px] relative">
             <Input
               type="text"
               placeholder="Search your collection..."
               value={searchQuery}
               onChange={(e) => onSearchChange(e.target.value)}
-              className="h-[41px] bg-[#316282]/30 border-border text-foreground placeholder:text-muted-foreground focus-visible:border-primary focus-visible:ring-primary/50"
+              className="h-[41px] w-full bg-[#316282]/30 border-border text-foreground placeholder:text-muted-foreground focus-visible:border-primary focus-visible:ring-primary/50"
             />
             <FontAwesomeIcon
               icon={faSearch}
@@ -90,13 +101,34 @@ export default function Header({
             />
           </div>
 
+          {/* Mobile: just a search icon */}
+          <div className="sm:hidden flex-1" />
+          <Button
+            variant="ghost"
+            size="icon"
+            className={`sm:hidden text-muted-foreground hover:text-foreground ${
+              mobileSearchOpen || searchQuery ? "text-primary" : ""
+            }`}
+            onClick={() => {
+              setMobileSearchOpen(!mobileSearchOpen);
+              if (mobileSearchOpen && searchQuery) {
+                onSearchChange("");
+              }
+            }}
+          >
+            <FontAwesomeIcon
+              icon={mobileSearchOpen ? faTimes : faSearch}
+              style={{ width: "16px", height: "16px" }}
+            />
+          </Button>
+
           {/* Filter button with popover */}
           <Popover>
             <PopoverTrigger asChild>
               <Button
                 variant="ghost"
                 size="icon"
-                className={`hidden sm:flex text-muted-foreground hover:text-foreground relative ${
+                className={`flex text-muted-foreground hover:text-foreground relative ${
                   selectedConsoles.length > 0 ? "text-primary" : ""
                 }`}
               >
@@ -163,7 +195,7 @@ export default function Header({
           <Button
             variant="ghost"
             size="icon"
-            className="hidden sm:flex text-muted-foreground hover:text-foreground"
+            className="flex text-muted-foreground hover:text-foreground"
             onClick={onExportCsv}
             title="Export as CSV"
           >
@@ -171,6 +203,27 @@ export default function Header({
           </Button>
         </div>
       </div>
+
+      {/* Mobile search row — expands below header bar */}
+      {mobileSearchOpen && (
+        <div className="sm:hidden px-3 pb-2">
+          <div className="relative">
+            <Input
+              ref={mobileInputRef}
+              type="text"
+              placeholder="Search your collection..."
+              value={searchQuery}
+              onChange={(e) => onSearchChange(e.target.value)}
+              className="h-9 text-sm bg-[#316282]/30 border-border text-foreground placeholder:text-muted-foreground focus-visible:border-primary focus-visible:ring-primary/50 pr-9"
+            />
+            <FontAwesomeIcon
+              icon={faSearch}
+              style={{ width: "14px", height: "14px" }}
+              className="absolute right-3 top-1/2 -translate-y-1/2 text-muted-foreground pointer-events-none"
+            />
+          </div>
+        </div>
+      )}
 
       {/* Active filter chips bar */}
       {selectedConsoles.length > 0 && (

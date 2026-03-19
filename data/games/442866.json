@@ -1,0 +1,217 @@
+{
+  "details": {
+    "id": 442866,
+    "slug": "paper-mario-the-origami-king",
+    "name": "Paper Mario: The Origami King",
+    "name_original": "Paper Mario: The Origami King",
+    "description": "<p>A new paper-crafted Mario adventure unfolds on Nintendo Switch</p>\n<p>The kingdom has been ravaged by an origami menace! Join Mario and his new partner, Olivia, as they team up with unlikely allies like Bowser and the Toads to battle evil Folded Soldiers.</p>\n<p>Try to free Princess Peach’s castle from the clutches of King Olly in this comedy-filled adventure, only on the Nintendo Switch system.</p>\n<p>New abilities… and new battles!</p>\n<p>Use the 1,000-Fold Arms ability to extend your arms to interact with the environment and solve puzzles. In battle, line up scattered enemies and plan your attack to maximize damage with the new, ring-based battle system that requires both puzzle-solving skills and a quick wit.</p>",
+    "metacritic": 80,
+    "metacritic_platforms": [
+      {
+        "metascore": 80,
+        "url": "https://www.metacritic.com/game/switch/paper-mario-the-origami-king",
+        "platform": {
+          "platform": 7,
+          "name": "Nintendo Switch",
+          "slug": "nintendo-switch"
+        }
+      }
+    ],
+    "released": "2020-07-17",
+    "tba": false,
+    "updated": "2025-12-04T19:16:29",
+    "background_image": "https://media.rawg.io/media/games/075/07556ef3826d83fdb19c8e1836d25c1a.jpg",
+    "background_image_additional": "https://media.rawg.io/media/screenshots/b9a/b9a01fdbbd6986cdcd69040226c61dfa.jpg",
+    "website": "https://gamefaqs.gamespot.com/switch/290355-paper-mario-the-origami-king",
+    "rating": 3.98,
+    "rating_top": 4,
+    "ratings": [
+      {
+        "id": 4,
+        "title": "recommended",
+        "count": 58,
+        "percent": 51.79
+      },
+      {
+        "id": 5,
+        "title": "exceptional",
+        "count": 30,
+        "percent": 26.79
+      },
+      {
+        "id": 3,
+        "title": "meh",
+        "count": 20,
+        "percent": 17.86
+      },
+      {
+        "id": 1,
+        "title": "skip",
+        "count": 4,
+        "percent": 3.57
+      }
+    ],
+    "reactions": {
+      "7": 1
+    },
+    "added": 391,
+    "added_by_status": {
+      "yet": 55,
+      "owned": 31,
+      "beaten": 103,
+      "toplay": 144,
+      "dropped": 34,
+      "playing": 24
+    },
+    "playtime": 0,
+    "screenshots_count": 5,
+    "movies_count": 0,
+    "creators_count": 0,
+    "achievements_count": 0,
+    "parent_achievements_count": 0,
+    "reddit_url": "https://www.reddit.com/r/papermario",
+    "reddit_name": "",
+    "reddit_description": "",
+    "reddit_logo": "",
+    "reddit_count": 4355,
+    "twitch_count": 136,
+    "youtube_count": 0,
+    "reviews_text_count": 3,
+    "ratings_count": 109,
+    "suggestions_count": 196,
+    "alternative_names": [],
+    "metacritic_url": "https://www.metacritic.com/game/switch/paper-mario-the-origami-king",
+    "parents_count": 0,
+    "additions_count": 0,
+    "game_series_count": 5,
+    "user_game": null,
+    "reviews_count": 112,
+    "saturated_color": "0f0f0f",
+    "dominant_color": "0f0f0f",
+    "parent_platforms": [
+      {
+        "platform": {
+          "id": 7,
+          "name": "Nintendo",
+          "slug": "nintendo"
+        }
+      }
+    ],
+    "platforms": [
+      {
+        "platform": {
+          "id": 7,
+          "name": "Nintendo Switch",
+          "slug": "nintendo-switch",
+          "image": null,
+          "year_end": null,
+          "year_start": null,
+          "games_count": 5765,
+          "image_background": "https://media.rawg.io/media/games/5a4/5a44112251d70a25291cc33757220fce.jpg"
+        },
+        "released_at": "2020-07-17",
+        "requirements": {}
+      }
+    ],
+    "stores": [
+      {
+        "id": 434040,
+        "url": "",
+        "store": {
+          "id": 6,
+          "name": "Nintendo Store",
+          "slug": "nintendo",
+          "domain": "nintendo.com",
+          "games_count": 9150,
+          "image_background": "https://media.rawg.io/media/games/5eb/5eb49eb2fa0738fdb5bacea557b1bc57.jpg"
+        }
+      }
+    ],
+    "developers": [
+      {
+        "id": 12898,
+        "name": "Intelligent Systems",
+        "slug": "intelligent-systems",
+        "games_count": 68,
+        "image_background": null
+      }
+    ],
+    "genres": [
+      {
+        "id": 4,
+        "name": "Action",
+        "slug": "action",
+        "games_count": 191508,
+        "image_background": "https://media.rawg.io/media/games/737/737ea5662211d2e0bbd6f5989189e4f1.jpg"
+      },
+      {
+        "id": 3,
+        "name": "Adventure",
+        "slug": "adventure",
+        "games_count": 151684,
+        "image_background": "https://media.rawg.io/media/games/c50/c5085506fe4b5e20fc7aa5ace842c20b.jpg"
+      },
+      {
+        "id": 5,
+        "name": "RPG",
+        "slug": "role-playing-games-rpg",
+        "games_count": 61936,
+        "image_background": "https://media.rawg.io/media/games/d1a/d1a2e99ade53494c6330a0ed945fe823.jpg"
+      }
+    ],
+    "tags": [],
+    "publishers": [
+      {
+        "id": 10681,
+        "name": "Nintendo",
+        "slug": "nintendo",
+        "games_count": 1241,
+        "image_background": "https://media.rawg.io/media/games/3a0/3a0c8e9ed3a711c542218831b893a0fa.jpg"
+      }
+    ],
+    "esrb_rating": {
+      "id": 1,
+      "name": "Everyone",
+      "slug": "everyone"
+    },
+    "clip": null,
+    "description_raw": "A new paper-crafted Mario adventure unfolds on Nintendo Switch\n\nThe kingdom has been ravaged by an origami menace! Join Mario and his new partner, Olivia, as they team up with unlikely allies like Bowser and the Toads to battle evil Folded Soldiers.\n\nTry to free Princess Peach’s castle from the clutches of King Olly in this comedy-filled adventure, only on the Nintendo Switch system.\n\nNew abilities… and new battles!\n\nUse the 1,000-Fold Arms ability to extend your arms to interact with the environment and solve puzzles. In battle, line up scattered enemies and plan your attack to maximize damage with the new, ring-based battle system that requires both puzzle-solving skills and a quick wit."
+  },
+  "screenshots": [
+    {
+      "id": 2382455,
+      "image": "https://media.rawg.io/media/screenshots/cdf/cdf117515f269597573dace353a784ba.jpg",
+      "width": 1920,
+      "height": 1080,
+      "is_deleted": false
+    },
+    {
+      "id": 2382456,
+      "image": "https://media.rawg.io/media/screenshots/2c1/2c1f8cf5f72cb79fed190606ef3730af.jpg",
+      "width": 1920,
+      "height": 1080,
+      "is_deleted": false
+    },
+    {
+      "id": 2382457,
+      "image": "https://media.rawg.io/media/screenshots/d18/d18e145ca5c76fe56b168c77c9291aff.jpg",
+      "width": 1920,
+      "height": 1080,
+      "is_deleted": false
+    },
+    {
+      "id": 2382458,
+      "image": "https://media.rawg.io/media/screenshots/b9a/b9a01fdbbd6986cdcd69040226c61dfa.jpg",
+      "width": 1920,
+      "height": 1080,
+      "is_deleted": false
+    },
+    {
+      "id": 2382459,
+      "image": "https://media.rawg.io/media/screenshots/d8d/d8d5864bfe7c965e602ea7f8fa6cef80.jpg",
+      "width": 1920,
+      "height": 1080,
+      "is_deleted": false
+    }
+  ]
+}

@@ -1,0 +1,249 @@
+{
+  "details": {
+    "id": 967102,
+    "slug": "unicorn-overlord",
+    "name": "Unicorn Overlord",
+    "name_original": "Unicorn Overlord",
+    "description": "<p>Unicorn Overlord is a RPG-strategy game developed by VanillaWare. It was originally released in 2024. SEGA published the game. Most rawgers rated the game as \"Exceptional\". <br>You can play Unicorn Overlord on Xbox Series S/X, PlayStation 5, PlayStation 4 and Nintendo Switch. <br>Akiyasu Yamamoto produced the game. It was directed by Takafumi Noma. <br></p>",
+    "metacritic": null,
+    "metacritic_platforms": [],
+    "released": "2024-03-08",
+    "tba": false,
+    "updated": "2026-02-07T00:46:56",
+    "background_image": "https://media.rawg.io/media/screenshots/e4d/e4d2d9720f0962ca4f6a6dd02cef331e.jpeg",
+    "background_image_additional": "https://media.rawg.io/media/screenshots/ab7/ab78057ee79d353be282b8e3b10ad741.jpeg",
+    "website": "",
+    "rating": 4.48,
+    "rating_top": 5,
+    "ratings": [
+      {
+        "id": 5,
+        "title": "exceptional",
+        "count": 15,
+        "percent": 60
+      },
+      {
+        "id": 4,
+        "title": "recommended",
+        "count": 7,
+        "percent": 28
+      },
+      {
+        "id": 3,
+        "title": "meh",
+        "count": 3,
+        "percent": 12
+      }
+    ],
+    "reactions": {
+      "1": 2,
+      "2": 1,
+      "3": 2
+    },
+    "added": 110,
+    "added_by_status": {
+      "yet": 10,
+      "owned": 21,
+      "beaten": 18,
+      "toplay": 48,
+      "dropped": 6,
+      "playing": 7
+    },
+    "playtime": 0,
+    "screenshots_count": 11,
+    "movies_count": 0,
+    "creators_count": 3,
+    "achievements_count": 0,
+    "parent_achievements_count": 0,
+    "reddit_url": "",
+    "reddit_name": "",
+    "reddit_description": "",
+    "reddit_logo": "",
+    "reddit_count": 0,
+    "twitch_count": 0,
+    "youtube_count": 0,
+    "reviews_text_count": 3,
+    "ratings_count": 22,
+    "suggestions_count": 228,
+    "alternative_names": [],
+    "metacritic_url": "",
+    "parents_count": 0,
+    "additions_count": 0,
+    "game_series_count": 0,
+    "user_game": null,
+    "reviews_count": 25,
+    "saturated_color": "0f0f0f",
+    "dominant_color": "0f0f0f",
+    "parent_platforms": [
+      {
+        "platform": {
+          "id": 2,
+          "name": "PlayStation",
+          "slug": "playstation"
+        }
+      },
+      {
+        "platform": {
+          "id": 3,
+          "name": "Xbox",
+          "slug": "xbox"
+        }
+      },
+      {
+        "platform": {
+          "id": 7,
+          "name": "Nintendo",
+          "slug": "nintendo"
+        }
+      }
+    ],
+    "platforms": [
+      {
+        "platform": {
+          "id": 186,
+          "name": "Xbox Series S/X",
+          "slug": "xbox-series-x",
+          "image": null,
+          "year_end": null,
+          "year_start": 2020,
+          "games_count": 1240,
+          "image_background": "https://media.rawg.io/media/games/618/618c2031a07bbff6b4f611f10b6bcdbc.jpg"
+        },
+        "released_at": "2024-03-08",
+        "requirements": {}
+      },
+      {
+        "platform": {
+          "id": 187,
+          "name": "PlayStation 5",
+          "slug": "playstation5",
+          "image": null,
+          "year_end": null,
+          "year_start": 2020,
+          "games_count": 1451,
+          "image_background": "https://media.rawg.io/media/games/909/909974d1c7863c2027241e265fe7011f.jpg"
+        },
+        "released_at": "2024-03-08",
+        "requirements": {}
+      },
+      {
+        "platform": {
+          "id": 18,
+          "name": "PlayStation 4",
+          "slug": "playstation4",
+          "image": null,
+          "year_end": null,
+          "year_start": null,
+          "games_count": 6984,
+          "image_background": "https://media.rawg.io/media/games/f46/f466571d536f2e3ea9e815ad17177501.jpg"
+        },
+        "released_at": "2024-03-08",
+        "requirements": {}
+      },
+      {
+        "platform": {
+          "id": 7,
+          "name": "Nintendo Switch",
+          "slug": "nintendo-switch",
+          "image": null,
+          "year_end": null,
+          "year_start": null,
+          "games_count": 5765,
+          "image_background": "https://media.rawg.io/media/games/5a4/5a44112251d70a25291cc33757220fce.jpg"
+        },
+        "released_at": "2024-03-08",
+        "requirements": {}
+      }
+    ],
+    "stores": [],
+    "developers": [
+      {
+        "id": 19232,
+        "name": "VanillaWare",
+        "slug": "vanillaware",
+        "games_count": 7,
+        "image_background": "https://media.rawg.io/media/games/11f/11f3a8f5b0c044c1d3e0960a9ae30113.jpg"
+      }
+    ],
+    "genres": [
+      {
+        "id": 5,
+        "name": "RPG",
+        "slug": "role-playing-games-rpg",
+        "games_count": 61936,
+        "image_background": "https://media.rawg.io/media/games/d1a/d1a2e99ade53494c6330a0ed945fe823.jpg"
+      },
+      {
+        "id": 10,
+        "name": "Strategy",
+        "slug": "strategy",
+        "games_count": 62382,
+        "image_background": "https://media.rawg.io/media/games/0fa/0fadc446fd1e9ae9e23a32793d9a5406.jpg"
+      }
+    ],
+    "tags": [],
+    "publishers": [
+      {
+        "id": 3408,
+        "name": "SEGA",
+        "slug": "sega-2",
+        "games_count": 1274,
+        "image_background": "https://media.rawg.io/media/games/88a/88af17cc08783ccdd1608ae63c47eeac.jpg"
+      },
+      {
+        "id": 9065,
+        "name": "Atlus",
+        "slug": "atlus",
+        "games_count": 247,
+        "image_background": "https://media.rawg.io/media/games/22e/22e75ceb294e7822f028a3ec2e92eb3e.jpg"
+      }
+    ],
+    "esrb_rating": null,
+    "clip": null,
+    "description_raw": ""
+  },
+  "screenshots": [
+    {
+      "id": 3931982,
+      "image": "https://media.rawg.io/media/screenshots/8a8/8a886e7c0291de9c8ed8c63224013342.jpeg",
+      "width": 739,
+      "height": 415,
+      "is_deleted": false
+    },
+    {
+      "id": 3931983,
+      "image": "https://media.rawg.io/media/screenshots/a05/a053a8022c0e4f70f6c9ac93bcd16d5b.jpeg",
+      "width": 1920,
+      "height": 1080,
+      "is_deleted": false
+    },
+    {
+      "id": 3931984,
+      "image": "https://media.rawg.io/media/screenshots/58a/58af778cfacb2e7b933027f16bee8e63.jpeg",
+      "width": 739,
+      "height": 415,
+      "is_deleted": false
+    },
+    {
+      "id": 3931985,
+      "image": "https://media.rawg.io/media/screenshots/741/74133e03d3d4f9f26e406a0360363a1c.jpeg",
+      "width": 738,
+      "height": 415,
+      "is_deleted": false
+    },
+    {
+      "id": 3931986,
+      "image": "https://media.rawg.io/media/screenshots/c70/c706916cf1e6a106d26cc8a74ce39b54.jpeg",
+      "width": 739,
+      "height": 415,
+      "is_deleted": false
+    },
+    {
+      "id": 3931987,
+      "image": "https://media.rawg.io/media/screenshots/c27/c2764e10b3757383fc1503bd88f41c83.jpeg",
+      "width": 739,
+      "height": 415,
+      "is_deleted": false
+    }
+  ]
+}

@@ -1,0 +1,556 @@
+{
+  "details": {
+    "id": 4101,
+    "slug": "bayonetta",
+    "name": "Bayonetta",
+    "name_original": "Bayonetta",
+    "description": "<p>Bayonetta is a slasher game developed by Platinum Games.</p>\n<p>The game is set in a fictional European city of Vigrid. The main character is a witch named Bayonetta who fights angels with pistols and magic wishing only one thing: to recall everything happened to her.</p>\n<p>Bayonetta is a third-person game. The player controls Bayonetta and uses close to medium range attacks, complicated combos and a wide variety of weaponry. Special Torture Attacks are present in the game when Bayonetta uses a torture weapon such as guillotine to execute an enemy. The Witch Time ability allows the player to slow down time after an enemy attack is successfully dodged.</p>\n<p>As the plot advances, the player transforms Bayonetta to a panther or other animals in order to enhance her abilities. The game consists of several chapters with each having multiple parts. A scoring system is present in the game as a medal is awarded at the end of each mission. Special medals can be found scattered across the secret areas of the levels.</p>",
+    "metacritic": 90,
+    "metacritic_platforms": [],
+    "released": "2009-06-23",
+    "tba": false,
+    "updated": "2026-03-18T23:24:42",
+    "background_image": "https://media.rawg.io/media/games/bee/bee483efadcf9d7e657e52184316a34e.jpg",
+    "background_image_additional": "https://media.rawg.io/media/screenshots/55f/55f786610722d2b2d8ba33d7ac909ba0.jpg",
+    "website": "http://www.bayonetta.com/",
+    "rating": 4.3,
+    "rating_top": 5,
+    "ratings": [
+      {
+        "id": 5,
+        "title": "exceptional",
+        "count": 556,
+        "percent": 47.48
+      },
+      {
+        "id": 4,
+        "title": "recommended",
+        "count": 489,
+        "percent": 41.76
+      },
+      {
+        "id": 3,
+        "title": "meh",
+        "count": 88,
+        "percent": 7.51
+      },
+      {
+        "id": 1,
+        "title": "skip",
+        "count": 38,
+        "percent": 3.25
+      }
+    ],
+    "reactions": {
+      "1": 4,
+      "2": 2,
+      "3": 3,
+      "4": 2,
+      "6": 3,
+      "7": 1,
+      "9": 2,
+      "10": 4,
+      "11": 3,
+      "12": 4
+    },
+    "added": 6174,
+    "added_by_status": {
+      "yet": 448,
+      "owned": 3910,
+      "beaten": 1024,
+      "toplay": 395,
+      "dropped": 289,
+      "playing": 108
+    },
+    "playtime": 5,
+    "screenshots_count": 38,
+    "movies_count": 3,
+    "creators_count": 18,
+    "achievements_count": 316,
+    "parent_achievements_count": 36,
+    "reddit_url": "https://www.reddit.com/r/Bayonetta/",
+    "reddit_name": "",
+    "reddit_description": "",
+    "reddit_logo": "",
+    "reddit_count": 157,
+    "twitch_count": 101,
+    "youtube_count": 1000000,
+    "reviews_text_count": 11,
+    "ratings_count": 1160,
+    "suggestions_count": 709,
+    "alternative_names": [],
+    "metacritic_url": "",
+    "parents_count": 0,
+    "additions_count": 1,
+    "game_series_count": 5,
+    "user_game": null,
+    "reviews_count": 1171,
+    "saturated_color": "0f0f0f",
+    "dominant_color": "0f0f0f",
+    "parent_platforms": [
+      {
+        "platform": {
+          "id": 1,
+          "name": "PC",
+          "slug": "pc"
+        }
+      },
+      {
+        "platform": {
+          "id": 2,
+          "name": "PlayStation",
+          "slug": "playstation"
+        }
+      },
+      {
+        "platform": {
+          "id": 3,
+          "name": "Xbox",
+          "slug": "xbox"
+        }
+      },
+      {
+        "platform": {
+          "id": 7,
+          "name": "Nintendo",
+          "slug": "nintendo"
+        }
+      }
+    ],
+    "platforms": [
+      {
+        "platform": {
+          "id": 18,
+          "name": "PlayStation 4",
+          "slug": "playstation4",
+          "image": null,
+          "year_end": null,
+          "year_start": null,
+          "games_count": 6984,
+          "image_background": "https://media.rawg.io/media/games/f46/f466571d536f2e3ea9e815ad17177501.jpg"
+        },
+        "released_at": "2009-06-23",
+        "requirements": {}
+      },
+      {
+        "platform": {
+          "id": 16,
+          "name": "PlayStation 3",
+          "slug": "playstation3",
+          "image": null,
+          "year_end": null,
+          "year_start": null,
+          "games_count": 3164,
+          "image_background": "https://media.rawg.io/media/games/bc0/bc06a29ceac58652b684deefe7d56099.jpg"
+        },
+        "released_at": "2009-06-23",
+        "requirements": {}
+      },
+      {
+        "platform": {
+          "id": 14,
+          "name": "Xbox 360",
+          "slug": "xbox360",
+          "image": null,
+          "year_end": null,
+          "year_start": null,
+          "games_count": 2809,
+          "image_background": "https://media.rawg.io/media/games/562/562553814dd54e001a541e4ee83a591c.jpg"
+        },
+        "released_at": "2009-06-23",
+        "requirements": {}
+      },
+      {
+        "platform": {
+          "id": 10,
+          "name": "Wii U",
+          "slug": "wii-u",
+          "image": null,
+          "year_end": null,
+          "year_start": null,
+          "games_count": 1114,
+          "image_background": "https://media.rawg.io/media/games/cc1/cc196a5ad763955d6532cdba236f730c.jpg"
+        },
+        "released_at": "2009-06-23",
+        "requirements": {}
+      },
+      {
+        "platform": {
+          "id": 4,
+          "name": "PC",
+          "slug": "pc",
+          "image": null,
+          "year_end": null,
+          "year_start": null,
+          "games_count": 560528,
+          "image_background": "https://media.rawg.io/media/games/4be/4be6a6ad0364751a96229c56bf69be59.jpg"
+        },
+        "released_at": "2009-06-23",
+        "requirements": {
+          "minimum": "Minimum:\nOS: Microsoft Windows 7 / 8 (8.1)/ 10\nProcessor: Core i3 3220\nMemory: 4 GB RAM\nGraphics: Radeon HD6950 / GeForce  GTX 570 (VRAM 768MB)\nDirectX: Version 9.0c\nStorage: 20 GB available space",
+          "recommended": "Recommended:\nOS: Windows 7 / 8 (8.1)/ 10\nProcessor: Core i5 4460\nMemory: 8 GB RAM\nGraphics: Radeon HD7870 / Geforce GTX 760 or more (VRAM 2GB or more)\nDirectX: Version 9.0c\nStorage: 20 GB available space"
+        }
+      },
+      {
+        "platform": {
+          "id": 1,
+          "name": "Xbox One",
+          "slug": "xbox-one",
+          "image": null,
+          "year_end": null,
+          "year_start": null,
+          "games_count": 5736,
+          "image_background": "https://media.rawg.io/media/games/20a/20aa03a10cda45239fe22d035c0ebe64.jpg"
+        },
+        "released_at": "2009-06-23",
+        "requirements": {}
+      },
+      {
+        "platform": {
+          "id": 7,
+          "name": "Nintendo Switch",
+          "slug": "nintendo-switch",
+          "image": null,
+          "year_end": null,
+          "year_start": null,
+          "games_count": 5765,
+          "image_background": "https://media.rawg.io/media/games/5a4/5a44112251d70a25291cc33757220fce.jpg"
+        },
+        "released_at": "2009-06-23",
+        "requirements": {}
+      }
+    ],
+    "stores": [
+      {
+        "id": 403386,
+        "url": "",
+        "store": {
+          "id": 2,
+          "name": "Xbox Store",
+          "slug": "xbox-store",
+          "domain": "microsoft.com",
+          "games_count": 4938,
+          "image_background": "https://media.rawg.io/media/games/2ba/2bac0e87cf45e5b508f227d281c9252a.jpg"
+        }
+      },
+      {
+        "id": 4422,
+        "url": "",
+        "store": {
+          "id": 3,
+          "name": "PlayStation Store",
+          "slug": "playstation-store",
+          "domain": "store.playstation.com",
+          "games_count": 8075,
+          "image_background": "https://media.rawg.io/media/games/f87/f87457e8347484033cb34cde6101d08d.jpg"
+        }
+      },
+      {
+        "id": 24945,
+        "url": "",
+        "store": {
+          "id": 1,
+          "name": "Steam",
+          "slug": "steam",
+          "domain": "store.steampowered.com",
+          "games_count": 123255,
+          "image_background": "https://media.rawg.io/media/games/587/587588c64afbff80e6f444eb2e46f9da.jpg"
+        }
+      },
+      {
+        "id": 32204,
+        "url": "",
+        "store": {
+          "id": 6,
+          "name": "Nintendo Store",
+          "slug": "nintendo",
+          "domain": "nintendo.com",
+          "games_count": 9150,
+          "image_background": "https://media.rawg.io/media/games/5eb/5eb49eb2fa0738fdb5bacea557b1bc57.jpg"
+        }
+      },
+      {
+        "id": 33762,
+        "url": "",
+        "store": {
+          "id": 7,
+          "name": "Xbox 360 Store",
+          "slug": "xbox360",
+          "domain": "marketplace.xbox.com",
+          "games_count": 1915,
+          "image_background": "https://media.rawg.io/media/games/bc0/bc06a29ceac58652b684deefe7d56099.jpg"
+        }
+      }
+    ],
+    "developers": [
+      {
+        "id": 10251,
+        "name": "Platinum Games",
+        "slug": "platinumgames",
+        "games_count": 40,
+        "image_background": "https://media.rawg.io/media/screenshots/c73/c735f779c571476e176d770f3ed9a7ca.jpg"
+      }
+    ],
+    "genres": [
+      {
+        "id": 4,
+        "name": "Action",
+        "slug": "action",
+        "games_count": 191508,
+        "image_background": "https://media.rawg.io/media/games/737/737ea5662211d2e0bbd6f5989189e4f1.jpg"
+      },
+      {
+        "id": 3,
+        "name": "Adventure",
+        "slug": "adventure",
+        "games_count": 151684,
+        "image_background": "https://media.rawg.io/media/games/c50/c5085506fe4b5e20fc7aa5ace842c20b.jpg"
+      }
+    ],
+    "tags": [
+      {
+        "id": 31,
+        "name": "Singleplayer",
+        "slug": "singleplayer",
+        "language": "eng",
+        "games_count": 250812,
+        "image_background": "https://media.rawg.io/media/games/26d/26d4437715bee60138dab4a7c8c59c92.jpg"
+      },
+      {
+        "id": 40847,
+        "name": "Steam Achievements",
+        "slug": "steam-achievements",
+        "language": "eng",
+        "games_count": 51706,
+        "image_background": "https://media.rawg.io/media/games/49c/49c3dfa4ce2f6f140cc4825868e858cb.jpg"
+      },
+      {
+        "id": 40836,
+        "name": "Full controller support",
+        "slug": "full-controller-support",
+        "language": "eng",
+        "games_count": 24141,
+        "image_background": "https://media.rawg.io/media/games/8d6/8d69eb6c32ed6acfd75f82d532144993.jpg"
+      },
+      {
+        "id": 40849,
+        "name": "Steam Cloud",
+        "slug": "steam-cloud",
+        "language": "eng",
+        "games_count": 25731,
+        "image_background": "https://media.rawg.io/media/games/120/1201a40e4364557b124392ee50317b99.jpg"
+      },
+      {
+        "id": 13,
+        "name": "Atmospheric",
+        "slug": "atmospheric",
+        "language": "eng",
+        "games_count": 39705,
+        "image_background": "https://media.rawg.io/media/games/d82/d82990b9c67ba0d2d09d4e6fa88885a7.jpg"
+      },
+      {
+        "id": 7808,
+        "name": "steam-trading-cards",
+        "slug": "steam-trading-cards",
+        "language": "eng",
+        "games_count": 7568,
+        "image_background": "https://media.rawg.io/media/games/e6d/e6de699bd788497f4b52e2f41f9698f2.jpg"
+      },
+      {
+        "id": 42,
+        "name": "Great Soundtrack",
+        "slug": "great-soundtrack",
+        "language": "eng",
+        "games_count": 3450,
+        "image_background": "https://media.rawg.io/media/games/587/587588c64afbff80e6f444eb2e46f9da.jpg"
+      },
+      {
+        "id": 149,
+        "name": "Third Person",
+        "slug": "third-person",
+        "language": "eng",
+        "games_count": 14710,
+        "image_background": "https://media.rawg.io/media/games/d69/d69810315bd7e226ea2d21f9156af629.jpg"
+      },
+      {
+        "id": 64,
+        "name": "Fantasy",
+        "slug": "fantasy",
+        "language": "eng",
+        "games_count": 32956,
+        "image_background": "https://media.rawg.io/media/games/aa3/aa36ba4b486a03ddfaef274fb4f5afd4.jpg"
+      },
+      {
+        "id": 26,
+        "name": "Gore",
+        "slug": "gore",
+        "language": "eng",
+        "games_count": 6666,
+        "image_background": "https://media.rawg.io/media/games/d1a/d1a2e99ade53494c6330a0ed945fe823.jpg"
+      },
+      {
+        "id": 193,
+        "name": "Classic",
+        "slug": "classic",
+        "language": "eng",
+        "games_count": 1839,
+        "image_background": "https://media.rawg.io/media/games/9c4/9c47f320eb73c9a02d462e12f6206b26.jpg"
+      },
+      {
+        "id": 189,
+        "name": "Female Protagonist",
+        "slug": "female-protagonist",
+        "language": "eng",
+        "games_count": 15544,
+        "image_background": "https://media.rawg.io/media/games/7fa/7fa0b586293c5861ee32490e953a4996.jpg"
+      },
+      {
+        "id": 123,
+        "name": "Comedy",
+        "slug": "comedy",
+        "language": "eng",
+        "games_count": 14862,
+        "image_background": "https://media.rawg.io/media/games/f52/f52cf6ba08089cd5f1a9c8f7fcc93d1f.jpg"
+      },
+      {
+        "id": 134,
+        "name": "Anime",
+        "slug": "anime",
+        "language": "eng",
+        "games_count": 17057,
+        "image_background": "https://media.rawg.io/media/games/3b5/3b56220d6038b8b1ad66c4d05ef95215.jpg"
+      },
+      {
+        "id": 44,
+        "name": "Nudity",
+        "slug": "nudity",
+        "language": "eng",
+        "games_count": 8847,
+        "image_background": "https://media.rawg.io/media/games/618/618c2031a07bbff6b4f611f10b6bcdbc.jpg"
+      },
+      {
+        "id": 68,
+        "name": "Hack and Slash",
+        "slug": "hack-and-slash",
+        "language": "eng",
+        "games_count": 5347,
+        "image_background": "https://media.rawg.io/media/games/1f1/1f1888e1308959dfd3be4c144a81d19c.jpg"
+      },
+      {
+        "id": 192,
+        "name": "Mature",
+        "slug": "mature",
+        "language": "eng",
+        "games_count": 4781,
+        "image_background": "https://media.rawg.io/media/games/998/9980c4296f311d8bcc5b451ca51e4fe1.jpg"
+      },
+      {
+        "id": 131,
+        "name": "Fast-Paced",
+        "slug": "fast-paced",
+        "language": "eng",
+        "games_count": 10821,
+        "image_background": "https://media.rawg.io/media/games/8e6/8e699e91cf77c2060b6d515e2135b1b1.jpg"
+      },
+      {
+        "id": 50,
+        "name": "Sexual Content",
+        "slug": "sexual-content",
+        "language": "eng",
+        "games_count": 8754,
+        "image_background": "https://media.rawg.io/media/games/151/151e79f397328419c64aabe93d9d5a31.jpg"
+      },
+      {
+        "id": 203,
+        "name": "Beat 'em up",
+        "slug": "beat-em-up",
+        "language": "eng",
+        "games_count": 3567,
+        "image_background": "https://media.rawg.io/media/screenshots/54f/54fcf1a626faa92afa3f5d2834dbc5ce.jpg"
+      },
+      {
+        "id": 304,
+        "name": "Character Action Game",
+        "slug": "character-action-game",
+        "language": "eng",
+        "games_count": 642,
+        "image_background": "https://media.rawg.io/media/games/61e/61e3d39225c5761eb51cf035a508a91b.jpg"
+      },
+      {
+        "id": 254,
+        "name": "Spectacle fighter",
+        "slug": "spectacle-fighter",
+        "language": "eng",
+        "games_count": 840,
+        "image_background": "https://media.rawg.io/media/games/acf/acf26d699ac392c014656f7fb3224d3d.jpg"
+      }
+    ],
+    "publishers": [
+      {
+        "id": 3408,
+        "name": "SEGA",
+        "slug": "sega-2",
+        "games_count": 1274,
+        "image_background": "https://media.rawg.io/media/games/88a/88af17cc08783ccdd1608ae63c47eeac.jpg"
+      },
+      {
+        "id": 10681,
+        "name": "Nintendo",
+        "slug": "nintendo",
+        "games_count": 1241,
+        "image_background": "https://media.rawg.io/media/games/3a0/3a0c8e9ed3a711c542218831b893a0fa.jpg"
+      }
+    ],
+    "esrb_rating": {
+      "id": 4,
+      "name": "Mature",
+      "slug": "mature"
+    },
+    "clip": null,
+    "description_raw": "Bayonetta is a slasher game developed by Platinum Games.\n\nThe game is set in a fictional European city of Vigrid. The main character is a witch named Bayonetta who fights angels with pistols and magic wishing only one thing: to recall everything happened to her.\n\nBayonetta is a third-person game. The player controls Bayonetta and uses close to medium range attacks, complicated combos and a wide variety of weaponry. Special Torture Attacks are present in the game when Bayonetta uses a torture weapon such as guillotine to execute an enemy. The Witch Time ability allows the player to slow down time after an enemy attack is successfully dodged.\n\nAs the plot advances, the player transforms Bayonetta to a panther or other animals in order to enhance her abilities. The game consists of several chapters with each having multiple parts. A scoring system is present in the game as a medal is awarded at the end of each mission. Special medals can be found scattered across the secret areas of the levels."
+  },
+  "screenshots": [
+    {
+      "id": 211609,
+      "image": "https://media.rawg.io/media/screenshots/f6a/f6a75633a2e5ffd281ce7d5fb41ffba7.jpg",
+      "width": 1920,
+      "height": 1080,
+      "is_deleted": false
+    },
+    {
+      "id": 211610,
+      "image": "https://media.rawg.io/media/screenshots/e18/e18750c1ec5ebfad2ba8222b04d0f469.jpg",
+      "width": 1920,
+      "height": 1080,
+      "is_deleted": false
+    },
+    {
+      "id": 211611,
+      "image": "https://media.rawg.io/media/screenshots/573/57348b88f0755d343127c4951db0dad5.jpg",
+      "width": 1888,
+      "height": 1062,
+      "is_deleted": false
+    },
+    {
+      "id": 211612,
+      "image": "https://media.rawg.io/media/screenshots/2d6/2d6caebf606d2d153e61716b260bd9d9.jpg",
+      "width": 1920,
+      "height": 1080,
+      "is_deleted": false
+    },
+    {
+      "id": 211613,
+      "image": "https://media.rawg.io/media/screenshots/262/2628dacce5bf8a5ca384ff3b9a47acac.jpg",
+      "width": 1920,
+      "height": 1080,
+      "is_deleted": false
+    },
+    {
+      "id": 211614,
+      "image": "https://media.rawg.io/media/screenshots/fb0/fb068001f510fbeae587c81a3398066f.jpg",
+      "width": 1888,
+      "height": 1062,
+      "is_deleted": false
+    }
+  ]
+}

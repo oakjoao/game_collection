@@ -1,0 +1,432 @@
+{
+  "details": {
+    "id": 19590,
+    "slug": "ori-and-the-blind-forest",
+    "name": "Ori and the Blind Forest",
+    "name_original": "Ori and the Blind Forest",
+    "description": "<p>Ori and the blind forest is a game with a stunning visual style, which looks like a fairytale one, and also the game takes place to a beautiful and atmospheric soundtrack.</p>\n<p>The forest of Nibel is dying. You play as a character named Ori and a spirit named Sein. They are trying to save the magical forest after the dark spirit Kuro stole the heart of the tree of life, what made the forest began to wither rapidly, losing its vitality: the water becomes dirty, the trees cease to bloom and bear fruit, and the woodland is covered with thick thorns.</p>\n<p>Playing in the Ori and the blind forest, you have to explore a vast world, to solve platform problems and relatively complex, but interesting puzzles (first of all, they test your reaction and agility). Using the abilities of Ori (initially, he can only jump, but a lot of other skills will be opened during the game) and Sein (the ability to attack enemies) you have to cope with the difficulties on the way to fix the situation and cure the forest.</p>",
+    "metacritic": 88,
+    "metacritic_platforms": [
+      {
+        "metascore": 88,
+        "url": "https://www.metacritic.com/game/xbox-one/ori-and-the-blind-forest",
+        "platform": {
+          "platform": 1,
+          "name": "Xbox One",
+          "slug": "xbox-one"
+        }
+      },
+      {
+        "metascore": 88,
+        "url": "https://www.metacritic.com/game/pc/ori-and-the-blind-forest",
+        "platform": {
+          "platform": 4,
+          "name": "PC",
+          "slug": "pc"
+        }
+      }
+    ],
+    "released": "2015-03-10",
+    "tba": false,
+    "updated": "2026-03-09T05:35:33",
+    "background_image": "https://media.rawg.io/media/games/f8c/f8c6a262ead4c16b47e1219310210eb3.jpg",
+    "background_image_additional": "https://media.rawg.io/media/screenshots/7e9/7e91028ceca8f8faacd12fa720f2b44e.jpg",
+    "website": "http://www.oriblindforest.com/",
+    "rating": 4.37,
+    "rating_top": 5,
+    "ratings": [
+      {
+        "id": 5,
+        "title": "exceptional",
+        "count": 879,
+        "percent": 57.15
+      },
+      {
+        "id": 4,
+        "title": "recommended",
+        "count": 494,
+        "percent": 32.12
+      },
+      {
+        "id": 3,
+        "title": "meh",
+        "count": 96,
+        "percent": 6.24
+      },
+      {
+        "id": 1,
+        "title": "skip",
+        "count": 69,
+        "percent": 4.49
+      }
+    ],
+    "reactions": {
+      "1": 9,
+      "2": 1,
+      "3": 2,
+      "6": 4,
+      "7": 3,
+      "9": 1,
+      "10": 3,
+      "12": 6
+    },
+    "added": 7482,
+    "added_by_status": {
+      "yet": 442,
+      "owned": 5011,
+      "beaten": 1218,
+      "toplay": 330,
+      "dropped": 407,
+      "playing": 74
+    },
+    "playtime": 6,
+    "screenshots_count": 30,
+    "movies_count": 0,
+    "creators_count": 4,
+    "achievements_count": 100,
+    "parent_achievements_count": 100,
+    "reddit_url": "https://www.reddit.com/r/OriAndTheBlindForest/",
+    "reddit_name": "",
+    "reddit_description": "",
+    "reddit_logo": "",
+    "reddit_count": 883,
+    "twitch_count": 125,
+    "youtube_count": 1000000,
+    "reviews_text_count": 8,
+    "ratings_count": 1530,
+    "suggestions_count": 556,
+    "alternative_names": [],
+    "metacritic_url": "https://www.metacritic.com/game/pc/ori-and-the-blind-forest",
+    "parents_count": 0,
+    "additions_count": 1,
+    "game_series_count": 1,
+    "user_game": null,
+    "reviews_count": 1538,
+    "saturated_color": "0f0f0f",
+    "dominant_color": "0f0f0f",
+    "parent_platforms": [
+      {
+        "platform": {
+          "id": 1,
+          "name": "PC",
+          "slug": "pc"
+        }
+      },
+      {
+        "platform": {
+          "id": 3,
+          "name": "Xbox",
+          "slug": "xbox"
+        }
+      }
+    ],
+    "platforms": [
+      {
+        "platform": {
+          "id": 14,
+          "name": "Xbox 360",
+          "slug": "xbox360",
+          "image": null,
+          "year_end": null,
+          "year_start": null,
+          "games_count": 2809,
+          "image_background": "https://media.rawg.io/media/games/562/562553814dd54e001a541e4ee83a591c.jpg"
+        },
+        "released_at": "2015-03-10",
+        "requirements": {}
+      },
+      {
+        "platform": {
+          "id": 1,
+          "name": "Xbox One",
+          "slug": "xbox-one",
+          "image": null,
+          "year_end": null,
+          "year_start": null,
+          "games_count": 5736,
+          "image_background": "https://media.rawg.io/media/games/20a/20aa03a10cda45239fe22d035c0ebe64.jpg"
+        },
+        "released_at": "2015-03-10",
+        "requirements": {}
+      },
+      {
+        "platform": {
+          "id": 4,
+          "name": "PC",
+          "slug": "pc",
+          "image": null,
+          "year_end": null,
+          "year_start": null,
+          "games_count": 560528,
+          "image_background": "https://media.rawg.io/media/games/4be/4be6a6ad0364751a96229c56bf69be59.jpg"
+        },
+        "released_at": "2015-03-10",
+        "requirements": {
+          "minimum": "Minimum:\nOS: Windows 7\nProcessor: Intel Core 2 Duo E4500 @ 2.2GHz or AMD Athlon 64 X2 5600+ @ 2.8 GHz\nMemory: 4 GB RAM\nGraphics: GeForce 240 GT or Radeon HD 6570 – 1024 MB (1 gig)\nDirectX: Version 9.0c\nStorage: 8 GB available space",
+          "recommended": "Recommended:\nOS: Windows 7\nProcessor: Intel Core i5 2300 or AMD FX6120\nMemory: 4 GB RAM\nGraphics: GeForce GTX 550 Ti or Radeon HD 6770\nDirectX: Version 11\nStorage: 8 GB available space"
+        }
+      }
+    ],
+    "stores": [
+      {
+        "id": 21968,
+        "url": "",
+        "store": {
+          "id": 1,
+          "name": "Steam",
+          "slug": "steam",
+          "domain": "store.steampowered.com",
+          "games_count": 123255,
+          "image_background": "https://media.rawg.io/media/games/587/587588c64afbff80e6f444eb2e46f9da.jpg"
+        }
+      }
+    ],
+    "developers": [
+      {
+        "id": 19103,
+        "name": "Moon Studios",
+        "slug": "moon-studios",
+        "games_count": 6,
+        "image_background": "https://media.rawg.io/media/games/718/71891d2484a592d871e91dc826707e1c.jpg"
+      }
+    ],
+    "genres": [
+      {
+        "id": 3,
+        "name": "Adventure",
+        "slug": "adventure",
+        "games_count": 151684,
+        "image_background": "https://media.rawg.io/media/games/c50/c5085506fe4b5e20fc7aa5ace842c20b.jpg"
+      },
+      {
+        "id": 83,
+        "name": "Platformer",
+        "slug": "platformer",
+        "games_count": 100923,
+        "image_background": "https://media.rawg.io/media/games/388/388935d851846f8ec747fffc7c765800.jpg"
+      }
+    ],
+    "tags": [
+      {
+        "id": 31,
+        "name": "Singleplayer",
+        "slug": "singleplayer",
+        "language": "eng",
+        "games_count": 250812,
+        "image_background": "https://media.rawg.io/media/games/26d/26d4437715bee60138dab4a7c8c59c92.jpg"
+      },
+      {
+        "id": 40847,
+        "name": "Steam Achievements",
+        "slug": "steam-achievements",
+        "language": "eng",
+        "games_count": 51706,
+        "image_background": "https://media.rawg.io/media/games/49c/49c3dfa4ce2f6f140cc4825868e858cb.jpg"
+      },
+      {
+        "id": 40836,
+        "name": "Full controller support",
+        "slug": "full-controller-support",
+        "language": "eng",
+        "games_count": 24141,
+        "image_background": "https://media.rawg.io/media/games/8d6/8d69eb6c32ed6acfd75f82d532144993.jpg"
+      },
+      {
+        "id": 40849,
+        "name": "Steam Cloud",
+        "slug": "steam-cloud",
+        "language": "eng",
+        "games_count": 25731,
+        "image_background": "https://media.rawg.io/media/games/120/1201a40e4364557b124392ee50317b99.jpg"
+      },
+      {
+        "id": 13,
+        "name": "Atmospheric",
+        "slug": "atmospheric",
+        "language": "eng",
+        "games_count": 39705,
+        "image_background": "https://media.rawg.io/media/games/d82/d82990b9c67ba0d2d09d4e6fa88885a7.jpg"
+      },
+      {
+        "id": 7808,
+        "name": "steam-trading-cards",
+        "slug": "steam-trading-cards",
+        "language": "eng",
+        "games_count": 7568,
+        "image_background": "https://media.rawg.io/media/games/e6d/e6de699bd788497f4b52e2f41f9698f2.jpg"
+      },
+      {
+        "id": 42,
+        "name": "Great Soundtrack",
+        "slug": "great-soundtrack",
+        "language": "eng",
+        "games_count": 3450,
+        "image_background": "https://media.rawg.io/media/games/587/587588c64afbff80e6f444eb2e46f9da.jpg"
+      },
+      {
+        "id": 24,
+        "name": "RPG",
+        "slug": "rpg",
+        "language": "eng",
+        "games_count": 26621,
+        "image_background": "https://media.rawg.io/media/games/d69/d69810315bd7e226ea2d21f9156af629.jpg"
+      },
+      {
+        "id": 118,
+        "name": "Story Rich",
+        "slug": "story-rich",
+        "language": "eng",
+        "games_count": 27257,
+        "image_background": "https://media.rawg.io/media/games/bc0/bc06a29ceac58652b684deefe7d56099.jpg"
+      },
+      {
+        "id": 36,
+        "name": "Open World",
+        "slug": "open-world",
+        "language": "eng",
+        "games_count": 9265,
+        "image_background": "https://media.rawg.io/media/games/20a/20aa03a10cda45239fe22d035c0ebe64.jpg"
+      },
+      {
+        "id": 45,
+        "name": "2D",
+        "slug": "2d",
+        "language": "eng",
+        "games_count": 207749,
+        "image_background": "https://media.rawg.io/media/games/234/23410661770ae13eac11066980834367.jpg"
+      },
+      {
+        "id": 64,
+        "name": "Fantasy",
+        "slug": "fantasy",
+        "language": "eng",
+        "games_count": 32956,
+        "image_background": "https://media.rawg.io/media/games/aa3/aa36ba4b486a03ddfaef274fb4f5afd4.jpg"
+      },
+      {
+        "id": 6,
+        "name": "Exploration",
+        "slug": "exploration",
+        "language": "eng",
+        "games_count": 29238,
+        "image_background": "https://media.rawg.io/media/games/26d/26d4437715bee60138dab4a7c8c59c92.jpg"
+      },
+      {
+        "id": 49,
+        "name": "Difficult",
+        "slug": "difficult",
+        "language": "eng",
+        "games_count": 14308,
+        "image_background": "https://media.rawg.io/media/games/48e/48e63bbddeddbe9ba81942772b156664.jpg"
+      },
+      {
+        "id": 11669,
+        "name": "stats",
+        "slug": "stats",
+        "language": "eng",
+        "games_count": 6039,
+        "image_background": "https://media.rawg.io/media/games/476/476178ef18ab0534771d099f51cdc694.jpg"
+      },
+      {
+        "id": 107,
+        "name": "Family Friendly",
+        "slug": "family-friendly",
+        "language": "eng",
+        "games_count": 10692,
+        "image_background": "https://media.rawg.io/media/games/e4f/e4fb3fd188f61fabec48dca22e6ef28a.jpg"
+      },
+      {
+        "id": 88,
+        "name": "Cute",
+        "slug": "cute",
+        "language": "eng",
+        "games_count": 39781,
+        "image_background": "https://media.rawg.io/media/games/4cb/4cb855e8ef1578415a928e53c9f51867.png"
+      },
+      {
+        "id": 113,
+        "name": "Side Scroller",
+        "slug": "side-scroller",
+        "language": "eng",
+        "games_count": 11845,
+        "image_background": "https://media.rawg.io/media/games/c40/c40f9f0a3d1b4601a7a44d230c95f126.jpg"
+      },
+      {
+        "id": 259,
+        "name": "Metroidvania",
+        "slug": "metroidvania",
+        "language": "eng",
+        "games_count": 4718,
+        "image_background": "https://media.rawg.io/media/games/c47/c4796c4c49e7e06ad328e07aa8944cdd.jpg"
+      },
+      {
+        "id": 116,
+        "name": "2.5D",
+        "slug": "25d",
+        "language": "eng",
+        "games_count": 2949,
+        "image_background": "https://media.rawg.io/media/games/04a/04a7e7e185fb51493bdcbe1693a8b3dc.jpg"
+      }
+    ],
+    "publishers": [
+      {
+        "id": 20987,
+        "name": "Microsoft Studios",
+        "slug": "microsoft-studios",
+        "games_count": 501,
+        "image_background": "https://media.rawg.io/media/games/fad/fadc4be043ed07904012d47cd02671e4.jpg"
+      }
+    ],
+    "esrb_rating": {
+      "id": 1,
+      "name": "Everyone",
+      "slug": "everyone"
+    },
+    "clip": null,
+    "description_raw": "Ori and the blind forest is a game with a stunning visual style, which looks like a fairytale one, and also the game takes place to a beautiful and atmospheric soundtrack.\n\nThe forest of Nibel is dying. You play as a character named Ori and a spirit named Sein. They are trying to save the magical forest after the dark spirit Kuro stole the heart of the tree of life, what made the forest began to wither rapidly, losing its vitality: the water becomes dirty, the trees cease to bloom and bear fruit, and the woodland is covered with thick thorns.\n\nPlaying in the Ori and the blind forest, you have to explore a vast world, to solve platform problems and relatively complex, but interesting puzzles (first of all, they test your reaction and agility). Using the abilities of Ori (initially, he can only jump, but a lot of other skills will be opened during the game) and Sein (the ability to attack enemies) you have to cope with the difficulties on the way to fix the situation and cure the forest."
+  },
+  "screenshots": [
+    {
+      "id": 183943,
+      "image": "https://media.rawg.io/media/screenshots/bcb/bcb49e0507f3501823a8e39c15679763.jpg",
+      "width": 1920,
+      "height": 1080,
+      "is_deleted": false
+    },
+    {
+      "id": 183944,
+      "image": "https://media.rawg.io/media/screenshots/391/391ea86f85bb996caeace19ea84af4fc.jpg",
+      "width": 1920,
+      "height": 1080,
+      "is_deleted": false
+    },
+    {
+      "id": 183945,
+      "image": "https://media.rawg.io/media/screenshots/9d5/9d505b1fb80fedd0fe8af5cb8edcb5f5.jpg",
+      "width": 1920,
+      "height": 1080,
+      "is_deleted": false
+    },
+    {
+      "id": 183946,
+      "image": "https://media.rawg.io/media/screenshots/10d/10ddacff2f1844429f6c8632da0a3d61.jpg",
+      "width": 1920,
+      "height": 1080,
+      "is_deleted": false
+    },
+    {
+      "id": 183947,
+      "image": "https://media.rawg.io/media/screenshots/b94/b94241e60c095aeda306d6905070a12e.jpg",
+      "width": 1920,
+      "height": 1080,
+      "is_deleted": false
+    },
+    {
+      "id": 183948,
+      "image": "https://media.rawg.io/media/screenshots/fb5/fb51d10ba2967208f4baf27220212a3b.jpg",
+      "width": 1920,
+      "height": 1080,
+      "is_deleted": false
+    }
+  ]
+}

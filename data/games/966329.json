@@ -1,0 +1,177 @@
+{
+  "details": {
+    "id": 966329,
+    "slug": "mario-vs-donkey-kong-2",
+    "name": "Mario vs. Donkey Kong",
+    "name_original": "Mario vs. Donkey Kong",
+    "description": "<p>Run, jump, and backflip your way to rescuing the stolen Mini-Mario toys in this puzzling twist on Mario action. Obstacles like spikes, moving platforms, and falling bricks stand in your way—put your brain to work and figure out the best way to reach the Mini-Marios. The rivalry that originally heated up on the Game Boy™ Advance system reignites on the Nintendo Switch™ system with newly-added co-op play and updated visuals.</p>",
+    "metacritic": null,
+    "metacritic_platforms": [],
+    "released": "2024-02-16",
+    "tba": false,
+    "updated": "2026-03-01T11:41:50",
+    "background_image": "https://media.rawg.io/media/games/128/128ba90b057b7c2606b8483a7cfd9960.jpg",
+    "background_image_additional": "https://media.rawg.io/media/screenshots/ac4/ac491f058638d77818b312021c26a8a0.jpg",
+    "website": "",
+    "rating": 3.68,
+    "rating_top": 4,
+    "ratings": [
+      {
+        "id": 4,
+        "title": "recommended",
+        "count": 15,
+        "percent": 68.18
+      },
+      {
+        "id": 3,
+        "title": "meh",
+        "count": 7,
+        "percent": 31.82
+      }
+    ],
+    "reactions": {},
+    "added": 82,
+    "added_by_status": {
+      "yet": 12,
+      "owned": 10,
+      "beaten": 20,
+      "toplay": 29,
+      "dropped": 7,
+      "playing": 4
+    },
+    "playtime": 0,
+    "screenshots_count": 6,
+    "movies_count": 0,
+    "creators_count": 7,
+    "achievements_count": 0,
+    "parent_achievements_count": 0,
+    "reddit_url": "",
+    "reddit_name": "",
+    "reddit_description": "",
+    "reddit_logo": "",
+    "reddit_count": 0,
+    "twitch_count": 0,
+    "youtube_count": 0,
+    "reviews_text_count": 0,
+    "ratings_count": 22,
+    "suggestions_count": 240,
+    "alternative_names": [],
+    "metacritic_url": "",
+    "parents_count": 0,
+    "additions_count": 0,
+    "game_series_count": 0,
+    "user_game": null,
+    "reviews_count": 22,
+    "saturated_color": "0f0f0f",
+    "dominant_color": "0f0f0f",
+    "parent_platforms": [
+      {
+        "platform": {
+          "id": 7,
+          "name": "Nintendo",
+          "slug": "nintendo"
+        }
+      }
+    ],
+    "platforms": [
+      {
+        "platform": {
+          "id": 7,
+          "name": "Nintendo Switch",
+          "slug": "nintendo-switch",
+          "image": null,
+          "year_end": null,
+          "year_start": null,
+          "games_count": 5765,
+          "image_background": "https://media.rawg.io/media/games/5a4/5a44112251d70a25291cc33757220fce.jpg"
+        },
+        "released_at": "2024-02-16",
+        "requirements": {}
+      }
+    ],
+    "stores": [
+      {
+        "id": 967618,
+        "url": "",
+        "store": {
+          "id": 6,
+          "name": "Nintendo Store",
+          "slug": "nintendo",
+          "domain": "nintendo.com",
+          "games_count": 9150,
+          "image_background": "https://media.rawg.io/media/games/5eb/5eb49eb2fa0738fdb5bacea557b1bc57.jpg"
+        }
+      }
+    ],
+    "developers": [],
+    "genres": [
+      {
+        "id": 7,
+        "name": "Puzzle",
+        "slug": "puzzle",
+        "games_count": 97398,
+        "image_background": "https://media.rawg.io/media/games/51c/51c430f1795c79b78f863a9f22dc422d.jpg"
+      },
+      {
+        "id": 83,
+        "name": "Platformer",
+        "slug": "platformer",
+        "games_count": 100923,
+        "image_background": "https://media.rawg.io/media/games/388/388935d851846f8ec747fffc7c765800.jpg"
+      }
+    ],
+    "tags": [],
+    "publishers": [],
+    "esrb_rating": {
+      "id": 1,
+      "name": "Everyone",
+      "slug": "everyone"
+    },
+    "clip": null,
+    "description_raw": "Run, jump, and backflip your way to rescuing the stolen Mini-Mario toys in this puzzling twist on Mario action. Obstacles like spikes, moving platforms, and falling bricks stand in your way—put your brain to work and figure out the best way to reach the Mini-Marios. The rivalry that originally heated up on the Game Boy™ Advance system reignites on the Nintendo Switch™ system with newly-added co-op play and updated visuals."
+  },
+  "screenshots": [
+    {
+      "id": 3939972,
+      "image": "https://media.rawg.io/media/screenshots/eaf/eaf83039993cd911820a9470c2ccad5b.jpg",
+      "width": 2200,
+      "height": 1238,
+      "is_deleted": false
+    },
+    {
+      "id": 3939973,
+      "image": "https://media.rawg.io/media/screenshots/cdb/cdb5349b8f1f9d7ae59fb85ec77b261d.jpg",
+      "width": 2200,
+      "height": 1238,
+      "is_deleted": false
+    },
+    {
+      "id": 3939974,
+      "image": "https://media.rawg.io/media/screenshots/4e0/4e07dae8f7d08e73c7d2eb36dd448bc7.jpg",
+      "width": 2200,
+      "height": 1238,
+      "is_deleted": false
+    },
+    {
+      "id": 3939975,
+      "image": "https://media.rawg.io/media/screenshots/ba1/ba17bef9ecb0fa875757215643b5e683.jpg",
+      "width": 2200,
+      "height": 1238,
+      "is_deleted": false
+    },
+    {
+      "id": 3939976,
+      "image": "https://media.rawg.io/media/screenshots/ac4/ac491f058638d77818b312021c26a8a0.jpg",
+      "width": 2200,
+      "height": 1238,
+      "is_deleted": false
+    },
+    {
+      "id": 3939977,
+      "image": "https://media.rawg.io/media/screenshots/1e2/1e2137435bd32bde600b24fa0014f9ae.jpg",
+      "width": 2200,
+      "height": 1238,
+      "is_deleted": false
+    }
+  ]
+}

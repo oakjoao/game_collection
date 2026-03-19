@@ -1,0 +1,410 @@
+{
+  "details": {
+    "id": 33,
+    "slug": "final-fantasy-xii-the-zodiac-age",
+    "name": "Final Fantasy XII: The Zodiac Age",
+    "name_original": "Final Fantasy XII: The Zodiac Age",
+    "description": "RETURN TO THE WORLD OF IVALICE<br />\nEnter an era of war within the world of Ivalice. The small kingdom of Dalmasca, conquered by the Archadian Empire, is left in ruin and uncertainty. Princess Ashe, the one and only heir to the throne, devotes herself to the resistance to liberate her country.<br />\nVaan, a young man who lost his family in the war, dreams of flying freely in the skies. In a fight for freedom and fallen royalty, join these unlikely allies and their companions as they embark on a heroic adventure to free their homeland.<br />\nPlayers both returning and new to the game will be immersed in a grand adventure that spans the world of Ivalice in an entirely fresh and improved experience.<br />\nKEY FEATURES:<br />\nNew Zodiac Job system with improved battle mechanics.<br />\nNewly implemented trophies.<br />\nTrue 7.1 Surround sound including HD voicing and fully remastered music.<br />\nChoose between original in-game BGM, new re-orchestrated BGM and original soundtrack.<br />\nEndless adventure including hunts, battles and mini-games.<br />\n60 FPS - Ivalice will look even more spectacular running at 60FPS<br />\nCompatible with 21:9 ultra wide monitors<br />\nNew Game Plus and New Game Minus<br />\nMaximized License Points and Gil<br />\nFull controller support, Steam Trading Cards and more!</p>",
+    "metacritic": 87,
+    "metacritic_platforms": [],
+    "released": "2017-07-11",
+    "tba": false,
+    "updated": "2026-03-18T17:02:07",
+    "background_image": "https://media.rawg.io/media/games/f35/f351f8f406f2ea12088b5e1b034f73b9.jpeg",
+    "background_image_additional": "https://media.rawg.io/media/screenshots/bb5/bb52d5cea77d49e6d32f497524272c72.jpg",
+    "website": "http://finalfantasyxii.com/home/",
+    "rating": 4.23,
+    "rating_top": 5,
+    "ratings": [
+      {
+        "id": 5,
+        "title": "exceptional",
+        "count": 119,
+        "percent": 49.79
+      },
+      {
+        "id": 4,
+        "title": "recommended",
+        "count": 81,
+        "percent": 33.89
+      },
+      {
+        "id": 3,
+        "title": "meh",
+        "count": 27,
+        "percent": 11.3
+      },
+      {
+        "id": 1,
+        "title": "skip",
+        "count": 12,
+        "percent": 5.02
+      }
+    ],
+    "reactions": {
+      "3": 1,
+      "4": 1,
+      "5": 1,
+      "7": 2,
+      "9": 1,
+      "11": 1,
+      "12": 1
+    },
+    "added": 1341,
+    "added_by_status": {
+      "yet": 159,
+      "owned": 735,
+      "beaten": 155,
+      "toplay": 160,
+      "dropped": 78,
+      "playing": 54
+    },
+    "playtime": 8,
+    "screenshots_count": 6,
+    "movies_count": 1,
+    "creators_count": 14,
+    "achievements_count": 105,
+    "parent_achievements_count": 33,
+    "reddit_url": "",
+    "reddit_name": "",
+    "reddit_description": "",
+    "reddit_logo": "",
+    "reddit_count": 0,
+    "twitch_count": 177,
+    "youtube_count": 742459,
+    "reviews_text_count": 7,
+    "ratings_count": 232,
+    "suggestions_count": 419,
+    "alternative_names": [],
+    "metacritic_url": "",
+    "parents_count": 0,
+    "additions_count": 0,
+    "game_series_count": 27,
+    "user_game": null,
+    "reviews_count": 239,
+    "saturated_color": "0f0f0f",
+    "dominant_color": "0f0f0f",
+    "parent_platforms": [
+      {
+        "platform": {
+          "id": 1,
+          "name": "PC",
+          "slug": "pc"
+        }
+      },
+      {
+        "platform": {
+          "id": 2,
+          "name": "PlayStation",
+          "slug": "playstation"
+        }
+      },
+      {
+        "platform": {
+          "id": 3,
+          "name": "Xbox",
+          "slug": "xbox"
+        }
+      },
+      {
+        "platform": {
+          "id": 7,
+          "name": "Nintendo",
+          "slug": "nintendo"
+        }
+      }
+    ],
+    "platforms": [
+      {
+        "platform": {
+          "id": 18,
+          "name": "PlayStation 4",
+          "slug": "playstation4",
+          "image": null,
+          "year_end": null,
+          "year_start": null,
+          "games_count": 6984,
+          "image_background": "https://media.rawg.io/media/games/f46/f466571d536f2e3ea9e815ad17177501.jpg"
+        },
+        "released_at": "2017-07-11",
+        "requirements": {}
+      },
+      {
+        "platform": {
+          "id": 7,
+          "name": "Nintendo Switch",
+          "slug": "nintendo-switch",
+          "image": null,
+          "year_end": null,
+          "year_start": null,
+          "games_count": 5765,
+          "image_background": "https://media.rawg.io/media/games/5a4/5a44112251d70a25291cc33757220fce.jpg"
+        },
+        "released_at": "2017-07-11",
+        "requirements": {}
+      },
+      {
+        "platform": {
+          "id": 4,
+          "name": "PC",
+          "slug": "pc",
+          "image": null,
+          "year_end": null,
+          "year_start": null,
+          "games_count": 560528,
+          "image_background": "https://media.rawg.io/media/games/4be/4be6a6ad0364751a96229c56bf69be59.jpg"
+        },
+        "released_at": "2017-07-11",
+        "requirements": {}
+      },
+      {
+        "platform": {
+          "id": 1,
+          "name": "Xbox One",
+          "slug": "xbox-one",
+          "image": null,
+          "year_end": null,
+          "year_start": null,
+          "games_count": 5736,
+          "image_background": "https://media.rawg.io/media/games/20a/20aa03a10cda45239fe22d035c0ebe64.jpg"
+        },
+        "released_at": "2017-07-11",
+        "requirements": {}
+      }
+    ],
+    "stores": [
+      {
+        "id": 33,
+        "url": "",
+        "store": {
+          "id": 3,
+          "name": "PlayStation Store",
+          "slug": "playstation-store",
+          "domain": "store.playstation.com",
+          "games_count": 8075,
+          "image_background": "https://media.rawg.io/media/games/f87/f87457e8347484033cb34cde6101d08d.jpg"
+        }
+      },
+      {
+        "id": 45347,
+        "url": "",
+        "store": {
+          "id": 1,
+          "name": "Steam",
+          "slug": "steam",
+          "domain": "store.steampowered.com",
+          "games_count": 123255,
+          "image_background": "https://media.rawg.io/media/games/587/587588c64afbff80e6f444eb2e46f9da.jpg"
+        }
+      },
+      {
+        "id": 298640,
+        "url": "",
+        "store": {
+          "id": 6,
+          "name": "Nintendo Store",
+          "slug": "nintendo",
+          "domain": "nintendo.com",
+          "games_count": 9150,
+          "image_background": "https://media.rawg.io/media/games/5eb/5eb49eb2fa0738fdb5bacea557b1bc57.jpg"
+        }
+      },
+      {
+        "id": 320904,
+        "url": "",
+        "store": {
+          "id": 2,
+          "name": "Xbox Store",
+          "slug": "xbox-store",
+          "domain": "microsoft.com",
+          "games_count": 4938,
+          "image_background": "https://media.rawg.io/media/games/2ba/2bac0e87cf45e5b508f227d281c9252a.jpg"
+        }
+      }
+    ],
+    "developers": [
+      {
+        "id": 4132,
+        "name": "Square Enix",
+        "slug": "square-enix",
+        "games_count": 374,
+        "image_background": "https://media.rawg.io/media/games/54a/54a3e4c617217848dc43c4de9989fe37.jpg"
+      }
+    ],
+    "genres": [
+      {
+        "id": 5,
+        "name": "RPG",
+        "slug": "role-playing-games-rpg",
+        "games_count": 61936,
+        "image_background": "https://media.rawg.io/media/games/d1a/d1a2e99ade53494c6330a0ed945fe823.jpg"
+      }
+    ],
+    "tags": [
+      {
+        "id": 31,
+        "name": "Singleplayer",
+        "slug": "singleplayer",
+        "language": "eng",
+        "games_count": 250812,
+        "image_background": "https://media.rawg.io/media/games/26d/26d4437715bee60138dab4a7c8c59c92.jpg"
+      },
+      {
+        "id": 40847,
+        "name": "Steam Achievements",
+        "slug": "steam-achievements",
+        "language": "eng",
+        "games_count": 51706,
+        "image_background": "https://media.rawg.io/media/games/49c/49c3dfa4ce2f6f140cc4825868e858cb.jpg"
+      },
+      {
+        "id": 40836,
+        "name": "Full controller support",
+        "slug": "full-controller-support",
+        "language": "eng",
+        "games_count": 24141,
+        "image_background": "https://media.rawg.io/media/games/8d6/8d69eb6c32ed6acfd75f82d532144993.jpg"
+      },
+      {
+        "id": 40849,
+        "name": "Steam Cloud",
+        "slug": "steam-cloud",
+        "language": "eng",
+        "games_count": 25731,
+        "image_background": "https://media.rawg.io/media/games/120/1201a40e4364557b124392ee50317b99.jpg"
+      },
+      {
+        "id": 7808,
+        "name": "steam-trading-cards",
+        "slug": "steam-trading-cards",
+        "language": "eng",
+        "games_count": 7568,
+        "image_background": "https://media.rawg.io/media/games/e6d/e6de699bd788497f4b52e2f41f9698f2.jpg"
+      },
+      {
+        "id": 42,
+        "name": "Great Soundtrack",
+        "slug": "great-soundtrack",
+        "language": "eng",
+        "games_count": 3450,
+        "image_background": "https://media.rawg.io/media/games/587/587588c64afbff80e6f444eb2e46f9da.jpg"
+      },
+      {
+        "id": 24,
+        "name": "RPG",
+        "slug": "rpg",
+        "language": "eng",
+        "games_count": 26621,
+        "image_background": "https://media.rawg.io/media/games/d69/d69810315bd7e226ea2d21f9156af629.jpg"
+      },
+      {
+        "id": 118,
+        "name": "Story Rich",
+        "slug": "story-rich",
+        "language": "eng",
+        "games_count": 27257,
+        "image_background": "https://media.rawg.io/media/games/bc0/bc06a29ceac58652b684deefe7d56099.jpg"
+      },
+      {
+        "id": 64,
+        "name": "Fantasy",
+        "slug": "fantasy",
+        "language": "eng",
+        "games_count": 32956,
+        "image_background": "https://media.rawg.io/media/games/aa3/aa36ba4b486a03ddfaef274fb4f5afd4.jpg"
+      },
+      {
+        "id": 34,
+        "name": "Violent",
+        "slug": "violent",
+        "language": "eng",
+        "games_count": 7851,
+        "image_background": "https://media.rawg.io/media/games/152/152e788b7504aa2753c86dae912fb34c.jpg"
+      },
+      {
+        "id": 134,
+        "name": "Anime",
+        "slug": "anime",
+        "language": "eng",
+        "games_count": 17057,
+        "image_background": "https://media.rawg.io/media/games/3b5/3b56220d6038b8b1ad66c4d05ef95215.jpg"
+      },
+      {
+        "id": 468,
+        "name": "role-playing",
+        "slug": "role-playing",
+        "language": "eng",
+        "games_count": 1657,
+        "image_background": "https://media.rawg.io/media/games/8ca/8ca40b562a755d6a0e30d48e6c74b178.jpg"
+      },
+      {
+        "id": 233,
+        "name": "JRPG",
+        "slug": "jrpg",
+        "language": "eng",
+        "games_count": 5264,
+        "image_background": "https://media.rawg.io/media/games/a59/a5993b9f84944570a31cb6ad08bfe502.jpg"
+      }
+    ],
+    "publishers": [
+      {
+        "id": 308,
+        "name": "Square Enix",
+        "slug": "square-enix",
+        "games_count": 609,
+        "image_background": "https://media.rawg.io/media/games/3d9/3d9bac98d79bcd2d445f829e8d6be902.jpg"
+      }
+    ],
+    "esrb_rating": {
+      "id": 3,
+      "name": "Teen",
+      "slug": "teen"
+    },
+    "clip": null,
+    "description_raw": "Day-1 Edition\r\nPurchase at launch to receive three audio tracks and exclusive wallpaper created by original game artist Isamu Kamikokuryo plus a 20% launch discount (Offer ends 8th Feb 2018)\r\nAbout the GameFINAL FANTASY XII THE ZODIAC AGE - This revered classic returns, now fully remastered for the first time for PC, featuring all new and enhanced gameplay.\r\nRETURN TO THE WORLD OF IVALICE\r\nEnter an era of war within the world of Ivalice. The small kingdom of Dalmasca, conquered by the Archadian Empire, is left in ruin and uncertainty. Princess Ashe, the one and only heir to the throne, devotes herself to the resistance to liberate her country.\r\nVaan, a young man who lost his family in the war, dreams of flying freely in the skies. In a fight for freedom and fallen royalty, join these unlikely allies and their companions as they embark on a heroic adventure to free their homeland.\r\nPlayers both returning and new to the game will be immersed in a grand adventure that spans the world of Ivalice in an entirely fresh and improved experience.\r\nKEY FEATURES:\r\nNew Zodiac Job system with improved battle mechanics.\r\nNewly implemented trophies.\r\nTrue 7.1 Surround sound including HD voicing and fully remastered music.\r\nChoose between original in-game BGM, new re-orchestrated BGM and original soundtrack.\r\nEndless adventure including hunts, battles and mini-games.\r\n60 FPS - Ivalice will look even more spectacular running at 60FPS\r\nCompatible with 21:9 ultra wide monitors\r\nNew Game Plus and New Game Minus\r\nMaximized License Points and Gil\r\nFull controller support, Steam Trading Cards and more!"
+  },
+  "screenshots": [
+    {
+      "id": 203,
+      "image": "https://media.rawg.io/media/screenshots/212/212d8a384f8e4d2fc5f7c186c0e77236.jpg",
+      "width": 1920,
+      "height": 1080,
+      "is_deleted": false
+    },
+    {
+      "id": 204,
+      "image": "https://media.rawg.io/media/screenshots/f64/f6432575605cfc02e5605c51c2890ab4.jpg",
+      "width": 1920,
+      "height": 1080,
+      "is_deleted": false
+    },
+    {
+      "id": 205,
+      "image": "https://media.rawg.io/media/screenshots/6bc/6bc538efe4a794baf8a2723e6ba89979.jpg",
+      "width": 1920,
+      "height": 1080,
+      "is_deleted": false
+    },
+    {
+      "id": 206,
+      "image": "https://media.rawg.io/media/screenshots/16d/16d50050c8e0245003617c3ab454b657.jpg",
+      "width": 1920,
+      "height": 1080,
+      "is_deleted": false
+    },
+    {
+      "id": 207,
+      "image": "https://media.rawg.io/media/screenshots/bb5/bb52d5cea77d49e6d32f497524272c72.jpg",
+      "width": 1920,
+      "height": 1080,
+      "is_deleted": false
+    },
+    {
+      "id": 208,
+      "image": "https://media.rawg.io/media/screenshots/6f7/6f7107e37891610424509b2d021a6484.jpg",
+      "width": 1080,
+      "height": 608,
+      "is_deleted": false
+    }
+  ]
+}

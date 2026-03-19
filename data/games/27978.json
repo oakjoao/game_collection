@@ -1,0 +1,290 @@
+{
+  "details": {
+    "id": 27978,
+    "slug": "donkey-kong-country-tropical-freeze",
+    "name": "Donkey Kong Country: Tropical Freeze",
+    "name_original": "Donkey Kong Country: Tropical Freeze",
+    "description": "<p>Traverse islands packed with platforming perfection and nonstop action as the classic Kongs in the original game, or mix things up by playing the story as Funky Kong in new Funky Mode!</p>\n<p>Arctic invaders have turned Donkey Kong Island into their personal frozen fortress, and it&#39;s up to you to save the day. Play as Donkey Kong in Original Mode and team up with Diddy Kong, Dixie Kong, and Cranky Kong—each with unique abilities—to overcome platforming challenges and frosty foes.</p>\n<p>For a more accessible experience, start a game in Funky Mode to enjoy a range of gameplay updates and a new main-character option, spectacular surfing simian Funky Kong! His extra hearts and unique abilities make for a more relaxed gaming experience. And no matter which mode you choose, a wealth of collectibles and two-player co-op round out the fun!</p>",
+    "metacritic": 84,
+    "metacritic_platforms": [
+      {
+        "metascore": 83,
+        "url": "https://www.metacritic.com/game/wii-u/donkey-kong-country-tropical-freeze",
+        "platform": {
+          "platform": 10,
+          "name": "Wii U",
+          "slug": "wii-u"
+        }
+      },
+      {
+        "metascore": 86,
+        "url": "https://www.metacritic.com/game/switch/donkey-kong-country-tropical-freeze",
+        "platform": {
+          "platform": 7,
+          "name": "Nintendo Switch",
+          "slug": "nintendo-switch"
+        }
+      }
+    ],
+    "released": "2014-02-13",
+    "tba": false,
+    "updated": "2026-02-21T18:42:16",
+    "background_image": "https://media.rawg.io/media/games/c31/c31655ab2640da333f5ca3f223d33a12.jpg",
+    "background_image_additional": "https://media.rawg.io/media/screenshots/854/85452f6a47882fa22511a70a96b24379.jpg",
+    "website": "http://donkeykong.nintendo.com/",
+    "rating": 4.35,
+    "rating_top": 5,
+    "ratings": [
+      {
+        "id": 5,
+        "title": "exceptional",
+        "count": 111,
+        "percent": 48.68
+      },
+      {
+        "id": 4,
+        "title": "recommended",
+        "count": 90,
+        "percent": 39.47
+      },
+      {
+        "id": 3,
+        "title": "meh",
+        "count": 25,
+        "percent": 10.96
+      },
+      {
+        "id": 1,
+        "title": "skip",
+        "count": 2,
+        "percent": 0.88
+      }
+    ],
+    "reactions": {
+      "1": 1,
+      "2": 1,
+      "3": 1,
+      "5": 1,
+      "6": 2,
+      "8": 1,
+      "9": 1,
+      "11": 2,
+      "12": 2
+    },
+    "added": 606,
+    "added_by_status": {
+      "yet": 71,
+      "owned": 94,
+      "beaten": 208,
+      "toplay": 118,
+      "dropped": 67,
+      "playing": 48
+    },
+    "playtime": 7,
+    "screenshots_count": 28,
+    "movies_count": 0,
+    "creators_count": 7,
+    "achievements_count": 0,
+    "parent_achievements_count": 0,
+    "reddit_url": "",
+    "reddit_name": "",
+    "reddit_description": "",
+    "reddit_logo": "",
+    "reddit_count": 0,
+    "twitch_count": 99,
+    "youtube_count": 894088,
+    "reviews_text_count": 11,
+    "ratings_count": 217,
+    "suggestions_count": 540,
+    "alternative_names": [],
+    "metacritic_url": "https://www.metacritic.com/game/switch/donkey-kong-country-tropical-freeze",
+    "parents_count": 0,
+    "additions_count": 0,
+    "game_series_count": 13,
+    "user_game": null,
+    "reviews_count": 228,
+    "saturated_color": "0f0f0f",
+    "dominant_color": "0f0f0f",
+    "parent_platforms": [
+      {
+        "platform": {
+          "id": 7,
+          "name": "Nintendo",
+          "slug": "nintendo"
+        }
+      }
+    ],
+    "platforms": [
+      {
+        "platform": {
+          "id": 7,
+          "name": "Nintendo Switch",
+          "slug": "nintendo-switch",
+          "image": null,
+          "year_end": null,
+          "year_start": null,
+          "games_count": 5765,
+          "image_background": "https://media.rawg.io/media/games/5a4/5a44112251d70a25291cc33757220fce.jpg"
+        },
+        "released_at": "2014-02-13",
+        "requirements": {}
+      },
+      {
+        "platform": {
+          "id": 10,
+          "name": "Wii U",
+          "slug": "wii-u",
+          "image": null,
+          "year_end": null,
+          "year_start": null,
+          "games_count": 1114,
+          "image_background": "https://media.rawg.io/media/games/cc1/cc196a5ad763955d6532cdba236f730c.jpg"
+        },
+        "released_at": "2014-02-13",
+        "requirements": {}
+      }
+    ],
+    "stores": [
+      {
+        "id": 32864,
+        "url": "",
+        "store": {
+          "id": 6,
+          "name": "Nintendo Store",
+          "slug": "nintendo",
+          "domain": "nintendo.com",
+          "games_count": 9150,
+          "image_background": "https://media.rawg.io/media/games/5eb/5eb49eb2fa0738fdb5bacea557b1bc57.jpg"
+        }
+      }
+    ],
+    "developers": [
+      {
+        "id": 26308,
+        "name": "Retro Studios",
+        "slug": "retro-studios",
+        "games_count": 7,
+        "image_background": "https://media.rawg.io/media/screenshots/f0d/f0dcecdb5cbd387bcb97587bb6ce3852.jpg"
+      }
+    ],
+    "genres": [
+      {
+        "id": 83,
+        "name": "Platformer",
+        "slug": "platformer",
+        "games_count": 100923,
+        "image_background": "https://media.rawg.io/media/games/388/388935d851846f8ec747fffc7c765800.jpg"
+      }
+    ],
+    "tags": [
+      {
+        "id": 31,
+        "name": "Singleplayer",
+        "slug": "singleplayer",
+        "language": "eng",
+        "games_count": 250812,
+        "image_background": "https://media.rawg.io/media/games/26d/26d4437715bee60138dab4a7c8c59c92.jpg"
+      },
+      {
+        "id": 49,
+        "name": "Difficult",
+        "slug": "difficult",
+        "language": "eng",
+        "games_count": 14308,
+        "image_background": "https://media.rawg.io/media/games/48e/48e63bbddeddbe9ba81942772b156664.jpg"
+      },
+      {
+        "id": 107,
+        "name": "Family Friendly",
+        "slug": "family-friendly",
+        "language": "eng",
+        "games_count": 10692,
+        "image_background": "https://media.rawg.io/media/games/e4f/e4fb3fd188f61fabec48dca22e6ef28a.jpg"
+      },
+      {
+        "id": 37796,
+        "name": "exclusive",
+        "slug": "exclusive",
+        "language": "eng",
+        "games_count": 4491,
+        "image_background": "https://media.rawg.io/media/games/b7d/b7d3f1715fa8381a4e780173a197a615.jpg"
+      },
+      {
+        "id": 88,
+        "name": "Cute",
+        "slug": "cute",
+        "language": "eng",
+        "games_count": 39781,
+        "image_background": "https://media.rawg.io/media/games/4cb/4cb855e8ef1578415a928e53c9f51867.png"
+      },
+      {
+        "id": 284,
+        "name": "Cult Classic",
+        "slug": "cult-classic",
+        "language": "eng",
+        "games_count": 985,
+        "image_background": "https://media.rawg.io/media/games/41e/41e431c48530788de5e8bddf8dcfba32.jpg"
+      }
+    ],
+    "publishers": [
+      {
+        "id": 10681,
+        "name": "Nintendo",
+        "slug": "nintendo",
+        "games_count": 1241,
+        "image_background": "https://media.rawg.io/media/games/3a0/3a0c8e9ed3a711c542218831b893a0fa.jpg"
+      }
+    ],
+    "esrb_rating": {
+      "id": 1,
+      "name": "Everyone",
+      "slug": "everyone"
+    },
+    "clip": null,
+    "description_raw": "Traverse islands packed with platforming perfection and nonstop action as the classic Kongs in the original game, or mix things up by playing the story as Funky Kong in new Funky Mode!\r\n\r\nArctic invaders have turned Donkey Kong Island into their personal frozen fortress, and it's up to you to save the day. Play as Donkey Kong in Original Mode and team up with Diddy Kong, Dixie Kong, and Cranky Kong—each with unique abilities—to overcome platforming challenges and frosty foes.\r\n\r\nFor a more accessible experience, start a game in Funky Mode to enjoy a range of gameplay updates and a new main-character option, spectacular surfing simian Funky Kong! His extra hearts and unique abilities make for a more relaxed gaming experience. And no matter which mode you choose, a wealth of collectibles and two-player co-op round out the fun!"
+  },
+  "screenshots": [
+    {
+      "id": 267676,
+      "image": "https://media.rawg.io/media/screenshots/e32/e320a3bd49f31aeb181b34c573da437f.jpg",
+      "width": 745,
+      "height": 419,
+      "is_deleted": false
+    },
+    {
+      "id": 267677,
+      "image": "https://media.rawg.io/media/screenshots/f50/f507b673c127c4b9502581bf069e51cb.jpg",
+      "width": 745,
+      "height": 419,
+      "is_deleted": false
+    },
+    {
+      "id": 267678,
+      "image": "https://media.rawg.io/media/screenshots/fef/fefc94bec480ac777b424c64a0b96f48.jpg",
+      "width": 745,
+      "height": 419,
+      "is_deleted": false
+    },
+    {
+      "id": 267679,
+      "image": "https://media.rawg.io/media/screenshots/a88/a88079ea01c514e7676e1c731b7f49c7.jpg",
+      "width": 745,
+      "height": 419,
+      "is_deleted": false
+    },
+    {
+      "id": 267680,
+      "image": "https://media.rawg.io/media/screenshots/f33/f33e38b2fb47ba884d9572c3bfe331a2.jpg",
+      "width": 745,
+      "height": 419,
+      "is_deleted": false
+    },
+    {
+      "id": 267681,
+      "image": "https://media.rawg.io/media/screenshots/054/05435fcdcb48d199f33ef33323db5789.jpg",
+      "width": 745,
+      "height": 419,
+      "is_deleted": false
+    }
+  ]
+}

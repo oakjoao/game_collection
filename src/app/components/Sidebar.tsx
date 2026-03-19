@@ -24,9 +24,10 @@ const CONSOLE_NAMES = [
 interface SidebarProps {
   isOpen: boolean;
   onClose: () => void;
+  onSelectGame: (gameId: number) => void;
 }
 
-function SidebarContent() {
+function SidebarContent({ onSelectGame }: { onSelectGame: (gameId: number) => void }) {
   const { getGamesByConsole } = useGameCollection();
 
   return (
@@ -61,6 +62,7 @@ function SidebarContent() {
                     <div
                       key={`${game.id}-${game.consoleName}`}
                       className="flex items-center gap-3 px-4 py-2 text-sm text-foreground hover:bg-accent hover:text-foreground cursor-pointer transition-colors"
+                      onClick={() => onSelectGame(game.id)}
                     >
                       {game.backgroundImage ? (
                         <img
@@ -84,19 +86,26 @@ function SidebarContent() {
   );
 }
 
-export default function Sidebar({ isOpen, onClose }: SidebarProps) {
+export default function Sidebar({ isOpen, onClose, onSelectGame }: SidebarProps) {
+  const handleSelectGame = (gameId: number) => {
+    onSelectGame(gameId);
+    onClose();
+  };
+
   return (
     <>
       {/* Desktop sidebar — always visible */}
       <aside className="hidden lg:block h-[calc(100vh-57px)] w-[300px] overflow-y-auto bg-card border-r border-border">
-        <SidebarContent />
+        <SidebarContent onSelectGame={onSelectGame} />
       </aside>
 
       {/* Mobile sidebar — Sheet overlay */}
       <Sheet open={isOpen} onOpenChange={(open) => !open && onClose()}>
         <SheetContent side="left" className="w-[300px] p-0 bg-card border-border">
           <SheetTitle className="sr-only">Console Navigation</SheetTitle>
-          <SidebarContent />
+          <div className="pt-10">
+            <SidebarContent onSelectGame={handleSelectGame} />
+          </div>
         </SheetContent>
       </Sheet>
     </>

@@ -1,0 +1,156 @@
+{
+  "details": {
+    "id": 1000197,
+    "slug": "pokemon-legends-z-a",
+    "name": "Pokémon Legends: Z-A",
+    "name_original": "Pokémon Legends: Z-A",
+    "description": "<p>The story is set in Lumiose City, where an urban redevelopment plan is underway to shape the city into a place that belongs to both people and Pokémon. Compared to Lumiose City as it appeared in the Pokémon X and Pokémon Y games, released in 2013, more greenery now adorns the city, alongside facilities with a cutting-edge feel.</p>\n<p>In Lumiose City, spaces frequented by people—such as shopping arcades, cafés, and restaurants—coexist with more natural areas, such as waterfronts and verdant parks. At the center of Lumiose stands Prism Tower, the very symbol of the city.</p>",
+    "metacritic": null,
+    "metacritic_platforms": [],
+    "released": "2025-10-16",
+    "tba": false,
+    "updated": "2026-03-15T20:25:53",
+    "background_image": "https://media.rawg.io/media/games/845/84559a11f5ee0c73f23a4e3016cf7cba.jpg",
+    "background_image_additional": null,
+    "website": "https://legends.pokemon.com/en-us/",
+    "rating": 3.4,
+    "rating_top": 4,
+    "ratings": [
+      {
+        "id": 4,
+        "title": "recommended",
+        "count": 6,
+        "percent": 40
+      },
+      {
+        "id": 5,
+        "title": "exceptional",
+        "count": 3,
+        "percent": 20
+      },
+      {
+        "id": 3,
+        "title": "meh",
+        "count": 3,
+        "percent": 20
+      },
+      {
+        "id": 1,
+        "title": "skip",
+        "count": 3,
+        "percent": 20
+      }
+    ],
+    "reactions": {},
+    "added": 69,
+    "added_by_status": {
+      "yet": 3,
+      "owned": 10,
+      "beaten": 15,
+      "toplay": 32,
+      "dropped": 2,
+      "playing": 7
+    },
+    "playtime": 0,
+    "screenshots_count": 0,
+    "movies_count": 0,
+    "creators_count": 1,
+    "achievements_count": 0,
+    "parent_achievements_count": 0,
+    "reddit_url": "",
+    "reddit_name": "",
+    "reddit_description": "",
+    "reddit_logo": "",
+    "reddit_count": 0,
+    "twitch_count": 0,
+    "youtube_count": 0,
+    "reviews_text_count": 0,
+    "ratings_count": 15,
+    "suggestions_count": 0,
+    "alternative_names": [],
+    "metacritic_url": "",
+    "parents_count": 0,
+    "additions_count": 0,
+    "game_series_count": 0,
+    "user_game": null,
+    "reviews_count": 15,
+    "saturated_color": "0f0f0f",
+    "dominant_color": "0f0f0f",
+    "parent_platforms": [
+      {
+        "platform": {
+          "id": 7,
+          "name": "Nintendo",
+          "slug": "nintendo"
+        }
+      }
+    ],
+    "platforms": [
+      {
+        "platform": {
+          "id": 7,
+          "name": "Nintendo Switch",
+          "slug": "nintendo-switch",
+          "image": null,
+          "year_end": null,
+          "year_start": null,
+          "games_count": 5765,
+          "image_background": "https://media.rawg.io/media/games/5a4/5a44112251d70a25291cc33757220fce.jpg"
+        },
+        "released_at": "2025-10-16",
+        "requirements": {}
+      }
+    ],
+    "stores": [],
+    "developers": [
+      {
+        "id": 8230,
+        "name": "Game Freak",
+        "slug": "game-freak",
+        "games_count": 61,
+        "image_background": "https://media.rawg.io/media/games/82f/82f7b1424c5ee7eebee83faf694889c5.jpg"
+      },
+      {
+        "id": 26878,
+        "name": "Creatures",
+        "slug": "creatures",
+        "games_count": 21,
+        "image_background": "https://media.rawg.io/media/games/554/55437bc646c79171f5b307b7bb228e97.jpg"
+      }
+    ],
+    "genres": [
+      {
+        "id": 3,
+        "name": "Adventure",
+        "slug": "adventure",
+        "games_count": 151684,
+        "image_background": "https://media.rawg.io/media/games/c50/c5085506fe4b5e20fc7aa5ace842c20b.jpg"
+      },
+      {
+        "id": 5,
+        "name": "RPG",
+        "slug": "role-playing-games-rpg",
+        "games_count": 61936,
+        "image_background": "https://media.rawg.io/media/games/d1a/d1a2e99ade53494c6330a0ed945fe823.jpg"
+      }
+    ],
+    "tags": [],
+    "publishers": [
+      {
+        "id": 10681,
+        "name": "Nintendo",
+        "slug": "nintendo",
+        "games_count": 1241,
+        "image_background": "https://media.rawg.io/media/games/3a0/3a0c8e9ed3a711c542218831b893a0fa.jpg"
+      }
+    ],
+    "esrb_rating": {
+      "id": 2,
+      "name": "Everyone 10+",
+      "slug": "everyone-10-plus"
+    },
+    "clip": null,
+    "description_raw": "The story is set in Lumiose City, where an urban redevelopment plan is underway to shape the city into a place that belongs to both people and Pokémon. Compared to Lumiose City as it appeared in the Pokémon X and Pokémon Y games, released in 2013, more greenery now adorns the city, alongside facilities with a cutting-edge feel.\n\nIn Lumiose City, spaces frequented by people—such as shopping arcades, cafés, and restaurants—coexist with more natural areas, such as waterfronts and verdant parks. At the center of Lumiose stands Prism Tower, the very symbol of the city."
+  },
+  "screenshots": []
+}

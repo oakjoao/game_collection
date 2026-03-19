@@ -1,0 +1,293 @@
+{
+  "details": {
+    "id": 292842,
+    "slug": "the-legend-of-zelda-links-awakening",
+    "name": "The Legend of Zelda: Link's Awakening (2019)",
+    "name_original": "The Legend of Zelda: Link's Awakening (2019)",
+    "description": "<p>In this modern re-imagining, players travel to the mysterious island of Koholint to guide Link on a perilous adventure.</p>",
+    "metacritic": 87,
+    "metacritic_platforms": [
+      {
+        "metascore": 87,
+        "url": "https://www.metacritic.com/game/switch/the-legend-of-zelda-links-awakening",
+        "platform": {
+          "platform": 7,
+          "name": "Nintendo Switch",
+          "slug": "nintendo-switch"
+        }
+      }
+    ],
+    "released": "2019-09-20",
+    "tba": false,
+    "updated": "2026-02-06T15:53:10",
+    "background_image": "https://media.rawg.io/media/games/1bb/1bb38f1354db6596ccd6bdcb4a7f6cbc.jpg",
+    "background_image_additional": "https://media.rawg.io/media/screenshots/255/255a79d825a1ada9aec43e78743666bb.jpg",
+    "website": "",
+    "rating": 4.36,
+    "rating_top": 4,
+    "ratings": [
+      {
+        "id": 4,
+        "title": "recommended",
+        "count": 255,
+        "percent": 47.4
+      },
+      {
+        "id": 5,
+        "title": "exceptional",
+        "count": 246,
+        "percent": 45.72
+      },
+      {
+        "id": 3,
+        "title": "meh",
+        "count": 30,
+        "percent": 5.58
+      },
+      {
+        "id": 1,
+        "title": "skip",
+        "count": 7,
+        "percent": 1.3
+      }
+    ],
+    "reactions": {
+      "1": 2,
+      "3": 2,
+      "4": 2,
+      "6": 1,
+      "7": 1,
+      "9": 1,
+      "10": 1,
+      "12": 2,
+      "14": 1,
+      "19": 1
+    },
+    "added": 1596,
+    "added_by_status": {
+      "yet": 156,
+      "owned": 192,
+      "beaten": 585,
+      "toplay": 487,
+      "dropped": 89,
+      "playing": 87
+    },
+    "playtime": 0,
+    "screenshots_count": 14,
+    "movies_count": 0,
+    "creators_count": 5,
+    "achievements_count": 0,
+    "parent_achievements_count": 0,
+    "reddit_url": "",
+    "reddit_name": "",
+    "reddit_description": "",
+    "reddit_logo": "",
+    "reddit_count": 0,
+    "twitch_count": 109,
+    "youtube_count": 1000000,
+    "reviews_text_count": 14,
+    "ratings_count": 524,
+    "suggestions_count": 443,
+    "alternative_names": [
+      "The Legend of Zelda: Link's Awakening Remake",
+      "The Legend of Zelda: Link's Awakening Switch"
+    ],
+    "metacritic_url": "https://www.metacritic.com/game/switch/the-legend-of-zelda-links-awakening",
+    "parents_count": 1,
+    "additions_count": 0,
+    "game_series_count": 0,
+    "user_game": null,
+    "reviews_count": 538,
+    "saturated_color": "0f0f0f",
+    "dominant_color": "0f0f0f",
+    "parent_platforms": [
+      {
+        "platform": {
+          "id": 7,
+          "name": "Nintendo",
+          "slug": "nintendo"
+        }
+      }
+    ],
+    "platforms": [
+      {
+        "platform": {
+          "id": 7,
+          "name": "Nintendo Switch",
+          "slug": "nintendo-switch",
+          "image": null,
+          "year_end": null,
+          "year_start": null,
+          "games_count": 5765,
+          "image_background": "https://media.rawg.io/media/games/5a4/5a44112251d70a25291cc33757220fce.jpg"
+        },
+        "released_at": "2019-09-20",
+        "requirements": {}
+      }
+    ],
+    "stores": [
+      {
+        "id": 293363,
+        "url": "",
+        "store": {
+          "id": 6,
+          "name": "Nintendo Store",
+          "slug": "nintendo",
+          "domain": "nintendo.com",
+          "games_count": 9150,
+          "image_background": "https://media.rawg.io/media/games/5eb/5eb49eb2fa0738fdb5bacea557b1bc57.jpg"
+        }
+      }
+    ],
+    "developers": [
+      {
+        "id": 26311,
+        "name": "Grezzo",
+        "slug": "grezzo",
+        "games_count": 5,
+        "image_background": "https://media.rawg.io/media/screenshots/bd8/bd8f58cb06a8344eb8f3cbe5c81d6d23.jpg"
+      }
+    ],
+    "genres": [
+      {
+        "id": 4,
+        "name": "Action",
+        "slug": "action",
+        "games_count": 191508,
+        "image_background": "https://media.rawg.io/media/games/737/737ea5662211d2e0bbd6f5989189e4f1.jpg"
+      },
+      {
+        "id": 3,
+        "name": "Adventure",
+        "slug": "adventure",
+        "games_count": 151684,
+        "image_background": "https://media.rawg.io/media/games/c50/c5085506fe4b5e20fc7aa5ace842c20b.jpg"
+      },
+      {
+        "id": 5,
+        "name": "RPG",
+        "slug": "role-playing-games-rpg",
+        "games_count": 61936,
+        "image_background": "https://media.rawg.io/media/games/d1a/d1a2e99ade53494c6330a0ed945fe823.jpg"
+      }
+    ],
+    "tags": [
+      {
+        "id": 31,
+        "name": "Singleplayer",
+        "slug": "singleplayer",
+        "language": "eng",
+        "games_count": 250812,
+        "image_background": "https://media.rawg.io/media/games/26d/26d4437715bee60138dab4a7c8c59c92.jpg"
+      },
+      {
+        "id": 24,
+        "name": "RPG",
+        "slug": "rpg",
+        "language": "eng",
+        "games_count": 26621,
+        "image_background": "https://media.rawg.io/media/games/d69/d69810315bd7e226ea2d21f9156af629.jpg"
+      },
+      {
+        "id": 468,
+        "name": "role-playing",
+        "slug": "role-playing",
+        "language": "eng",
+        "games_count": 1657,
+        "image_background": "https://media.rawg.io/media/games/8ca/8ca40b562a755d6a0e30d48e6c74b178.jpg"
+      },
+      {
+        "id": 37796,
+        "name": "exclusive",
+        "slug": "exclusive",
+        "language": "eng",
+        "games_count": 4491,
+        "image_background": "https://media.rawg.io/media/games/b7d/b7d3f1715fa8381a4e780173a197a615.jpg"
+      },
+      {
+        "id": 37797,
+        "name": "true exclusive",
+        "slug": "true-exclusive",
+        "language": "eng",
+        "games_count": 3981,
+        "image_background": "https://media.rawg.io/media/games/d30/d30ef0c7dd4878161b1f781e297ae6a0.jpg"
+      },
+      {
+        "id": 867,
+        "name": "zelda",
+        "slug": "zelda",
+        "language": "eng",
+        "games_count": 452,
+        "image_background": "https://media.rawg.io/media/games/087/08727beb32c364d30e8b2a1aa8595f8e.jpg"
+      },
+      {
+        "id": 66209,
+        "name": "top-dow",
+        "slug": "top-dow",
+        "language": "eng",
+        "games_count": 2,
+        "image_background": "https://media.rawg.io/media/games/1bb/1bb38f1354db6596ccd6bdcb4a7f6cbc.jpg"
+      }
+    ],
+    "publishers": [
+      {
+        "id": 10681,
+        "name": "Nintendo",
+        "slug": "nintendo",
+        "games_count": 1241,
+        "image_background": "https://media.rawg.io/media/games/3a0/3a0c8e9ed3a711c542218831b893a0fa.jpg"
+      }
+    ],
+    "esrb_rating": {
+      "id": 1,
+      "name": "Everyone",
+      "slug": "everyone"
+    },
+    "clip": null,
+    "description_raw": "In this modern re-imagining, players travel to the mysterious island of Koholint to guide Link on a perilous adventure."
+  },
+  "screenshots": [
+    {
+      "id": 1837492,
+      "image": "https://media.rawg.io/media/screenshots/55f/55f83f0dc48c6d5907947b04fe3a3bf7.jpg",
+      "width": 1280,
+      "height": 727,
+      "is_deleted": false
+    },
+    {
+      "id": 1837493,
+      "image": "https://media.rawg.io/media/screenshots/e21/e21615c4b4d3ddeb3e5104768c436e6d.jpg",
+      "width": 1280,
+      "height": 727,
+      "is_deleted": false
+    },
+    {
+      "id": 1837494,
+      "image": "https://media.rawg.io/media/screenshots/63d/63d28b0704246943e8e405ba34fdd283.jpg",
+      "width": 1280,
+      "height": 727,
+      "is_deleted": false
+    },
+    {
+      "id": 1837495,
+      "image": "https://media.rawg.io/media/screenshots/a00/a004e37ada339c47c9d061efd4847f2a.jpg",
+      "width": 1280,
+      "height": 727,
+      "is_deleted": false
+    },
+    {
+      "id": 1837496,
+      "image": "https://media.rawg.io/media/screenshots/707/707f959465e2673f57bd4df58b47e89a.jpg",
+      "width": 1280,
+      "height": 727,
+      "is_deleted": false
+    },
+    {
+      "id": 1837497,
+      "image": "https://media.rawg.io/media/screenshots/71a/71ac982d0d75f392fa671d61c5ddd1ed.jpg",
+      "width": 1280,
+      "height": 727,
+      "is_deleted": false
+    }
+  ]
+}

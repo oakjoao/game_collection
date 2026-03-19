@@ -1,0 +1,431 @@
+{
+  "details": {
+    "id": 58825,
+    "slug": "daemon-x-machina",
+    "name": "DAEMON X MACHINA",
+    "name_original": "DAEMON X MACHINA",
+    "description": "<p>Daemon X Machina is a mecha simulator game in which the player controls a gigantic battle robot. </p>\n<h3>Plot</h3>\n<p>The game is set in the future after an apocalyptic collision of Earth and Moon. As a result of the cataclysm, all AI on Earth was disrupted, and machines rose against humanity. The player assumes the role of a mercenary pilot (an “Outer”) in control of a battle robot (called “Arsenal”), tasked with protecting the humanity. The Outers are not merely human beings but are people with superhuman powers that make them outcasts of the society.</p>\n<h3>Gameplay</h3>\n<p>The robots are highly customizable. The game allows the player to change details even during combat. As the player defeats the enemy robots, he or she can scavenge their parts to use for his or her own machine. The Outers are also customizable. The player can choose his or her avatar&#39;s gender and looks, as well as the character&#39;s abilities. The main hub in the game is Hangar, where the player can accept missions and purchase upgrades.</p>\n<h3>Visual style</h3>\n<p>Being strongly inspired by anime series like Evangelion and Gundam, the game tries to imitate them visually. Daemon X Machina features a cell-shaded pseudo-2D animation style with high contrast and limited use of colors. It features heavy metal music.</p>\n<h3>Multiplayer</h3>\n<p>The game has a cooperative multiplayer mode that allows up to four players to participate. In the solo game, the non-player companions are AI-controlled.</p>",
+    "metacritic": 70,
+    "metacritic_platforms": [
+      {
+        "metascore": 72,
+        "url": "https://www.metacritic.com/game/pc/daemon-x-machina",
+        "platform": {
+          "platform": 4,
+          "name": "PC",
+          "slug": "pc"
+        }
+      },
+      {
+        "metascore": 69,
+        "url": "https://www.metacritic.com/game/switch/daemon-x-machina",
+        "platform": {
+          "platform": 7,
+          "name": "Nintendo Switch",
+          "slug": "nintendo-switch"
+        }
+      }
+    ],
+    "released": "2019-09-13",
+    "tba": false,
+    "updated": "2026-02-26T14:29:44",
+    "background_image": "https://media.rawg.io/media/games/24d/24d87465e0abad1a0e0e95d09bcc2a2f.jpg",
+    "background_image_additional": "https://media.rawg.io/media/screenshots/53d/53dfb3edc735c48d0c18c336d1d2ffe2.jpg",
+    "website": "https://www.xseedgames.com/",
+    "rating": 2.86,
+    "rating_top": 3,
+    "ratings": [
+      {
+        "id": 3,
+        "title": "meh",
+        "count": 20,
+        "percent": 57.14
+      },
+      {
+        "id": 4,
+        "title": "recommended",
+        "count": 7,
+        "percent": 20
+      },
+      {
+        "id": 1,
+        "title": "skip",
+        "count": 7,
+        "percent": 20
+      },
+      {
+        "id": 5,
+        "title": "exceptional",
+        "count": 1,
+        "percent": 2.86
+      }
+    ],
+    "reactions": {
+      "17": 1
+    },
+    "added": 384,
+    "added_by_status": {
+      "yet": 82,
+      "owned": 175,
+      "beaten": 14,
+      "toplay": 77,
+      "dropped": 32,
+      "playing": 4
+    },
+    "playtime": 4,
+    "screenshots_count": 4,
+    "movies_count": 0,
+    "creators_count": 0,
+    "achievements_count": 38,
+    "parent_achievements_count": 38,
+    "reddit_url": "",
+    "reddit_name": "",
+    "reddit_description": "",
+    "reddit_logo": "",
+    "reddit_count": 0,
+    "twitch_count": 163,
+    "youtube_count": 28906,
+    "reviews_text_count": 1,
+    "ratings_count": 34,
+    "suggestions_count": 223,
+    "alternative_names": [],
+    "metacritic_url": "https://www.metacritic.com/game/switch/daemon-x-machina",
+    "parents_count": 0,
+    "additions_count": 0,
+    "game_series_count": 0,
+    "user_game": null,
+    "reviews_count": 35,
+    "saturated_color": "0f0f0f",
+    "dominant_color": "0f0f0f",
+    "parent_platforms": [
+      {
+        "platform": {
+          "id": 1,
+          "name": "PC",
+          "slug": "pc"
+        }
+      },
+      {
+        "platform": {
+          "id": 7,
+          "name": "Nintendo",
+          "slug": "nintendo"
+        }
+      }
+    ],
+    "platforms": [
+      {
+        "platform": {
+          "id": 7,
+          "name": "Nintendo Switch",
+          "slug": "nintendo-switch",
+          "image": null,
+          "year_end": null,
+          "year_start": null,
+          "games_count": 5765,
+          "image_background": "https://media.rawg.io/media/games/5a4/5a44112251d70a25291cc33757220fce.jpg"
+        },
+        "released_at": "2019-09-13",
+        "requirements": {}
+      },
+      {
+        "platform": {
+          "id": 4,
+          "name": "PC",
+          "slug": "pc",
+          "image": null,
+          "year_end": null,
+          "year_start": null,
+          "games_count": 560528,
+          "image_background": "https://media.rawg.io/media/games/4be/4be6a6ad0364751a96229c56bf69be59.jpg"
+        },
+        "released_at": "2019-09-13",
+        "requirements": {
+          "minimum": "Minimum:\nRequires a 64-bit processor and operating system\nOS: Windows 8.1/10\nProcessor: Intel i5-3470 / AMD FX-8300\nMemory: 6 GB RAM\nGraphics: NVIDIA Geforce GTX 660 / Radeon HD7870\nDirectX: Version 11\nStorage: 13 GB available space",
+          "recommended": "Recommended:\nRequires a 64-bit processor and operating system\nOS: Windows 8.1/10\nProcessor: Intel i7-6700 / AMD Ryzen 5 2600\nMemory: 8 GB RAM\nGraphics: NVIDIA Geforce GTX 1060 / Radeon RX580\nDirectX: Version 11\nStorage: 13 GB available space"
+        }
+      }
+    ],
+    "stores": [
+      {
+        "id": 475969,
+        "url": "",
+        "store": {
+          "id": 1,
+          "name": "Steam",
+          "slug": "steam",
+          "domain": "store.steampowered.com",
+          "games_count": 123255,
+          "image_background": "https://media.rawg.io/media/games/587/587588c64afbff80e6f444eb2e46f9da.jpg"
+        }
+      },
+      {
+        "id": 48901,
+        "url": "",
+        "store": {
+          "id": 6,
+          "name": "Nintendo Store",
+          "slug": "nintendo",
+          "domain": "nintendo.com",
+          "games_count": 9150,
+          "image_background": "https://media.rawg.io/media/games/5eb/5eb49eb2fa0738fdb5bacea557b1bc57.jpg"
+        }
+      },
+      {
+        "id": 724069,
+        "url": "",
+        "store": {
+          "id": 11,
+          "name": "Epic Games",
+          "slug": "epic-games",
+          "domain": "epicgames.com",
+          "games_count": 1448,
+          "image_background": "https://media.rawg.io/media/games/b54/b54598d1d5cc31899f4f0a7e3122a7b0.jpg"
+        }
+      }
+    ],
+    "developers": [
+      {
+        "id": 7239,
+        "name": "Marvelous",
+        "slug": "marvelous-inc",
+        "games_count": 42,
+        "image_background": "https://media.rawg.io/media/screenshots/d36/d3619a66a551351fa75ce870c44c74be.jpg"
+      }
+    ],
+    "genres": [
+      {
+        "id": 4,
+        "name": "Action",
+        "slug": "action",
+        "games_count": 191508,
+        "image_background": "https://media.rawg.io/media/games/737/737ea5662211d2e0bbd6f5989189e4f1.jpg"
+      }
+    ],
+    "tags": [
+      {
+        "id": 31,
+        "name": "Singleplayer",
+        "slug": "singleplayer",
+        "language": "eng",
+        "games_count": 250812,
+        "image_background": "https://media.rawg.io/media/games/26d/26d4437715bee60138dab4a7c8c59c92.jpg"
+      },
+      {
+        "id": 40847,
+        "name": "Steam Achievements",
+        "slug": "steam-achievements",
+        "language": "eng",
+        "games_count": 51706,
+        "image_background": "https://media.rawg.io/media/games/49c/49c3dfa4ce2f6f140cc4825868e858cb.jpg"
+      },
+      {
+        "id": 7,
+        "name": "Multiplayer",
+        "slug": "multiplayer",
+        "language": "eng",
+        "games_count": 42552,
+        "image_background": "https://media.rawg.io/media/games/960/960b601d9541cec776c5fa42a00bf6c4.jpg"
+      },
+      {
+        "id": 40849,
+        "name": "Steam Cloud",
+        "slug": "steam-cloud",
+        "language": "eng",
+        "games_count": 25731,
+        "image_background": "https://media.rawg.io/media/games/120/1201a40e4364557b124392ee50317b99.jpg"
+      },
+      {
+        "id": 42,
+        "name": "Great Soundtrack",
+        "slug": "great-soundtrack",
+        "language": "eng",
+        "games_count": 3450,
+        "image_background": "https://media.rawg.io/media/games/587/587588c64afbff80e6f444eb2e46f9da.jpg"
+      },
+      {
+        "id": 18,
+        "name": "Co-op",
+        "slug": "co-op",
+        "language": "eng",
+        "games_count": 14390,
+        "image_background": "https://media.rawg.io/media/games/49c/49c3dfa4ce2f6f140cc4825868e858cb.jpg"
+      },
+      {
+        "id": 32,
+        "name": "Sci-fi",
+        "slug": "sci-fi",
+        "language": "eng",
+        "games_count": 22067,
+        "image_background": "https://media.rawg.io/media/games/951/951572a3dd1e42544bd39a5d5b42d234.jpg"
+      },
+      {
+        "id": 40845,
+        "name": "Partial Controller Support",
+        "slug": "partial-controller-support",
+        "language": "eng",
+        "games_count": 13990,
+        "image_background": "https://media.rawg.io/media/games/c80/c80bcf321da44d69b18a06c04d942662.jpg"
+      },
+      {
+        "id": 9,
+        "name": "Online Co-Op",
+        "slug": "online-co-op",
+        "language": "eng",
+        "games_count": 7680,
+        "image_background": "https://media.rawg.io/media/games/2ba/2bac0e87cf45e5b508f227d281c9252a.jpg"
+      },
+      {
+        "id": 40850,
+        "name": "Steam Leaderboards",
+        "slug": "steam-leaderboards",
+        "language": "eng",
+        "games_count": 8464,
+        "image_background": "https://media.rawg.io/media/games/7ac/7aca7ccf0e70cd0974cb899ab9e5158e.jpg"
+      },
+      {
+        "id": 157,
+        "name": "PvP",
+        "slug": "pvp",
+        "language": "eng",
+        "games_count": 12046,
+        "image_background": "https://media.rawg.io/media/games/26b/26b27e1da9e3727fcb12e3e4e86c8c19.jpg"
+      },
+      {
+        "id": 134,
+        "name": "Anime",
+        "slug": "anime",
+        "language": "eng",
+        "games_count": 17057,
+        "image_background": "https://media.rawg.io/media/games/3b5/3b56220d6038b8b1ad66c4d05ef95215.jpg"
+      },
+      {
+        "id": 121,
+        "name": "Character Customization",
+        "slug": "character-customization",
+        "language": "eng",
+        "games_count": 6646,
+        "image_background": "https://media.rawg.io/media/games/e3d/e3ddc524c6292a435d01d97cc5f42ea7.jpg"
+      },
+      {
+        "id": 37796,
+        "name": "exclusive",
+        "slug": "exclusive",
+        "language": "eng",
+        "games_count": 4491,
+        "image_background": "https://media.rawg.io/media/games/b7d/b7d3f1715fa8381a4e780173a197a615.jpg"
+      },
+      {
+        "id": 43,
+        "name": "Post-apocalyptic",
+        "slug": "post-apocalyptic",
+        "language": "eng",
+        "games_count": 4939,
+        "image_background": "https://media.rawg.io/media/games/120/1201a40e4364557b124392ee50317b99.jpg"
+      },
+      {
+        "id": 45878,
+        "name": "Online PvP",
+        "slug": "online-pvp",
+        "language": "eng",
+        "games_count": 6410,
+        "image_background": "https://media.rawg.io/media/games/c3b/c3be1d5f55cb9324c97ccb7aaaf42ad4.jpg"
+      },
+      {
+        "id": 37797,
+        "name": "true exclusive",
+        "slug": "true-exclusive",
+        "language": "eng",
+        "games_count": 3981,
+        "image_background": "https://media.rawg.io/media/games/d30/d30ef0c7dd4878161b1f781e297ae6a0.jpg"
+      },
+      {
+        "id": 40937,
+        "name": "Steam Trading Cards",
+        "slug": "steam-trading-cards-2",
+        "language": "eng",
+        "games_count": 842,
+        "image_background": "https://media.rawg.io/media/games/a4b/a4bb55f42fe837ae7bf1307e7b41cc85.jpg"
+      },
+      {
+        "id": 197,
+        "name": "Robots",
+        "slug": "robots",
+        "language": "eng",
+        "games_count": 8874,
+        "image_background": "https://media.rawg.io/media/screenshots/20e/20ec6440ede691638c42684fd6551156.jpg"
+      },
+      {
+        "id": 184,
+        "name": "Mechs",
+        "slug": "mechs",
+        "language": "eng",
+        "games_count": 1430,
+        "image_background": "https://media.rawg.io/media/screenshots/821/821382933bf3dd44a9c79a5ab04b5881.jpg"
+      }
+    ],
+    "publishers": [
+      {
+        "id": 10681,
+        "name": "Nintendo",
+        "slug": "nintendo",
+        "games_count": 1241,
+        "image_background": "https://media.rawg.io/media/games/3a0/3a0c8e9ed3a711c542218831b893a0fa.jpg"
+      },
+      {
+        "id": 3290,
+        "name": "XSEED Games",
+        "slug": "xseed-games",
+        "games_count": 119,
+        "image_background": "https://media.rawg.io/media/games/25c/25c2615be4dbd4497968491ea3f986d0.jpg"
+      },
+      {
+        "id": 11066,
+        "name": "Marvelous USA",
+        "slug": "marvelous-usa",
+        "games_count": 70,
+        "image_background": "https://media.rawg.io/media/screenshots/a1b/a1bc5a90782fe3e918a828b53d8f63aa.jpg"
+      },
+      {
+        "id": 3490,
+        "name": "Marvelous",
+        "slug": "marvelous",
+        "games_count": 41,
+        "image_background": "https://media.rawg.io/media/games/276/276161d772f7f3f9a4520f6e9698f8c8.jpg"
+      }
+    ],
+    "esrb_rating": null,
+    "clip": null,
+    "description_raw": "Daemon X Machina is a mecha simulator game in which the player controls a gigantic battle robot. \r\n\r\n###Plot\r\nThe game is set in the future after an apocalyptic collision of Earth and Moon. As a result of the cataclysm, all AI on Earth was disrupted, and machines rose against humanity. The player assumes the role of a mercenary pilot (an “Outer”) in control of a battle robot (called “Arsenal”), tasked with protecting the humanity. The Outers are not merely human beings but are people with superhuman powers that make them outcasts of the society.\r\n\r\n###Gameplay\r\nThe robots are highly customizable. The game allows the player to change details even during combat. As the player defeats the enemy robots, he or she can scavenge their parts to use for his or her own machine. The Outers are also customizable. The player can choose his or her avatar's gender and looks, as well as the character's abilities. The main hub in the game is Hangar, where the player can accept missions and purchase upgrades.\r\n\r\n###Visual style\r\nBeing strongly inspired by anime series like Evangelion and Gundam, the game tries to imitate them visually. Daemon X Machina features a cell-shaded pseudo-2D animation style with high contrast and limited use of colors. It features heavy metal music.\r\n\r\n###Multiplayer\r\nThe game has a cooperative multiplayer mode that allows up to four players to participate. In the solo game, the non-player companions are AI-controlled."
+  },
+  "screenshots": [
+    {
+      "id": 779337,
+      "image": "https://media.rawg.io/media/screenshots/892/892b84b76c38d3078220ef25956071f8.jpg",
+      "width": 1920,
+      "height": 1080,
+      "is_deleted": false
+    },
+    {
+      "id": 779338,
+      "image": "https://media.rawg.io/media/screenshots/ada/adac2377a6997d6335cdf293bb97cf56.jpg",
+      "width": 902,
+      "height": 507,
+      "is_deleted": false
+    },
+    {
+      "id": 779339,
+      "image": "https://media.rawg.io/media/screenshots/53d/53dfb3edc735c48d0c18c336d1d2ffe2.jpg",
+      "width": 1200,
+      "height": 675,
+      "is_deleted": false
+    },
+    {
+      "id": 779340,
+      "image": "https://media.rawg.io/media/screenshots/8c6/8c68a5338c287845552697b29bc93fa0.jpg",
+      "width": 1280,
+      "height": 721,
+      "is_deleted": false
+    }
+  ]
+}

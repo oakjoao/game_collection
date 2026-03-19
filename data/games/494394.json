@@ -1,0 +1,463 @@
+{
+  "details": {
+    "id": 494394,
+    "slug": "monster-hunter-stories-2-wings-of-ruin",
+    "name": "Monster Hunter Stories 2: Wings of Ruin",
+    "name_original": "Monster Hunter Stories 2: Wings of Ruin",
+    "description": "<p>Monster Hunter Stories 2: Wings of Ruin offers both RPG and Monster Hunter fans a unique new experience with a rich storyline featuring charming characters, challenging quests and friendly encounters with familiar monsters from the Monster Hunter series. Assuming the role of a young Monster Rider who can use a Kinship Stone to form strong bonds with monsters, players can gain experience and improve their skills to form deeper connections with these wonderful creatures. When ready, players can embark on memorable adventures filled with dramatic events and heartwarming friendships as the epic tale unfolds.</p>",
+    "metacritic": 82,
+    "metacritic_platforms": [
+      {
+        "metascore": 82,
+        "url": "https://www.metacritic.com/game/pc/monster-hunter-stories-2-wings-of-ruin",
+        "platform": {
+          "platform": 4,
+          "name": "PC",
+          "slug": "pc"
+        }
+      },
+      {
+        "metascore": 81,
+        "url": "https://www.metacritic.com/game/switch/monster-hunter-stories-2-wings-of-ruin",
+        "platform": {
+          "platform": 7,
+          "name": "Nintendo Switch",
+          "slug": "nintendo-switch"
+        }
+      }
+    ],
+    "released": "2021-07-09",
+    "tba": false,
+    "updated": "2026-03-14T20:44:21",
+    "background_image": "https://media.rawg.io/media/games/f79/f79662d3267e50434ab6c674d47aa1f1.jpg",
+    "background_image_additional": "https://media.rawg.io/media/screenshots/9ba/9ba6a385aa952912d805910f1f101e1e.jpg",
+    "website": "https://www.capcom.co.jp/monsterhunter/stories2/",
+    "rating": 3.89,
+    "rating_top": 4,
+    "ratings": [
+      {
+        "id": 4,
+        "title": "recommended",
+        "count": 14,
+        "percent": 51.85
+      },
+      {
+        "id": 5,
+        "title": "exceptional",
+        "count": 7,
+        "percent": 25.93
+      },
+      {
+        "id": 3,
+        "title": "meh",
+        "count": 4,
+        "percent": 14.81
+      },
+      {
+        "id": 1,
+        "title": "skip",
+        "count": 2,
+        "percent": 7.41
+      }
+    ],
+    "reactions": {
+      "2": 1
+    },
+    "added": 364,
+    "added_by_status": {
+      "yet": 28,
+      "owned": 212,
+      "beaten": 23,
+      "toplay": 77,
+      "dropped": 13,
+      "playing": 11
+    },
+    "playtime": 10,
+    "screenshots_count": 6,
+    "movies_count": 0,
+    "creators_count": 22,
+    "achievements_count": 34,
+    "parent_achievements_count": 34,
+    "reddit_url": "https://www.reddit.com/r/MonsterHunterStories/",
+    "reddit_name": "",
+    "reddit_description": "",
+    "reddit_logo": "",
+    "reddit_count": 386,
+    "twitch_count": 166,
+    "youtube_count": 630282,
+    "reviews_text_count": 2,
+    "ratings_count": 25,
+    "suggestions_count": 302,
+    "alternative_names": [],
+    "metacritic_url": "https://www.metacritic.com/game/switch/monster-hunter-stories-2-wings-of-ruin",
+    "parents_count": 0,
+    "additions_count": 1,
+    "game_series_count": 22,
+    "user_game": null,
+    "reviews_count": 27,
+    "saturated_color": "0f0f0f",
+    "dominant_color": "0f0f0f",
+    "parent_platforms": [
+      {
+        "platform": {
+          "id": 1,
+          "name": "PC",
+          "slug": "pc"
+        }
+      },
+      {
+        "platform": {
+          "id": 7,
+          "name": "Nintendo",
+          "slug": "nintendo"
+        }
+      }
+    ],
+    "platforms": [
+      {
+        "platform": {
+          "id": 7,
+          "name": "Nintendo Switch",
+          "slug": "nintendo-switch",
+          "image": null,
+          "year_end": null,
+          "year_start": null,
+          "games_count": 5765,
+          "image_background": "https://media.rawg.io/media/games/5a4/5a44112251d70a25291cc33757220fce.jpg"
+        },
+        "released_at": "2021-07-09",
+        "requirements": {}
+      },
+      {
+        "platform": {
+          "id": 4,
+          "name": "PC",
+          "slug": "pc",
+          "image": null,
+          "year_end": null,
+          "year_start": null,
+          "games_count": 560528,
+          "image_background": "https://media.rawg.io/media/games/4be/4be6a6ad0364751a96229c56bf69be59.jpg"
+        },
+        "released_at": "2021-07-09",
+        "requirements": {
+          "minimum": "Minimum:\nRequires a 64-bit processor and operating system\nOS: WINDOWS® 10 (64-BIT Required)\nProcessor: Intel® Core™ i5-3470 3.20 GHz or AMD FX-6300™ or better\nMemory: 4 GB RAM\nGraphics: NVIDIA®GeForce® GTX 960 / 2GB VRAM or AMD Radeon RX 560 / 2GB VRAM\nDirectX: Version 11\nNetwork: Broadband Internet connection\nStorage: 28 GB available space\nSound Card: DirectSound compatible (must support DirectX® 9.0c or higher)\nAdditional Notes: This game is expected to run at 1080p/30 FPS. If you don't have enough performance to run the game at your selected graphic quality, you must go to Options &gt; Graphics and decrease the resolution or adjust the quality setting. An internet connection is required for product activation. (Network connectivity uses Steam® developed by Valve® Corporation.)",
+          "recommended": "Recommended:\nRequires a 64-bit processor and operating system\nOS: WINDOWS® 10 (64-BIT Required)\nProcessor: Intel® Core™ i5-4460 3.20 GHz or AMD FX-8300™ or better\nMemory: 8 GB RAM\nGraphics: NVIDIA®GeForce® GTX 960 / 2GB VRAM or AMD Radeon RX 560 / 2GB VRAM\nDirectX: Version 11\nNetwork: Broadband Internet connection\nStorage: 28 GB available space\nSound Card: DirectSound compatible (must support DirectX® 9.0c or higher)\nAdditional Notes: This game is expected to run at 1080p/30 FPS. An internet connection is required for product activation. (Network connectivity uses Steam® developed by Valve® Corporation.)"
+        }
+      }
+    ],
+    "stores": [
+      {
+        "id": 486052,
+        "url": "",
+        "store": {
+          "id": 6,
+          "name": "Nintendo Store",
+          "slug": "nintendo",
+          "domain": "nintendo.com",
+          "games_count": 9150,
+          "image_background": "https://media.rawg.io/media/games/5eb/5eb49eb2fa0738fdb5bacea557b1bc57.jpg"
+        }
+      },
+      {
+        "id": 617121,
+        "url": "",
+        "store": {
+          "id": 1,
+          "name": "Steam",
+          "slug": "steam",
+          "domain": "store.steampowered.com",
+          "games_count": 123255,
+          "image_background": "https://media.rawg.io/media/games/587/587588c64afbff80e6f444eb2e46f9da.jpg"
+        }
+      }
+    ],
+    "developers": [
+      {
+        "id": 3678,
+        "name": "Capcom",
+        "slug": "capcom",
+        "games_count": 476,
+        "image_background": "https://media.rawg.io/media/screenshots/119/1190d9632988dbe1c6d3001ee51c4c74.jpg"
+      }
+    ],
+    "genres": [
+      {
+        "id": 3,
+        "name": "Adventure",
+        "slug": "adventure",
+        "games_count": 151684,
+        "image_background": "https://media.rawg.io/media/games/c50/c5085506fe4b5e20fc7aa5ace842c20b.jpg"
+      },
+      {
+        "id": 5,
+        "name": "RPG",
+        "slug": "role-playing-games-rpg",
+        "games_count": 61936,
+        "image_background": "https://media.rawg.io/media/games/d1a/d1a2e99ade53494c6330a0ed945fe823.jpg"
+      }
+    ],
+    "tags": [
+      {
+        "id": 31,
+        "name": "Singleplayer",
+        "slug": "singleplayer",
+        "language": "eng",
+        "games_count": 250812,
+        "image_background": "https://media.rawg.io/media/games/26d/26d4437715bee60138dab4a7c8c59c92.jpg"
+      },
+      {
+        "id": 40847,
+        "name": "Steam Achievements",
+        "slug": "steam-achievements",
+        "language": "eng",
+        "games_count": 51706,
+        "image_background": "https://media.rawg.io/media/games/49c/49c3dfa4ce2f6f140cc4825868e858cb.jpg"
+      },
+      {
+        "id": 7,
+        "name": "Multiplayer",
+        "slug": "multiplayer",
+        "language": "eng",
+        "games_count": 42552,
+        "image_background": "https://media.rawg.io/media/games/960/960b601d9541cec776c5fa42a00bf6c4.jpg"
+      },
+      {
+        "id": 40836,
+        "name": "Full controller support",
+        "slug": "full-controller-support",
+        "language": "eng",
+        "games_count": 24141,
+        "image_background": "https://media.rawg.io/media/games/8d6/8d69eb6c32ed6acfd75f82d532144993.jpg"
+      },
+      {
+        "id": 40849,
+        "name": "Steam Cloud",
+        "slug": "steam-cloud",
+        "language": "eng",
+        "games_count": 25731,
+        "image_background": "https://media.rawg.io/media/games/120/1201a40e4364557b124392ee50317b99.jpg"
+      },
+      {
+        "id": 24,
+        "name": "RPG",
+        "slug": "rpg",
+        "language": "eng",
+        "games_count": 26621,
+        "image_background": "https://media.rawg.io/media/games/d69/d69810315bd7e226ea2d21f9156af629.jpg"
+      },
+      {
+        "id": 18,
+        "name": "Co-op",
+        "slug": "co-op",
+        "language": "eng",
+        "games_count": 14390,
+        "image_background": "https://media.rawg.io/media/games/49c/49c3dfa4ce2f6f140cc4825868e858cb.jpg"
+      },
+      {
+        "id": 118,
+        "name": "Story Rich",
+        "slug": "story-rich",
+        "language": "eng",
+        "games_count": 27257,
+        "image_background": "https://media.rawg.io/media/games/bc0/bc06a29ceac58652b684deefe7d56099.jpg"
+      },
+      {
+        "id": 149,
+        "name": "Third Person",
+        "slug": "third-person",
+        "language": "eng",
+        "games_count": 14710,
+        "image_background": "https://media.rawg.io/media/games/d69/d69810315bd7e226ea2d21f9156af629.jpg"
+      },
+      {
+        "id": 9,
+        "name": "Online Co-Op",
+        "slug": "online-co-op",
+        "language": "eng",
+        "games_count": 7680,
+        "image_background": "https://media.rawg.io/media/games/2ba/2bac0e87cf45e5b508f227d281c9252a.jpg"
+      },
+      {
+        "id": 64,
+        "name": "Fantasy",
+        "slug": "fantasy",
+        "language": "eng",
+        "games_count": 32956,
+        "image_background": "https://media.rawg.io/media/games/aa3/aa36ba4b486a03ddfaef274fb4f5afd4.jpg"
+      },
+      {
+        "id": 6,
+        "name": "Exploration",
+        "slug": "exploration",
+        "language": "eng",
+        "games_count": 29238,
+        "image_background": "https://media.rawg.io/media/games/26d/26d4437715bee60138dab4a7c8c59c92.jpg"
+      },
+      {
+        "id": 157,
+        "name": "PvP",
+        "slug": "pvp",
+        "language": "eng",
+        "games_count": 12046,
+        "image_background": "https://media.rawg.io/media/games/26b/26b27e1da9e3727fcb12e3e4e86c8c19.jpg"
+      },
+      {
+        "id": 121,
+        "name": "Character Customization",
+        "slug": "character-customization",
+        "language": "eng",
+        "games_count": 6646,
+        "image_background": "https://media.rawg.io/media/games/e3d/e3ddc524c6292a435d01d97cc5f42ea7.jpg"
+      },
+      {
+        "id": 102,
+        "name": "Turn-Based",
+        "slug": "turn-based",
+        "language": "eng",
+        "games_count": 5605,
+        "image_background": "https://media.rawg.io/media/games/d1f/d1f872a48286b6b751670817d5c1e1be.jpg"
+      },
+      {
+        "id": 571,
+        "name": "3D",
+        "slug": "3d",
+        "language": "eng",
+        "games_count": 93797,
+        "image_background": "https://media.rawg.io/media/games/73e/73efc5c0ac6f354271dae610276f617c.jpg"
+      },
+      {
+        "id": 45878,
+        "name": "Online PvP",
+        "slug": "online-pvp",
+        "language": "eng",
+        "games_count": 6410,
+        "image_background": "https://media.rawg.io/media/games/c3b/c3be1d5f55cb9324c97ccb7aaaf42ad4.jpg"
+      },
+      {
+        "id": 40937,
+        "name": "Steam Trading Cards",
+        "slug": "steam-trading-cards-2",
+        "language": "eng",
+        "games_count": 842,
+        "image_background": "https://media.rawg.io/media/games/a4b/a4bb55f42fe837ae7bf1307e7b41cc85.jpg"
+      },
+      {
+        "id": 233,
+        "name": "JRPG",
+        "slug": "jrpg",
+        "language": "eng",
+        "games_count": 5264,
+        "image_background": "https://media.rawg.io/media/games/a59/a5993b9f84944570a31cb6ad08bfe502.jpg"
+      },
+      {
+        "id": 171,
+        "name": "PvE",
+        "slug": "pve",
+        "language": "eng",
+        "games_count": 7983,
+        "image_background": "https://media.rawg.io/media/games/0d7/0d7b7a687bf665b61337904193c56855.jpg"
+      },
+      {
+        "id": 98,
+        "name": "Loot",
+        "slug": "loot",
+        "language": "eng",
+        "games_count": 2892,
+        "image_background": "https://media.rawg.io/media/games/3c3/3c363e31f4add887affadc82c641de72.jpg"
+      },
+      {
+        "id": 164,
+        "name": "Cartoony",
+        "slug": "cartoony",
+        "language": "eng",
+        "games_count": 8651,
+        "image_background": "https://media.rawg.io/media/games/075/0753492cda7ee3c9bd4a3ca673fd0c8c.jpg"
+      },
+      {
+        "id": 572,
+        "name": "Emotional",
+        "slug": "emotional",
+        "language": "eng",
+        "games_count": 4554,
+        "image_background": "https://media.rawg.io/media/games/d47/d479582ed0a46496ad34f65c7099d7e5.jpg"
+      },
+      {
+        "id": 215,
+        "name": "Dragons",
+        "slug": "dragons",
+        "language": "eng",
+        "games_count": 2877,
+        "image_background": "https://media.rawg.io/media/games/7cf/7cfc9220b401b7a300e409e539c9afd5.jpg"
+      },
+      {
+        "id": 181,
+        "name": "Hunting",
+        "slug": "hunting",
+        "language": "eng",
+        "games_count": 1091,
+        "image_background": "https://media.rawg.io/media/games/119/119bb59e64c7956171a33df0d35aee6b.jpg"
+      }
+    ],
+    "publishers": [
+      {
+        "id": 2150,
+        "name": "Capcom",
+        "slug": "capcom",
+        "games_count": 634,
+        "image_background": "https://media.rawg.io/media/games/21c/21cc15d233117c6809ec86870559e105.jpg"
+      }
+    ],
+    "esrb_rating": {
+      "id": 2,
+      "name": "Everyone 10+",
+      "slug": "everyone-10-plus"
+    },
+    "clip": null,
+    "description_raw": "Monster Hunter Stories 2: Wings of Ruin offers both RPG and Monster Hunter fans a unique new experience with a rich storyline featuring charming characters, challenging quests and friendly encounters with familiar monsters from the Monster Hunter series. Assuming the role of a young Monster Rider who can use a Kinship Stone to form strong bonds with monsters, players can gain experience and improve their skills to form deeper connections with these wonderful creatures. When ready, players can embark on memorable adventures filled with dramatic events and heartwarming friendships as the epic tale unfolds."
+  },
+  "screenshots": [
+    {
+      "id": 2534146,
+      "image": "https://media.rawg.io/media/screenshots/51b/51bd2216c433bf3b588c241076f0fb79.jpg",
+      "width": 1280,
+      "height": 720,
+      "is_deleted": false
+    },
+    {
+      "id": 2534147,
+      "image": "https://media.rawg.io/media/screenshots/de6/de6dbf2833190460f21feae74f50901c.jpg",
+      "width": 1280,
+      "height": 720,
+      "is_deleted": false
+    },
+    {
+      "id": 2534148,
+      "image": "https://media.rawg.io/media/screenshots/b9b/b9bd323061c7f03309dcf8f3706fccf1.jpg",
+      "width": 1280,
+      "height": 720,
+      "is_deleted": false
+    },
+    {
+      "id": 2534149,
+      "image": "https://media.rawg.io/media/screenshots/7d3/7d37f952db6840a2890d8285e8ee97de.jpg",
+      "width": 1280,
+      "height": 720,
+      "is_deleted": false
+    },
+    {
+      "id": 2534150,
+      "image": "https://media.rawg.io/media/screenshots/9ba/9ba6a385aa952912d805910f1f101e1e.jpg",
+      "width": 1280,
+      "height": 720,
+      "is_deleted": false
+    },
+    {
+      "id": 2534151,
+      "image": "https://media.rawg.io/media/screenshots/a86/a863fd02a6d0166e18ccdb3b49ec8315.jpg",
+      "width": 1280,
+      "height": 720,
+      "is_deleted": false
+    }
+  ]
+}

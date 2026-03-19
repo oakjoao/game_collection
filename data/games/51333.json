@@ -1,0 +1,242 @@
+{
+  "details": {
+    "id": 51333,
+    "slug": "yoshi-2018",
+    "name": "Yoshi's Crafted World",
+    "name_original": "Yoshi's Crafted World",
+    "description": "<p>Yoshi&#39;s Crafted World is the eleventh game in the Yoshi franchise and the eighth installment of the main series. It follows Yoshi, a cartoonish green dinosaur that first appeared in the Mario games. This is the first Yoshi game to be made for Nintendo Switch. The game is the sequel to Yoshi&#39;s Woolly World that was developed by the same team. It features the similar “hand-crafted” visual style that makes Yoshi look like he&#39;s made of plush.</p>\n<h3>Gameplay</h3>\n<p>The player controls Yoshi in a pseudo-3D environment, side-scrolling forward. The available path is highlighted by a yellow line. Yoshi walks through several stages that include African forest with giraffe platforms, a desert full of dinosaur skulls, a night town, a factory, and a food level. The protagonist can defeat enemies by eating them or throwing them away. Traditional Yoshi enemies like Shy Guys, Koopa Troopas and Piranha Plants appear in Crafted World.</p>\n<p>While all objects in the game are 3D, the player cannot explore the third dimension. However, the game offers an innovative mechanic that allows the player to flip the camera around. This helps the player to see the game from the opposite perspective so that the objects wouldn&#39;t cover the view.</p>\n<h3>Multiplayer</h3>\n<p>Yoshi&#39;s Crafted World includes a multiplayer option that allows two players to control two Yoshis.</p>",
+    "metacritic": 79,
+    "metacritic_platforms": [
+      {
+        "metascore": 79,
+        "url": "https://www.metacritic.com/game/switch/yoshis-crafted-world",
+        "platform": {
+          "platform": 7,
+          "name": "Nintendo Switch",
+          "slug": "nintendo-switch"
+        }
+      }
+    ],
+    "released": "2019-03-29",
+    "tba": false,
+    "updated": "2025-12-14T15:17:39",
+    "background_image": "https://media.rawg.io/media/games/56d/56df082b7182fef977d22482b5dfd648.jpg",
+    "background_image_additional": "https://media.rawg.io/media/screenshots/1f0/1f0ada25345602f01f007e385bd31de8.jpg",
+    "website": "https://yoshiscraftedworld.nintendo.com/",
+    "rating": 3.8,
+    "rating_top": 4,
+    "ratings": [
+      {
+        "id": 4,
+        "title": "recommended",
+        "count": 78,
+        "percent": 63.41
+      },
+      {
+        "id": 3,
+        "title": "meh",
+        "count": 23,
+        "percent": 18.7
+      },
+      {
+        "id": 5,
+        "title": "exceptional",
+        "count": 16,
+        "percent": 13.01
+      },
+      {
+        "id": 1,
+        "title": "skip",
+        "count": 6,
+        "percent": 4.88
+      }
+    ],
+    "reactions": {},
+    "added": 421,
+    "added_by_status": {
+      "yet": 49,
+      "owned": 44,
+      "beaten": 89,
+      "toplay": 160,
+      "dropped": 53,
+      "playing": 26
+    },
+    "playtime": 0,
+    "screenshots_count": 5,
+    "movies_count": 0,
+    "creators_count": 0,
+    "achievements_count": 0,
+    "parent_achievements_count": 0,
+    "reddit_url": "",
+    "reddit_name": "",
+    "reddit_description": "",
+    "reddit_logo": "",
+    "reddit_count": 0,
+    "twitch_count": 0,
+    "youtube_count": 222649,
+    "reviews_text_count": 0,
+    "ratings_count": 123,
+    "suggestions_count": 200,
+    "alternative_names": [],
+    "metacritic_url": "https://www.metacritic.com/game/switch/yoshis-crafted-world",
+    "parents_count": 0,
+    "additions_count": 0,
+    "game_series_count": 1,
+    "user_game": null,
+    "reviews_count": 123,
+    "saturated_color": "0f0f0f",
+    "dominant_color": "0f0f0f",
+    "parent_platforms": [
+      {
+        "platform": {
+          "id": 7,
+          "name": "Nintendo",
+          "slug": "nintendo"
+        }
+      }
+    ],
+    "platforms": [
+      {
+        "platform": {
+          "id": 7,
+          "name": "Nintendo Switch",
+          "slug": "nintendo-switch",
+          "image": null,
+          "year_end": null,
+          "year_start": null,
+          "games_count": 5765,
+          "image_background": "https://media.rawg.io/media/games/5a4/5a44112251d70a25291cc33757220fce.jpg"
+        },
+        "released_at": "2019-03-29",
+        "requirements": {}
+      }
+    ],
+    "stores": [
+      {
+        "id": 47445,
+        "url": "",
+        "store": {
+          "id": 6,
+          "name": "Nintendo Store",
+          "slug": "nintendo",
+          "domain": "nintendo.com",
+          "games_count": 9150,
+          "image_background": "https://media.rawg.io/media/games/5eb/5eb49eb2fa0738fdb5bacea557b1bc57.jpg"
+        }
+      }
+    ],
+    "developers": [
+      {
+        "id": 25356,
+        "name": "Good-Feel",
+        "slug": "good-feel",
+        "games_count": 6,
+        "image_background": "https://media.rawg.io/media/screenshots/cbc/cbc476a2a00b82853bc30b32d46edcab.jpg"
+      }
+    ],
+    "genres": [
+      {
+        "id": 83,
+        "name": "Platformer",
+        "slug": "platformer",
+        "games_count": 100923,
+        "image_background": "https://media.rawg.io/media/games/388/388935d851846f8ec747fffc7c765800.jpg"
+      }
+    ],
+    "tags": [
+      {
+        "id": 75,
+        "name": "Local Co-Op",
+        "slug": "local-co-op",
+        "language": "eng",
+        "games_count": 6079,
+        "image_background": "https://media.rawg.io/media/games/c6b/c6bfece1daf8d06bc0a60632ac78e5bf.jpg"
+      },
+      {
+        "id": 107,
+        "name": "Family Friendly",
+        "slug": "family-friendly",
+        "language": "eng",
+        "games_count": 10692,
+        "image_background": "https://media.rawg.io/media/games/e4f/e4fb3fd188f61fabec48dca22e6ef28a.jpg"
+      },
+      {
+        "id": 37796,
+        "name": "exclusive",
+        "slug": "exclusive",
+        "language": "eng",
+        "games_count": 4491,
+        "image_background": "https://media.rawg.io/media/games/b7d/b7d3f1715fa8381a4e780173a197a615.jpg"
+      },
+      {
+        "id": 37797,
+        "name": "true exclusive",
+        "slug": "true-exclusive",
+        "language": "eng",
+        "games_count": 3981,
+        "image_background": "https://media.rawg.io/media/games/d30/d30ef0c7dd4878161b1f781e297ae6a0.jpg"
+      },
+      {
+        "id": 1390,
+        "name": "couch-co-op",
+        "slug": "couch-co-op",
+        "language": "eng",
+        "games_count": 30,
+        "image_background": "https://media.rawg.io/media/games/56d/56df082b7182fef977d22482b5dfd648.jpg"
+      }
+    ],
+    "publishers": [
+      {
+        "id": 10681,
+        "name": "Nintendo",
+        "slug": "nintendo",
+        "games_count": 1241,
+        "image_background": "https://media.rawg.io/media/games/3a0/3a0c8e9ed3a711c542218831b893a0fa.jpg"
+      }
+    ],
+    "esrb_rating": {
+      "id": 1,
+      "name": "Everyone",
+      "slug": "everyone"
+    },
+    "clip": null,
+    "description_raw": "Yoshi's Crafted World is the eleventh game in the Yoshi franchise and the eighth installment of the main series. It follows Yoshi, a cartoonish green dinosaur that first appeared in the Mario games. This is the first Yoshi game to be made for Nintendo Switch. The game is the sequel to Yoshi's Woolly World that was developed by the same team. It features the similar “hand-crafted” visual style that makes Yoshi look like he's made of plush.\n\n###Gameplay\nThe player controls Yoshi in a pseudo-3D environment, side-scrolling forward. The available path is highlighted by a yellow line. Yoshi walks through several stages that include African forest with giraffe platforms, a desert full of dinosaur skulls, a night town, a factory, and a food level. The protagonist can defeat enemies by eating them or throwing them away. Traditional Yoshi enemies like Shy Guys, Koopa Troopas and Piranha Plants appear in Crafted World.\n\nWhile all objects in the game are 3D, the player cannot explore the third dimension. However, the game offers an innovative mechanic that allows the player to flip the camera around. This helps the player to see the game from the opposite perspective so that the objects wouldn't cover the view.\n\n###Multiplayer\nYoshi's Crafted World includes a multiplayer option that allows two players to control two Yoshis."
+  },
+  "screenshots": [
+    {
+      "id": 713776,
+      "image": "https://media.rawg.io/media/screenshots/cda/cda3ff616a4f1fcabfb34593a7868660.jpg",
+      "width": 1920,
+      "height": 1080,
+      "is_deleted": false
+    },
+    {
+      "id": 713777,
+      "image": "https://media.rawg.io/media/screenshots/6dd/6dd964b5d586d31103b6132dcbfe94a9.jpg",
+      "width": 1280,
+      "height": 720,
+      "is_deleted": false
+    },
+    {
+      "id": 713778,
+      "image": "https://media.rawg.io/media/screenshots/ac7/ac7e1dd755c7e27d686f4f26428a11a7.jpg",
+      "width": 1206,
+      "height": 668,
+      "is_deleted": false
+    },
+    {
+      "id": 713779,
+      "image": "https://media.rawg.io/media/screenshots/1f0/1f0ada25345602f01f007e385bd31de8.jpg",
+      "width": 1280,
+      "height": 720,
+      "is_deleted": false
+    },
+    {
+      "id": 713780,
+      "image": "https://media.rawg.io/media/screenshots/bf8/bf867f38f52bf3bcad97405080168236.jpg",
+      "width": 1920,
+      "height": 1080,
+      "is_deleted": false
+    }
+  ]
+}

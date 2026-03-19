@@ -1,0 +1,222 @@
+{
+  "details": {
+    "id": 56048,
+    "slug": "final-fantasy-crystal-chronicles",
+    "name": "Final Fantasy Crystal Chronicles",
+    "name_original": "Final Fantasy Crystal Chronicles",
+    "description": "<p>Final Fantasy Crystal Chronicles (ファイナルファンタジー クリスタルクロニクル, Fainaru Fantajī Kurisutaru Kuronikuru) is a 2003 action role-playing game for the GameCube. It was published by Nintendo and developed by The Game Designers Studio: a shell corporation for Square Enix&#39;s Product Development Division-2 (which was re-branded as Taito Corporation in March 2006 once Square Enix merged Taito with The Game Designers Studio). A spin-off of the Final Fantasy series, the game spawned a metaseries of the same name. It was released in Japan on August 8, 2003; in North America on February 9, 2004, and in Europe and Australia on March 12, 2004.<br />\nMany new gameplay elements were included in this game, such as real-time fighting and GameCube-Game Boy Advance compatibility; it was the first role-playing video game to incorporate the latter. Its music was composed by Kumi Tanioka. It received positive reviews, many of which described the graphics as beautiful and the multiplayer design as innovative. Five further Crystal Chronicles games have been released (chronologically, two sequels, one distant prequel, and two more); one for the Wii has been released, as well as two for the WiiWare download service; My Life as a King and My Life as a Darklord.</p>",
+    "metacritic": null,
+    "metacritic_platforms": [],
+    "released": "2003-08-08",
+    "tba": false,
+    "updated": "2025-07-03T22:51:07",
+    "background_image": "https://media.rawg.io/media/games/fff/fff30d07987aa2fb9583517c4f120bd3.jpg",
+    "background_image_additional": "https://media.rawg.io/media/screenshots/dd3/dd324c7f91a9895bea57aad42d1b60b3.jpg",
+    "website": "",
+    "rating": 3.53,
+    "rating_top": 4,
+    "ratings": [
+      {
+        "id": 4,
+        "title": "recommended",
+        "count": 11,
+        "percent": 34.38
+      },
+      {
+        "id": 5,
+        "title": "exceptional",
+        "count": 8,
+        "percent": 25
+      },
+      {
+        "id": 3,
+        "title": "meh",
+        "count": 8,
+        "percent": 25
+      },
+      {
+        "id": 1,
+        "title": "skip",
+        "count": 5,
+        "percent": 15.62
+      }
+    ],
+    "reactions": {
+      "1": 1,
+      "2": 1,
+      "4": 2,
+      "5": 1,
+      "8": 2,
+      "9": 2,
+      "10": 1,
+      "11": 1,
+      "12": 2
+    },
+    "added": 90,
+    "added_by_status": {
+      "yet": 12,
+      "owned": 17,
+      "beaten": 27,
+      "toplay": 13,
+      "dropped": 20,
+      "playing": 1
+    },
+    "playtime": 0,
+    "screenshots_count": 6,
+    "movies_count": 0,
+    "creators_count": 5,
+    "achievements_count": 0,
+    "parent_achievements_count": 0,
+    "reddit_url": "",
+    "reddit_name": "",
+    "reddit_description": "",
+    "reddit_logo": "",
+    "reddit_count": 0,
+    "twitch_count": 0,
+    "youtube_count": 0,
+    "reviews_text_count": 1,
+    "ratings_count": 31,
+    "suggestions_count": 198,
+    "alternative_names": [
+      "Fainaru Fantajī Kurisutaru Kuronikuru",
+      "ファイナルファンタジー クリスタルクロニクル"
+    ],
+    "metacritic_url": "https://www.metacritic.com/game/gamecube/final-fantasy-crystal-chronicles",
+    "parents_count": 0,
+    "additions_count": 1,
+    "game_series_count": 5,
+    "user_game": null,
+    "reviews_count": 32,
+    "saturated_color": "0f0f0f",
+    "dominant_color": "0f0f0f",
+    "parent_platforms": [
+      {
+        "platform": {
+          "id": 7,
+          "name": "Nintendo",
+          "slug": "nintendo"
+        }
+      }
+    ],
+    "platforms": [
+      {
+        "platform": {
+          "id": 105,
+          "name": "GameCube",
+          "slug": "gamecube",
+          "image": null,
+          "year_end": null,
+          "year_start": null,
+          "games_count": 636,
+          "image_background": "https://media.rawg.io/media/games/83b/83b59a9d512bec8bc8bda6b539b215b2.jpg"
+        },
+        "released_at": "2003-08-08",
+        "requirements": {}
+      }
+    ],
+    "stores": [],
+    "developers": [
+      {
+        "id": 27306,
+        "name": "The Game Designers Studio",
+        "slug": "the-game-designers-studio",
+        "games_count": 1,
+        "image_background": "https://media.rawg.io/media/screenshots/d92/d92de04ce8c47238d535be39471b9166.jpg"
+      }
+    ],
+    "genres": [
+      {
+        "id": 4,
+        "name": "Action",
+        "slug": "action",
+        "games_count": 191508,
+        "image_background": "https://media.rawg.io/media/games/737/737ea5662211d2e0bbd6f5989189e4f1.jpg"
+      },
+      {
+        "id": 5,
+        "name": "RPG",
+        "slug": "role-playing-games-rpg",
+        "games_count": 61936,
+        "image_background": "https://media.rawg.io/media/games/d1a/d1a2e99ade53494c6330a0ed945fe823.jpg"
+      }
+    ],
+    "tags": [
+      {
+        "id": 31,
+        "name": "Singleplayer",
+        "slug": "singleplayer",
+        "language": "eng",
+        "games_count": 250812,
+        "image_background": "https://media.rawg.io/media/games/26d/26d4437715bee60138dab4a7c8c59c92.jpg"
+      },
+      {
+        "id": 7,
+        "name": "Multiplayer",
+        "slug": "multiplayer",
+        "language": "eng",
+        "games_count": 42552,
+        "image_background": "https://media.rawg.io/media/games/960/960b601d9541cec776c5fa42a00bf6c4.jpg"
+      }
+    ],
+    "publishers": [
+      {
+        "id": 10681,
+        "name": "Nintendo",
+        "slug": "nintendo",
+        "games_count": 1241,
+        "image_background": "https://media.rawg.io/media/games/3a0/3a0c8e9ed3a711c542218831b893a0fa.jpg"
+      }
+    ],
+    "esrb_rating": {
+      "id": 3,
+      "name": "Teen",
+      "slug": "teen"
+    },
+    "clip": null,
+    "description_raw": "Final Fantasy Crystal Chronicles (ファイナルファンタジー クリスタルクロニクル, Fainaru Fantajī Kurisutaru Kuronikuru) is a 2003 action role-playing game for the GameCube. It was published by Nintendo and developed by The Game Designers Studio: a shell corporation for Square Enix's Product Development Division-2 (which was re-branded as Taito Corporation in March 2006 once Square Enix merged Taito with The Game Designers Studio). A spin-off of the Final Fantasy series, the game spawned a metaseries of the same name. It was released in Japan on August 8, 2003; in North America on February 9, 2004, and in Europe and Australia on March 12, 2004.\nMany new gameplay elements were included in this game, such as real-time fighting and GameCube-Game Boy Advance compatibility; it was the first role-playing video game to incorporate the latter. Its music was composed by Kumi Tanioka. It received positive reviews, many of which described the graphics as beautiful and the multiplayer design as innovative. Five further Crystal Chronicles games have been released (chronologically, two sequels, one distant prequel, and two more); one for the Wii has been released, as well as two for the WiiWare download service; My Life as a King and My Life as a Darklord."
+  },
+  "screenshots": [
+    {
+      "id": 1805059,
+      "image": "https://media.rawg.io/media/screenshots/fb2/fb253b2dd8eb7442c5328021a9e83aed.jpg",
+      "width": 1920,
+      "height": 1080,
+      "is_deleted": false
+    },
+    {
+      "id": 3935536,
+      "image": "https://media.rawg.io/media/screenshots/d51/d51db8b218b2cffcab03e0bc5faf6e72.jpg",
+      "width": 1920,
+      "height": 1080,
+      "is_deleted": false
+    },
+    {
+      "id": 3935537,
+      "image": "https://media.rawg.io/media/screenshots/6a5/6a550d68a3ac85e50dcef7620c761256.jpg",
+      "width": 1920,
+      "height": 1080,
+      "is_deleted": false
+    },
+    {
+      "id": 3935538,
+      "image": "https://media.rawg.io/media/screenshots/17b/17b96d720e25f56b3b853beb78a0ccd8.jpg",
+      "width": 1920,
+      "height": 1080,
+      "is_deleted": false
+    },
+    {
+      "id": 3935539,
+      "image": "https://media.rawg.io/media/screenshots/dd3/dd324c7f91a9895bea57aad42d1b60b3.jpg",
+      "width": 1920,
+      "height": 1080,
+      "is_deleted": false
+    },
+    {
+      "id": 3935540,
+      "image": "https://media.rawg.io/media/screenshots/814/814d87209a3effb04b7c910c09a32b9c.jpg",
+      "width": 1920,
+      "height": 1080,
+      "is_deleted": false
+    }
+  ]
+}

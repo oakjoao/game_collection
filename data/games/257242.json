@@ -1,0 +1,380 @@
+{
+  "details": {
+    "id": 257242,
+    "slug": "shin-megami-tensei-v",
+    "name": "Shin Megami Tensei V: Vengeance",
+    "name_original": "Shin Megami Tensei V: Vengeance",
+    "description": "<p>The ambitions of god and human clash amidst the horror of a dying world. Neither human nor demon, the newly-forged Nahobino and his friends must decide what is worth saving... and prepare to sacrifice everything in its name. In a world without its Creator, which path will you choose?</p>",
+    "metacritic": 84,
+    "metacritic_platforms": [
+      {
+        "metascore": 84,
+        "url": "https://www.metacritic.com/game/switch/shin-megami-tensei-v",
+        "platform": {
+          "platform": 7,
+          "name": "Nintendo Switch",
+          "slug": "nintendo-switch"
+        }
+      }
+    ],
+    "released": "2024-06-14",
+    "tba": false,
+    "updated": "2026-02-04T04:29:34",
+    "background_image": "https://media.rawg.io/media/games/1b6/1b6673b646af55f834938bedebee2a0f.jpg",
+    "background_image_additional": "https://media.rawg.io/media/screenshots/49a/49a2e5931fdb3ccb0d3b00d9cbd700fe.jpg",
+    "website": "https://www.atlus.com/smt5/home.html",
+    "rating": 4.08,
+    "rating_top": 5,
+    "ratings": [
+      {
+        "id": 5,
+        "title": "exceptional",
+        "count": 27,
+        "percent": 41.54
+      },
+      {
+        "id": 4,
+        "title": "recommended",
+        "count": 26,
+        "percent": 40
+      },
+      {
+        "id": 3,
+        "title": "meh",
+        "count": 7,
+        "percent": 10.77
+      },
+      {
+        "id": 1,
+        "title": "skip",
+        "count": 5,
+        "percent": 7.69
+      }
+    ],
+    "reactions": {},
+    "added": 332,
+    "added_by_status": {
+      "yet": 59,
+      "owned": 45,
+      "beaten": 57,
+      "toplay": 136,
+      "dropped": 18,
+      "playing": 17
+    },
+    "playtime": 0,
+    "screenshots_count": 13,
+    "movies_count": 0,
+    "creators_count": 10,
+    "achievements_count": 0,
+    "parent_achievements_count": 0,
+    "reddit_url": "",
+    "reddit_name": "",
+    "reddit_description": "",
+    "reddit_logo": "",
+    "reddit_count": 0,
+    "twitch_count": 98,
+    "youtube_count": 0,
+    "reviews_text_count": 1,
+    "ratings_count": 64,
+    "suggestions_count": 553,
+    "alternative_names": [
+      "Shin Megami Tensei 5"
+    ],
+    "metacritic_url": "https://www.metacritic.com/game/switch/shin-megami-tensei-v",
+    "parents_count": 0,
+    "additions_count": 1,
+    "game_series_count": 30,
+    "user_game": null,
+    "reviews_count": 65,
+    "saturated_color": "0f0f0f",
+    "dominant_color": "0f0f0f",
+    "parent_platforms": [
+      {
+        "platform": {
+          "id": 1,
+          "name": "PC",
+          "slug": "pc"
+        }
+      },
+      {
+        "platform": {
+          "id": 2,
+          "name": "PlayStation",
+          "slug": "playstation"
+        }
+      },
+      {
+        "platform": {
+          "id": 3,
+          "name": "Xbox",
+          "slug": "xbox"
+        }
+      },
+      {
+        "platform": {
+          "id": 7,
+          "name": "Nintendo",
+          "slug": "nintendo"
+        }
+      }
+    ],
+    "platforms": [
+      {
+        "platform": {
+          "id": 187,
+          "name": "PlayStation 5",
+          "slug": "playstation5",
+          "image": null,
+          "year_end": null,
+          "year_start": 2020,
+          "games_count": 1451,
+          "image_background": "https://media.rawg.io/media/games/909/909974d1c7863c2027241e265fe7011f.jpg"
+        },
+        "released_at": "2024-06-14",
+        "requirements": {}
+      },
+      {
+        "platform": {
+          "id": 186,
+          "name": "Xbox Series S/X",
+          "slug": "xbox-series-x",
+          "image": null,
+          "year_end": null,
+          "year_start": 2020,
+          "games_count": 1240,
+          "image_background": "https://media.rawg.io/media/games/618/618c2031a07bbff6b4f611f10b6bcdbc.jpg"
+        },
+        "released_at": "2024-06-14",
+        "requirements": {}
+      },
+      {
+        "platform": {
+          "id": 18,
+          "name": "PlayStation 4",
+          "slug": "playstation4",
+          "image": null,
+          "year_end": null,
+          "year_start": null,
+          "games_count": 6984,
+          "image_background": "https://media.rawg.io/media/games/f46/f466571d536f2e3ea9e815ad17177501.jpg"
+        },
+        "released_at": "2024-06-14",
+        "requirements": {}
+      },
+      {
+        "platform": {
+          "id": 4,
+          "name": "PC",
+          "slug": "pc",
+          "image": null,
+          "year_end": null,
+          "year_start": null,
+          "games_count": 560528,
+          "image_background": "https://media.rawg.io/media/games/4be/4be6a6ad0364751a96229c56bf69be59.jpg"
+        },
+        "released_at": "2024-06-14",
+        "requirements": {}
+      },
+      {
+        "platform": {
+          "id": 1,
+          "name": "Xbox One",
+          "slug": "xbox-one",
+          "image": null,
+          "year_end": null,
+          "year_start": null,
+          "games_count": 5736,
+          "image_background": "https://media.rawg.io/media/games/20a/20aa03a10cda45239fe22d035c0ebe64.jpg"
+        },
+        "released_at": "2024-06-14",
+        "requirements": {}
+      },
+      {
+        "platform": {
+          "id": 7,
+          "name": "Nintendo Switch",
+          "slug": "nintendo-switch",
+          "image": null,
+          "year_end": null,
+          "year_start": null,
+          "games_count": 5765,
+          "image_background": "https://media.rawg.io/media/games/5a4/5a44112251d70a25291cc33757220fce.jpg"
+        },
+        "released_at": "2024-06-14",
+        "requirements": {}
+      }
+    ],
+    "stores": [
+      {
+        "id": 991198,
+        "url": "",
+        "store": {
+          "id": 1,
+          "name": "Steam",
+          "slug": "steam",
+          "domain": "store.steampowered.com",
+          "games_count": 123255,
+          "image_background": "https://media.rawg.io/media/games/587/587588c64afbff80e6f444eb2e46f9da.jpg"
+        }
+      },
+      {
+        "id": 991197,
+        "url": "",
+        "store": {
+          "id": 2,
+          "name": "Xbox Store",
+          "slug": "xbox-store",
+          "domain": "microsoft.com",
+          "games_count": 4938,
+          "image_background": "https://media.rawg.io/media/games/2ba/2bac0e87cf45e5b508f227d281c9252a.jpg"
+        }
+      },
+      {
+        "id": 681064,
+        "url": "",
+        "store": {
+          "id": 6,
+          "name": "Nintendo Store",
+          "slug": "nintendo",
+          "domain": "nintendo.com",
+          "games_count": 9150,
+          "image_background": "https://media.rawg.io/media/games/5eb/5eb49eb2fa0738fdb5bacea557b1bc57.jpg"
+        }
+      }
+    ],
+    "developers": [
+      {
+        "id": 13953,
+        "name": "Atlus",
+        "slug": "atlus",
+        "games_count": 119,
+        "image_background": "https://media.rawg.io/media/games/342/34220787c1b92957ff66da9957194b64.jpg"
+      }
+    ],
+    "genres": [
+      {
+        "id": 4,
+        "name": "Action",
+        "slug": "action",
+        "games_count": 191508,
+        "image_background": "https://media.rawg.io/media/games/737/737ea5662211d2e0bbd6f5989189e4f1.jpg"
+      },
+      {
+        "id": 3,
+        "name": "Adventure",
+        "slug": "adventure",
+        "games_count": 151684,
+        "image_background": "https://media.rawg.io/media/games/c50/c5085506fe4b5e20fc7aa5ace842c20b.jpg"
+      },
+      {
+        "id": 5,
+        "name": "RPG",
+        "slug": "role-playing-games-rpg",
+        "games_count": 61936,
+        "image_background": "https://media.rawg.io/media/games/d1a/d1a2e99ade53494c6330a0ed945fe823.jpg"
+      }
+    ],
+    "tags": [
+      {
+        "id": 69,
+        "name": "Action-Adventure",
+        "slug": "action-adventure",
+        "language": "eng",
+        "games_count": 21024,
+        "image_background": "https://media.rawg.io/media/games/b45/b45575f34285f2c4479c9a5f719d972e.jpg"
+      },
+      {
+        "id": 37796,
+        "name": "exclusive",
+        "slug": "exclusive",
+        "language": "eng",
+        "games_count": 4491,
+        "image_background": "https://media.rawg.io/media/games/b7d/b7d3f1715fa8381a4e780173a197a615.jpg"
+      },
+      {
+        "id": 37797,
+        "name": "true exclusive",
+        "slug": "true-exclusive",
+        "language": "eng",
+        "games_count": 3981,
+        "image_background": "https://media.rawg.io/media/games/d30/d30ef0c7dd4878161b1f781e297ae6a0.jpg"
+      },
+      {
+        "id": 233,
+        "name": "JRPG",
+        "slug": "jrpg",
+        "language": "eng",
+        "games_count": 5264,
+        "image_background": "https://media.rawg.io/media/games/a59/a5993b9f84944570a31cb6ad08bfe502.jpg"
+      },
+      {
+        "id": 1752,
+        "name": "japanese",
+        "slug": "japanese",
+        "language": "eng",
+        "games_count": 407,
+        "image_background": "https://media.rawg.io/media/screenshots/f0c/f0c622b59830b3a3deec394e8a3e0731.jpg"
+      }
+    ],
+    "publishers": [
+      {
+        "id": 9065,
+        "name": "Atlus",
+        "slug": "atlus",
+        "games_count": 247,
+        "image_background": "https://media.rawg.io/media/games/22e/22e75ceb294e7822f028a3ec2e92eb3e.jpg"
+      }
+    ],
+    "esrb_rating": {
+      "id": 4,
+      "name": "Mature",
+      "slug": "mature"
+    },
+    "clip": null,
+    "description_raw": "The ambitions of god and human clash amidst the horror of a dying world. Neither human nor demon, the newly-forged Nahobino and his friends must decide what is worth saving... and prepare to sacrifice everything in its name. In a world without its Creator, which path will you choose?"
+  },
+  "screenshots": [
+    {
+      "id": 1800110,
+      "image": "https://media.rawg.io/media/screenshots/2c1/2c1ff1f6653fd34be4ba8655e8e27c93.jpg",
+      "width": 1280,
+      "height": 720,
+      "is_deleted": false
+    },
+    {
+      "id": 1800111,
+      "image": "https://media.rawg.io/media/screenshots/933/933e3fa5d3ab87f206e59d53f2d1ad3f.jpg",
+      "width": 1280,
+      "height": 720,
+      "is_deleted": false
+    },
+    {
+      "id": 1800121,
+      "image": "https://media.rawg.io/media/screenshots/3da/3dab2a8929a100988b91bbbbbbf8ecbd.jpg",
+      "width": 1920,
+      "height": 1080,
+      "is_deleted": false
+    },
+    {
+      "id": 1800122,
+      "image": "https://media.rawg.io/media/screenshots/927/92768d3ace6bd3e086cc9c4f9b9d2976.jpg",
+      "width": 1280,
+      "height": 720,
+      "is_deleted": false
+    },
+    {
+      "id": 2456135,
+      "image": "https://media.rawg.io/media/screenshots/534/534e5d07cd8baeb5bdfbfa2390f43e11.jpg",
+      "width": 1024,
+      "height": 557,
+      "is_deleted": false
+    },
+    {
+      "id": 2897095,
+      "image": "https://media.rawg.io/media/screenshots/16c/16cafee6b6611397472e19b84cf6562b.jpg",
+      "width": 762,
+      "height": 419,
+      "is_deleted": false
+    }
+  ]
+}

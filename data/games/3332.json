@@ -1,0 +1,571 @@
+{
+  "details": {
+    "id": 3332,
+    "slug": "final-fantasy-xx-2-hd-remaster",
+    "name": "FINAL FANTASY X/X-2 HD Remaster",
+    "name_original": "FINAL FANTASY X/X-2 HD Remaster",
+    "description": "<p>FINAL FANTASY X tells the story of a star blitzball player, Tidus, who journeys with a young and beautiful summoner named Yuna on her quest to save the world of Spira from an endless cycle of destruction wrought by the colossal menace Sin.<br />\nFINAL FANTASY X-2 returns to the world of Spira two years after the beginning of the Eternal Calm. Having been shown a mysterious but familiar image in a sphere, Yuna becomes a Sphere Hunter and along with her companions Rikku and Paine, embarks on a quest around the world to find the answers to the mystery within.<br />\nBased on the international versions of the games that were previously only released in Japan and Europe, FINAL FANTASY X/X-2 HD Remaster brings these timeless classics forward to the current generation of fans, old and new alike.<br />\nKey Features:<br />\nCharacters, monsters, and environments have been fine-tuned to HD detail, providing a richer, deeper FINAL FANTASY visual experience.<br />\nOther features in the PC version include remastered/rearranged BGM,<br />\nInternational Edition content,<br />\nAuto-save and 5 game boosters including high speed and no encounter modes.</p>",
+    "metacritic": 85,
+    "metacritic_platforms": [
+      {
+        "metascore": 86,
+        "url": "https://www.metacritic.com/game/playstation-vita/final-fantasy-x-x-2-hd-remaster",
+        "platform": {
+          "platform": 19,
+          "name": "PS Vita",
+          "slug": "ps-vita"
+        }
+      },
+      {
+        "metascore": 84,
+        "url": "https://www.metacritic.com/game/playstation-4/final-fantasy-x-x-2-hd-remaster",
+        "platform": {
+          "platform": 18,
+          "name": "PlayStation 4",
+          "slug": "playstation4"
+        }
+      },
+      {
+        "metascore": 85,
+        "url": "https://www.metacritic.com/game/switch/final-fantasy-x-x-2-hd-remaster",
+        "platform": {
+          "platform": 7,
+          "name": "Nintendo Switch",
+          "slug": "nintendo-switch"
+        }
+      },
+      {
+        "metascore": 85,
+        "url": "https://www.metacritic.com/game/playstation-3/final-fantasy-x-x-2-hd-remaster",
+        "platform": {
+          "platform": 16,
+          "name": "PlayStation 3",
+          "slug": "playstation3"
+        }
+      },
+      {
+        "metascore": 83,
+        "url": "https://www.metacritic.com/game/pc/final-fantasy-x-x-2-hd-remaster",
+        "platform": {
+          "platform": 4,
+          "name": "PC",
+          "slug": "pc"
+        }
+      },
+      {
+        "metascore": 85,
+        "url": "https://www.metacritic.com/game/xbox-one/final-fantasy-x-x-2-hd-remaster",
+        "platform": {
+          "platform": 1,
+          "name": "Xbox One",
+          "slug": "xbox-one"
+        }
+      }
+    ],
+    "released": "2013-12-26",
+    "tba": false,
+    "updated": "2026-03-18T17:01:58",
+    "background_image": "https://media.rawg.io/media/games/a14/a14acef284eaa4854f83c99e80fc15d8.jpg",
+    "background_image_additional": "https://media.rawg.io/media/screenshots/798/79800286e9bbb8b19e75246c903c8dc4.jpg",
+    "website": "http://www.finalfantasyxhd.com/",
+    "rating": 4.34,
+    "rating_top": 5,
+    "ratings": [
+      {
+        "id": 5,
+        "title": "exceptional",
+        "count": 157,
+        "percent": 53.95
+      },
+      {
+        "id": 4,
+        "title": "recommended",
+        "count": 95,
+        "percent": 32.65
+      },
+      {
+        "id": 3,
+        "title": "meh",
+        "count": 29,
+        "percent": 9.97
+      },
+      {
+        "id": 1,
+        "title": "skip",
+        "count": 10,
+        "percent": 3.44
+      }
+    ],
+    "reactions": {
+      "1": 1,
+      "10": 1,
+      "12": 1
+    },
+    "added": 2502,
+    "added_by_status": {
+      "yet": 219,
+      "owned": 1747,
+      "beaten": 213,
+      "toplay": 136,
+      "dropped": 103,
+      "playing": 84
+    },
+    "playtime": 6,
+    "screenshots_count": 224,
+    "movies_count": 0,
+    "creators_count": 0,
+    "achievements_count": 320,
+    "parent_achievements_count": 130,
+    "reddit_url": "",
+    "reddit_name": "",
+    "reddit_description": "",
+    "reddit_logo": "",
+    "reddit_count": 0,
+    "twitch_count": 0,
+    "youtube_count": 1000000,
+    "reviews_text_count": 1,
+    "ratings_count": 290,
+    "suggestions_count": 643,
+    "alternative_names": [],
+    "metacritic_url": "https://www.metacritic.com/game/xbox-one/final-fantasy-x-x-2-hd-remaster",
+    "parents_count": 2,
+    "additions_count": 0,
+    "game_series_count": 0,
+    "user_game": null,
+    "reviews_count": 291,
+    "saturated_color": "0f0f0f",
+    "dominant_color": "0f0f0f",
+    "parent_platforms": [
+      {
+        "platform": {
+          "id": 1,
+          "name": "PC",
+          "slug": "pc"
+        }
+      },
+      {
+        "platform": {
+          "id": 2,
+          "name": "PlayStation",
+          "slug": "playstation"
+        }
+      },
+      {
+        "platform": {
+          "id": 3,
+          "name": "Xbox",
+          "slug": "xbox"
+        }
+      },
+      {
+        "platform": {
+          "id": 7,
+          "name": "Nintendo",
+          "slug": "nintendo"
+        }
+      }
+    ],
+    "platforms": [
+      {
+        "platform": {
+          "id": 19,
+          "name": "PS Vita",
+          "slug": "ps-vita",
+          "image": null,
+          "year_end": null,
+          "year_start": null,
+          "games_count": 1458,
+          "image_background": "https://media.rawg.io/media/games/8d6/8d69eb6c32ed6acfd75f82d532144993.jpg"
+        },
+        "released_at": "2013-12-26",
+        "requirements": {}
+      },
+      {
+        "platform": {
+          "id": 18,
+          "name": "PlayStation 4",
+          "slug": "playstation4",
+          "image": null,
+          "year_end": null,
+          "year_start": null,
+          "games_count": 6984,
+          "image_background": "https://media.rawg.io/media/games/f46/f466571d536f2e3ea9e815ad17177501.jpg"
+        },
+        "released_at": "2013-12-26",
+        "requirements": {}
+      },
+      {
+        "platform": {
+          "id": 7,
+          "name": "Nintendo Switch",
+          "slug": "nintendo-switch",
+          "image": null,
+          "year_end": null,
+          "year_start": null,
+          "games_count": 5765,
+          "image_background": "https://media.rawg.io/media/games/5a4/5a44112251d70a25291cc33757220fce.jpg"
+        },
+        "released_at": "2013-12-26",
+        "requirements": {}
+      },
+      {
+        "platform": {
+          "id": 4,
+          "name": "PC",
+          "slug": "pc",
+          "image": null,
+          "year_end": null,
+          "year_start": null,
+          "games_count": 560528,
+          "image_background": "https://media.rawg.io/media/games/4be/4be6a6ad0364751a96229c56bf69be59.jpg"
+        },
+        "released_at": "2013-12-26",
+        "requirements": {
+          "minimum": "Minimum:\nOS: Windows Vista or later\nProcessor: 2GHz Dual Core CPU\nMemory: 1 GB RAM\nGraphics: NVIDIA Geforce 9600GT VRAM 512MB or later / ATI Radeon HD 2600XT VRAM 512MB or later\nStorage: 37 GB available space\nSound Card: DirectX Compatible Sound Card",
+          "recommended": "Recommended:\nOS: Windows Vista or later\nProcessor: 2.4GHz quad-core CPU\nMemory: 2 GB RAM\nGraphics: NVIDIA Geforce GTX 450 / AMD Radeon HD 5750 with 512MB\nStorage: 40 GB available space\nSound Card: DirectX Compatible Sound Card"
+        }
+      },
+      {
+        "platform": {
+          "id": 16,
+          "name": "PlayStation 3",
+          "slug": "playstation3",
+          "image": null,
+          "year_end": null,
+          "year_start": null,
+          "games_count": 3164,
+          "image_background": "https://media.rawg.io/media/games/bc0/bc06a29ceac58652b684deefe7d56099.jpg"
+        },
+        "released_at": "2013-12-26",
+        "requirements": {}
+      },
+      {
+        "platform": {
+          "id": 1,
+          "name": "Xbox One",
+          "slug": "xbox-one",
+          "image": null,
+          "year_end": null,
+          "year_start": null,
+          "games_count": 5736,
+          "image_background": "https://media.rawg.io/media/games/20a/20aa03a10cda45239fe22d035c0ebe64.jpg"
+        },
+        "released_at": "2013-12-26",
+        "requirements": {}
+      }
+    ],
+    "stores": [
+      {
+        "id": 3571,
+        "url": "",
+        "store": {
+          "id": 3,
+          "name": "PlayStation Store",
+          "slug": "playstation-store",
+          "domain": "store.playstation.com",
+          "games_count": 8075,
+          "image_background": "https://media.rawg.io/media/games/f87/f87457e8347484033cb34cde6101d08d.jpg"
+        }
+      },
+      {
+        "id": 14941,
+        "url": "",
+        "store": {
+          "id": 1,
+          "name": "Steam",
+          "slug": "steam",
+          "domain": "store.steampowered.com",
+          "games_count": 123255,
+          "image_background": "https://media.rawg.io/media/games/587/587588c64afbff80e6f444eb2e46f9da.jpg"
+        }
+      },
+      {
+        "id": 298643,
+        "url": "",
+        "store": {
+          "id": 6,
+          "name": "Nintendo Store",
+          "slug": "nintendo",
+          "domain": "nintendo.com",
+          "games_count": 9150,
+          "image_background": "https://media.rawg.io/media/games/5eb/5eb49eb2fa0738fdb5bacea557b1bc57.jpg"
+        }
+      },
+      {
+        "id": 313326,
+        "url": "",
+        "store": {
+          "id": 2,
+          "name": "Xbox Store",
+          "slug": "xbox-store",
+          "domain": "microsoft.com",
+          "games_count": 4938,
+          "image_background": "https://media.rawg.io/media/games/2ba/2bac0e87cf45e5b508f227d281c9252a.jpg"
+        }
+      }
+    ],
+    "developers": [
+      {
+        "id": 4132,
+        "name": "Square Enix",
+        "slug": "square-enix",
+        "games_count": 374,
+        "image_background": "https://media.rawg.io/media/games/54a/54a3e4c617217848dc43c4de9989fe37.jpg"
+      },
+      {
+        "id": 9914,
+        "name": "Virtuos",
+        "slug": "virtuos",
+        "games_count": 21,
+        "image_background": "https://media.rawg.io/media/games/a14/a14acef284eaa4854f83c99e80fc15d8.jpg"
+      }
+    ],
+    "genres": [
+      {
+        "id": 5,
+        "name": "RPG",
+        "slug": "role-playing-games-rpg",
+        "games_count": 61936,
+        "image_background": "https://media.rawg.io/media/games/d1a/d1a2e99ade53494c6330a0ed945fe823.jpg"
+      }
+    ],
+    "tags": [
+      {
+        "id": 31,
+        "name": "Singleplayer",
+        "slug": "singleplayer",
+        "language": "eng",
+        "games_count": 250812,
+        "image_background": "https://media.rawg.io/media/games/26d/26d4437715bee60138dab4a7c8c59c92.jpg"
+      },
+      {
+        "id": 40847,
+        "name": "Steam Achievements",
+        "slug": "steam-achievements",
+        "language": "eng",
+        "games_count": 51706,
+        "image_background": "https://media.rawg.io/media/games/49c/49c3dfa4ce2f6f140cc4825868e858cb.jpg"
+      },
+      {
+        "id": 40849,
+        "name": "Steam Cloud",
+        "slug": "steam-cloud",
+        "language": "eng",
+        "games_count": 25731,
+        "image_background": "https://media.rawg.io/media/games/120/1201a40e4364557b124392ee50317b99.jpg"
+      },
+      {
+        "id": 13,
+        "name": "Atmospheric",
+        "slug": "atmospheric",
+        "language": "eng",
+        "games_count": 39705,
+        "image_background": "https://media.rawg.io/media/games/d82/d82990b9c67ba0d2d09d4e6fa88885a7.jpg"
+      },
+      {
+        "id": 7808,
+        "name": "steam-trading-cards",
+        "slug": "steam-trading-cards",
+        "language": "eng",
+        "games_count": 7568,
+        "image_background": "https://media.rawg.io/media/games/e6d/e6de699bd788497f4b52e2f41f9698f2.jpg"
+      },
+      {
+        "id": 42,
+        "name": "Great Soundtrack",
+        "slug": "great-soundtrack",
+        "language": "eng",
+        "games_count": 3450,
+        "image_background": "https://media.rawg.io/media/games/587/587588c64afbff80e6f444eb2e46f9da.jpg"
+      },
+      {
+        "id": 24,
+        "name": "RPG",
+        "slug": "rpg",
+        "language": "eng",
+        "games_count": 26621,
+        "image_background": "https://media.rawg.io/media/games/d69/d69810315bd7e226ea2d21f9156af629.jpg"
+      },
+      {
+        "id": 118,
+        "name": "Story Rich",
+        "slug": "story-rich",
+        "language": "eng",
+        "games_count": 27257,
+        "image_background": "https://media.rawg.io/media/games/bc0/bc06a29ceac58652b684deefe7d56099.jpg"
+      },
+      {
+        "id": 36,
+        "name": "Open World",
+        "slug": "open-world",
+        "language": "eng",
+        "games_count": 9265,
+        "image_background": "https://media.rawg.io/media/games/20a/20aa03a10cda45239fe22d035c0ebe64.jpg"
+      },
+      {
+        "id": 40845,
+        "name": "Partial Controller Support",
+        "slug": "partial-controller-support",
+        "language": "eng",
+        "games_count": 13990,
+        "image_background": "https://media.rawg.io/media/games/c80/c80bcf321da44d69b18a06c04d942662.jpg"
+      },
+      {
+        "id": 64,
+        "name": "Fantasy",
+        "slug": "fantasy",
+        "language": "eng",
+        "games_count": 32956,
+        "image_background": "https://media.rawg.io/media/games/aa3/aa36ba4b486a03ddfaef274fb4f5afd4.jpg"
+      },
+      {
+        "id": 193,
+        "name": "Classic",
+        "slug": "classic",
+        "language": "eng",
+        "games_count": 1839,
+        "image_background": "https://media.rawg.io/media/games/9c4/9c47f320eb73c9a02d462e12f6206b26.jpg"
+      },
+      {
+        "id": 189,
+        "name": "Female Protagonist",
+        "slug": "female-protagonist",
+        "language": "eng",
+        "games_count": 15544,
+        "image_background": "https://media.rawg.io/media/games/7fa/7fa0b586293c5861ee32490e953a4996.jpg"
+      },
+      {
+        "id": 134,
+        "name": "Anime",
+        "slug": "anime",
+        "language": "eng",
+        "games_count": 17057,
+        "image_background": "https://media.rawg.io/media/games/3b5/3b56220d6038b8b1ad66c4d05ef95215.jpg"
+      },
+      {
+        "id": 468,
+        "name": "role-playing",
+        "slug": "role-playing",
+        "language": "eng",
+        "games_count": 1657,
+        "image_background": "https://media.rawg.io/media/games/8ca/8ca40b562a755d6a0e30d48e6c74b178.jpg"
+      },
+      {
+        "id": 44,
+        "name": "Nudity",
+        "slug": "nudity",
+        "language": "eng",
+        "games_count": 8847,
+        "image_background": "https://media.rawg.io/media/games/618/618c2031a07bbff6b4f611f10b6bcdbc.jpg"
+      },
+      {
+        "id": 102,
+        "name": "Turn-Based",
+        "slug": "turn-based",
+        "language": "eng",
+        "games_count": 5605,
+        "image_background": "https://media.rawg.io/media/games/d1f/d1f872a48286b6b751670817d5c1e1be.jpg"
+      },
+      {
+        "id": 271,
+        "name": "Remake",
+        "slug": "remake",
+        "language": "eng",
+        "games_count": 1738,
+        "image_background": "https://media.rawg.io/media/games/367/367463d43c2a1465f27e830b5b1334ee.jpg"
+      },
+      {
+        "id": 233,
+        "name": "JRPG",
+        "slug": "jrpg",
+        "language": "eng",
+        "games_count": 5264,
+        "image_background": "https://media.rawg.io/media/games/a59/a5993b9f84944570a31cb6ad08bfe502.jpg"
+      },
+      {
+        "id": 305,
+        "name": "Linear",
+        "slug": "linear",
+        "language": "eng",
+        "games_count": 9742,
+        "image_background": "https://media.rawg.io/media/games/410/41033a495ce8f7fd4b0934bdb975f12a.jpg"
+      },
+      {
+        "id": 175,
+        "name": "Turn-Based Combat",
+        "slug": "turn-based-combat",
+        "language": "eng",
+        "games_count": 6346,
+        "image_background": "https://media.rawg.io/media/screenshots/3f5/3f58a7b2a2b290994eb798eb72ca3fb2.jpg"
+      },
+      {
+        "id": 217,
+        "name": "Romance",
+        "slug": "romance",
+        "language": "eng",
+        "games_count": 9862,
+        "image_background": "https://media.rawg.io/media/games/0d4/0d4e5446db732e2fcce34d1dcb4dd914.jpg"
+      }
+    ],
+    "publishers": [
+      {
+        "id": 308,
+        "name": "Square Enix",
+        "slug": "square-enix",
+        "games_count": 609,
+        "image_background": "https://media.rawg.io/media/games/3d9/3d9bac98d79bcd2d445f829e8d6be902.jpg"
+      }
+    ],
+    "esrb_rating": {
+      "id": 3,
+      "name": "Teen",
+      "slug": "teen"
+    },
+    "clip": null,
+    "description_raw": "FINAL FANTASY X tells the story of a star blitzball player, Tidus, who journeys with a young and beautiful summoner named Yuna on her quest to save the world of Spira from an endless cycle of destruction wrought by the colossal menace Sin.\nFINAL FANTASY X-2 returns to the world of Spira two years after the beginning of the Eternal Calm. Having been shown a mysterious but familiar image in a sphere, Yuna becomes a Sphere Hunter and along with her companions Rikku and Paine, embarks on a quest around the world to find the answers to the mystery within.\nBased on the international versions of the games that were previously only released in Japan and Europe, FINAL FANTASY X/X-2 HD Remaster brings these timeless classics forward to the current generation of fans, old and new alike.\nKey Features:\nCharacters, monsters, and environments have been fine-tuned to HD detail, providing a richer, deeper FINAL FANTASY visual experience.\nOther features in the PC version include remastered/rearranged BGM,\nInternational Edition content,\nAuto-save and 5 game boosters including high speed and no encounter modes."
+  },
+  "screenshots": [
+    {
+      "id": 30385,
+      "image": "https://media.rawg.io/media/screenshots/343/3435fff2c13449890c8b456d413a1da2.jpg",
+      "width": 1280,
+      "height": 720,
+      "is_deleted": false
+    },
+    {
+      "id": 30386,
+      "image": "https://media.rawg.io/media/screenshots/a41/a416b40a9633725a5afa54beedc4412a.jpg",
+      "width": 1280,
+      "height": 720,
+      "is_deleted": false
+    },
+    {
+      "id": 30387,
+      "image": "https://media.rawg.io/media/screenshots/ab7/ab750a399472303e49febf8ab7105990.jpg",
+      "width": 1280,
+      "height": 720,
+      "is_deleted": false
+    },
+    {
+      "id": 30388,
+      "image": "https://media.rawg.io/media/screenshots/d07/d07f6579d74c0362977faa02ecbedebf.jpg",
+      "width": 1280,
+      "height": 720,
+      "is_deleted": false
+    },
+    {
+      "id": 30389,
+      "image": "https://media.rawg.io/media/screenshots/38a/38aeb8065a58b316699e5a1a6ef0aa4d.jpg",
+      "width": 1280,
+      "height": 720,
+      "is_deleted": false
+    },
+    {
+      "id": 30390,
+      "image": "https://media.rawg.io/media/screenshots/dc3/dc350fc8ba7a220b509d6029cda21afc.jpg",
+      "width": 1280,
+      "height": 720,
+      "is_deleted": false
+    }
+  ]
+}

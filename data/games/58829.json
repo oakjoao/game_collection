@@ -1,0 +1,297 @@
+{
+  "details": {
+    "id": 58829,
+    "slug": "super-smash-bros-ultimate",
+    "name": "Super Smash Bros. Ultimate",
+    "name_original": "Super Smash Bros. Ultimate",
+    "description": "<p>Super Smash Bros. Ultimate is the fifth game in its franchise. It is also the first game in its series to be released for Nintendo Switch.</p>\n<h3>Premise</h3>\n<p>The series is a crossover of characters from various video game franchises, such as The Legend of Zelda, Pokemon, Sonic the Hedgehog, Super Mario, Metroid, and Mega Man, among many others. Their famous protagonists fight each other on an arena. In accordance with its name, the game is the “ultimate” installment of the series, in that it offers the players all the characters ever featured in Super Smash Bros. The game also introduces five new characters, most famously, Castlevania&#39;s Simon Belmont.</p>\n<h3>Gameplay</h3>\n<p>Unlike most fighting games, Super Smash Bros. series is built around knocking opponents out of the arena rather than lowering their health bars. However, the damage meter increases the character&#39;s chances to be knocked out. Each fighter has a limited number of lives and loses one when he or she is knocked out. The player is eliminated when he or she loses all lives.</p>\n<h3>Multiplayer</h3>\n<p>Super Smash Bros. Ultimate includes several competitive multiplayer modes. Besides the traditional versus mode, there are several new modes not featured in the previous games. These include Tournament (the playoff mode for 32 players), Smash Squad (team multiplayer), Smashdown (a mode in which the defeated characters are eliminated).</p>",
+    "metacritic": 93,
+    "metacritic_platforms": [
+      {
+        "metascore": 93,
+        "url": "https://www.metacritic.com/game/switch/super-smash-bros-ultimate",
+        "platform": {
+          "platform": 7,
+          "name": "Nintendo Switch",
+          "slug": "nintendo-switch"
+        }
+      }
+    ],
+    "released": "2018-12-07",
+    "tba": false,
+    "updated": "2026-03-07T19:49:21",
+    "background_image": "https://media.rawg.io/media/games/9f3/9f3c513b301d8d7250a64dd7e73c62df.jpg",
+    "background_image_additional": "https://media.rawg.io/media/screenshots/18e/18e4579e1b2e975d02bcbea43e78ef82.jpg",
+    "website": "https://www.smashbros.com/",
+    "rating": 4.37,
+    "rating_top": 5,
+    "ratings": [
+      {
+        "id": 5,
+        "title": "exceptional",
+        "count": 646,
+        "percent": 58.41
+      },
+      {
+        "id": 4,
+        "title": "recommended",
+        "count": 322,
+        "percent": 29.11
+      },
+      {
+        "id": 3,
+        "title": "meh",
+        "count": 89,
+        "percent": 8.05
+      },
+      {
+        "id": 1,
+        "title": "skip",
+        "count": 49,
+        "percent": 4.43
+      }
+    ],
+    "reactions": {
+      "1": 3,
+      "2": 5,
+      "3": 7,
+      "4": 2,
+      "6": 3,
+      "7": 1,
+      "8": 10,
+      "9": 1,
+      "11": 2,
+      "12": 6
+    },
+    "added": 2245,
+    "added_by_status": {
+      "yet": 93,
+      "owned": 510,
+      "beaten": 613,
+      "toplay": 257,
+      "dropped": 368,
+      "playing": 404
+    },
+    "playtime": 0,
+    "screenshots_count": 18,
+    "movies_count": 0,
+    "creators_count": 7,
+    "achievements_count": 0,
+    "parent_achievements_count": 0,
+    "reddit_url": "https://www.reddit.com/r/smashbros/",
+    "reddit_name": "",
+    "reddit_description": "",
+    "reddit_logo": "",
+    "reddit_count": 10476,
+    "twitch_count": 0,
+    "youtube_count": 1000000,
+    "reviews_text_count": 24,
+    "ratings_count": 1082,
+    "suggestions_count": 519,
+    "alternative_names": [
+      "Smash 5",
+      "Super Smash Bros. Special"
+    ],
+    "metacritic_url": "https://www.metacritic.com/game/switch/super-smash-bros-ultimate",
+    "parents_count": 0,
+    "additions_count": 0,
+    "game_series_count": 5,
+    "user_game": null,
+    "reviews_count": 1106,
+    "saturated_color": "0f0f0f",
+    "dominant_color": "0f0f0f",
+    "parent_platforms": [
+      {
+        "platform": {
+          "id": 7,
+          "name": "Nintendo",
+          "slug": "nintendo"
+        }
+      }
+    ],
+    "platforms": [
+      {
+        "platform": {
+          "id": 7,
+          "name": "Nintendo Switch",
+          "slug": "nintendo-switch",
+          "image": null,
+          "year_end": null,
+          "year_start": null,
+          "games_count": 5765,
+          "image_background": "https://media.rawg.io/media/games/5a4/5a44112251d70a25291cc33757220fce.jpg"
+        },
+        "released_at": "2018-12-07",
+        "requirements": {}
+      }
+    ],
+    "stores": [
+      {
+        "id": 48910,
+        "url": "",
+        "store": {
+          "id": 6,
+          "name": "Nintendo Store",
+          "slug": "nintendo",
+          "domain": "nintendo.com",
+          "games_count": 9150,
+          "image_background": "https://media.rawg.io/media/games/5eb/5eb49eb2fa0738fdb5bacea557b1bc57.jpg"
+        }
+      }
+    ],
+    "developers": [
+      {
+        "id": 16257,
+        "name": "Nintendo",
+        "slug": "nintendo",
+        "games_count": 429,
+        "image_background": "https://media.rawg.io/media/games/c23/c231ef56cdd277fad5fbcd2f6b7d2951.jpg"
+      },
+      {
+        "id": 26425,
+        "name": "Bandai Namco Entertainment",
+        "slug": "bandai-namco-entertainment",
+        "games_count": 292,
+        "image_background": "https://media.rawg.io/media/screenshots/ef2/ef244c1bdc250dc5c82c56846675b90b.jpg"
+      },
+      {
+        "id": 28575,
+        "name": "Sora",
+        "slug": "sora-ltd",
+        "games_count": 17,
+        "image_background": "https://media.rawg.io/media/screenshots/430/43099b52d95f7a9c1131c49c8621765f.jpg"
+      }
+    ],
+    "genres": [
+      {
+        "id": 6,
+        "name": "Fighting",
+        "slug": "fighting",
+        "games_count": 11777,
+        "image_background": "https://media.rawg.io/media/games/35b/35b47c4d85cd6e08f3e2ca43ea5ce7bb.jpg"
+      }
+    ],
+    "tags": [
+      {
+        "id": 7,
+        "name": "Multiplayer",
+        "slug": "multiplayer",
+        "language": "eng",
+        "games_count": 42552,
+        "image_background": "https://media.rawg.io/media/games/960/960b601d9541cec776c5fa42a00bf6c4.jpg"
+      },
+      {
+        "id": 808,
+        "name": "character",
+        "slug": "character",
+        "language": "eng",
+        "games_count": 8887,
+        "image_background": "https://media.rawg.io/media/games/c36/c366f32194f488b2d04c0ec086c2cc3d.jpg"
+      },
+      {
+        "id": 1125,
+        "name": "arena",
+        "slug": "arena",
+        "language": "eng",
+        "games_count": 2081,
+        "image_background": "https://media.rawg.io/media/games/9f3/9f3c513b301d8d7250a64dd7e73c62df.jpg"
+      },
+      {
+        "id": 7082,
+        "name": "fighter",
+        "slug": "fighter",
+        "language": "eng",
+        "games_count": 1484,
+        "image_background": "https://media.rawg.io/media/games/1b9/1b9b1b82d204e9656019f73c577cb804.jpg"
+      },
+      {
+        "id": 1598,
+        "name": "mario",
+        "slug": "mario",
+        "language": "eng",
+        "games_count": 1201,
+        "image_background": "https://media.rawg.io/media/games/647/647174a1ecf75d11dcd532098a1a2349.jpg"
+      },
+      {
+        "id": 6033,
+        "name": "smash",
+        "slug": "smash",
+        "language": "eng",
+        "games_count": 1791,
+        "image_background": "https://media.rawg.io/media/games/9f3/9f3c513b301d8d7250a64dd7e73c62df.jpg"
+      },
+      {
+        "id": 867,
+        "name": "zelda",
+        "slug": "zelda",
+        "language": "eng",
+        "games_count": 452,
+        "image_background": "https://media.rawg.io/media/games/087/08727beb32c364d30e8b2a1aa8595f8e.jpg"
+      },
+      {
+        "id": 1640,
+        "name": "pokemon",
+        "slug": "pokemon",
+        "language": "eng",
+        "games_count": 528,
+        "image_background": "https://media.rawg.io/media/screenshots/54d/54d25046c6c770d0cb7fbc865a3294da.jpg"
+      }
+    ],
+    "publishers": [
+      {
+        "id": 10681,
+        "name": "Nintendo",
+        "slug": "nintendo",
+        "games_count": 1241,
+        "image_background": "https://media.rawg.io/media/games/3a0/3a0c8e9ed3a711c542218831b893a0fa.jpg"
+      }
+    ],
+    "esrb_rating": null,
+    "clip": null,
+    "description_raw": "Super Smash Bros. Ultimate is the fifth game in its franchise. It is also the first game in its series to be released for Nintendo Switch.\r\n\r\n###Premise\r\nThe series is a crossover of characters from various video game franchises, such as The Legend of Zelda, Pokemon, Sonic the Hedgehog, Super Mario, Metroid, and Mega Man, among many others. Their famous protagonists fight each other on an arena. In accordance with its name, the game is the “ultimate” installment of the series, in that it offers the players all the characters ever featured in Super Smash Bros. The game also introduces five new characters, most famously, Castlevania's Simon Belmont.\r\n\r\n###Gameplay\r\nUnlike most fighting games, Super Smash Bros. series is built around knocking opponents out of the arena rather than lowering their health bars. However, the damage meter increases the character's chances to be knocked out. Each fighter has a limited number of lives and loses one when he or she is knocked out. The player is eliminated when he or she loses all lives.\r\n\r\n###Multiplayer\r\nSuper Smash Bros. Ultimate includes several competitive multiplayer modes. Besides the traditional versus mode, there are several new modes not featured in the previous games. These include Tournament (the playoff mode for 32 players), Smash Squad (team multiplayer), Smashdown (a mode in which the defeated characters are eliminated)."
+  },
+  "screenshots": [
+    {
+      "id": 779362,
+      "image": "https://media.rawg.io/media/screenshots/1c9/1c9ae7a68285ad0d4aa046b22bcdc4bf.jpg",
+      "width": 1200,
+      "height": 600,
+      "is_deleted": false
+    },
+    {
+      "id": 779363,
+      "image": "https://media.rawg.io/media/screenshots/f67/f670247976d1b8121a5149bdfd8dbc21.jpg",
+      "width": 1268,
+      "height": 717,
+      "is_deleted": false
+    },
+    {
+      "id": 779364,
+      "image": "https://media.rawg.io/media/screenshots/e3e/e3eaf49fe84fdc175e07d86d13e5bec5.jpg",
+      "width": 1268,
+      "height": 717,
+      "is_deleted": false
+    },
+    {
+      "id": 779365,
+      "image": "https://media.rawg.io/media/screenshots/59d/59df418ec1f82e1410a19f33db40ddce.jpg",
+      "width": 1268,
+      "height": 717,
+      "is_deleted": false
+    },
+    {
+      "id": 779366,
+      "image": "https://media.rawg.io/media/screenshots/2e7/2e761888447bae01026e2b882dd4fdab.jpg",
+      "width": 1268,
+      "height": 717,
+      "is_deleted": false
+    },
+    {
+      "id": 779367,
+      "image": "https://media.rawg.io/media/screenshots/5ee/5ee9e40bc55def84bfccab09b324f220.jpg",
+      "width": 1268,
+      "height": 717,
+      "is_deleted": false
+    }
+  ]
+}

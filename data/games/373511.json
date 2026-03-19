@@ -1,0 +1,208 @@
+{
+  "details": {
+    "id": 373511,
+    "slug": "ringfit-adventure",
+    "name": "Ring Fit Adventure",
+    "name_original": "Ring Fit Adventure",
+    "description": "<p>Traverse grass-swept plains by jogging in place, attack enemies with overhead shoulder presses, and refill your health meter by striking some yoga poses. Two new accessories, the Ring-Con™ and Leg Strap, measure your real-world actions and help turn them into in-game movements. With additional minigames and customizable workout routines, Ring Fit Adventure is great escape for players of all skill levels and schedules. In Adventure mode, defeat enemies with attacks based on real-world exercises as you traverse more than 100 levels in over 20 worlds. As you work through each level (and possibly work up a sweat), you’ll earn experience points. Between fights, you may encounter some unusual methods of transportation such as squat-powered launch pads. Then, pass around the Ring-Con and leg strap accessories and select from a few minigames: break boxes with gusts of air, craft pottery using squats, and more.</p>",
+    "metacritic": 83,
+    "metacritic_platforms": [
+      {
+        "metascore": 83,
+        "url": "https://www.metacritic.com/game/switch/ring-fit-adventure",
+        "platform": {
+          "platform": 7,
+          "name": "Nintendo Switch",
+          "slug": "nintendo-switch"
+        }
+      }
+    ],
+    "released": "2019-10-18",
+    "tba": false,
+    "updated": "2025-12-04T19:22:57",
+    "background_image": "https://media.rawg.io/media/games/edf/edf0e3551971bcf668e27512eed199f8.jpg",
+    "background_image_additional": "https://media.rawg.io/media/screenshots/21f/21feab286f789a77a344372cb6f1895b.jpg",
+    "website": "https://ringfitadventure.nintendo.com/",
+    "rating": 4.31,
+    "rating_top": 4,
+    "ratings": [
+      {
+        "id": 4,
+        "title": "recommended",
+        "count": 73,
+        "percent": 50
+      },
+      {
+        "id": 5,
+        "title": "exceptional",
+        "count": 64,
+        "percent": 43.84
+      },
+      {
+        "id": 1,
+        "title": "skip",
+        "count": 5,
+        "percent": 3.42
+      },
+      {
+        "id": 3,
+        "title": "meh",
+        "count": 4,
+        "percent": 2.74
+      }
+    ],
+    "reactions": {},
+    "added": 379,
+    "added_by_status": {
+      "yet": 20,
+      "owned": 55,
+      "beaten": 32,
+      "toplay": 58,
+      "dropped": 84,
+      "playing": 130
+    },
+    "playtime": 0,
+    "screenshots_count": 4,
+    "movies_count": 0,
+    "creators_count": 0,
+    "achievements_count": 0,
+    "parent_achievements_count": 0,
+    "reddit_url": "https://www.reddit.com/r/RingFitAdventure/",
+    "reddit_name": "",
+    "reddit_description": "",
+    "reddit_logo": "",
+    "reddit_count": 6299,
+    "twitch_count": 100,
+    "youtube_count": 198107,
+    "reviews_text_count": 0,
+    "ratings_count": 146,
+    "suggestions_count": 216,
+    "alternative_names": [],
+    "metacritic_url": "https://www.metacritic.com/game/switch/ring-fit-adventure",
+    "parents_count": 0,
+    "additions_count": 0,
+    "game_series_count": 0,
+    "user_game": null,
+    "reviews_count": 146,
+    "saturated_color": "0f0f0f",
+    "dominant_color": "0f0f0f",
+    "parent_platforms": [
+      {
+        "platform": {
+          "id": 7,
+          "name": "Nintendo",
+          "slug": "nintendo"
+        }
+      }
+    ],
+    "platforms": [
+      {
+        "platform": {
+          "id": 7,
+          "name": "Nintendo Switch",
+          "slug": "nintendo-switch",
+          "image": null,
+          "year_end": null,
+          "year_start": null,
+          "games_count": 5765,
+          "image_background": "https://media.rawg.io/media/games/5a4/5a44112251d70a25291cc33757220fce.jpg"
+        },
+        "released_at": "2019-10-18",
+        "requirements": {}
+      }
+    ],
+    "stores": [
+      {
+        "id": 362008,
+        "url": "",
+        "store": {
+          "id": 6,
+          "name": "Nintendo Store",
+          "slug": "nintendo",
+          "domain": "nintendo.com",
+          "games_count": 9150,
+          "image_background": "https://media.rawg.io/media/games/5eb/5eb49eb2fa0738fdb5bacea557b1bc57.jpg"
+        }
+      }
+    ],
+    "developers": [
+      {
+        "id": 16257,
+        "name": "Nintendo",
+        "slug": "nintendo",
+        "games_count": 429,
+        "image_background": "https://media.rawg.io/media/games/c23/c231ef56cdd277fad5fbcd2f6b7d2951.jpg"
+      }
+    ],
+    "genres": [
+      {
+        "id": 3,
+        "name": "Adventure",
+        "slug": "adventure",
+        "games_count": 151684,
+        "image_background": "https://media.rawg.io/media/games/c50/c5085506fe4b5e20fc7aa5ace842c20b.jpg"
+      },
+      {
+        "id": 14,
+        "name": "Simulation",
+        "slug": "simulation",
+        "games_count": 76815,
+        "image_background": "https://media.rawg.io/media/games/78d/78dfae12fb8c5b16cd78648553071e0a.jpg"
+      },
+      {
+        "id": 15,
+        "name": "Sports",
+        "slug": "sports",
+        "games_count": 22628,
+        "image_background": "https://media.rawg.io/media/games/d16/d160819f22de73d29813f7b6dad815f9.jpg"
+      }
+    ],
+    "tags": [],
+    "publishers": [
+      {
+        "id": 10681,
+        "name": "Nintendo",
+        "slug": "nintendo",
+        "games_count": 1241,
+        "image_background": "https://media.rawg.io/media/games/3a0/3a0c8e9ed3a711c542218831b893a0fa.jpg"
+      }
+    ],
+    "esrb_rating": {
+      "id": 2,
+      "name": "Everyone 10+",
+      "slug": "everyone-10-plus"
+    },
+    "clip": null,
+    "description_raw": "Traverse grass-swept plains by jogging in place, attack enemies with overhead shoulder presses, and refill your health meter by striking some yoga poses. Two new accessories, the Ring-Con™ and Leg Strap, measure your real-world actions and help turn them into in-game movements. With additional minigames and customizable workout routines, Ring Fit Adventure is great escape for players of all skill levels and schedules. In Adventure mode, defeat enemies with attacks based on real-world exercises as you traverse more than 100 levels in over 20 worlds. As you work through each level (and possibly work up a sweat), you’ll earn experience points. Between fights, you may encounter some unusual methods of transportation such as squat-powered launch pads. Then, pass around the Ring-Con and leg strap accessories and select from a few minigames: break boxes with gusts of air, craft pottery using squats, and more."
+  },
+  "screenshots": [
+    {
+      "id": 2168023,
+      "image": "https://media.rawg.io/media/screenshots/6bc/6bc3cf46e0cbd871cf81a1ff9582262d.jpg",
+      "width": 1787,
+      "height": 937,
+      "is_deleted": false
+    },
+    {
+      "id": 2168025,
+      "image": "https://media.rawg.io/media/screenshots/226/226a71aab37da930e4e9540b828dfa8e.jpg",
+      "width": 1790,
+      "height": 944,
+      "is_deleted": false
+    },
+    {
+      "id": 2168026,
+      "image": "https://media.rawg.io/media/screenshots/bf6/bf61e2a1edc0f497240e99848e9e2000.jpg",
+      "width": 2000,
+      "height": 666,
+      "is_deleted": false
+    },
+    {
+      "id": 2168027,
+      "image": "https://media.rawg.io/media/screenshots/21f/21feab286f789a77a344372cb6f1895b.jpg",
+      "width": 1024,
+      "height": 576,
+      "is_deleted": false
+    }
+  ]
+}

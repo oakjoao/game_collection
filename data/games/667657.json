@@ -1,0 +1,198 @@
+{
+  "details": {
+    "id": 667657,
+    "slug": "kirby-and-the-forgotten-land",
+    "name": "Kirby and the Forgotten Land",
+    "name_original": "Kirby and the Forgotten Land",
+    "description": "<p>Take control of the powerful pink puffball, Kirby, and move around freely in 3D stages as you discover a mysterious world with abandoned structures from a past civilization—like a shopping mall?! Copy enemies’ abilities like Sword and Ice and use them to attack and explore your surroundings! What journey awaits Kirby? Take a deep breath and get ready for an unforgettable adventure!</p>",
+    "metacritic": null,
+    "metacritic_platforms": [],
+    "released": "2022-03-25",
+    "tba": false,
+    "updated": "2026-03-18T14:25:05",
+    "background_image": "https://media.rawg.io/media/games/42a/42a71f0cbe23185f778c10462faa12d8.jpg",
+    "background_image_additional": "https://media.rawg.io/media/screenshots/371/371b7bf344d3f2a76f7a7b6a6b4323c8.jpg",
+    "website": "https://www.nintendo.com/games/detail/kirby-and-the-forgotten-land-switch/",
+    "rating": 4.26,
+    "rating_top": 4,
+    "ratings": [
+      {
+        "id": 4,
+        "title": "recommended",
+        "count": 71,
+        "percent": 53.38
+      },
+      {
+        "id": 5,
+        "title": "exceptional",
+        "count": 50,
+        "percent": 37.59
+      },
+      {
+        "id": 3,
+        "title": "meh",
+        "count": 10,
+        "percent": 7.52
+      },
+      {
+        "id": 1,
+        "title": "skip",
+        "count": 2,
+        "percent": 1.5
+      }
+    ],
+    "reactions": {
+      "1": 1,
+      "7": 1,
+      "16": 1
+    },
+    "added": 509,
+    "added_by_status": {
+      "yet": 55,
+      "owned": 51,
+      "beaten": 151,
+      "toplay": 172,
+      "dropped": 39,
+      "playing": 41
+    },
+    "playtime": 0,
+    "screenshots_count": 5,
+    "movies_count": 0,
+    "creators_count": 13,
+    "achievements_count": 0,
+    "parent_achievements_count": 0,
+    "reddit_url": "",
+    "reddit_name": "",
+    "reddit_description": "",
+    "reddit_logo": "",
+    "reddit_count": 0,
+    "twitch_count": 200,
+    "youtube_count": 0,
+    "reviews_text_count": 4,
+    "ratings_count": 129,
+    "suggestions_count": 252,
+    "alternative_names": [],
+    "metacritic_url": "https://www.metacritic.com/game/switch/kirby-and-the-forgotten-land",
+    "parents_count": 0,
+    "additions_count": 0,
+    "game_series_count": 0,
+    "user_game": null,
+    "reviews_count": 133,
+    "saturated_color": "0f0f0f",
+    "dominant_color": "0f0f0f",
+    "parent_platforms": [
+      {
+        "platform": {
+          "id": 7,
+          "name": "Nintendo",
+          "slug": "nintendo"
+        }
+      }
+    ],
+    "platforms": [
+      {
+        "platform": {
+          "id": 7,
+          "name": "Nintendo Switch",
+          "slug": "nintendo-switch",
+          "image": null,
+          "year_end": null,
+          "year_start": null,
+          "games_count": 5765,
+          "image_background": "https://media.rawg.io/media/games/5a4/5a44112251d70a25291cc33757220fce.jpg"
+        },
+        "released_at": "2022-03-25",
+        "requirements": {}
+      }
+    ],
+    "stores": [
+      {
+        "id": 665007,
+        "url": "",
+        "store": {
+          "id": 6,
+          "name": "Nintendo Store",
+          "slug": "nintendo",
+          "domain": "nintendo.com",
+          "games_count": 9150,
+          "image_background": "https://media.rawg.io/media/games/5eb/5eb49eb2fa0738fdb5bacea557b1bc57.jpg"
+        }
+      }
+    ],
+    "developers": [
+      {
+        "id": 16257,
+        "name": "Nintendo",
+        "slug": "nintendo",
+        "games_count": 429,
+        "image_background": "https://media.rawg.io/media/games/c23/c231ef56cdd277fad5fbcd2f6b7d2951.jpg"
+      },
+      {
+        "id": 134189,
+        "name": "HAL Labs",
+        "slug": "hal-labs",
+        "games_count": 4,
+        "image_background": "https://media.rawg.io/media/games/4ea/4ea9776f2440ca5b278c3892bd5e26a1.jpg"
+      }
+    ],
+    "genres": [
+      {
+        "id": 4,
+        "name": "Action",
+        "slug": "action",
+        "games_count": 191508,
+        "image_background": "https://media.rawg.io/media/games/737/737ea5662211d2e0bbd6f5989189e4f1.jpg"
+      }
+    ],
+    "tags": [],
+    "publishers": [
+      {
+        "id": 10681,
+        "name": "Nintendo",
+        "slug": "nintendo",
+        "games_count": 1241,
+        "image_background": "https://media.rawg.io/media/games/3a0/3a0c8e9ed3a711c542218831b893a0fa.jpg"
+      }
+    ],
+    "esrb_rating": null,
+    "clip": null,
+    "description_raw": "Take control of the powerful pink puffball, Kirby, and move around freely in 3D stages as you discover a mysterious world with abandoned structures from a past civilization—like a shopping mall?! Copy enemies’ abilities like Sword and Ice and use them to attack and explore your surroundings! What journey awaits Kirby? Take a deep breath and get ready for an unforgettable adventure!"
+  },
+  "screenshots": [
+    {
+      "id": 3037680,
+      "image": "https://media.rawg.io/media/screenshots/e02/e026abf429d63d8b39cbeaab6e8f9862.jpg",
+      "width": 1920,
+      "height": 1080,
+      "is_deleted": false
+    },
+    {
+      "id": 3037681,
+      "image": "https://media.rawg.io/media/screenshots/126/126e5bec3379697a8b2df4e70bfbefe8.jpg",
+      "width": 1920,
+      "height": 1080,
+      "is_deleted": false
+    },
+    {
+      "id": 3037682,
+      "image": "https://media.rawg.io/media/screenshots/471/4712b232a4b49a73ae50f07744fcbabe.jpg",
+      "width": 1920,
+      "height": 1080,
+      "is_deleted": false
+    },
+    {
+      "id": 3037683,
+      "image": "https://media.rawg.io/media/screenshots/371/371b7bf344d3f2a76f7a7b6a6b4323c8.jpg",
+      "width": 1920,
+      "height": 1080,
+      "is_deleted": false
+    },
+    {
+      "id": 3037684,
+      "image": "https://media.rawg.io/media/screenshots/f61/f6130342a70c008a217c01b9e84e8e01.jpg",
+      "width": 1920,
+      "height": 1080,
+      "is_deleted": false
+    }
+  ]
+}

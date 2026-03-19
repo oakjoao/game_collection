@@ -1,0 +1,245 @@
+{
+  "details": {
+    "id": 421698,
+    "slug": "animal-crossing-2019",
+    "name": "Animal Crossing: New Horizons",
+    "name_original": "Animal Crossing: New Horizons",
+    "description": "<p>If the hustle and bustle of modern life’s got you down, Tom Nook has a new business venture up his sleeve that he knows you’ll adore: the Nook Inc. Deserted Island Getaway Package! Sure, you’ve crossed paths with colorful characters near and far. Had a grand time as one of the city folk. May’ve even turned over a new leaf and dedicated yourself to public service! But deep down, isn’t there a part of you that longs for…freedom? Then perhaps a long walk on the beach of a deserted island, where a rich wealth of untouched nature awaits, is just what the doctor ordered!</p>\n<p>Peaceful creativity and charm await as you roll up your sleeves and make your new life whatever you want it to be. Collect resources and craft everything from creature comforts to handy tools. Embrace your green thumb as you interact with flowers and trees in new ways. Set up a homestead where the rules of what goes indoors and out no longer apply. Make friends with new arrivals, enjoy the seasons, pole-vault across rivers as you explore, and more!</p>",
+    "metacritic": 90,
+    "metacritic_platforms": [
+      {
+        "metascore": 90,
+        "url": "https://www.metacritic.com/game/switch/animal-crossing-new-horizons",
+        "platform": {
+          "platform": 7,
+          "name": "Nintendo Switch",
+          "slug": "nintendo-switch"
+        }
+      }
+    ],
+    "released": "2020-03-20",
+    "tba": false,
+    "updated": "2026-02-10T15:36:33",
+    "background_image": "https://media.rawg.io/media/games/42f/42fe1abd4d7c11ca92d93a0fb0f8662b.jpg",
+    "background_image_additional": "https://media.rawg.io/media/screenshots/c1d/c1d6b8161ec4dfdd1a79711ce214c233.jpg",
+    "website": "https://www.animal-crossing.com/new-horizons/",
+    "rating": 4.3,
+    "rating_top": 5,
+    "ratings": [
+      {
+        "id": 5,
+        "title": "exceptional",
+        "count": 397,
+        "percent": 49.94
+      },
+      {
+        "id": 4,
+        "title": "recommended",
+        "count": 299,
+        "percent": 37.61
+      },
+      {
+        "id": 3,
+        "title": "meh",
+        "count": 71,
+        "percent": 8.93
+      },
+      {
+        "id": 1,
+        "title": "skip",
+        "count": 28,
+        "percent": 3.52
+      }
+    ],
+    "reactions": {
+      "1": 2,
+      "2": 2,
+      "3": 10,
+      "4": 4,
+      "7": 13,
+      "8": 3,
+      "12": 4,
+      "14": 2,
+      "15": 2,
+      "16": 1,
+      "18": 1
+    },
+    "added": 1862,
+    "added_by_status": {
+      "yet": 89,
+      "owned": 299,
+      "beaten": 434,
+      "toplay": 303,
+      "dropped": 337,
+      "playing": 400
+    },
+    "playtime": 0,
+    "screenshots_count": 14,
+    "movies_count": 0,
+    "creators_count": 11,
+    "achievements_count": 0,
+    "parent_achievements_count": 0,
+    "reddit_url": "https://www.reddit.com/r/AnimalCrossingNewHor/",
+    "reddit_name": "",
+    "reddit_description": "",
+    "reddit_logo": "",
+    "reddit_count": 1220,
+    "twitch_count": 184,
+    "youtube_count": 1000000,
+    "reviews_text_count": 25,
+    "ratings_count": 770,
+    "suggestions_count": 296,
+    "alternative_names": [],
+    "metacritic_url": "https://www.metacritic.com/game/switch/animal-crossing-new-horizons",
+    "parents_count": 0,
+    "additions_count": 1,
+    "game_series_count": 7,
+    "user_game": null,
+    "reviews_count": 795,
+    "saturated_color": "0f0f0f",
+    "dominant_color": "0f0f0f",
+    "parent_platforms": [
+      {
+        "platform": {
+          "id": 7,
+          "name": "Nintendo",
+          "slug": "nintendo"
+        }
+      }
+    ],
+    "platforms": [
+      {
+        "platform": {
+          "id": 7,
+          "name": "Nintendo Switch",
+          "slug": "nintendo-switch",
+          "image": null,
+          "year_end": null,
+          "year_start": null,
+          "games_count": 5765,
+          "image_background": "https://media.rawg.io/media/games/5a4/5a44112251d70a25291cc33757220fce.jpg"
+        },
+        "released_at": "2020-03-20",
+        "requirements": {}
+      }
+    ],
+    "stores": [
+      {
+        "id": 412337,
+        "url": "",
+        "store": {
+          "id": 6,
+          "name": "Nintendo Store",
+          "slug": "nintendo",
+          "domain": "nintendo.com",
+          "games_count": 9150,
+          "image_background": "https://media.rawg.io/media/games/5eb/5eb49eb2fa0738fdb5bacea557b1bc57.jpg"
+        }
+      }
+    ],
+    "developers": [
+      {
+        "id": 16257,
+        "name": "Nintendo",
+        "slug": "nintendo",
+        "games_count": 429,
+        "image_background": "https://media.rawg.io/media/games/c23/c231ef56cdd277fad5fbcd2f6b7d2951.jpg"
+      }
+    ],
+    "genres": [
+      {
+        "id": 14,
+        "name": "Simulation",
+        "slug": "simulation",
+        "games_count": 76815,
+        "image_background": "https://media.rawg.io/media/games/78d/78dfae12fb8c5b16cd78648553071e0a.jpg"
+      }
+    ],
+    "tags": [
+      {
+        "id": 31,
+        "name": "Singleplayer",
+        "slug": "singleplayer",
+        "language": "eng",
+        "games_count": 250812,
+        "image_background": "https://media.rawg.io/media/games/26d/26d4437715bee60138dab4a7c8c59c92.jpg"
+      },
+      {
+        "id": 37796,
+        "name": "exclusive",
+        "slug": "exclusive",
+        "language": "eng",
+        "games_count": 4491,
+        "image_background": "https://media.rawg.io/media/games/b7d/b7d3f1715fa8381a4e780173a197a615.jpg"
+      },
+      {
+        "id": 37797,
+        "name": "true exclusive",
+        "slug": "true-exclusive",
+        "language": "eng",
+        "games_count": 3981,
+        "image_background": "https://media.rawg.io/media/games/d30/d30ef0c7dd4878161b1f781e297ae6a0.jpg"
+      }
+    ],
+    "publishers": [
+      {
+        "id": 10681,
+        "name": "Nintendo",
+        "slug": "nintendo",
+        "games_count": 1241,
+        "image_background": "https://media.rawg.io/media/games/3a0/3a0c8e9ed3a711c542218831b893a0fa.jpg"
+      }
+    ],
+    "esrb_rating": {
+      "id": 1,
+      "name": "Everyone",
+      "slug": "everyone"
+    },
+    "clip": null,
+    "description_raw": "If the hustle and bustle of modern life’s got you down, Tom Nook has a new business venture up his sleeve that he knows you’ll adore: the Nook Inc. Deserted Island Getaway Package! Sure, you’ve crossed paths with colorful characters near and far. Had a grand time as one of the city folk. May’ve even turned over a new leaf and dedicated yourself to public service! But deep down, isn’t there a part of you that longs for…freedom? Then perhaps a long walk on the beach of a deserted island, where a rich wealth of untouched nature awaits, is just what the doctor ordered!\n\nPeaceful creativity and charm await as you roll up your sleeves and make your new life whatever you want it to be. Collect resources and craft everything from creature comforts to handy tools. Embrace your green thumb as you interact with flowers and trees in new ways. Set up a homestead where the rules of what goes indoors and out no longer apply. Make friends with new arrivals, enjoy the seasons, pole-vault across rivers as you explore, and more!"
+  },
+  "screenshots": [
+    {
+      "id": 1800109,
+      "image": "https://media.rawg.io/media/screenshots/9a4/9a4d01a14309324d83d34918582c6af4.jpg",
+      "width": 1200,
+      "height": 800,
+      "is_deleted": false
+    },
+    {
+      "id": 1961485,
+      "image": "https://media.rawg.io/media/screenshots/82c/82c52816639b5ba8eabfb88448018435.jpg",
+      "width": 1920,
+      "height": 1080,
+      "is_deleted": false
+    },
+    {
+      "id": 1961486,
+      "image": "https://media.rawg.io/media/screenshots/09a/09ab7fe7db451ee778974aa1047a084f.jpg",
+      "width": 1920,
+      "height": 1080,
+      "is_deleted": false
+    },
+    {
+      "id": 1961487,
+      "image": "https://media.rawg.io/media/screenshots/cd7/cd7e76c928e0953619e03d013b12c129.jpg",
+      "width": 1920,
+      "height": 1080,
+      "is_deleted": false
+    },
+    {
+      "id": 1961488,
+      "image": "https://media.rawg.io/media/screenshots/ef0/ef0ec14e08054687e4ed40e755102f38.jpg",
+      "width": 1920,
+      "height": 1080,
+      "is_deleted": false
+    },
+    {
+      "id": 1961489,
+      "image": "https://media.rawg.io/media/screenshots/0e6/0e627685e5396186194572128258db0f.jpg",
+      "width": 1920,
+      "height": 1080,
+      "is_deleted": false
+    }
+  ]
+}

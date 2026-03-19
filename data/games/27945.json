@@ -1,0 +1,257 @@
+{
+  "details": {
+    "id": 27945,
+    "slug": "fire-emblem-warriors",
+    "name": "Fire Emblem Warriors",
+    "name_original": "Fire Emblem Warriors",
+    "description": "<p>Clash with legions of enemies as Marth, Xander, Corrin, Chrom, and other<br />\nFire Emblem warriors by unleashing over-the-top-powerful Dynasty<br />\nWarriors-style moves. Take control of characters with distinct attacks,<br />\nissue strategic commands, pair up warriors for stunning moves, and more<br />\nin an epic tactical action game from the Hyrule Warriors team.</p>\n<p>In the Kingdom of Aytolis, new heroes mystically collide with warriors<br />\nfrom across the history of Fire Emblem™, who must band together to face<br />\ncountless enemies and restore the mysterious Shield of Flames to stop<br />\nthe Chaos Dragon. Advance the story to unlock additional playable<br />\ncharacters, each with different attacks, weapons, combos, and voiced<br />\ndialogue. A combination of intense combat and strategic Fire Emblem<br />\ngameplay offers a take on battling that&#39;s new to the series. Change<br />\nbetween heroes anywhere on the battlefield and command them to victory.<br />\nThe materials and gold you earn in battle can be used to upgrade heroes,<br />\nweapons, and more.</p>",
+    "metacritic": 72,
+    "metacritic_platforms": [
+      {
+        "metascore": 69,
+        "url": "https://www.metacritic.com/game/3ds/fire-emblem-warriors",
+        "platform": {
+          "platform": 8,
+          "name": "Nintendo 3DS",
+          "slug": "nintendo-3ds"
+        }
+      },
+      {
+        "metascore": 74,
+        "url": "https://www.metacritic.com/game/switch/fire-emblem-warriors",
+        "platform": {
+          "platform": 7,
+          "name": "Nintendo Switch",
+          "slug": "nintendo-switch"
+        }
+      }
+    ],
+    "released": "2017-10-20",
+    "tba": false,
+    "updated": "2025-05-31T01:07:21",
+    "background_image": "https://media.rawg.io/media/games/e30/e3038affa5065a6bc827849b969b48a0.jpg",
+    "background_image_additional": "https://media.rawg.io/media/screenshots/cde/cdef4ba95c1a313df21e87117a5953de.jpg",
+    "website": "http://fireemblemwarriors.nintendo.com/",
+    "rating": 3.64,
+    "rating_top": 4,
+    "ratings": [
+      {
+        "id": 4,
+        "title": "recommended",
+        "count": 37,
+        "percent": 67.27
+      },
+      {
+        "id": 3,
+        "title": "meh",
+        "count": 15,
+        "percent": 27.27
+      },
+      {
+        "id": 1,
+        "title": "skip",
+        "count": 2,
+        "percent": 3.64
+      },
+      {
+        "id": 5,
+        "title": "exceptional",
+        "count": 1,
+        "percent": 1.82
+      }
+    ],
+    "reactions": {
+      "2": 1,
+      "3": 1,
+      "11": 1,
+      "12": 1
+    },
+    "added": 188,
+    "added_by_status": {
+      "yet": 21,
+      "owned": 29,
+      "beaten": 62,
+      "toplay": 36,
+      "dropped": 29,
+      "playing": 11
+    },
+    "playtime": 0,
+    "screenshots_count": 5,
+    "movies_count": 0,
+    "creators_count": 8,
+    "achievements_count": 0,
+    "parent_achievements_count": 0,
+    "reddit_url": "https://www.reddit.com/r/FireEmblemHeroes/",
+    "reddit_name": "",
+    "reddit_description": "",
+    "reddit_logo": "",
+    "reddit_count": 12155,
+    "twitch_count": 132,
+    "youtube_count": 625660,
+    "reviews_text_count": 1,
+    "ratings_count": 54,
+    "suggestions_count": 355,
+    "alternative_names": [],
+    "metacritic_url": "https://www.metacritic.com/game/switch/fire-emblem-warriors",
+    "parents_count": 0,
+    "additions_count": 0,
+    "game_series_count": 20,
+    "user_game": null,
+    "reviews_count": 55,
+    "saturated_color": "0f0f0f",
+    "dominant_color": "0f0f0f",
+    "parent_platforms": [
+      {
+        "platform": {
+          "id": 7,
+          "name": "Nintendo",
+          "slug": "nintendo"
+        }
+      }
+    ],
+    "platforms": [
+      {
+        "platform": {
+          "id": 8,
+          "name": "Nintendo 3DS",
+          "slug": "nintendo-3ds",
+          "image": null,
+          "year_end": null,
+          "year_start": null,
+          "games_count": 1682,
+          "image_background": "https://media.rawg.io/media/games/041/041026016869e440fb1fb2b6be5222c4.jpg"
+        },
+        "released_at": "2017-10-20",
+        "requirements": {}
+      },
+      {
+        "platform": {
+          "id": 7,
+          "name": "Nintendo Switch",
+          "slug": "nintendo-switch",
+          "image": null,
+          "year_end": null,
+          "year_start": null,
+          "games_count": 5765,
+          "image_background": "https://media.rawg.io/media/games/5a4/5a44112251d70a25291cc33757220fce.jpg"
+        },
+        "released_at": "2017-10-20",
+        "requirements": {}
+      }
+    ],
+    "stores": [
+      {
+        "id": 32825,
+        "url": "",
+        "store": {
+          "id": 6,
+          "name": "Nintendo Store",
+          "slug": "nintendo",
+          "domain": "nintendo.com",
+          "games_count": 9150,
+          "image_background": "https://media.rawg.io/media/games/5eb/5eb49eb2fa0738fdb5bacea557b1bc57.jpg"
+        }
+      }
+    ],
+    "developers": [
+      {
+        "id": 26470,
+        "name": "Koei Tecmo",
+        "slug": "koei-tecmo",
+        "games_count": 153,
+        "image_background": "https://media.rawg.io/media/screenshots/de5/de5eed35a3449a376381a307fdb974e7.jpg"
+      }
+    ],
+    "genres": [
+      {
+        "id": 5,
+        "name": "RPG",
+        "slug": "role-playing-games-rpg",
+        "games_count": 61936,
+        "image_background": "https://media.rawg.io/media/games/d1a/d1a2e99ade53494c6330a0ed945fe823.jpg"
+      }
+    ],
+    "tags": [
+      {
+        "id": 468,
+        "name": "role-playing",
+        "slug": "role-playing",
+        "language": "eng",
+        "games_count": 1657,
+        "image_background": "https://media.rawg.io/media/games/8ca/8ca40b562a755d6a0e30d48e6c74b178.jpg"
+      },
+      {
+        "id": 68,
+        "name": "Hack and Slash",
+        "slug": "hack-and-slash",
+        "language": "eng",
+        "games_count": 5347,
+        "image_background": "https://media.rawg.io/media/games/1f1/1f1888e1308959dfd3be4c144a81d19c.jpg"
+      },
+      {
+        "id": 87204,
+        "name": "crowd combat",
+        "slug": "crowd-combat-2",
+        "language": "eng",
+        "games_count": 51,
+        "image_background": "https://media.rawg.io/media/games/e30/e3038affa5065a6bc827849b969b48a0.jpg"
+      }
+    ],
+    "publishers": [
+      {
+        "id": 10681,
+        "name": "Nintendo",
+        "slug": "nintendo",
+        "games_count": 1241,
+        "image_background": "https://media.rawg.io/media/games/3a0/3a0c8e9ed3a711c542218831b893a0fa.jpg"
+      },
+      {
+        "id": 14676,
+        "name": "Koei Tecmo Games",
+        "slug": "koei-tecmo-games",
+        "games_count": 186,
+        "image_background": "https://media.rawg.io/media/games/637/6370d17534183a7cbcff7bb1878188a6.jpg"
+      }
+    ],
+    "esrb_rating": null,
+    "clip": null,
+    "description_raw": "Clash with legions of enemies as Marth, Xander, Corrin, Chrom, and other\nFire Emblem warriors by unleashing over-the-top-powerful Dynasty\nWarriors-style moves. Take control of characters with distinct attacks,\nissue strategic commands, pair up warriors for stunning moves, and more\nin an epic tactical action game from the Hyrule Warriors team.\n\nIn the Kingdom of Aytolis, new heroes mystically collide with warriors\nfrom across the history of Fire Emblem™, who must band together to face\ncountless enemies and restore the mysterious Shield of Flames to stop\nthe Chaos Dragon. Advance the story to unlock additional playable\ncharacters, each with different attacks, weapons, combos, and voiced\ndialogue. A combination of intense combat and strategic Fire Emblem\ngameplay offers a take on battling that's new to the series. Change\nbetween heroes anywhere on the battlefield and command them to victory.\nThe materials and gold you earn in battle can be used to upgrade heroes,\nweapons, and more."
+  },
+  "screenshots": [
+    {
+      "id": 713496,
+      "image": "https://media.rawg.io/media/screenshots/9cf/9cfd1e918c0fee192c54174168c7f33a.jpg",
+      "width": 745,
+      "height": 419,
+      "is_deleted": false
+    },
+    {
+      "id": 713497,
+      "image": "https://media.rawg.io/media/screenshots/da3/da3432572b6f10043db2a63c709458ff.jpg",
+      "width": 745,
+      "height": 419,
+      "is_deleted": false
+    },
+    {
+      "id": 713498,
+      "image": "https://media.rawg.io/media/screenshots/a73/a7366e89db28a78c6b564815a5008f39.jpg",
+      "width": 745,
+      "height": 419,
+      "is_deleted": false
+    },
+    {
+      "id": 713499,
+      "image": "https://media.rawg.io/media/screenshots/cde/cdef4ba95c1a313df21e87117a5953de.jpg",
+      "width": 745,
+      "height": 419,
+      "is_deleted": false
+    },
+    {
+      "id": 713500,
+      "image": "https://media.rawg.io/media/screenshots/45c/45c31ac1e1c7d4fa66aeb2b9b42e73c1.jpg",
+      "width": 745,
+      "height": 419,
+      "is_deleted": false
+    }
+  ]
+}

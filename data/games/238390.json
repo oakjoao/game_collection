@@ -1,0 +1,259 @@
+{
+  "details": {
+    "id": 238390,
+    "slug": "new-super-mario-bros-u-deluxe",
+    "name": "New Super Mario Bros. U Deluxe",
+    "name_original": "New Super Mario Bros. U Deluxe",
+    "description": "<p>Take on two family-friendly, side-scrolling adventures with up to three <br />\n      friends* as you try to save the Mushroom Kingdom. Includes the New Super <br />\n      Mario Bros. U and harder, faster New Super Luigi U games—both of which <br />\n      include Nabbit and Toadette as playable characters!</p>\n<pre><code>  Two games in one, for double the fun! Simple, straightforward controls,   \n  new playable characters optimized for younger and less-experienced   \n  players, and a wealth of bonus content—like a Hints gallery and helpful   \n  reference videos**—make this a perfect choice for anyone looking to   \n  introduce their family to the wonderful world of Mario. All a player   \n  needs is one Joy-Con™ controller, so two people can team up right out of   \n  the box! Tackle 164 platforming courses in the two main game modes and   \n  enjoy extra replayability with three additional game modes in which you   \n  can also play as a Mii™ character: Challenges, Boost Rush, and Coin   \n  Battle!\n\n\n    A variety of playable characters are available, some with unique   \n    attributes that affect gameplay and platforming physics.\n\n\n    Younger and less-experienced players will love playing as Toadette,   \n    who is brand new to both games, and Nabbit, who was formerly only   \n    playable in New Super Luigi U. Both characters offer extra assistance   \n    during play.\n\n\n    Multiplayer sessions are even more fun, frantic, and exciting thanks   \n    to entertaining character interactions. Need a boost? Try jumping off   \n    a teammate’s head or getting a teammate to throw you!\n\n\n    Features a wealth of help features, like a Hints gallery, reference   \n    videos**, and a Super Guide in New Super Mario Bros. U that can   \n    complete levels for you if they’re giving you trouble.\n\n\n    Three additional modes—Boost Rush, Challenges, and Coin Battle—mix up   \n    gameplay and add replayability, while also upping the difficulty for   \n    players who want to try something harder. Players can use their Mii   \n    characters in these modes!\n\n\n    Share the adventure with a friend! During two-player co-op gameplay,   \n    each player can use a single Joy-Con controller, so no additional   \n    accessories are required. And to add two more players to the mix, all   \n    you need is one extra set of Joy-Con controllers (sold separately).\n</code></pre>",
+    "metacritic": 80,
+    "metacritic_platforms": [
+      {
+        "metascore": 80,
+        "url": "https://www.metacritic.com/game/switch/new-super-mario-bros-u-deluxe",
+        "platform": {
+          "platform": 7,
+          "name": "Nintendo Switch",
+          "slug": "nintendo-switch"
+        }
+      }
+    ],
+    "released": "2019-01-11",
+    "tba": false,
+    "updated": "2026-03-10T18:56:53",
+    "background_image": "https://media.rawg.io/media/games/61c/61cf09a86fe686a01a0c9863fc4230a7.jpeg",
+    "background_image_additional": "https://media.rawg.io/media/screenshots/6f1/6f1f963f4e088a631e30605891873889.jpg",
+    "website": "",
+    "rating": 3.83,
+    "rating_top": 4,
+    "ratings": [
+      {
+        "id": 4,
+        "title": "recommended",
+        "count": 96,
+        "percent": 59.63
+      },
+      {
+        "id": 3,
+        "title": "meh",
+        "count": 30,
+        "percent": 18.63
+      },
+      {
+        "id": 5,
+        "title": "exceptional",
+        "count": 27,
+        "percent": 16.77
+      },
+      {
+        "id": 1,
+        "title": "skip",
+        "count": 8,
+        "percent": 4.97
+      }
+    ],
+    "reactions": {
+      "16": 1,
+      "18": 1
+    },
+    "added": 443,
+    "added_by_status": {
+      "yet": 41,
+      "owned": 64,
+      "beaten": 147,
+      "toplay": 105,
+      "dropped": 50,
+      "playing": 36
+    },
+    "playtime": 0,
+    "screenshots_count": 3,
+    "movies_count": 0,
+    "creators_count": 9,
+    "achievements_count": 0,
+    "parent_achievements_count": 0,
+    "reddit_url": "",
+    "reddit_name": "",
+    "reddit_description": "",
+    "reddit_logo": "",
+    "reddit_count": 0,
+    "twitch_count": 0,
+    "youtube_count": 1000000,
+    "reviews_text_count": 6,
+    "ratings_count": 155,
+    "suggestions_count": 103,
+    "alternative_names": [],
+    "metacritic_url": "https://www.metacritic.com/game/switch/new-super-mario-bros-u-deluxe",
+    "parents_count": 1,
+    "additions_count": 0,
+    "game_series_count": 0,
+    "user_game": null,
+    "reviews_count": 161,
+    "saturated_color": "0f0f0f",
+    "dominant_color": "0f0f0f",
+    "parent_platforms": [
+      {
+        "platform": {
+          "id": 7,
+          "name": "Nintendo",
+          "slug": "nintendo"
+        }
+      }
+    ],
+    "platforms": [
+      {
+        "platform": {
+          "id": 7,
+          "name": "Nintendo Switch",
+          "slug": "nintendo-switch",
+          "image": null,
+          "year_end": null,
+          "year_start": null,
+          "games_count": 5765,
+          "image_background": "https://media.rawg.io/media/games/5a4/5a44112251d70a25291cc33757220fce.jpg"
+        },
+        "released_at": "2019-01-11",
+        "requirements": {}
+      }
+    ],
+    "stores": [
+      {
+        "id": 235259,
+        "url": "",
+        "store": {
+          "id": 6,
+          "name": "Nintendo Store",
+          "slug": "nintendo",
+          "domain": "nintendo.com",
+          "games_count": 9150,
+          "image_background": "https://media.rawg.io/media/games/5eb/5eb49eb2fa0738fdb5bacea557b1bc57.jpg"
+        }
+      }
+    ],
+    "developers": [
+      {
+        "id": 16257,
+        "name": "Nintendo",
+        "slug": "nintendo",
+        "games_count": 429,
+        "image_background": "https://media.rawg.io/media/games/c23/c231ef56cdd277fad5fbcd2f6b7d2951.jpg"
+      }
+    ],
+    "genres": [
+      {
+        "id": 83,
+        "name": "Platformer",
+        "slug": "platformer",
+        "games_count": 100923,
+        "image_background": "https://media.rawg.io/media/games/388/388935d851846f8ec747fffc7c765800.jpg"
+      }
+    ],
+    "tags": [
+      {
+        "id": 7,
+        "name": "Multiplayer",
+        "slug": "multiplayer",
+        "language": "eng",
+        "games_count": 42552,
+        "image_background": "https://media.rawg.io/media/games/960/960b601d9541cec776c5fa42a00bf6c4.jpg"
+      },
+      {
+        "id": 115,
+        "name": "Controller",
+        "slug": "controller",
+        "language": "eng",
+        "games_count": 15030,
+        "image_background": "https://media.rawg.io/media/games/85c/85c8ae70e7cdf0105f06ef6bdce63b8b.jpg"
+      },
+      {
+        "id": 114,
+        "name": "Physics",
+        "slug": "physics",
+        "language": "eng",
+        "games_count": 21585,
+        "image_background": "https://media.rawg.io/media/screenshots/eef/eef872fddedf40e6d2236bb981725cc6.jpg"
+      },
+      {
+        "id": 981,
+        "name": "battle",
+        "slug": "battle",
+        "language": "eng",
+        "games_count": 10706,
+        "image_background": "https://media.rawg.io/media/games/d51/d51ada3b94bfd617bf91d4344ab81ce9.jpg"
+      },
+      {
+        "id": 808,
+        "name": "character",
+        "slug": "character",
+        "language": "eng",
+        "games_count": 8887,
+        "image_background": "https://media.rawg.io/media/games/c36/c366f32194f488b2d04c0ec086c2cc3d.jpg"
+      },
+      {
+        "id": 744,
+        "name": "friends",
+        "slug": "friends",
+        "language": "eng",
+        "games_count": 15189,
+        "image_background": "https://media.rawg.io/media/games/315/3156817d3ac1f341da73de6495fb28f5.jpg"
+      },
+      {
+        "id": 2590,
+        "name": "fun",
+        "slug": "fun",
+        "language": "eng",
+        "games_count": 29225,
+        "image_background": "https://media.rawg.io/media/games/ba7/ba7e84d59dbdb2fab5b2c1368e3bdfa5.jpg"
+      },
+      {
+        "id": 4851,
+        "name": "box",
+        "slug": "box",
+        "language": "eng",
+        "games_count": 2200,
+        "image_background": "https://media.rawg.io/media/screenshots/e3a/e3a6291e3bebe2c39da28b4c3e56a045.jpg"
+      },
+      {
+        "id": 1598,
+        "name": "mario",
+        "slug": "mario",
+        "language": "eng",
+        "games_count": 1201,
+        "image_background": "https://media.rawg.io/media/games/647/647174a1ecf75d11dcd532098a1a2349.jpg"
+      }
+    ],
+    "publishers": [
+      {
+        "id": 10681,
+        "name": "Nintendo",
+        "slug": "nintendo",
+        "games_count": 1241,
+        "image_background": "https://media.rawg.io/media/games/3a0/3a0c8e9ed3a711c542218831b893a0fa.jpg"
+      }
+    ],
+    "esrb_rating": null,
+    "clip": null,
+    "description_raw": "Take on two family-friendly, side-scrolling adventures with up to three \r\n      friends* as you try to save the Mushroom Kingdom. Includes the New Super \r\n      Mario Bros. U and harder, faster New Super Luigi U games—both of which \r\n      include Nabbit and Toadette as playable characters!\r\n    \r\n      Two games in one, for double the fun! Simple, straightforward controls, \r\n      new playable characters optimized for younger and less-experienced \r\n      players, and a wealth of bonus content—like a Hints gallery and helpful \r\n      reference videos**—make this a perfect choice for anyone looking to \r\n      introduce their family to the wonderful world of Mario. All a player \r\n      needs is one Joy-Con™ controller, so two people can team up right out of \r\n      the box! Tackle 164 platforming courses in the two main game modes and \r\n      enjoy extra replayability with three additional game modes in which you \r\n      can also play as a Mii™ character: Challenges, Boost Rush, and Coin \r\n      Battle!\r\n    \n\r\n        A variety of playable characters are available, some with unique \r\n        attributes that affect gameplay and platforming physics.\r\n      \n\r\n        Younger and less-experienced players will love playing as Toadette, \r\n        who is brand new to both games, and Nabbit, who was formerly only \r\n        playable in New Super Luigi U. Both characters offer extra assistance \r\n        during play.\r\n      \n\r\n        Multiplayer sessions are even more fun, frantic, and exciting thanks \r\n        to entertaining character interactions. Need a boost? Try jumping off \r\n        a teammate’s head or getting a teammate to throw you!\r\n      \n\r\n        Features a wealth of help features, like a Hints gallery, reference \r\n        videos**, and a Super Guide in New Super Mario Bros. U that can \r\n        complete levels for you if they’re giving you trouble.\r\n      \n\r\n        Three additional modes—Boost Rush, Challenges, and Coin Battle—mix up \r\n        gameplay and add replayability, while also upping the difficulty for \r\n        players who want to try something harder. Players can use their Mii \r\n        characters in these modes!\r\n      \n\r\n        Share the adventure with a friend! During two-player co-op gameplay, \r\n        each player can use a single Joy-Con controller, so no additional \r\n        accessories are required. And to add two more players to the mix, all \r\n        you need is one extra set of Joy-Con controllers (sold separately)."
+  },
+  "screenshots": [
+    {
+      "id": 1627661,
+      "image": "https://media.rawg.io/media/screenshots/b31/b3107d85a92a906e0a2664382e3df332.jpg",
+      "width": 1920,
+      "height": 1080,
+      "is_deleted": false
+    },
+    {
+      "id": 1627662,
+      "image": "https://media.rawg.io/media/screenshots/6f1/6f1f963f4e088a631e30605891873889.jpg",
+      "width": 1920,
+      "height": 1080,
+      "is_deleted": false
+    },
+    {
+      "id": 1627663,
+      "image": "https://media.rawg.io/media/screenshots/b8b/b8b2f486afa1d48427eb02e6a2a20cb8.jpg",
+      "width": 1920,
+      "height": 1080,
+      "is_deleted": false
+    }
+  ]
+}

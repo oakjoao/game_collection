@@ -1,0 +1,226 @@
+{
+  "details": {
+    "id": 455585,
+    "slug": "new-pokemon-snap",
+    "name": "New Pokémon Snap",
+    "name_original": "New Pokémon Snap",
+    "description": "<p>Seek out and take in-game pictures of Pokémon in their native environments in the New Pokémon™ Snap game, only for the Nintendo Switch™ system! You&#39;ll even discover behaviors and expressions you&#39;ve never seen before when you encounter and research lively wild Pokémon.</p>\n<p>Explore environments, take in-game pictures and fill your Pokémon Photodex</p>\n<p>Travel to unknown islands with beautiful scenery like lush jungles and sandy beaches. The Pokémon pictures you take there will be used to build your very own Pokémon Photodex!</p>\n<p>This brand-new game brings the gameplay of the 1999 Pokémon Snap game for the Nintendo 64™ system to life on the Nintendo Switch system with unknown islands to discover and different Pokémon to see!</p>\n<p>Photograph lively wild Pokémon in their natural habitats as you research and explore unknown islands. Journey through a variety of environments such as beaches and jungles to capture previously-unseen Pokémon behaviors. The photos you take can also be used to fill out your very own Pokémon Photodex!</p>\n<p>See a different side of Pokémon in a new photo-snapping adventure, only on Nintendo Switch<br />\nResearch various Pokémon in their natural habitats and capture Pokémon behaviors that you’ve never seen before<br />\nExplore unknown islands with scenery like lush jungles and tropical beaches throughout your journey<br />\nTake in-game photos to make your very own Pokémon Photodex</p>",
+    "metacritic": 79,
+    "metacritic_platforms": [
+      {
+        "metascore": 79,
+        "url": "https://www.metacritic.com/game/switch/new-pokemon-snap",
+        "platform": {
+          "platform": 7,
+          "name": "Nintendo Switch",
+          "slug": "nintendo-switch"
+        }
+      }
+    ],
+    "released": "2021-04-30",
+    "tba": false,
+    "updated": "2026-01-11T18:23:23",
+    "background_image": "https://media.rawg.io/media/screenshots/967/967d912c7ae0a728bd2f78bce076eb9c.jpg",
+    "background_image_additional": "https://media.rawg.io/media/screenshots/c60/c60e0853c836cde92a4177ff4c43eb05.jpg",
+    "website": "",
+    "rating": 3.81,
+    "rating_top": 4,
+    "ratings": [
+      {
+        "id": 4,
+        "title": "recommended",
+        "count": 17,
+        "percent": 39.53
+      },
+      {
+        "id": 5,
+        "title": "exceptional",
+        "count": 16,
+        "percent": 37.21
+      },
+      {
+        "id": 1,
+        "title": "skip",
+        "count": 7,
+        "percent": 16.28
+      },
+      {
+        "id": 3,
+        "title": "meh",
+        "count": 3,
+        "percent": 6.98
+      }
+    ],
+    "reactions": {
+      "14": 1
+    },
+    "added": 166,
+    "added_by_status": {
+      "yet": 19,
+      "owned": 16,
+      "beaten": 39,
+      "toplay": 48,
+      "dropped": 24,
+      "playing": 20
+    },
+    "playtime": 0,
+    "screenshots_count": 6,
+    "movies_count": 0,
+    "creators_count": 0,
+    "achievements_count": 0,
+    "parent_achievements_count": 0,
+    "reddit_url": "",
+    "reddit_name": "",
+    "reddit_description": "",
+    "reddit_logo": "",
+    "reddit_count": 0,
+    "twitch_count": 148,
+    "youtube_count": 0,
+    "reviews_text_count": 2,
+    "ratings_count": 41,
+    "suggestions_count": 256,
+    "alternative_names": [
+      "New pokemon snap"
+    ],
+    "metacritic_url": "https://www.metacritic.com/game/switch/new-pokemon-snap",
+    "parents_count": 0,
+    "additions_count": 0,
+    "game_series_count": 1,
+    "user_game": null,
+    "reviews_count": 43,
+    "saturated_color": "0f0f0f",
+    "dominant_color": "0f0f0f",
+    "parent_platforms": [
+      {
+        "platform": {
+          "id": 7,
+          "name": "Nintendo",
+          "slug": "nintendo"
+        }
+      }
+    ],
+    "platforms": [
+      {
+        "platform": {
+          "id": 7,
+          "name": "Nintendo Switch",
+          "slug": "nintendo-switch",
+          "image": null,
+          "year_end": null,
+          "year_start": null,
+          "games_count": 5765,
+          "image_background": "https://media.rawg.io/media/games/5a4/5a44112251d70a25291cc33757220fce.jpg"
+        },
+        "released_at": "2021-04-30",
+        "requirements": {}
+      }
+    ],
+    "stores": [
+      {
+        "id": 446706,
+        "url": "",
+        "store": {
+          "id": 6,
+          "name": "Nintendo Store",
+          "slug": "nintendo",
+          "domain": "nintendo.com",
+          "games_count": 9150,
+          "image_background": "https://media.rawg.io/media/games/5eb/5eb49eb2fa0738fdb5bacea557b1bc57.jpg"
+        }
+      }
+    ],
+    "developers": [
+      {
+        "id": 26425,
+        "name": "Bandai Namco Entertainment",
+        "slug": "bandai-namco-entertainment",
+        "games_count": 292,
+        "image_background": "https://media.rawg.io/media/screenshots/ef2/ef244c1bdc250dc5c82c56846675b90b.jpg"
+      },
+      {
+        "id": 8230,
+        "name": "Game Freak",
+        "slug": "game-freak",
+        "games_count": 61,
+        "image_background": "https://media.rawg.io/media/games/82f/82f7b1424c5ee7eebee83faf694889c5.jpg"
+      }
+    ],
+    "genres": [
+      {
+        "id": 14,
+        "name": "Simulation",
+        "slug": "simulation",
+        "games_count": 76815,
+        "image_background": "https://media.rawg.io/media/games/78d/78dfae12fb8c5b16cd78648553071e0a.jpg"
+      },
+      {
+        "id": 40,
+        "name": "Casual",
+        "slug": "casual",
+        "games_count": 67642,
+        "image_background": "https://media.rawg.io/media/games/d11/d11470677a829e34562e95a4002c2c7f.jpg"
+      }
+    ],
+    "tags": [],
+    "publishers": [
+      {
+        "id": 10681,
+        "name": "Nintendo",
+        "slug": "nintendo",
+        "games_count": 1241,
+        "image_background": "https://media.rawg.io/media/games/3a0/3a0c8e9ed3a711c542218831b893a0fa.jpg"
+      }
+    ],
+    "esrb_rating": {
+      "id": 1,
+      "name": "Everyone",
+      "slug": "everyone"
+    },
+    "clip": null,
+    "description_raw": "Seek out and take in-game pictures of Pokémon in their native environments in the New Pokémon™ Snap game, only for the Nintendo Switch™ system! You'll even discover behaviors and expressions you've never seen before when you encounter and research lively wild Pokémon.\n\nExplore environments, take in-game pictures and fill your Pokémon Photodex\n\nTravel to unknown islands with beautiful scenery like lush jungles and sandy beaches. The Pokémon pictures you take there will be used to build your very own Pokémon Photodex!\n\nThis brand-new game brings the gameplay of the 1999 Pokémon Snap game for the Nintendo 64™ system to life on the Nintendo Switch system with unknown islands to discover and different Pokémon to see!\n\nPhotograph lively wild Pokémon in their natural habitats as you research and explore unknown islands. Journey through a variety of environments such as beaches and jungles to capture previously-unseen Pokémon behaviors. The photos you take can also be used to fill out your very own Pokémon Photodex!\n\nSee a different side of Pokémon in a new photo-snapping adventure, only on Nintendo Switch\nResearch various Pokémon in their natural habitats and capture Pokémon behaviors that you’ve never seen before\nExplore unknown islands with scenery like lush jungles and tropical beaches throughout your journey\nTake in-game photos to make your very own Pokémon Photodex"
+  },
+  "screenshots": [
+    {
+      "id": 2416869,
+      "image": "https://media.rawg.io/media/screenshots/ec3/ec304161282f02b712c6d322e84a4390.jpg",
+      "width": 920,
+      "height": 613,
+      "is_deleted": false
+    },
+    {
+      "id": 2416870,
+      "image": "https://media.rawg.io/media/screenshots/3c7/3c780bd36f769c5ff4057167d3a09295.jpg",
+      "width": 1920,
+      "height": 1080,
+      "is_deleted": false
+    },
+    {
+      "id": 2416871,
+      "image": "https://media.rawg.io/media/screenshots/028/02876931efa59cbb6daa0c0b938bb0ba.jpg",
+      "width": 1920,
+      "height": 1080,
+      "is_deleted": false
+    },
+    {
+      "id": 2416872,
+      "image": "https://media.rawg.io/media/screenshots/381/38192b66e6e79a8b7edbd455355edd0b.jpg",
+      "width": 1920,
+      "height": 1080,
+      "is_deleted": false
+    },
+    {
+      "id": 2416873,
+      "image": "https://media.rawg.io/media/screenshots/c60/c60e0853c836cde92a4177ff4c43eb05.jpg",
+      "width": 1920,
+      "height": 1080,
+      "is_deleted": false
+    },
+    {
+      "id": 2416874,
+      "image": "https://media.rawg.io/media/screenshots/967/967d912c7ae0a728bd2f78bce076eb9c.jpg",
+      "width": 1920,
+      "height": 1080,
+      "is_deleted": false
+    }
+  ]
+}

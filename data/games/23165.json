@@ -1,0 +1,249 @@
+{
+  "details": {
+    "id": 23165,
+    "slug": "mario-kart-8-deluxe",
+    "name": "Mario Kart 8 Deluxe",
+    "name_original": "Mario Kart 8 Deluxe",
+    "description": "<p>Hit the road with the definitive version of Mario Kart 8 and play<br />\nanytime, anywhere! Race your friends or battle them in a revised battle<br />\nmode on new and returning battle courses. Play locally in up to 4-player<br />\nmultiplayer in 1080p while playing in TV Mode. Every track from the Wii<br />\nU version, including DLC, makes a glorious return. Plus, the Inklings<br />\nappear as all-new guest characters, along with returning favorites, such<br />\nas King Boo, Dry Bones, and Bowser Jr.!</p>\n<p>Features:</p>\n<p>Race your friends in the definitive version of Mario Kart 8, only on<br />\nNintendo Switch!</p>\n<p>Race as every character on every track from the Wii U version,<br />\nincluding DLC characters and tracks.</p>\n<p>Pop some balloons in the revamped Battle mode, complete with Balloon<br />\nBattle and Bob-omb Blast.</p>\n<p>Battle on new courses, like Urchin Underpass and Battle Stadium, or<br />\nreturning ones, such as GCN Luigi&#39;s Mansion and SNES Battle Course 1.</p>\n<p>Inkling Girl &amp; Inkling Boy from Splatoon, King Boo, Dry Bones, and<br />\nBowser Jr. join the roster!</p>\n<p>Players can choose a new Smart Steering feature which makes driving<br />\nand staying on the track easy for novice players and kids even at 200cc</p>\n<p>Three new vehicles have been added, two are even inspired by Splatoon</p>\n<p>Carry two items at the same time</p>\n<p>Returning items include Boo, the item stealing ghost, and the Feather,<br />\nwhich gives you a high jump in battle mode.</p>\n<p>Play your friends in local wireless multiplayer with up to 8 players.</p>\n<p>Drive through in 1080p HD quality in TV mode</p>\n<p>Play on the go with handheld mode and play anytime, anywhere</p>",
+    "metacritic": 92,
+    "metacritic_platforms": [],
+    "released": "2017-04-27",
+    "tba": false,
+    "updated": "2026-03-01T10:48:05",
+    "background_image": "https://media.rawg.io/media/games/6f8/6f846e941c78cfbabe53cd67e55ced83.jpg",
+    "background_image_additional": "https://media.rawg.io/media/screenshots/c46/c467350a8185da434ae0272b8fe1dc4e.jpg",
+    "website": "http://mariokart8.nintendo.com/",
+    "rating": 4.45,
+    "rating_top": 5,
+    "ratings": [
+      {
+        "id": 5,
+        "title": "exceptional",
+        "count": 532,
+        "percent": 57.83
+      },
+      {
+        "id": 4,
+        "title": "recommended",
+        "count": 312,
+        "percent": 33.91
+      },
+      {
+        "id": 3,
+        "title": "meh",
+        "count": 54,
+        "percent": 5.87
+      },
+      {
+        "id": 1,
+        "title": "skip",
+        "count": 22,
+        "percent": 2.39
+      }
+    ],
+    "reactions": {
+      "1": 1,
+      "2": 5,
+      "3": 3,
+      "4": 2,
+      "6": 1,
+      "7": 2,
+      "8": 7,
+      "11": 4,
+      "12": 3
+    },
+    "added": 1860,
+    "added_by_status": {
+      "yet": 57,
+      "owned": 382,
+      "beaten": 730,
+      "toplay": 145,
+      "dropped": 262,
+      "playing": 284
+    },
+    "playtime": 0,
+    "screenshots_count": 14,
+    "movies_count": 0,
+    "creators_count": 9,
+    "achievements_count": 0,
+    "parent_achievements_count": 0,
+    "reddit_url": "",
+    "reddit_name": "",
+    "reddit_description": "",
+    "reddit_logo": "",
+    "reddit_count": 0,
+    "twitch_count": 0,
+    "youtube_count": 1000000,
+    "reviews_text_count": 15,
+    "ratings_count": 905,
+    "suggestions_count": 400,
+    "alternative_names": [],
+    "metacritic_url": "",
+    "parents_count": 2,
+    "additions_count": 0,
+    "game_series_count": 10,
+    "user_game": null,
+    "reviews_count": 920,
+    "saturated_color": "0f0f0f",
+    "dominant_color": "0f0f0f",
+    "parent_platforms": [
+      {
+        "platform": {
+          "id": 7,
+          "name": "Nintendo",
+          "slug": "nintendo"
+        }
+      }
+    ],
+    "platforms": [
+      {
+        "platform": {
+          "id": 7,
+          "name": "Nintendo Switch",
+          "slug": "nintendo-switch",
+          "image": null,
+          "year_end": null,
+          "year_start": null,
+          "games_count": 5765,
+          "image_background": "https://media.rawg.io/media/games/5a4/5a44112251d70a25291cc33757220fce.jpg"
+        },
+        "released_at": "2017-04-27",
+        "requirements": {}
+      }
+    ],
+    "stores": [
+      {
+        "id": 27900,
+        "url": "",
+        "store": {
+          "id": 6,
+          "name": "Nintendo Store",
+          "slug": "nintendo",
+          "domain": "nintendo.com",
+          "games_count": 9150,
+          "image_background": "https://media.rawg.io/media/games/5eb/5eb49eb2fa0738fdb5bacea557b1bc57.jpg"
+        }
+      }
+    ],
+    "developers": [
+      {
+        "id": 16257,
+        "name": "Nintendo",
+        "slug": "nintendo",
+        "games_count": 429,
+        "image_background": "https://media.rawg.io/media/games/c23/c231ef56cdd277fad5fbcd2f6b7d2951.jpg"
+      }
+    ],
+    "genres": [
+      {
+        "id": 1,
+        "name": "Racing",
+        "slug": "racing",
+        "games_count": 25773,
+        "image_background": "https://media.rawg.io/media/screenshots/c02/c02c64324edc2045ea1fc0601cdaaa0c.jpg"
+      }
+    ],
+    "tags": [
+      {
+        "id": 7,
+        "name": "Multiplayer",
+        "slug": "multiplayer",
+        "language": "eng",
+        "games_count": 42552,
+        "image_background": "https://media.rawg.io/media/games/960/960b601d9541cec776c5fa42a00bf6c4.jpg"
+      },
+      {
+        "id": 4,
+        "name": "Funny",
+        "slug": "funny",
+        "language": "eng",
+        "games_count": 28840,
+        "image_background": "https://media.rawg.io/media/games/6c5/6c55e22185876626881b76c11922b073.jpg"
+      },
+      {
+        "id": 107,
+        "name": "Family Friendly",
+        "slug": "family-friendly",
+        "language": "eng",
+        "games_count": 10692,
+        "image_background": "https://media.rawg.io/media/games/e4f/e4fb3fd188f61fabec48dca22e6ef28a.jpg"
+      },
+      {
+        "id": 37796,
+        "name": "exclusive",
+        "slug": "exclusive",
+        "language": "eng",
+        "games_count": 4491,
+        "image_background": "https://media.rawg.io/media/games/b7d/b7d3f1715fa8381a4e780173a197a615.jpg"
+      },
+      {
+        "id": 179,
+        "name": "Cartoon",
+        "slug": "cartoon",
+        "language": "eng",
+        "games_count": 7718,
+        "image_background": "https://media.rawg.io/media/games/b17/b17485d757ca36b5f1ad376b6b096885.jpg"
+      }
+    ],
+    "publishers": [
+      {
+        "id": 10681,
+        "name": "Nintendo",
+        "slug": "nintendo",
+        "games_count": 1241,
+        "image_background": "https://media.rawg.io/media/games/3a0/3a0c8e9ed3a711c542218831b893a0fa.jpg"
+      }
+    ],
+    "esrb_rating": {
+      "id": 1,
+      "name": "Everyone",
+      "slug": "everyone"
+    },
+    "clip": null,
+    "description_raw": "Hit the road with the definitive version of Mario Kart 8 and play\nanytime, anywhere! Race your friends or battle them in a revised battle\nmode on new and returning battle courses. Play locally in up to 4-player\nmultiplayer in 1080p while playing in TV Mode. Every track from the Wii\nU version, including DLC, makes a glorious return. Plus, the Inklings\nappear as all-new guest characters, along with returning favorites, such\nas King Boo, Dry Bones, and Bowser Jr.!\n\nFeatures:\n\nRace your friends in the definitive version of Mario Kart 8, only on\nNintendo Switch!\n\nRace as every character on every track from the Wii U version,\nincluding DLC characters and tracks.\n\nPop some balloons in the revamped Battle mode, complete with Balloon\nBattle and Bob-omb Blast.\n\nBattle on new courses, like Urchin Underpass and Battle Stadium, or\nreturning ones, such as GCN Luigi's Mansion and SNES Battle Course 1.\n\nInkling Girl & Inkling Boy from Splatoon, King Boo, Dry Bones, and\nBowser Jr. join the roster!\n\nPlayers can choose a new Smart Steering feature which makes driving\nand staying on the track easy for novice players and kids even at 200cc\n\nThree new vehicles have been added, two are even inspired by Splatoon\n\nCarry two items at the same time\n\nReturning items include Boo, the item stealing ghost, and the Feather,\nwhich gives you a high jump in battle mode.\n\nPlay your friends in local wireless multiplayer with up to 8 players.\n\nDrive through in 1080p HD quality in TV mode\n\nPlay on the go with handheld mode and play anytime, anywhere"
+  },
+  "screenshots": [
+    {
+      "id": 233806,
+      "image": "https://media.rawg.io/media/screenshots/f94/f94b27140ac3b7af61ba844f4d54bb42.jpg",
+      "width": 1280,
+      "height": 720,
+      "is_deleted": false
+    },
+    {
+      "id": 233807,
+      "image": "https://media.rawg.io/media/screenshots/9a1/9a13007b3ea3d8e6a4e16cc3d8f41a93.jpg",
+      "width": 1280,
+      "height": 720,
+      "is_deleted": false
+    },
+    {
+      "id": 233808,
+      "image": "https://media.rawg.io/media/screenshots/dea/dea2a3fa3c99c73d7efe04a88bbc29d4.jpg",
+      "width": 1280,
+      "height": 720,
+      "is_deleted": false
+    },
+    {
+      "id": 233809,
+      "image": "https://media.rawg.io/media/screenshots/045/045475c1922e9b982b07cb11e31e3cd6.jpg",
+      "width": 1280,
+      "height": 720,
+      "is_deleted": false
+    },
+    {
+      "id": 241438,
+      "image": "https://media.rawg.io/media/screenshots/971/9710144e98d8f9b326b9badbf83ece02.jpg",
+      "width": 745,
+      "height": 419,
+      "is_deleted": false
+    },
+    {
+      "id": 241439,
+      "image": "https://media.rawg.io/media/screenshots/2a0/2a0cb43c0f7dcc384b56c3a433a58ac2.jpg",
+      "width": 745,
+      "height": 419,
+      "is_deleted": false
+    }
+  ]
+}

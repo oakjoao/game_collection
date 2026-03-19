@@ -1,0 +1,209 @@
+{
+  "details": {
+    "id": 622495,
+    "slug": "metroid-dread",
+    "name": "Metroid Dread",
+    "name_original": "Metroid Dread",
+    "description": "<p>Samus’ story continues after the events of the Metroid™ Fusion game when she descends upon planet ZDR to investigate a mysterious transmission sent to the Galactic Federation. The remote planet has become overrun by vicious alien lifeforms and chilling mechanical menaces. Samus is more agile and capable than ever, but can she overcome the inhuman threat stalking the depths of ZDR?</p>",
+    "metacritic": null,
+    "metacritic_platforms": [],
+    "released": "2021-10-08",
+    "tba": false,
+    "updated": "2026-02-15T21:36:38",
+    "background_image": "https://media.rawg.io/media/games/c26/c262f8b54b46edc72594c4a9bb8ee13e.jpg",
+    "background_image_additional": "https://media.rawg.io/media/screenshots/e10/e102a483c4b9aca288c9c03ed87b308b.jpg",
+    "website": "",
+    "rating": 4.37,
+    "rating_top": 5,
+    "ratings": [
+      {
+        "id": 5,
+        "title": "exceptional",
+        "count": 165,
+        "percent": 54.64
+      },
+      {
+        "id": 4,
+        "title": "recommended",
+        "count": 97,
+        "percent": 32.12
+      },
+      {
+        "id": 3,
+        "title": "meh",
+        "count": 33,
+        "percent": 10.93
+      },
+      {
+        "id": 1,
+        "title": "skip",
+        "count": 7,
+        "percent": 2.32
+      }
+    ],
+    "reactions": {
+      "1": 1,
+      "2": 1,
+      "3": 2,
+      "6": 4,
+      "9": 1,
+      "10": 1,
+      "11": 1
+    },
+    "added": 796,
+    "added_by_status": {
+      "yet": 81,
+      "owned": 100,
+      "beaten": 307,
+      "toplay": 212,
+      "dropped": 59,
+      "playing": 37
+    },
+    "playtime": 0,
+    "screenshots_count": 5,
+    "movies_count": 0,
+    "creators_count": 0,
+    "achievements_count": 0,
+    "parent_achievements_count": 0,
+    "reddit_url": "",
+    "reddit_name": "",
+    "reddit_description": "",
+    "reddit_logo": "",
+    "reddit_count": 0,
+    "twitch_count": 153,
+    "youtube_count": 0,
+    "reviews_text_count": 10,
+    "ratings_count": 292,
+    "suggestions_count": 477,
+    "alternative_names": [],
+    "metacritic_url": "https://www.metacritic.com/game/switch/metroid-dread",
+    "parents_count": 0,
+    "additions_count": 0,
+    "game_series_count": 13,
+    "user_game": null,
+    "reviews_count": 302,
+    "saturated_color": "0f0f0f",
+    "dominant_color": "0f0f0f",
+    "parent_platforms": [
+      {
+        "platform": {
+          "id": 7,
+          "name": "Nintendo",
+          "slug": "nintendo"
+        }
+      }
+    ],
+    "platforms": [
+      {
+        "platform": {
+          "id": 7,
+          "name": "Nintendo Switch",
+          "slug": "nintendo-switch",
+          "image": null,
+          "year_end": null,
+          "year_start": null,
+          "games_count": 5765,
+          "image_background": "https://media.rawg.io/media/games/5a4/5a44112251d70a25291cc33757220fce.jpg"
+        },
+        "released_at": "2021-10-08",
+        "requirements": {}
+      }
+    ],
+    "stores": [
+      {
+        "id": 617118,
+        "url": "",
+        "store": {
+          "id": 6,
+          "name": "Nintendo Store",
+          "slug": "nintendo",
+          "domain": "nintendo.com",
+          "games_count": 9150,
+          "image_background": "https://media.rawg.io/media/games/5eb/5eb49eb2fa0738fdb5bacea557b1bc57.jpg"
+        }
+      }
+    ],
+    "developers": [
+      {
+        "id": 16257,
+        "name": "Nintendo",
+        "slug": "nintendo",
+        "games_count": 429,
+        "image_background": "https://media.rawg.io/media/games/c23/c231ef56cdd277fad5fbcd2f6b7d2951.jpg"
+      }
+    ],
+    "genres": [
+      {
+        "id": 4,
+        "name": "Action",
+        "slug": "action",
+        "games_count": 191508,
+        "image_background": "https://media.rawg.io/media/games/737/737ea5662211d2e0bbd6f5989189e4f1.jpg"
+      },
+      {
+        "id": 5,
+        "name": "RPG",
+        "slug": "role-playing-games-rpg",
+        "games_count": 61936,
+        "image_background": "https://media.rawg.io/media/games/d1a/d1a2e99ade53494c6330a0ed945fe823.jpg"
+      },
+      {
+        "id": 83,
+        "name": "Platformer",
+        "slug": "platformer",
+        "games_count": 100923,
+        "image_background": "https://media.rawg.io/media/games/388/388935d851846f8ec747fffc7c765800.jpg"
+      }
+    ],
+    "tags": [],
+    "publishers": [
+      {
+        "id": 10681,
+        "name": "Nintendo",
+        "slug": "nintendo",
+        "games_count": 1241,
+        "image_background": "https://media.rawg.io/media/games/3a0/3a0c8e9ed3a711c542218831b893a0fa.jpg"
+      }
+    ],
+    "esrb_rating": null,
+    "clip": null,
+    "description_raw": "Samus’ story continues after the events of the Metroid™ Fusion game when she descends upon planet ZDR to investigate a mysterious transmission sent to the Galactic Federation. The remote planet has become overrun by vicious alien lifeforms and chilling mechanical menaces. Samus is more agile and capable than ever, but can she overcome the inhuman threat stalking the depths of ZDR?"
+  },
+  "screenshots": [
+    {
+      "id": 2897130,
+      "image": "https://media.rawg.io/media/screenshots/0f1/0f123e7f6b6c2f5f2a3f022244356e1f.jpg",
+      "width": 1280,
+      "height": 720,
+      "is_deleted": false
+    },
+    {
+      "id": 2897131,
+      "image": "https://media.rawg.io/media/screenshots/442/442d0ab90c41a4fc2b2e21853fc64f97.jpg",
+      "width": 1280,
+      "height": 720,
+      "is_deleted": false
+    },
+    {
+      "id": 2897132,
+      "image": "https://media.rawg.io/media/screenshots/3cb/3cbf63f3ac060880f29a468fa28b7b10.jpg",
+      "width": 1280,
+      "height": 720,
+      "is_deleted": false
+    },
+    {
+      "id": 2897133,
+      "image": "https://media.rawg.io/media/screenshots/e10/e102a483c4b9aca288c9c03ed87b308b.jpg",
+      "width": 1280,
+      "height": 720,
+      "is_deleted": false
+    },
+    {
+      "id": 2897134,
+      "image": "https://media.rawg.io/media/screenshots/88a/88a8551270c4742af74a099a7ea6563c.jpg",
+      "width": 1280,
+      "height": 720,
+      "is_deleted": false
+    }
+  ]
+}

@@ -1,0 +1,582 @@
+{
+  "details": {
+    "id": 61176,
+    "slug": "bloodstained-ritual-of-the-night",
+    "name": "Bloodstained: Ritual of the Night",
+    "name_original": "Bloodstained: Ritual of the Night",
+    "description": "<p>Bloodstained is an exploration-focused, side-scroller action RPG packing all of the best features you&#39;ve come to know and love from the Metroidvania genre into a single, content-packed game.<br />\nPlay as Miriam, an orphan scarred by an alchemist’s curse which slowly crystallizes her body. In order to save herself, and indeed, all of humanity, she must battle her way through a demon-infested castle summoned by Gebel, her old friend whose body and mind has become more crystal than flesh.<br />\nWHAT&#39;S IN THE GAME?<br />\n- Addictingly tight and satisfying gameplay alongside a rich new story in the gothic dark fantasy style of Koji Igarashi, the celebrated godfather of &quot;Igavania&quot; games.<br />\n- A game soundtrack by genre and industry veteran Michiru Yamane, performed by a full live orchestra ensemble.<br />\n- Story cut scenes and NPC interactions fully voice acted by a star-studded cast, including actors like David Hayter, Ray Chase and Erica Lindbeck to name just a few. (Seriously, we have a lot of voice acting star power in this game, it&#39;s kinda nuts...)<br />\n- A total of three playable characters, two of which have yet to be revealed...<br />\n- Literally a metric ton of weapons and spells, which you can upgrade, level up and visually customize.<br />\n- Beautiful 2.5D graphics: 3D models crafted with a lot of love and care on a 2D game environment. That means lots of cool tricks that &quot;regular&quot; 2D can&#39;t do...<br />\nWHEN?<br />\nWe&#39;re going to be revealing the release window of the game very soon.<br />\nTHE FUTURE<br />\nExpect a worryingly large amount of announcements and updates, everything from updating the look of this Steam page to the game in general. It&#39;s going to be one wild ride.</p>",
+    "metacritic": 81,
+    "metacritic_platforms": [
+      {
+        "metascore": 84,
+        "url": "https://www.metacritic.com/game/xbox-one/bloodstained-ritual-of-the-night",
+        "platform": {
+          "platform": 1,
+          "name": "Xbox One",
+          "slug": "xbox-one"
+        }
+      },
+      {
+        "metascore": 74,
+        "url": "https://www.metacritic.com/game/switch/bloodstained-ritual-of-the-night",
+        "platform": {
+          "platform": 7,
+          "name": "Nintendo Switch",
+          "slug": "nintendo-switch"
+        }
+      },
+      {
+        "metascore": 83,
+        "url": "https://www.metacritic.com/game/playstation-4/bloodstained-ritual-of-the-night",
+        "platform": {
+          "platform": 18,
+          "name": "PlayStation 4",
+          "slug": "playstation4"
+        }
+      },
+      {
+        "metascore": 83,
+        "url": "https://www.metacritic.com/game/pc/bloodstained-ritual-of-the-night",
+        "platform": {
+          "platform": 4,
+          "name": "PC",
+          "slug": "pc"
+        }
+      }
+    ],
+    "released": "2019-06-18",
+    "tba": false,
+    "updated": "2026-02-26T16:41:45",
+    "background_image": "https://media.rawg.io/media/games/26c/26cacc55399ed6b2c14e20d2eca0620a.jpg",
+    "background_image_additional": "https://media.rawg.io/media/screenshots/9ca/9cad0eb8cdba798fe66d51458ca7ded0.jpg",
+    "website": "https://505games.com/games/bloodstained",
+    "rating": 4.01,
+    "rating_top": 4,
+    "ratings": [
+      {
+        "id": 4,
+        "title": "recommended",
+        "count": 234,
+        "percent": 50.11
+      },
+      {
+        "id": 5,
+        "title": "exceptional",
+        "count": 140,
+        "percent": 29.98
+      },
+      {
+        "id": 3,
+        "title": "meh",
+        "count": 71,
+        "percent": 15.2
+      },
+      {
+        "id": 1,
+        "title": "skip",
+        "count": 22,
+        "percent": 4.71
+      }
+    ],
+    "reactions": {
+      "2": 1,
+      "3": 2,
+      "12": 1
+    },
+    "added": 3429,
+    "added_by_status": {
+      "yet": 227,
+      "owned": 2393,
+      "beaten": 337,
+      "toplay": 271,
+      "dropped": 141,
+      "playing": 60
+    },
+    "playtime": 6,
+    "screenshots_count": 11,
+    "movies_count": 0,
+    "creators_count": 8,
+    "achievements_count": 220,
+    "parent_achievements_count": 29,
+    "reddit_url": "https://www.reddit.com/r/Bloodstained/",
+    "reddit_name": "",
+    "reddit_description": "",
+    "reddit_logo": "",
+    "reddit_count": 3889,
+    "twitch_count": 136,
+    "youtube_count": 541397,
+    "reviews_text_count": 7,
+    "ratings_count": 460,
+    "suggestions_count": 647,
+    "alternative_names": [],
+    "metacritic_url": "https://www.metacritic.com/game/pc/bloodstained-ritual-of-the-night",
+    "parents_count": 0,
+    "additions_count": 0,
+    "game_series_count": 2,
+    "user_game": null,
+    "reviews_count": 467,
+    "saturated_color": "0f0f0f",
+    "dominant_color": "0f0f0f",
+    "parent_platforms": [
+      {
+        "platform": {
+          "id": 1,
+          "name": "PC",
+          "slug": "pc"
+        }
+      },
+      {
+        "platform": {
+          "id": 2,
+          "name": "PlayStation",
+          "slug": "playstation"
+        }
+      },
+      {
+        "platform": {
+          "id": 3,
+          "name": "Xbox",
+          "slug": "xbox"
+        }
+      },
+      {
+        "platform": {
+          "id": 4,
+          "name": "iOS",
+          "slug": "ios"
+        }
+      },
+      {
+        "platform": {
+          "id": 8,
+          "name": "Android",
+          "slug": "android"
+        }
+      },
+      {
+        "platform": {
+          "id": 7,
+          "name": "Nintendo",
+          "slug": "nintendo"
+        }
+      }
+    ],
+    "platforms": [
+      {
+        "platform": {
+          "id": 1,
+          "name": "Xbox One",
+          "slug": "xbox-one",
+          "image": null,
+          "year_end": null,
+          "year_start": null,
+          "games_count": 5736,
+          "image_background": "https://media.rawg.io/media/games/20a/20aa03a10cda45239fe22d035c0ebe64.jpg"
+        },
+        "released_at": "2019-06-18",
+        "requirements": {}
+      },
+      {
+        "platform": {
+          "id": 21,
+          "name": "Android",
+          "slug": "android",
+          "image": null,
+          "year_end": null,
+          "year_start": null,
+          "games_count": 52510,
+          "image_background": "https://media.rawg.io/media/games/e74/e74458058b35e01c1ae3feeb39a3f724.jpg"
+        },
+        "released_at": "2019-06-18",
+        "requirements": {}
+      },
+      {
+        "platform": {
+          "id": 3,
+          "name": "iOS",
+          "slug": "ios",
+          "image": null,
+          "year_end": null,
+          "year_start": null,
+          "games_count": 77433,
+          "image_background": "https://media.rawg.io/media/games/f90/f90ee1a4239247a822771c40488e68c5.jpg"
+        },
+        "released_at": "2019-06-18",
+        "requirements": {}
+      },
+      {
+        "platform": {
+          "id": 4,
+          "name": "PC",
+          "slug": "pc",
+          "image": null,
+          "year_end": null,
+          "year_start": null,
+          "games_count": 560528,
+          "image_background": "https://media.rawg.io/media/games/4be/4be6a6ad0364751a96229c56bf69be59.jpg"
+        },
+        "released_at": "2019-06-18",
+        "requirements": {
+          "minimum": "7 / 8 / 10\nProcessor: AMD FX-6300 / Intel Core i5-4590\nMemory: 8 GB RAM\nGraphics: AMD Radeon R9 290 / GeForce GTX 1050 Ti\nAdditional Notes: The only potatoes you use are the tasty kind."
+        }
+      },
+      {
+        "platform": {
+          "id": 7,
+          "name": "Nintendo Switch",
+          "slug": "nintendo-switch",
+          "image": null,
+          "year_end": null,
+          "year_start": null,
+          "games_count": 5765,
+          "image_background": "https://media.rawg.io/media/games/5a4/5a44112251d70a25291cc33757220fce.jpg"
+        },
+        "released_at": "2019-06-18",
+        "requirements": {}
+      },
+      {
+        "platform": {
+          "id": 18,
+          "name": "PlayStation 4",
+          "slug": "playstation4",
+          "image": null,
+          "year_end": null,
+          "year_start": null,
+          "games_count": 6984,
+          "image_background": "https://media.rawg.io/media/games/f46/f466571d536f2e3ea9e815ad17177501.jpg"
+        },
+        "released_at": "2019-06-18",
+        "requirements": {}
+      }
+    ],
+    "stores": [
+      {
+        "id": 323029,
+        "url": "",
+        "store": {
+          "id": 3,
+          "name": "PlayStation Store",
+          "slug": "playstation-store",
+          "domain": "store.playstation.com",
+          "games_count": 8075,
+          "image_background": "https://media.rawg.io/media/games/f87/f87457e8347484033cb34cde6101d08d.jpg"
+        }
+      },
+      {
+        "id": 51996,
+        "url": "",
+        "store": {
+          "id": 1,
+          "name": "Steam",
+          "slug": "steam",
+          "domain": "store.steampowered.com",
+          "games_count": 123255,
+          "image_background": "https://media.rawg.io/media/games/587/587588c64afbff80e6f444eb2e46f9da.jpg"
+        }
+      },
+      {
+        "id": 52172,
+        "url": "",
+        "store": {
+          "id": 5,
+          "name": "GOG",
+          "slug": "gog",
+          "domain": "gog.com",
+          "games_count": 7212,
+          "image_background": "https://media.rawg.io/media/games/9dd/9ddabb34840ea9227556670606cf8ea3.jpg"
+        }
+      },
+      {
+        "id": 294034,
+        "url": "",
+        "store": {
+          "id": 6,
+          "name": "Nintendo Store",
+          "slug": "nintendo",
+          "domain": "nintendo.com",
+          "games_count": 9150,
+          "image_background": "https://media.rawg.io/media/games/5eb/5eb49eb2fa0738fdb5bacea557b1bc57.jpg"
+        }
+      },
+      {
+        "id": 330626,
+        "url": "",
+        "store": {
+          "id": 2,
+          "name": "Xbox Store",
+          "slug": "xbox-store",
+          "domain": "microsoft.com",
+          "games_count": 4938,
+          "image_background": "https://media.rawg.io/media/games/2ba/2bac0e87cf45e5b508f227d281c9252a.jpg"
+        }
+      }
+    ],
+    "developers": [
+      {
+        "id": 237,
+        "name": "505 Games",
+        "slug": "505-games",
+        "games_count": 53,
+        "image_background": "https://media.rawg.io/media/screenshots/73a/73a2c7af85d51bbdb20516bf2128fd7d.jpg"
+      },
+      {
+        "id": 10280,
+        "name": "Armature Studio",
+        "slug": "armature-studio",
+        "games_count": 12,
+        "image_background": "https://media.rawg.io/media/games/d5c/d5c284383e620e7d33c1fcaefbb03670.jpg"
+      },
+      {
+        "id": 4307,
+        "name": "Inti Creates",
+        "slug": "inti-creates",
+        "games_count": 53,
+        "image_background": "https://media.rawg.io/media/screenshots/d19/d19cfb7f99dbe912f93d44c856944e54.jpg"
+      },
+      {
+        "id": 29968,
+        "name": "ArtPlay",
+        "slug": "artplay",
+        "games_count": 3,
+        "image_background": "https://media.rawg.io/media/screenshots/ab1/ab164d23544cbaad244cc50bf1670e6b.jpg"
+      },
+      {
+        "id": 28539,
+        "name": "Dico",
+        "slug": "dico",
+        "games_count": 4,
+        "image_background": "https://media.rawg.io/media/games/26c/26cacc55399ed6b2c14e20d2eca0620a.jpg"
+      }
+    ],
+    "genres": [
+      {
+        "id": 4,
+        "name": "Action",
+        "slug": "action",
+        "games_count": 191508,
+        "image_background": "https://media.rawg.io/media/games/737/737ea5662211d2e0bbd6f5989189e4f1.jpg"
+      },
+      {
+        "id": 3,
+        "name": "Adventure",
+        "slug": "adventure",
+        "games_count": 151684,
+        "image_background": "https://media.rawg.io/media/games/c50/c5085506fe4b5e20fc7aa5ace842c20b.jpg"
+      }
+    ],
+    "tags": [
+      {
+        "id": 31,
+        "name": "Singleplayer",
+        "slug": "singleplayer",
+        "language": "eng",
+        "games_count": 250812,
+        "image_background": "https://media.rawg.io/media/games/26d/26d4437715bee60138dab4a7c8c59c92.jpg"
+      },
+      {
+        "id": 40847,
+        "name": "Steam Achievements",
+        "slug": "steam-achievements",
+        "language": "eng",
+        "games_count": 51706,
+        "image_background": "https://media.rawg.io/media/games/49c/49c3dfa4ce2f6f140cc4825868e858cb.jpg"
+      },
+      {
+        "id": 7,
+        "name": "Multiplayer",
+        "slug": "multiplayer",
+        "language": "eng",
+        "games_count": 42552,
+        "image_background": "https://media.rawg.io/media/games/960/960b601d9541cec776c5fa42a00bf6c4.jpg"
+      },
+      {
+        "id": 40836,
+        "name": "Full controller support",
+        "slug": "full-controller-support",
+        "language": "eng",
+        "games_count": 24141,
+        "image_background": "https://media.rawg.io/media/games/8d6/8d69eb6c32ed6acfd75f82d532144993.jpg"
+      },
+      {
+        "id": 24,
+        "name": "RPG",
+        "slug": "rpg",
+        "language": "eng",
+        "games_count": 26621,
+        "image_background": "https://media.rawg.io/media/games/d69/d69810315bd7e226ea2d21f9156af629.jpg"
+      },
+      {
+        "id": 411,
+        "name": "cooperative",
+        "slug": "cooperative",
+        "language": "eng",
+        "games_count": 6587,
+        "image_background": "https://media.rawg.io/media/games/4a0/4a0a1316102366260e6f38fd2a9cfdce.jpg"
+      },
+      {
+        "id": 45,
+        "name": "2D",
+        "slug": "2d",
+        "language": "eng",
+        "games_count": 207749,
+        "image_background": "https://media.rawg.io/media/games/234/23410661770ae13eac11066980834367.jpg"
+      },
+      {
+        "id": 9,
+        "name": "Online Co-Op",
+        "slug": "online-co-op",
+        "language": "eng",
+        "games_count": 7680,
+        "image_background": "https://media.rawg.io/media/games/2ba/2bac0e87cf45e5b508f227d281c9252a.jpg"
+      },
+      {
+        "id": 189,
+        "name": "Female Protagonist",
+        "slug": "female-protagonist",
+        "language": "eng",
+        "games_count": 15544,
+        "image_background": "https://media.rawg.io/media/games/7fa/7fa0b586293c5861ee32490e953a4996.jpg"
+      },
+      {
+        "id": 397,
+        "name": "Online multiplayer",
+        "slug": "online-multiplayer",
+        "language": "eng",
+        "games_count": 3804,
+        "image_background": "https://media.rawg.io/media/games/424/424facd40f4eb1f2794fe4b4bb28a277.jpg"
+      },
+      {
+        "id": 75,
+        "name": "Local Co-Op",
+        "slug": "local-co-op",
+        "language": "eng",
+        "games_count": 6079,
+        "image_background": "https://media.rawg.io/media/games/c6b/c6bfece1daf8d06bc0a60632ac78e5bf.jpg"
+      },
+      {
+        "id": 72,
+        "name": "Local Multiplayer",
+        "slug": "local-multiplayer",
+        "language": "eng",
+        "games_count": 14033,
+        "image_background": "https://media.rawg.io/media/games/e0f/e0f05a97ff926acf4c8f43e0849b6832.jpg"
+      },
+      {
+        "id": 134,
+        "name": "Anime",
+        "slug": "anime",
+        "language": "eng",
+        "games_count": 17057,
+        "image_background": "https://media.rawg.io/media/games/3b5/3b56220d6038b8b1ad66c4d05ef95215.jpg"
+      },
+      {
+        "id": 468,
+        "name": "role-playing",
+        "slug": "role-playing",
+        "language": "eng",
+        "games_count": 1657,
+        "image_background": "https://media.rawg.io/media/games/8ca/8ca40b562a755d6a0e30d48e6c74b178.jpg"
+      },
+      {
+        "id": 40833,
+        "name": "Captions available",
+        "slug": "captions-available",
+        "language": "eng",
+        "games_count": 1485,
+        "image_background": "https://media.rawg.io/media/games/b28/b28a135fa6133e17b228f46902a4fda4.jpg"
+      },
+      {
+        "id": 125,
+        "name": "Crafting",
+        "slug": "crafting",
+        "language": "eng",
+        "games_count": 5526,
+        "image_background": "https://media.rawg.io/media/games/b4e/b4e4c73d5aa4ec66bbf75375c4847a2b.jpg"
+      },
+      {
+        "id": 113,
+        "name": "Side Scroller",
+        "slug": "side-scroller",
+        "language": "eng",
+        "games_count": 11845,
+        "image_background": "https://media.rawg.io/media/games/c40/c40f9f0a3d1b4601a7a44d230c95f126.jpg"
+      },
+      {
+        "id": 259,
+        "name": "Metroidvania",
+        "slug": "metroidvania",
+        "language": "eng",
+        "games_count": 4718,
+        "image_background": "https://media.rawg.io/media/games/c47/c4796c4c49e7e06ad328e07aa8944cdd.jpg"
+      },
+      {
+        "id": 116,
+        "name": "2.5D",
+        "slug": "25d",
+        "language": "eng",
+        "games_count": 2949,
+        "image_background": "https://media.rawg.io/media/games/04a/04a7e7e185fb51493bdcbe1693a8b3dc.jpg"
+      }
+    ],
+    "publishers": [
+      {
+        "id": 243,
+        "name": "505 Games",
+        "slug": "505-games",
+        "games_count": 184,
+        "image_background": "https://media.rawg.io/media/screenshots/4ef/4efd33ac1ca2e3799cda7ff379f03708.jpg"
+      }
+    ],
+    "esrb_rating": {
+      "id": 3,
+      "name": "Teen",
+      "slug": "teen"
+    },
+    "clip": null,
+    "description_raw": "Bloodstained is an exploration-focused, side-scroller action RPG packing all of the best features you've come to know and love from the Metroidvania genre into a single, content-packed game.\nPlay as Miriam, an orphan scarred by an alchemist’s curse which slowly crystallizes her body. In order to save herself, and indeed, all of humanity, she must battle her way through a demon-infested castle summoned by Gebel, her old friend whose body and mind has become more crystal than flesh.\nWHAT'S IN THE GAME?\n- Addictingly tight and satisfying gameplay alongside a rich new story in the gothic dark fantasy style of Koji Igarashi, the celebrated godfather of \"Igavania\" games.\n- A game soundtrack by genre and industry veteran Michiru Yamane, performed by a full live orchestra ensemble.\n- Story cut scenes and NPC interactions fully voice acted by a star-studded cast, including actors like David Hayter, Ray Chase and Erica Lindbeck to name just a few. (Seriously, we have a lot of voice acting star power in this game, it's kinda nuts...)\n- A total of three playable characters, two of which have yet to be revealed...\n- Literally a metric ton of weapons and spells, which you can upgrade, level up and visually customize.\n- Beautiful 2.5D graphics: 3D models crafted with a lot of love and care on a 2D game environment. That means lots of cool tricks that \"regular\" 2D can't do...\nWHEN?\nWe're going to be revealing the release window of the game very soon.\nTHE FUTURE\nExpect a worryingly large amount of announcements and updates, everything from updating the look of this Steam page to the game in general. It's going to be one wild ride."
+  },
+  "screenshots": [
+    {
+      "id": 836370,
+      "image": "https://media.rawg.io/media/screenshots/63e/63e1b33ba33b7433eb45b1210e98a01c.jpg",
+      "width": 1920,
+      "height": 1080,
+      "is_deleted": false
+    },
+    {
+      "id": 836371,
+      "image": "https://media.rawg.io/media/screenshots/7f9/7f9bd1a8182d202f00b11a3e0d82aeb2.jpg",
+      "width": 1920,
+      "height": 1080,
+      "is_deleted": false
+    },
+    {
+      "id": 836372,
+      "image": "https://media.rawg.io/media/screenshots/947/9470cebceee642f120ffe1ecb8ae44f2.jpg",
+      "width": 1920,
+      "height": 1080,
+      "is_deleted": false
+    },
+    {
+      "id": 836373,
+      "image": "https://media.rawg.io/media/screenshots/2af/2af249d9344141653284e6e8ef86e51e.jpg",
+      "width": 1920,
+      "height": 1080,
+      "is_deleted": false
+    },
+    {
+      "id": 836374,
+      "image": "https://media.rawg.io/media/screenshots/4d2/4d29595ea07ad8b9edc4fe40f591efd8.jpg",
+      "width": 1920,
+      "height": 1080,
+      "is_deleted": false
+    },
+    {
+      "id": 836375,
+      "image": "https://media.rawg.io/media/screenshots/844/8447fa767397c93d0acae20c07e6f3b3.jpg",
+      "width": 1920,
+      "height": 1080,
+      "is_deleted": false
+    }
+  ]
+}

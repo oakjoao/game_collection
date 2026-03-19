@@ -68,7 +68,7 @@ function HomeContent() {
       />
 
       <div className="flex flex-1 overflow-hidden">
-        <Sidebar isOpen={sidebarOpen} onClose={() => setSidebarOpen(false)} />
+        <Sidebar isOpen={sidebarOpen} onClose={() => setSidebarOpen(false)} onSelectGame={(id) => setSelectedGameId(id)} />
 
         <main className="flex-1 overflow-y-auto bg-background">
           {selectedGameId ? (

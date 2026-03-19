@@ -1,0 +1,307 @@
+{
+  "details": {
+    "id": 24170,
+    "slug": "donkey-kong-country-returns",
+    "name": "Donkey Kong Country Returns",
+    "name_original": "Donkey Kong Country Returns",
+    "description": "<p>Donkey Kong™ is making a triumphant return, along with his trusted<br />\nsidekick Diddy Kong™, in a brand new side-scrolling platform game from<br />\nRetro Studios. Donkey Kong Country Returns, for the Wii system,<br />\nhas all new levels and all new chest-pounding challenges for players of<br />\nall ages. The game takes inspiration from the original Super NES series,<br />\nfrom barrel blasts to mine carts and then builds upon it by adding<br />\nstunning graphics and new layers of depth to the world and game play. Donkey<br />\nKong Country Returns features the first ever simultaneous<br />\ncooperative game play mode for the series allowing both novice and<br />\nskilled players to actively play and experience the game together. Run,<br />\njump, climb and defeat enemies through diverse environments until you<br />\nretrieve Donkey Kong&#39;s stolen banana hoard!</p>\n<p>FEATURES:</p>\n<p>Feel the power of Donkey Kong by shaking the Wii Remote and Nunchuk to<br />\nperform Ground Pounds, Barrel Rolls. These moves can be used to<br />\ndestroy blocks, defeat enemies and reveal hidden areas. Donkey Kong<br />\nalso has the new ability to climb walls and ceilings.</p>\n<p>Diddy Kong has a few new tricks of his own. He can use his Barrel Jet<br />\nto hover high above the ground or defy gravity and fly across small<br />\nchasms. He can also help Donkey Kong with this ability by hopping on<br />\nto Donkey Kong&#39;s back. In two player mode, a quick shake of the Wii<br />\nRemote will give him the ability to fire his Peanut Popgun to assist<br />\nDonkey Kong.</p>\n<p>The levels in Donkey Kong Country Returns are beautifully<br />\nrendered and creatively designed with lots of hidden items to<br />\ndiscover. Try to collect all of K-O-N-G Letters and hidden Puzzle<br />\nPieces in each level to unlock something special.</p>\n<p>In cooperative mode, players of different skill levels can play<br />\nthrough the game together.</p>\n<p>Price effective March 11, 2016.</p>",
+    "metacritic": 85,
+    "metacritic_platforms": [
+      {
+        "metascore": 83,
+        "url": "https://www.metacritic.com/game/3ds/donkey-kong-country-returns-3d",
+        "platform": {
+          "platform": 8,
+          "name": "Nintendo 3DS",
+          "slug": "nintendo-3ds"
+        }
+      },
+      {
+        "metascore": 87,
+        "url": "https://www.metacritic.com/game/wii/donkey-kong-country-returns",
+        "platform": {
+          "platform": 11,
+          "name": "Wii",
+          "slug": "wii"
+        }
+      }
+    ],
+    "released": "2010-11-21",
+    "tba": false,
+    "updated": "2026-02-21T20:08:09",
+    "background_image": "https://media.rawg.io/media/games/ccd/ccd36642cee0cbb95681a6e3b7715381.jpg",
+    "background_image_additional": "https://media.rawg.io/media/screenshots/5e0/5e037eb056e3aeadd3dd1e618af1145d.jpg",
+    "website": "",
+    "rating": 4.36,
+    "rating_top": 5,
+    "ratings": [
+      {
+        "id": 5,
+        "title": "exceptional",
+        "count": 79,
+        "percent": 51.3
+      },
+      {
+        "id": 4,
+        "title": "recommended",
+        "count": 59,
+        "percent": 38.31
+      },
+      {
+        "id": 3,
+        "title": "meh",
+        "count": 12,
+        "percent": 7.79
+      },
+      {
+        "id": 1,
+        "title": "skip",
+        "count": 4,
+        "percent": 2.6
+      }
+    ],
+    "reactions": {
+      "1": 1,
+      "6": 2
+    },
+    "added": 373,
+    "added_by_status": {
+      "yet": 36,
+      "owned": 71,
+      "beaten": 149,
+      "toplay": 47,
+      "dropped": 59,
+      "playing": 11
+    },
+    "playtime": 10,
+    "screenshots_count": 20,
+    "movies_count": 0,
+    "creators_count": 11,
+    "achievements_count": 0,
+    "parent_achievements_count": 0,
+    "reddit_url": "",
+    "reddit_name": "",
+    "reddit_description": "",
+    "reddit_logo": "",
+    "reddit_count": 0,
+    "twitch_count": 127,
+    "youtube_count": 1000000,
+    "reviews_text_count": 3,
+    "ratings_count": 151,
+    "suggestions_count": 464,
+    "alternative_names": [],
+    "metacritic_url": "https://www.metacritic.com/game/wii/donkey-kong-country-returns",
+    "parents_count": 0,
+    "additions_count": 0,
+    "game_series_count": 13,
+    "user_game": null,
+    "reviews_count": 154,
+    "saturated_color": "0f0f0f",
+    "dominant_color": "0f0f0f",
+    "parent_platforms": [
+      {
+        "platform": {
+          "id": 7,
+          "name": "Nintendo",
+          "slug": "nintendo"
+        }
+      }
+    ],
+    "platforms": [
+      {
+        "platform": {
+          "id": 11,
+          "name": "Wii",
+          "slug": "wii",
+          "image": null,
+          "year_end": null,
+          "year_start": null,
+          "games_count": 2208,
+          "image_background": "https://media.rawg.io/media/games/693/693952316d4b90984a92e7ab0f5c9b81.jpg"
+        },
+        "released_at": "2010-11-21",
+        "requirements": {}
+      },
+      {
+        "platform": {
+          "id": 10,
+          "name": "Wii U",
+          "slug": "wii-u",
+          "image": null,
+          "year_end": null,
+          "year_start": null,
+          "games_count": 1114,
+          "image_background": "https://media.rawg.io/media/games/cc1/cc196a5ad763955d6532cdba236f730c.jpg"
+        },
+        "released_at": "2010-11-21",
+        "requirements": {}
+      }
+    ],
+    "stores": [
+      {
+        "id": 28445,
+        "url": "",
+        "store": {
+          "id": 6,
+          "name": "Nintendo Store",
+          "slug": "nintendo",
+          "domain": "nintendo.com",
+          "games_count": 9150,
+          "image_background": "https://media.rawg.io/media/games/5eb/5eb49eb2fa0738fdb5bacea557b1bc57.jpg"
+        }
+      }
+    ],
+    "developers": [
+      {
+        "id": 26308,
+        "name": "Retro Studios",
+        "slug": "retro-studios",
+        "games_count": 7,
+        "image_background": "https://media.rawg.io/media/screenshots/f0d/f0dcecdb5cbd387bcb97587bb6ce3852.jpg"
+      }
+    ],
+    "genres": [
+      {
+        "id": 83,
+        "name": "Platformer",
+        "slug": "platformer",
+        "games_count": 100923,
+        "image_background": "https://media.rawg.io/media/games/388/388935d851846f8ec747fffc7c765800.jpg"
+      }
+    ],
+    "tags": [
+      {
+        "id": 411,
+        "name": "cooperative",
+        "slug": "cooperative",
+        "language": "eng",
+        "games_count": 6587,
+        "image_background": "https://media.rawg.io/media/games/4a0/4a0a1316102366260e6f38fd2a9cfdce.jpg"
+      },
+      {
+        "id": 1484,
+        "name": "skill",
+        "slug": "skill",
+        "language": "eng",
+        "games_count": 3533,
+        "image_background": "https://media.rawg.io/media/screenshots/ec6/ec6eda0d3d08d023793486b253534c27.jpg"
+      },
+      {
+        "id": 3046,
+        "name": "destroy",
+        "slug": "destroy",
+        "language": "eng",
+        "games_count": 4619,
+        "image_background": "https://media.rawg.io/media/games/792/7924eba36daf05ceca74b297a8340343.jpg"
+      },
+      {
+        "id": 1743,
+        "name": "collect",
+        "slug": "collect",
+        "language": "eng",
+        "games_count": 8081,
+        "image_background": "https://media.rawg.io/media/games/c93/c93309893552f4b118a58819e9a73050.jpg"
+      },
+      {
+        "id": 1897,
+        "name": "fire",
+        "slug": "fire",
+        "language": "eng",
+        "games_count": 6129,
+        "image_background": "https://media.rawg.io/media/screenshots/8a1/8a1d8cb1d53f723795150e580c0c3c6b.jpg"
+      },
+      {
+        "id": 1593,
+        "name": "Gravity",
+        "slug": "gravity",
+        "language": "eng",
+        "games_count": 3297,
+        "image_background": "https://media.rawg.io/media/screenshots/271/27190950ba1d581a92f94fefa41615c8.jpg"
+      },
+      {
+        "id": 731,
+        "name": "NES",
+        "slug": "nes",
+        "language": "eng",
+        "games_count": 1337,
+        "image_background": "https://media.rawg.io/media/screenshots/ada/ada90672691bd75745ee88cd43d49657.jpg"
+      },
+      {
+        "id": 982,
+        "name": "run",
+        "slug": "run",
+        "language": "eng",
+        "games_count": 3979,
+        "image_background": "https://media.rawg.io/media/screenshots/d2a/d2a30b8df8dd7d1e101f4273ecbf8737.jpg"
+      },
+      {
+        "id": 4401,
+        "name": "banana",
+        "slug": "banana",
+        "language": "eng",
+        "games_count": 380,
+        "image_background": "https://media.rawg.io/media/screenshots/521/5212f0f2777a8c641827e7d74673a231_wrfJxwx.jpg"
+      }
+    ],
+    "publishers": [
+      {
+        "id": 10681,
+        "name": "Nintendo",
+        "slug": "nintendo",
+        "games_count": 1241,
+        "image_background": "https://media.rawg.io/media/games/3a0/3a0c8e9ed3a711c542218831b893a0fa.jpg"
+      }
+    ],
+    "esrb_rating": {
+      "id": 1,
+      "name": "Everyone",
+      "slug": "everyone"
+    },
+    "clip": null,
+    "description_raw": "Donkey Kong™ is making a triumphant return, along with his trusted\nsidekick Diddy Kong™, in a brand new side-scrolling platform game from\nRetro Studios. Donkey Kong Country Returns, for the Wii system,\nhas all new levels and all new chest-pounding challenges for players of\nall ages. The game takes inspiration from the original Super NES series,\nfrom barrel blasts to mine carts and then builds upon it by adding\nstunning graphics and new layers of depth to the world and game play. Donkey\nKong Country Returns features the first ever simultaneous\ncooperative game play mode for the series allowing both novice and\nskilled players to actively play and experience the game together. Run,\njump, climb and defeat enemies through diverse environments until you\nretrieve Donkey Kong's stolen banana hoard!\n\nFEATURES:\n\nFeel the power of Donkey Kong by shaking the Wii Remote and Nunchuk to\nperform Ground Pounds, Barrel Rolls. These moves can be used to\ndestroy blocks, defeat enemies and reveal hidden areas. Donkey Kong\nalso has the new ability to climb walls and ceilings.\n\nDiddy Kong has a few new tricks of his own. He can use his Barrel Jet\nto hover high above the ground or defy gravity and fly across small\nchasms. He can also help Donkey Kong with this ability by hopping on\nto Donkey Kong's back. In two player mode, a quick shake of the Wii\nRemote will give him the ability to fire his Peanut Popgun to assist\nDonkey Kong.\n\nThe levels in Donkey Kong Country Returns are beautifully\nrendered and creatively designed with lots of hidden items to\ndiscover. Try to collect all of K-O-N-G Letters and hidden Puzzle\nPieces in each level to unlock something special.\n\nIn cooperative mode, players of different skill levels can play\nthrough the game together.\n\nPrice effective March 11, 2016."
+  },
+  "screenshots": [
+    {
+      "id": 244490,
+      "image": "https://media.rawg.io/media/screenshots/aeb/aeb3a9937e7f65711db8fa7fc08ed7ad.jpg",
+      "width": 521,
+      "height": 293,
+      "is_deleted": false
+    },
+    {
+      "id": 244491,
+      "image": "https://media.rawg.io/media/screenshots/8ac/8ac595f1ffa3f67f83911b69f645bc91.jpg",
+      "width": 521,
+      "height": 293,
+      "is_deleted": false
+    },
+    {
+      "id": 244492,
+      "image": "https://media.rawg.io/media/screenshots/358/358562cb45fe9965fe43c4ccac413735.jpg",
+      "width": 521,
+      "height": 293,
+      "is_deleted": false
+    },
+    {
+      "id": 244493,
+      "image": "https://media.rawg.io/media/screenshots/a9a/a9a6036dbaf9bd561e419663f66ca8cb.jpg",
+      "width": 521,
+      "height": 293,
+      "is_deleted": false
+    },
+    {
+      "id": 244494,
+      "image": "https://media.rawg.io/media/screenshots/cd9/cd93df8b0f7b187794c0f6090e684c1b.jpg",
+      "width": 521,
+      "height": 293,
+      "is_deleted": false
+    },
+    {
+      "id": 244495,
+      "image": "https://media.rawg.io/media/screenshots/557/557580c4c9beaba11a2ea6a267c162b1.jpg",
+      "width": 521,
+      "height": 293,
+      "is_deleted": false
+    }
+  ]
+}

@@ -1,0 +1,191 @@
+{
+  "details": {
+    "id": 736259,
+    "slug": "nintendo-switch-sports",
+    "name": "Nintendo Switch Sports",
+    "name_original": "Nintendo Switch Sports",
+    "description": "<p>Get moving with Soccer, Volleyball, Bowling, Tennis, Badminton, and Chambara (swordplay) using Joy-Con™ controllers!</p>\n<p>Controls are intuitive, so you can hit the court (or lanes, or field, or arena) and get started. With controlled motions you can curve your bowling ball, add spin to a tennis shot, or even use a Joy-Con with the included Leg Strap accessory to kick the ball in a Soccer Shoot-Out. Family and friends can join in on the fun on the same system<em> or online</em>*. Plus a seventh sport is planned to be added via a free update this fall; get ready to Golf!</p>\n<p>Party with friends and family in the same room or across the world</p>\n<p>Bowl, spike, and duel with friends in all six sports!</p>\n<p>Pass a Joy-Con controller to a friend<em> for some 1v1, 2v2, or a free-for-all that will get everyone moving. In Bowling, all players can bowl simultaneously—no waiting for your turn. Play each sport online</em>*, or team up with a friend on the same system to take on opponents near and far in team sports like Volleyball and Tennis.</p>\n<p>Face off against opponents worldwide and strive to reach the Pro League in every sport.</p>\n<p>As you play online** in random matchmaking, redeem points you earn for in-game rewards like outfits, sports accessories, gear, and much more for your avatar. The selection of items will rotate each week, so check back and see what’s in stock!</p>",
+    "metacritic": null,
+    "metacritic_platforms": [],
+    "released": "2022-04-29",
+    "tba": false,
+    "updated": "2025-12-04T19:34:40",
+    "background_image": "https://media.rawg.io/media/games/ea1/ea1a98c673cdd4c290aa29bc2e2fbd9b.jpg",
+    "background_image_additional": "https://media.rawg.io/media/screenshots/8ff/8ff4e837e5c43532b39eb77376cf9bcf.jpg",
+    "website": "https://nintendoswitchsports.nintendo.com/?cid=Direct&eid=Direct02092022&crmid=C0FABD1D-101D-412E-9DE2-6A5C4AD90653",
+    "rating": 4,
+    "rating_top": 4,
+    "ratings": [
+      {
+        "id": 4,
+        "title": "recommended",
+        "count": 16,
+        "percent": 57.14
+      },
+      {
+        "id": 5,
+        "title": "exceptional",
+        "count": 7,
+        "percent": 25
+      },
+      {
+        "id": 3,
+        "title": "meh",
+        "count": 4,
+        "percent": 14.29
+      },
+      {
+        "id": 1,
+        "title": "skip",
+        "count": 1,
+        "percent": 3.57
+      }
+    ],
+    "reactions": {},
+    "added": 85,
+    "added_by_status": {
+      "yet": 5,
+      "owned": 15,
+      "beaten": 20,
+      "toplay": 21,
+      "dropped": 14,
+      "playing": 10
+    },
+    "playtime": 0,
+    "screenshots_count": 5,
+    "movies_count": 0,
+    "creators_count": 0,
+    "achievements_count": 0,
+    "parent_achievements_count": 0,
+    "reddit_url": "",
+    "reddit_name": "",
+    "reddit_description": "",
+    "reddit_logo": "",
+    "reddit_count": 0,
+    "twitch_count": 0,
+    "youtube_count": 0,
+    "reviews_text_count": 0,
+    "ratings_count": 28,
+    "suggestions_count": 244,
+    "alternative_names": [],
+    "metacritic_url": "https://www.metacritic.com/game/switch/nintendo-switch-sports",
+    "parents_count": 0,
+    "additions_count": 0,
+    "game_series_count": 0,
+    "user_game": null,
+    "reviews_count": 28,
+    "saturated_color": "0f0f0f",
+    "dominant_color": "0f0f0f",
+    "parent_platforms": [
+      {
+        "platform": {
+          "id": 7,
+          "name": "Nintendo",
+          "slug": "nintendo"
+        }
+      }
+    ],
+    "platforms": [
+      {
+        "platform": {
+          "id": 7,
+          "name": "Nintendo Switch",
+          "slug": "nintendo-switch",
+          "image": null,
+          "year_end": null,
+          "year_start": null,
+          "games_count": 5765,
+          "image_background": "https://media.rawg.io/media/games/5a4/5a44112251d70a25291cc33757220fce.jpg"
+        },
+        "released_at": "2022-04-29",
+        "requirements": {}
+      }
+    ],
+    "stores": [
+      {
+        "id": 732919,
+        "url": "",
+        "store": {
+          "id": 6,
+          "name": "Nintendo Store",
+          "slug": "nintendo",
+          "domain": "nintendo.com",
+          "games_count": 9150,
+          "image_background": "https://media.rawg.io/media/games/5eb/5eb49eb2fa0738fdb5bacea557b1bc57.jpg"
+        }
+      }
+    ],
+    "developers": [
+      {
+        "id": 16257,
+        "name": "Nintendo",
+        "slug": "nintendo",
+        "games_count": 429,
+        "image_background": "https://media.rawg.io/media/games/c23/c231ef56cdd277fad5fbcd2f6b7d2951.jpg"
+      }
+    ],
+    "genres": [
+      {
+        "id": 15,
+        "name": "Sports",
+        "slug": "sports",
+        "games_count": 22628,
+        "image_background": "https://media.rawg.io/media/games/d16/d160819f22de73d29813f7b6dad815f9.jpg"
+      }
+    ],
+    "tags": [],
+    "publishers": [
+      {
+        "id": 10681,
+        "name": "Nintendo",
+        "slug": "nintendo",
+        "games_count": 1241,
+        "image_background": "https://media.rawg.io/media/games/3a0/3a0c8e9ed3a711c542218831b893a0fa.jpg"
+      }
+    ],
+    "esrb_rating": {
+      "id": 2,
+      "name": "Everyone 10+",
+      "slug": "everyone-10-plus"
+    },
+    "clip": null,
+    "description_raw": "Get moving with Soccer, Volleyball, Bowling, Tennis, Badminton, and Chambara (swordplay) using Joy-Con™ controllers!\n\nControls are intuitive, so you can hit the court (or lanes, or field, or arena) and get started. With controlled motions you can curve your bowling ball, add spin to a tennis shot, or even use a Joy-Con with the included Leg Strap accessory to kick the ball in a Soccer Shoot-Out. Family and friends can join in on the fun on the same system* or online**. Plus a seventh sport is planned to be added via a free update this fall; get ready to Golf!\n\nParty with friends and family in the same room or across the world\n\nBowl, spike, and duel with friends in all six sports!\n\nPass a Joy-Con controller to a friend* for some 1v1, 2v2, or a free-for-all that will get everyone moving. In Bowling, all players can bowl simultaneously—no waiting for your turn. Play each sport online**, or team up with a friend on the same system to take on opponents near and far in team sports like Volleyball and Tennis.\n\nFace off against opponents worldwide and strive to reach the Pro League in every sport.\n\nAs you play online** in random matchmaking, redeem points you earn for in-game rewards like outfits, sports accessories, gear, and much more for your avatar. The selection of items will rotate each week, so check back and see what’s in stock!"
+  },
+  "screenshots": [
+    {
+      "id": 3230727,
+      "image": "https://media.rawg.io/media/screenshots/e34/e34ce6fecc00fbac07f2c27f0d07ce9e.jpeg",
+      "width": 1400,
+      "height": 786,
+      "is_deleted": false
+    },
+    {
+      "id": 3230853,
+      "image": "https://media.rawg.io/media/screenshots/046/0468e947ad7651d9ef8a913d52f1a948.jpg",
+      "width": 1280,
+      "height": 720,
+      "is_deleted": false
+    },
+    {
+      "id": 3230854,
+      "image": "https://media.rawg.io/media/screenshots/d3a/d3af4395fe18cffc7a7f5f1280ca2fb2.jpg",
+      "width": 1280,
+      "height": 720,
+      "is_deleted": false
+    },
+    {
+      "id": 3230855,
+      "image": "https://media.rawg.io/media/screenshots/8ff/8ff4e837e5c43532b39eb77376cf9bcf.jpg",
+      "width": 1280,
+      "height": 720,
+      "is_deleted": false
+    },
+    {
+      "id": 3230856,
+      "image": "https://media.rawg.io/media/screenshots/304/304013d1e8b7c540f79ee3520b146b29.jpg",
+      "width": 1280,
+      "height": 720,
+      "is_deleted": false
+    }
+  ]
+}

@@ -1,0 +1,445 @@
+{
+  "details": {
+    "id": 29180,
+    "slug": "ni-no-kuni-ii-revenant-kingdom",
+    "name": "Ni no Kuni II: Revenant Kingdom",
+    "name_original": "Ni no Kuni II: Revenant Kingdom",
+    "description": "<p>Re-enter the animated world of Ni no Kuni in a role-playing masterpiece!</p>\n<p>Re-enter the animated world of Ni no Kuni in the sequel to the role-playing masterpiece developed by LEVEL-5. </p>\n<p>Explore a beautifully crafted world and experience the gripping story in an all-new RPG adventure. LEVEL-5 reunites with Yoshiyuki Momose on character design and Music created by Joe Hisaishi in the production of the next Ni no Kuni tale.</p>",
+    "metacritic": 82,
+    "metacritic_platforms": [
+      {
+        "metascore": 84,
+        "url": "https://www.metacritic.com/game/playstation-4/ni-no-kuni-ii-revenant-kingdom",
+        "platform": {
+          "platform": 18,
+          "name": "PlayStation 4",
+          "slug": "playstation4"
+        }
+      },
+      {
+        "metascore": 81,
+        "url": "https://www.metacritic.com/game/pc/ni-no-kuni-ii-revenant-kingdom",
+        "platform": {
+          "platform": 4,
+          "name": "PC",
+          "slug": "pc"
+        }
+      }
+    ],
+    "released": "2018-03-23",
+    "tba": false,
+    "updated": "2026-02-14T07:54:14",
+    "background_image": "https://media.rawg.io/media/games/b92/b924c4beeed6617201d5d91511cfcf8e.jpg",
+    "background_image_additional": "https://media.rawg.io/media/screenshots/578/578e6db2699e167c3a06b854da5df010.jpeg",
+    "website": "http://ninokunigame.com",
+    "rating": 3.89,
+    "rating_top": 4,
+    "ratings": [
+      {
+        "id": 4,
+        "title": "recommended",
+        "count": 239,
+        "percent": 53.83
+      },
+      {
+        "id": 5,
+        "title": "exceptional",
+        "count": 98,
+        "percent": 22.07
+      },
+      {
+        "id": 3,
+        "title": "meh",
+        "count": 86,
+        "percent": 19.37
+      },
+      {
+        "id": 1,
+        "title": "skip",
+        "count": 21,
+        "percent": 4.73
+      }
+    ],
+    "reactions": {
+      "1": 1,
+      "2": 1,
+      "3": 1,
+      "6": 1,
+      "9": 1,
+      "10": 1,
+      "15": 1,
+      "16": 3,
+      "21": 1
+    },
+    "added": 2707,
+    "added_by_status": {
+      "yet": 244,
+      "owned": 1720,
+      "beaten": 282,
+      "toplay": 246,
+      "dropped": 147,
+      "playing": 68
+    },
+    "playtime": 7,
+    "screenshots_count": 12,
+    "movies_count": 1,
+    "creators_count": 5,
+    "achievements_count": 175,
+    "parent_achievements_count": 33,
+    "reddit_url": "https://www.reddit.com/r/Ni_no_Kuni/",
+    "reddit_name": "",
+    "reddit_description": "",
+    "reddit_logo": "",
+    "reddit_count": 3410,
+    "twitch_count": 154,
+    "youtube_count": 570721,
+    "reviews_text_count": 9,
+    "ratings_count": 435,
+    "suggestions_count": 604,
+    "alternative_names": [],
+    "metacritic_url": "https://www.metacritic.com/game/playstation-4/ni-no-kuni-ii-revenant-kingdom",
+    "parents_count": 0,
+    "additions_count": 0,
+    "game_series_count": 3,
+    "user_game": null,
+    "reviews_count": 444,
+    "saturated_color": "0f0f0f",
+    "dominant_color": "0f0f0f",
+    "parent_platforms": [
+      {
+        "platform": {
+          "id": 1,
+          "name": "PC",
+          "slug": "pc"
+        }
+      },
+      {
+        "platform": {
+          "id": 2,
+          "name": "PlayStation",
+          "slug": "playstation"
+        }
+      },
+      {
+        "platform": {
+          "id": 3,
+          "name": "Xbox",
+          "slug": "xbox"
+        }
+      },
+      {
+        "platform": {
+          "id": 7,
+          "name": "Nintendo",
+          "slug": "nintendo"
+        }
+      }
+    ],
+    "platforms": [
+      {
+        "platform": {
+          "id": 18,
+          "name": "PlayStation 4",
+          "slug": "playstation4",
+          "image": null,
+          "year_end": null,
+          "year_start": null,
+          "games_count": 6984,
+          "image_background": "https://media.rawg.io/media/games/f46/f466571d536f2e3ea9e815ad17177501.jpg"
+        },
+        "released_at": "2018-03-23",
+        "requirements": {}
+      },
+      {
+        "platform": {
+          "id": 7,
+          "name": "Nintendo Switch",
+          "slug": "nintendo-switch",
+          "image": null,
+          "year_end": null,
+          "year_start": null,
+          "games_count": 5765,
+          "image_background": "https://media.rawg.io/media/games/5a4/5a44112251d70a25291cc33757220fce.jpg"
+        },
+        "released_at": "2018-03-23",
+        "requirements": {}
+      },
+      {
+        "platform": {
+          "id": 4,
+          "name": "PC",
+          "slug": "pc",
+          "image": null,
+          "year_end": null,
+          "year_start": null,
+          "games_count": 560528,
+          "image_background": "https://media.rawg.io/media/games/4be/4be6a6ad0364751a96229c56bf69be59.jpg"
+        },
+        "released_at": "2018-03-23",
+        "requirements": {
+          "minimum": "Minimum:\nOS: Windows 7 SP1 64bit, Windows 8.1 64bit Windows 10 64bit\nProcessor: Intel Core i5-4460 / AMD FX-6300\nMemory: 4 GB RAM\nGraphics: NVIDIA GeForce GTX 750 Ti / AMD Radeon R7 260x (VRAM2GB or higher / VRAM2GB以上)\nDirectX: Version 11\nNetwork: Broadband Internet connection\nStorage: 40 GB available space\nSound Card: DirectX 11 sound device\nAdditional Notes: Assuming that the game is running on 1280x720 30fps environment / 画面解像度1280x720 30fpsで動作想定",
+          "recommended": "Recommended:\nOS: Windows 7 SP1 64bit, Windows 8.1 64bit Windows 10 64bit\nProcessor: Intel Core i7-3770 / AMD FX-8350\nMemory: 8 GB RAM\nGraphics: NVIDIA GeForce GTX 970 / ATI Radeon R9 series（VRAM3GB or higher / VRAM3GB以上）\nDirectX: Version 11\nNetwork: Broadband Internet connection\nStorage: 40 GB available space\nSound Card: DirectX 11 sound device\nAdditional Notes: Assuming that the game is running on 1920x1080 60fps environment / 画面解像度1920x1080 60fpsで動作想定"
+        }
+      },
+      {
+        "platform": {
+          "id": 1,
+          "name": "Xbox One",
+          "slug": "xbox-one",
+          "image": null,
+          "year_end": null,
+          "year_start": null,
+          "games_count": 5736,
+          "image_background": "https://media.rawg.io/media/games/20a/20aa03a10cda45239fe22d035c0ebe64.jpg"
+        },
+        "released_at": "2018-03-23",
+        "requirements": {}
+      },
+      {
+        "platform": {
+          "id": 186,
+          "name": "Xbox Series S/X",
+          "slug": "xbox-series-x",
+          "image": null,
+          "year_end": null,
+          "year_start": 2020,
+          "games_count": 1240,
+          "image_background": "https://media.rawg.io/media/games/618/618c2031a07bbff6b4f611f10b6bcdbc.jpg"
+        },
+        "released_at": "2018-03-23",
+        "requirements": {}
+      }
+    ],
+    "stores": [
+      {
+        "id": 976047,
+        "url": "",
+        "store": {
+          "id": 2,
+          "name": "Xbox Store",
+          "slug": "xbox-store",
+          "domain": "microsoft.com",
+          "games_count": 4938,
+          "image_background": "https://media.rawg.io/media/games/2ba/2bac0e87cf45e5b508f227d281c9252a.jpg"
+        }
+      },
+      {
+        "id": 976046,
+        "url": "",
+        "store": {
+          "id": 6,
+          "name": "Nintendo Store",
+          "slug": "nintendo",
+          "domain": "nintendo.com",
+          "games_count": 9150,
+          "image_background": "https://media.rawg.io/media/games/5eb/5eb49eb2fa0738fdb5bacea557b1bc57.jpg"
+        }
+      },
+      {
+        "id": 37059,
+        "url": "",
+        "store": {
+          "id": 1,
+          "name": "Steam",
+          "slug": "steam",
+          "domain": "store.steampowered.com",
+          "games_count": 123255,
+          "image_background": "https://media.rawg.io/media/games/587/587588c64afbff80e6f444eb2e46f9da.jpg"
+        }
+      },
+      {
+        "id": 37172,
+        "url": "",
+        "store": {
+          "id": 3,
+          "name": "PlayStation Store",
+          "slug": "playstation-store",
+          "domain": "store.playstation.com",
+          "games_count": 8075,
+          "image_background": "https://media.rawg.io/media/games/f87/f87457e8347484033cb34cde6101d08d.jpg"
+        }
+      }
+    ],
+    "developers": [
+      {
+        "id": 386,
+        "name": "BANDAI NAMCO Entertainment America",
+        "slug": "bandai-namco-entertainment-america-inc",
+        "games_count": 138,
+        "image_background": "https://media.rawg.io/media/screenshots/104/104603a5c863d6fa6be4d4bb1fed6db6.jpeg"
+      },
+      {
+        "id": 132405,
+        "name": "Level 5",
+        "slug": "level-5-2",
+        "games_count": 68,
+        "image_background": "https://media.rawg.io/media/screenshots/861/8611a2305de71619925ed4b64621925c.jpg"
+      }
+    ],
+    "genres": [
+      {
+        "id": 3,
+        "name": "Adventure",
+        "slug": "adventure",
+        "games_count": 151684,
+        "image_background": "https://media.rawg.io/media/games/c50/c5085506fe4b5e20fc7aa5ace842c20b.jpg"
+      },
+      {
+        "id": 5,
+        "name": "RPG",
+        "slug": "role-playing-games-rpg",
+        "games_count": 61936,
+        "image_background": "https://media.rawg.io/media/games/d1a/d1a2e99ade53494c6330a0ed945fe823.jpg"
+      }
+    ],
+    "tags": [
+      {
+        "id": 31,
+        "name": "Singleplayer",
+        "slug": "singleplayer",
+        "language": "eng",
+        "games_count": 250812,
+        "image_background": "https://media.rawg.io/media/games/26d/26d4437715bee60138dab4a7c8c59c92.jpg"
+      },
+      {
+        "id": 40847,
+        "name": "Steam Achievements",
+        "slug": "steam-achievements",
+        "language": "eng",
+        "games_count": 51706,
+        "image_background": "https://media.rawg.io/media/games/49c/49c3dfa4ce2f6f140cc4825868e858cb.jpg"
+      },
+      {
+        "id": 42,
+        "name": "Great Soundtrack",
+        "slug": "great-soundtrack",
+        "language": "eng",
+        "games_count": 3450,
+        "image_background": "https://media.rawg.io/media/games/587/587588c64afbff80e6f444eb2e46f9da.jpg"
+      },
+      {
+        "id": 24,
+        "name": "RPG",
+        "slug": "rpg",
+        "language": "eng",
+        "games_count": 26621,
+        "image_background": "https://media.rawg.io/media/games/d69/d69810315bd7e226ea2d21f9156af629.jpg"
+      },
+      {
+        "id": 118,
+        "name": "Story Rich",
+        "slug": "story-rich",
+        "language": "eng",
+        "games_count": 27257,
+        "image_background": "https://media.rawg.io/media/games/bc0/bc06a29ceac58652b684deefe7d56099.jpg"
+      },
+      {
+        "id": 64,
+        "name": "Fantasy",
+        "slug": "fantasy",
+        "language": "eng",
+        "games_count": 32956,
+        "image_background": "https://media.rawg.io/media/games/aa3/aa36ba4b486a03ddfaef274fb4f5afd4.jpg"
+      },
+      {
+        "id": 134,
+        "name": "Anime",
+        "slug": "anime",
+        "language": "eng",
+        "games_count": 17057,
+        "image_background": "https://media.rawg.io/media/games/3b5/3b56220d6038b8b1ad66c4d05ef95215.jpg"
+      },
+      {
+        "id": 88,
+        "name": "Cute",
+        "slug": "cute",
+        "language": "eng",
+        "games_count": 39781,
+        "image_background": "https://media.rawg.io/media/games/4cb/4cb855e8ef1578415a928e53c9f51867.png"
+      },
+      {
+        "id": 233,
+        "name": "JRPG",
+        "slug": "jrpg",
+        "language": "eng",
+        "games_count": 5264,
+        "image_background": "https://media.rawg.io/media/games/a59/a5993b9f84944570a31cb6ad08bfe502.jpg"
+      },
+      {
+        "id": 48,
+        "name": "Dungeon Crawler",
+        "slug": "dungeon-crawler",
+        "language": "eng",
+        "games_count": 7988,
+        "image_background": "https://media.rawg.io/media/screenshots/b9c/b9cb8c4e69907a68e33a4ebb2580f82a.jpg"
+      }
+    ],
+    "publishers": [
+      {
+        "id": 8352,
+        "name": "Bandai Namco Entertainment",
+        "slug": "bandai-namco-entertainment",
+        "games_count": 616,
+        "image_background": "https://media.rawg.io/media/games/582/582b5518a52f5086d15dde128264b94d.jpg"
+      },
+      {
+        "id": 31896,
+        "name": "BANDAI NAMCO Entertainment US",
+        "slug": "bandai-namco-entertainment-us",
+        "games_count": 160,
+        "image_background": "https://media.rawg.io/media/games/27c/27cb94ed1763fec383fb99151580095a.jpg"
+      }
+    ],
+    "esrb_rating": {
+      "id": 2,
+      "name": "Everyone 10+",
+      "slug": "everyone-10-plus"
+    },
+    "clip": null,
+    "description_raw": "Re-enter the animated world of Ni no Kuni in a role-playing masterpiece!\r\n\r\nRe-enter the animated world of Ni no Kuni in the sequel to the role-playing masterpiece developed by LEVEL-5. \r\n\r\nExplore a beautifully crafted world and experience the gripping story in an all-new RPG adventure. LEVEL-5 reunites with Yoshiyuki Momose on character design and Music created by Joe Hisaishi in the production of the next Ni no Kuni tale."
+  },
+  "screenshots": [
+    {
+      "id": 286821,
+      "image": "https://media.rawg.io/media/screenshots/a77/a774be97e287ef3b355fb1c3d21504ce.jpg",
+      "width": 1343,
+      "height": 755,
+      "is_deleted": false
+    },
+    {
+      "id": 286822,
+      "image": "https://media.rawg.io/media/screenshots/405/4052fb50c7facc60139ca57a07b53deb.jpg",
+      "width": 1343,
+      "height": 755,
+      "is_deleted": false
+    },
+    {
+      "id": 286823,
+      "image": "https://media.rawg.io/media/screenshots/fd4/fd4bf15634d5407c36010c7277b7e0d9.jpg",
+      "width": 1343,
+      "height": 755,
+      "is_deleted": false
+    },
+    {
+      "id": 286824,
+      "image": "https://media.rawg.io/media/screenshots/0d5/0d51ee4e02f00fe660b869d8bb367133.jpg",
+      "width": 1343,
+      "height": 755,
+      "is_deleted": false
+    },
+    {
+      "id": 286825,
+      "image": "https://media.rawg.io/media/screenshots/72e/72efa8017c58ee36c07250b5675f62f7.jpg",
+      "width": 1343,
+      "height": 755,
+      "is_deleted": false
+    },
+    {
+      "id": 286826,
+      "image": "https://media.rawg.io/media/screenshots/793/7934527bacc08f00d003721e5b894108.jpg",
+      "width": 1343,
+      "height": 755,
+      "is_deleted": false
+    }
+  ]
+}

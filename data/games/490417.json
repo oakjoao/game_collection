@@ -1,0 +1,238 @@
+{
+  "details": {
+    "id": 490417,
+    "slug": "hyrule-warriors-age-of-calamity",
+    "name": "Hyrule Warriors: Age of Calamity",
+    "name_original": "Hyrule Warriors: Age of Calamity",
+    "description": "<p>See Hyrule 100 years before the Legend of Zelda: Breath of the Wild game and experience the events of the Great Calamity<br />\nJoin the struggle that brought Hyrule to its knees. Learn more about Zelda, the four Champions, the King of Hyrule and more through dramatic cutscenes as they try to save the kingdom from Calamity. The Hyrule Warriors: Age of Calamity game is the only way to firsthand see what happened 100 years ago.</p>\n<ul>\n<li>Battle hordes of Hyrule’s most formidable foes -<br />\nFrom barbaric Bokoblins to towering Lynels, Ganon’s troops have emerged in droves. Playable heroes like Link, Zelda and more must use their distinct abilities to carve through hundreds of enemies to save Hyrule from the impending Calamity.</li>\n</ul>",
+    "metacritic": 78,
+    "metacritic_platforms": [
+      {
+        "metascore": 78,
+        "url": "https://www.metacritic.com/game/switch/hyrule-warriors-age-of-calamity?ref=hp",
+        "platform": {
+          "platform": 7,
+          "name": "Nintendo Switch",
+          "slug": "nintendo-switch"
+        }
+      }
+    ],
+    "released": "2020-11-20",
+    "tba": false,
+    "updated": "2026-01-12T09:09:39",
+    "background_image": "https://media.rawg.io/media/games/086/0865a7072a225181f3fa492171bad5f6.jpg",
+    "background_image_additional": "https://media.rawg.io/media/screenshots/de2/de27d54984fa6b8682e460462a09b2cf.jpg",
+    "website": "https://www.zelda.com/hyrule-warriors/",
+    "rating": 3.88,
+    "rating_top": 4,
+    "ratings": [
+      {
+        "id": 4,
+        "title": "recommended",
+        "count": 37,
+        "percent": 48.68
+      },
+      {
+        "id": 5,
+        "title": "exceptional",
+        "count": 20,
+        "percent": 26.32
+      },
+      {
+        "id": 3,
+        "title": "meh",
+        "count": 14,
+        "percent": 18.42
+      },
+      {
+        "id": 1,
+        "title": "skip",
+        "count": 5,
+        "percent": 6.58
+      }
+    ],
+    "reactions": {},
+    "added": 300,
+    "added_by_status": {
+      "yet": 42,
+      "owned": 33,
+      "beaten": 68,
+      "toplay": 101,
+      "dropped": 29,
+      "playing": 27
+    },
+    "playtime": 0,
+    "screenshots_count": 6,
+    "movies_count": 0,
+    "creators_count": 1,
+    "achievements_count": 0,
+    "parent_achievements_count": 0,
+    "reddit_url": "",
+    "reddit_name": "",
+    "reddit_description": "",
+    "reddit_logo": "",
+    "reddit_count": 0,
+    "twitch_count": 136,
+    "youtube_count": 0,
+    "reviews_text_count": 0,
+    "ratings_count": 76,
+    "suggestions_count": 361,
+    "alternative_names": [],
+    "metacritic_url": "https://www.metacritic.com/game/switch/hyrule-warriors-age-of-calamity?ref=hp",
+    "parents_count": 0,
+    "additions_count": 0,
+    "game_series_count": 7,
+    "user_game": null,
+    "reviews_count": 76,
+    "saturated_color": "0f0f0f",
+    "dominant_color": "0f0f0f",
+    "parent_platforms": [
+      {
+        "platform": {
+          "id": 7,
+          "name": "Nintendo",
+          "slug": "nintendo"
+        }
+      }
+    ],
+    "platforms": [
+      {
+        "platform": {
+          "id": 7,
+          "name": "Nintendo Switch",
+          "slug": "nintendo-switch",
+          "image": null,
+          "year_end": null,
+          "year_start": null,
+          "games_count": 5765,
+          "image_background": "https://media.rawg.io/media/games/5a4/5a44112251d70a25291cc33757220fce.jpg"
+        },
+        "released_at": "2020-11-20",
+        "requirements": {}
+      }
+    ],
+    "stores": [
+      {
+        "id": 481608,
+        "url": "",
+        "store": {
+          "id": 6,
+          "name": "Nintendo Store",
+          "slug": "nintendo",
+          "domain": "nintendo.com",
+          "games_count": 9150,
+          "image_background": "https://media.rawg.io/media/games/5eb/5eb49eb2fa0738fdb5bacea557b1bc57.jpg"
+        }
+      }
+    ],
+    "developers": [
+      {
+        "id": 14501,
+        "name": "Omega Force",
+        "slug": "omega-force",
+        "games_count": 53,
+        "image_background": "https://media.rawg.io/media/games/62f/62f8f20d276647b7b6a6c6f46500ffb9.jpg"
+      },
+      {
+        "id": 171772,
+        "name": "KOEI TECMO GAMES CO",
+        "slug": "koei-tecmo-games-co-ltd",
+        "games_count": 62,
+        "image_background": "https://media.rawg.io/media/games/1e1/1e1b965459d5cf69cf51e5d6fe7da959.jpg"
+      }
+    ],
+    "genres": [
+      {
+        "id": 4,
+        "name": "Action",
+        "slug": "action",
+        "games_count": 191508,
+        "image_background": "https://media.rawg.io/media/games/737/737ea5662211d2e0bbd6f5989189e4f1.jpg"
+      },
+      {
+        "id": 3,
+        "name": "Adventure",
+        "slug": "adventure",
+        "games_count": 151684,
+        "image_background": "https://media.rawg.io/media/games/c50/c5085506fe4b5e20fc7aa5ace842c20b.jpg"
+      },
+      {
+        "id": 6,
+        "name": "Fighting",
+        "slug": "fighting",
+        "games_count": 11777,
+        "image_background": "https://media.rawg.io/media/games/35b/35b47c4d85cd6e08f3e2ca43ea5ce7bb.jpg"
+      }
+    ],
+    "tags": [
+      {
+        "id": 92008,
+        "name": "massive battles",
+        "slug": "massive-battles",
+        "language": "eng",
+        "games_count": 34,
+        "image_background": "https://media.rawg.io/media/games/57a/57a0948becfd6472ecc2922e6bc6feaa.jpg"
+      }
+    ],
+    "publishers": [
+      {
+        "id": 10681,
+        "name": "Nintendo",
+        "slug": "nintendo",
+        "games_count": 1241,
+        "image_background": "https://media.rawg.io/media/games/3a0/3a0c8e9ed3a711c542218831b893a0fa.jpg"
+      }
+    ],
+    "esrb_rating": {
+      "id": 3,
+      "name": "Teen",
+      "slug": "teen"
+    },
+    "clip": null,
+    "description_raw": "See Hyrule 100 years before the Legend of Zelda: Breath of the Wild game and experience the events of the Great Calamity\nJoin the struggle that brought Hyrule to its knees. Learn more about Zelda, the four Champions, the King of Hyrule and more through dramatic cutscenes as they try to save the kingdom from Calamity. The Hyrule Warriors: Age of Calamity game is the only way to firsthand see what happened 100 years ago.\n\n- Battle hordes of Hyrule’s most formidable foes -\nFrom barbaric Bokoblins to towering Lynels, Ganon’s troops have emerged in droves. Playable heroes like Link, Zelda and more must use their distinct abilities to carve through hundreds of enemies to save Hyrule from the impending Calamity."
+  },
+  "screenshots": [
+    {
+      "id": 2512853,
+      "image": "https://media.rawg.io/media/screenshots/834/83498a2bc64b6bdcbc0c1c57b39ff08a.jpg",
+      "width": 780,
+      "height": 449,
+      "is_deleted": false
+    },
+    {
+      "id": 2512854,
+      "image": "https://media.rawg.io/media/screenshots/38d/38d821f7d3938dfcb5e5cb29585b0b6c.jpg",
+      "width": 1024,
+      "height": 576,
+      "is_deleted": false
+    },
+    {
+      "id": 2512855,
+      "image": "https://media.rawg.io/media/screenshots/653/653f1c06f632d95ed17456a77ad795af.jpg",
+      "width": 1920,
+      "height": 1080,
+      "is_deleted": false
+    },
+    {
+      "id": 2512856,
+      "image": "https://media.rawg.io/media/screenshots/820/820fbe711d027f937b83a4bd223c43dd.jpg",
+      "width": 635,
+      "height": 357,
+      "is_deleted": false
+    },
+    {
+      "id": 2512857,
+      "image": "https://media.rawg.io/media/screenshots/de2/de27d54984fa6b8682e460462a09b2cf.jpg",
+      "width": 800,
+      "height": 450,
+      "is_deleted": false
+    },
+    {
+      "id": 2512858,
+      "image": "https://media.rawg.io/media/screenshots/41e/41eb56f7922402f1bd826bdb083c7ab9.jpg",
+      "width": 650,
+      "height": 366,
+      "is_deleted": false
+    }
+  ]
+}

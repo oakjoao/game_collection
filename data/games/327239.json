@@ -65,12 +65,12 @@
       "11": 3,
       "12": 2
     },
-    "added": 1758,
+    "added": 1761,
     "added_by_status": {
-      "yet": 196,
+      "yet": 198,
       "owned": 303,
       "beaten": 323,
-      "toplay": 643,
+      "toplay": 644,
       "dropped": 111,
       "playing": 182
     },
@@ -119,8 +119,8 @@
           "image": null,
           "year_end": null,
           "year_start": null,
-          "games_count": 5759,
-          "image_background": "https://media.rawg.io/media/games/618/618c2031a07bbff6b4f611f10b6bcdbc.jpg"
+          "games_count": 5765,
+          "image_background": "https://media.rawg.io/media/games/5a4/5a44112251d70a25291cc33757220fce.jpg"
         },
         "released_at": "2023-05-12",
         "requirements": {}
@@ -135,8 +135,8 @@
           "name": "Nintendo Store",
           "slug": "nintendo",
           "domain": "nintendo.com",
-          "games_count": 9147,
-          "image_background": "https://media.rawg.io/media/games/e04/e04963f3ac4c4fa83a1dc0b9231e50db.jpg"
+          "games_count": 9150,
+          "image_background": "https://media.rawg.io/media/games/5eb/5eb49eb2fa0738fdb5bacea557b1bc57.jpg"
         }
       }
     ],
@@ -154,15 +154,15 @@
         "id": 4,
         "name": "Action",
         "slug": "action",
-        "games_count": 191451,
-        "image_background": "https://media.rawg.io/media/games/587/587588c64afbff80e6f444eb2e46f9da.jpg"
+        "games_count": 191508,
+        "image_background": "https://media.rawg.io/media/games/737/737ea5662211d2e0bbd6f5989189e4f1.jpg"
       },
       {
         "id": 3,
         "name": "Adventure",
         "slug": "adventure",
-        "games_count": 151632,
-        "image_background": "https://media.rawg.io/media/games/58a/58ac7f6569259dcc0b60b921869b19fc.jpg"
+        "games_count": 151684,
+        "image_background": "https://media.rawg.io/media/games/c50/c5085506fe4b5e20fc7aa5ace842c20b.jpg"
       }
     ],
     "tags": [
@@ -171,23 +171,23 @@
         "name": "Singleplayer",
         "slug": "singleplayer",
         "language": "eng",
-        "games_count": 250721,
-        "image_background": "https://media.rawg.io/media/games/960/960b601d9541cec776c5fa42a00bf6c4.jpg"
+        "games_count": 250812,
+        "image_background": "https://media.rawg.io/media/games/26d/26d4437715bee60138dab4a7c8c59c92.jpg"
       },
       {
         "id": 24,
         "name": "RPG",
         "slug": "rpg",
         "language": "eng",
-        "games_count": 26602,
-        "image_background": "https://media.rawg.io/media/games/6cd/6cd653e0aaef5ff8bbd295bf4bcb12eb.jpg"
+        "games_count": 26621,
+        "image_background": "https://media.rawg.io/media/games/d69/d69810315bd7e226ea2d21f9156af629.jpg"
       },
       {
         "id": 36,
         "name": "Open World",
         "slug": "open-world",
         "language": "eng",
-        "games_count": 9253,
+        "games_count": 9265,
         "image_background": "https://media.rawg.io/media/games/20a/20aa03a10cda45239fe22d035c0ebe64.jpg"
       },
       {
@@ -195,8 +195,8 @@
         "name": "Sandbox",
         "slug": "sandbox",
         "language": "eng",
-        "games_count": 8507,
-        "image_background": "https://media.rawg.io/media/games/15c/15c95a4915f88a3e89c821526afe05fc.jpg"
+        "games_count": 8513,
+        "image_background": "https://media.rawg.io/media/games/849/849414b978db37d4563ff9e4b0d3a787.jpg"
       },
       {
         "id": 37796,

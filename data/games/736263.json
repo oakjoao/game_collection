@@ -1,0 +1,268 @@
+{
+  "details": {
+    "id": 736263,
+    "slug": "live-a-live-remaster",
+    "name": "Live A Live Remaster",
+    "name_original": "Live A Live Remaster",
+    "description": "<p>The RPG game LIVE A LIVE makes its worldwide debut in HD-2D on Nintendo Switch™!<br />\nPreviously unreleased outside of Japan, the RPG game LIVE A LIVE is releasing on the Nintendo Switch system in the HD-2D style!</p>\n<p>Seven different stories featuring different protagonists, time periods, and gameplay styles await. In The Wild West, a wanderer with a bounty on his head fights for his life. In the Twilight of Edo Japan, a shinobi undertakes a secret mission. Experience these tales in any order you choose—the adventure is yours to control. What other stories will you uncover on the horizon...?</p>",
+    "metacritic": null,
+    "metacritic_platforms": [],
+    "released": "2022-07-22",
+    "tba": false,
+    "updated": "2025-07-09T09:57:43",
+    "background_image": "https://media.rawg.io/media/games/123/123349b81dd0be70b8aa0889635061fe.jpg",
+    "background_image_additional": "https://media.rawg.io/media/screenshots/cbc/cbc47b21fae04fa935751137dc2dc4f0.jpg",
+    "website": "",
+    "rating": 4,
+    "rating_top": 4,
+    "ratings": [
+      {
+        "id": 4,
+        "title": "recommended",
+        "count": 6,
+        "percent": 60
+      },
+      {
+        "id": 5,
+        "title": "exceptional",
+        "count": 2,
+        "percent": 20
+      },
+      {
+        "id": 3,
+        "title": "meh",
+        "count": 2,
+        "percent": 20
+      }
+    ],
+    "reactions": {},
+    "added": 107,
+    "added_by_status": {
+      "yet": 18,
+      "owned": 19,
+      "beaten": 10,
+      "toplay": 46,
+      "dropped": 6,
+      "playing": 8
+    },
+    "playtime": 0,
+    "screenshots_count": 5,
+    "movies_count": 0,
+    "creators_count": 0,
+    "achievements_count": 0,
+    "parent_achievements_count": 0,
+    "reddit_url": "",
+    "reddit_name": "",
+    "reddit_description": "",
+    "reddit_logo": "",
+    "reddit_count": 0,
+    "twitch_count": 0,
+    "youtube_count": 0,
+    "reviews_text_count": 0,
+    "ratings_count": 10,
+    "suggestions_count": 242,
+    "alternative_names": [
+      "Live A Live",
+      "Live A Live Remake"
+    ],
+    "metacritic_url": "https://www.metacritic.com/game/switch/live-a-live",
+    "parents_count": 1,
+    "additions_count": 0,
+    "game_series_count": 0,
+    "user_game": null,
+    "reviews_count": 10,
+    "saturated_color": "0f0f0f",
+    "dominant_color": "0f0f0f",
+    "parent_platforms": [
+      {
+        "platform": {
+          "id": 1,
+          "name": "PC",
+          "slug": "pc"
+        }
+      },
+      {
+        "platform": {
+          "id": 2,
+          "name": "PlayStation",
+          "slug": "playstation"
+        }
+      },
+      {
+        "platform": {
+          "id": 7,
+          "name": "Nintendo",
+          "slug": "nintendo"
+        }
+      }
+    ],
+    "platforms": [
+      {
+        "platform": {
+          "id": 18,
+          "name": "PlayStation 4",
+          "slug": "playstation4",
+          "image": null,
+          "year_end": null,
+          "year_start": null,
+          "games_count": 6984,
+          "image_background": "https://media.rawg.io/media/games/f46/f466571d536f2e3ea9e815ad17177501.jpg"
+        },
+        "released_at": "2022-07-22",
+        "requirements": {}
+      },
+      {
+        "platform": {
+          "id": 187,
+          "name": "PlayStation 5",
+          "slug": "playstation5",
+          "image": null,
+          "year_end": null,
+          "year_start": 2020,
+          "games_count": 1451,
+          "image_background": "https://media.rawg.io/media/games/909/909974d1c7863c2027241e265fe7011f.jpg"
+        },
+        "released_at": "2022-07-22",
+        "requirements": {}
+      },
+      {
+        "platform": {
+          "id": 4,
+          "name": "PC",
+          "slug": "pc",
+          "image": null,
+          "year_end": null,
+          "year_start": null,
+          "games_count": 560528,
+          "image_background": "https://media.rawg.io/media/games/4be/4be6a6ad0364751a96229c56bf69be59.jpg"
+        },
+        "released_at": "2022-07-22",
+        "requirements": {}
+      },
+      {
+        "platform": {
+          "id": 7,
+          "name": "Nintendo Switch",
+          "slug": "nintendo-switch",
+          "image": null,
+          "year_end": null,
+          "year_start": null,
+          "games_count": 5765,
+          "image_background": "https://media.rawg.io/media/games/5a4/5a44112251d70a25291cc33757220fce.jpg"
+        },
+        "released_at": "2022-07-22",
+        "requirements": {}
+      }
+    ],
+    "stores": [
+      {
+        "id": 987526,
+        "url": "",
+        "store": {
+          "id": 1,
+          "name": "Steam",
+          "slug": "steam",
+          "domain": "store.steampowered.com",
+          "games_count": 123255,
+          "image_background": "https://media.rawg.io/media/games/587/587588c64afbff80e6f444eb2e46f9da.jpg"
+        }
+      },
+      {
+        "id": 987525,
+        "url": "",
+        "store": {
+          "id": 3,
+          "name": "PlayStation Store",
+          "slug": "playstation-store",
+          "domain": "store.playstation.com",
+          "games_count": 8075,
+          "image_background": "https://media.rawg.io/media/games/f87/f87457e8347484033cb34cde6101d08d.jpg"
+        }
+      },
+      {
+        "id": 732918,
+        "url": "",
+        "store": {
+          "id": 6,
+          "name": "Nintendo Store",
+          "slug": "nintendo",
+          "domain": "nintendo.com",
+          "games_count": 9150,
+          "image_background": "https://media.rawg.io/media/games/5eb/5eb49eb2fa0738fdb5bacea557b1bc57.jpg"
+        }
+      }
+    ],
+    "developers": [
+      {
+        "id": 4132,
+        "name": "Square Enix",
+        "slug": "square-enix",
+        "games_count": 374,
+        "image_background": "https://media.rawg.io/media/games/54a/54a3e4c617217848dc43c4de9989fe37.jpg"
+      }
+    ],
+    "genres": [
+      {
+        "id": 5,
+        "name": "RPG",
+        "slug": "role-playing-games-rpg",
+        "games_count": 61936,
+        "image_background": "https://media.rawg.io/media/games/d1a/d1a2e99ade53494c6330a0ed945fe823.jpg"
+      }
+    ],
+    "tags": [],
+    "publishers": [
+      {
+        "id": 10681,
+        "name": "Nintendo",
+        "slug": "nintendo",
+        "games_count": 1241,
+        "image_background": "https://media.rawg.io/media/games/3a0/3a0c8e9ed3a711c542218831b893a0fa.jpg"
+      }
+    ],
+    "esrb_rating": {
+      "id": 6,
+      "name": "Rating Pending",
+      "slug": "rating-pending"
+    },
+    "clip": null,
+    "description_raw": "The RPG game LIVE A LIVE makes its worldwide debut in HD-2D on Nintendo Switch™!\nPreviously unreleased outside of Japan, the RPG game LIVE A LIVE is releasing on the Nintendo Switch system in the HD-2D style!\n\nSeven different stories featuring different protagonists, time periods, and gameplay styles await. In The Wild West, a wanderer with a bounty on his head fights for his life. In the Twilight of Edo Japan, a shinobi undertakes a secret mission. Experience these tales in any order you choose—the adventure is yours to control. What other stories will you uncover on the horizon...?"
+  },
+  "screenshots": [
+    {
+      "id": 3230767,
+      "image": "https://media.rawg.io/media/screenshots/2d0/2d0174adf088dad95e5670a541711ee2.jpg",
+      "width": 1280,
+      "height": 720,
+      "is_deleted": false
+    },
+    {
+      "id": 3230768,
+      "image": "https://media.rawg.io/media/screenshots/1e0/1e0506c3e43c3e1ed09e23317b141cf2.jpg",
+      "width": 1280,
+      "height": 720,
+      "is_deleted": false
+    },
+    {
+      "id": 3230769,
+      "image": "https://media.rawg.io/media/screenshots/6a0/6a09b8487c066d06058dc5a66d35b9aa.jpg",
+      "width": 1280,
+      "height": 720,
+      "is_deleted": false
+    },
+    {
+      "id": 3230770,
+      "image": "https://media.rawg.io/media/screenshots/cbc/cbc47b21fae04fa935751137dc2dc4f0.jpg",
+      "width": 1280,
+      "height": 720,
+      "is_deleted": false
+    },
+    {
+      "id": 3230771,
+      "image": "https://media.rawg.io/media/screenshots/9ca/9ca0a44c2d39a0fde00ed9b0c5c73754.jpg",
+      "width": 1280,
+      "height": 720,
+      "is_deleted": false
+    }
+  ]
+}

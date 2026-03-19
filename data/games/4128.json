@@ -1,0 +1,282 @@
+{
+  "details": {
+    "id": 4128,
+    "slug": "ni-no-kuni-wrath-of-the-white-witch",
+    "name": "Ni no Kuni: Wrath of the White Witch",
+    "name_original": "Ni no Kuni: Wrath of the White Witch",
+    "description": "<p>Ni no Kuni: Wrath of the White is a Japanese role-playing game with anime visuals. In addition to the visual style in the game, there are animated sequences from Studio Ghibli, where famous animator Hayao Miyazaki works. The player takes control of Oliver the young boy, who goes on a journey to save his mother.</p>\n<p>The player controls the main character using the third person perspective. The main task is to complete the linear quests for further development of the plot. During a collision with enemies, combat mode is activated, and the gameplay slightly changes. To win it is necessary to use magical abilities and so-called Familiars. Familiars can be tamed and upgraded. After defeating monsters, Oliver gets experience points, a local analog of money and loot. The whole world of the game is available for research right after the game starts, the completion of game’s quests and task further on the story opens up new game mechanics and makes the gameplay more interesting and elaborated.</p>",
+    "metacritic": 84,
+    "metacritic_platforms": [
+      {
+        "metascore": 84,
+        "url": "https://www.metacritic.com/game/switch/ni-no-kuni-wrath-of-the-white-witch",
+        "platform": {
+          "platform": 7,
+          "name": "Nintendo Switch",
+          "slug": "nintendo-switch"
+        }
+      },
+      {
+        "metascore": 85,
+        "url": "https://www.metacritic.com/game/playstation-3/ni-no-kuni-wrath-of-the-white-witch",
+        "platform": {
+          "platform": 16,
+          "name": "PlayStation 3",
+          "slug": "playstation3"
+        }
+      }
+    ],
+    "released": "2011-11-17",
+    "tba": false,
+    "updated": "2026-01-02T07:54:16",
+    "background_image": "https://media.rawg.io/media/games/95e/95ee6bf3accffaf3dc886a8e3ecc24d8.jpg",
+    "background_image_additional": "https://media.rawg.io/media/screenshots/b93/b9377088b4e8f2b7f7f04775c10191ba.jpg",
+    "website": "http://www.ninokuni.jp",
+    "rating": 4.18,
+    "rating_top": 4,
+    "ratings": [
+      {
+        "id": 4,
+        "title": "recommended",
+        "count": 147,
+        "percent": 46.96
+      },
+      {
+        "id": 5,
+        "title": "exceptional",
+        "count": 120,
+        "percent": 38.34
+      },
+      {
+        "id": 3,
+        "title": "meh",
+        "count": 37,
+        "percent": 11.82
+      },
+      {
+        "id": 1,
+        "title": "skip",
+        "count": 9,
+        "percent": 2.88
+      }
+    ],
+    "reactions": {
+      "1": 1,
+      "4": 1,
+      "10": 1,
+      "12": 2
+    },
+    "added": 1634,
+    "added_by_status": {
+      "yet": 135,
+      "owned": 974,
+      "beaten": 190,
+      "toplay": 132,
+      "dropped": 139,
+      "playing": 64
+    },
+    "playtime": 47,
+    "screenshots_count": 82,
+    "movies_count": 0,
+    "creators_count": 6,
+    "achievements_count": 36,
+    "parent_achievements_count": 23,
+    "reddit_url": "",
+    "reddit_name": "",
+    "reddit_description": "",
+    "reddit_logo": "",
+    "reddit_count": 0,
+    "twitch_count": 136,
+    "youtube_count": 865965,
+    "reviews_text_count": 3,
+    "ratings_count": 310,
+    "suggestions_count": 493,
+    "alternative_names": [],
+    "metacritic_url": "https://www.metacritic.com/game/playstation-3/ni-no-kuni-wrath-of-the-white-witch",
+    "parents_count": 0,
+    "additions_count": 1,
+    "game_series_count": 3,
+    "user_game": null,
+    "reviews_count": 313,
+    "saturated_color": "0f0f0f",
+    "dominant_color": "0f0f0f",
+    "parent_platforms": [
+      {
+        "platform": {
+          "id": 2,
+          "name": "PlayStation",
+          "slug": "playstation"
+        }
+      },
+      {
+        "platform": {
+          "id": 7,
+          "name": "Nintendo",
+          "slug": "nintendo"
+        }
+      }
+    ],
+    "platforms": [
+      {
+        "platform": {
+          "id": 7,
+          "name": "Nintendo Switch",
+          "slug": "nintendo-switch",
+          "image": null,
+          "year_end": null,
+          "year_start": null,
+          "games_count": 5765,
+          "image_background": "https://media.rawg.io/media/games/5a4/5a44112251d70a25291cc33757220fce.jpg"
+        },
+        "released_at": "2011-11-17",
+        "requirements": {}
+      },
+      {
+        "platform": {
+          "id": 16,
+          "name": "PlayStation 3",
+          "slug": "playstation3",
+          "image": null,
+          "year_end": null,
+          "year_start": null,
+          "games_count": 3164,
+          "image_background": "https://media.rawg.io/media/games/bc0/bc06a29ceac58652b684deefe7d56099.jpg"
+        },
+        "released_at": "2011-11-17",
+        "requirements": {}
+      }
+    ],
+    "stores": [
+      {
+        "id": 381764,
+        "url": "",
+        "store": {
+          "id": 6,
+          "name": "Nintendo Store",
+          "slug": "nintendo",
+          "domain": "nintendo.com",
+          "games_count": 9150,
+          "image_background": "https://media.rawg.io/media/games/5eb/5eb49eb2fa0738fdb5bacea557b1bc57.jpg"
+        }
+      },
+      {
+        "id": 4450,
+        "url": "",
+        "store": {
+          "id": 3,
+          "name": "PlayStation Store",
+          "slug": "playstation-store",
+          "domain": "store.playstation.com",
+          "games_count": 8075,
+          "image_background": "https://media.rawg.io/media/games/f87/f87457e8347484033cb34cde6101d08d.jpg"
+        }
+      }
+    ],
+    "developers": [
+      {
+        "id": 386,
+        "name": "BANDAI NAMCO Entertainment America",
+        "slug": "bandai-namco-entertainment-america-inc",
+        "games_count": 138,
+        "image_background": "https://media.rawg.io/media/screenshots/104/104603a5c863d6fa6be4d4bb1fed6db6.jpeg"
+      },
+      {
+        "id": 132405,
+        "name": "Level 5",
+        "slug": "level-5-2",
+        "games_count": 68,
+        "image_background": "https://media.rawg.io/media/screenshots/861/8611a2305de71619925ed4b64621925c.jpg"
+      },
+      {
+        "id": 18983,
+        "name": "Studio Ghibli",
+        "slug": "studio-ghibli",
+        "games_count": 1,
+        "image_background": "https://media.rawg.io/media/games/378/3782a088173d95d7ddee51b3b01c52fe.jpg"
+      }
+    ],
+    "genres": [
+      {
+        "id": 5,
+        "name": "RPG",
+        "slug": "role-playing-games-rpg",
+        "games_count": 61936,
+        "image_background": "https://media.rawg.io/media/games/d1a/d1a2e99ade53494c6330a0ed945fe823.jpg"
+      }
+    ],
+    "tags": [
+      {
+        "id": 468,
+        "name": "role-playing",
+        "slug": "role-playing",
+        "language": "eng",
+        "games_count": 1657,
+        "image_background": "https://media.rawg.io/media/games/8ca/8ca40b562a755d6a0e30d48e6c74b178.jpg"
+      },
+      {
+        "id": 37796,
+        "name": "exclusive",
+        "slug": "exclusive",
+        "language": "eng",
+        "games_count": 4491,
+        "image_background": "https://media.rawg.io/media/games/b7d/b7d3f1715fa8381a4e780173a197a615.jpg"
+      }
+    ],
+    "publishers": [
+      {
+        "id": 8352,
+        "name": "Bandai Namco Entertainment",
+        "slug": "bandai-namco-entertainment",
+        "games_count": 616,
+        "image_background": "https://media.rawg.io/media/games/582/582b5518a52f5086d15dde128264b94d.jpg"
+      }
+    ],
+    "esrb_rating": null,
+    "clip": null,
+    "description_raw": "Ni no Kuni: Wrath of the White is a Japanese role-playing game with anime visuals. In addition to the visual style in the game, there are animated sequences from Studio Ghibli, where famous animator Hayao Miyazaki works. The player takes control of Oliver the young boy, who goes on a journey to save his mother.\n\nThe player controls the main character using the third person perspective. The main task is to complete the linear quests for further development of the plot. During a collision with enemies, combat mode is activated, and the gameplay slightly changes. To win it is necessary to use magical abilities and so-called Familiars. Familiars can be tamed and upgraded. After defeating monsters, Oliver gets experience points, a local analog of money and loot. The whole world of the game is available for research right after the game starts, the completion of game’s quests and task further on the story opens up new game mechanics and makes the gameplay more interesting and elaborated."
+  },
+  "screenshots": [
+    {
+      "id": 559483,
+      "image": "https://media.rawg.io/media/screenshots/9fe/9fe353356d0868baa93cdfa4c21aadb4.jpg",
+      "width": 1280,
+      "height": 720,
+      "is_deleted": false
+    },
+    {
+      "id": 559484,
+      "image": "https://media.rawg.io/media/screenshots/395/3951ebd5fa0cb1c28b34881f46e40b6a.jpg",
+      "width": 1280,
+      "height": 720,
+      "is_deleted": false
+    },
+    {
+      "id": 559485,
+      "image": "https://media.rawg.io/media/screenshots/631/631b28c7c13b80df6acb51143dc46e40.jpg",
+      "width": 1280,
+      "height": 720,
+      "is_deleted": false
+    },
+    {
+      "id": 559486,
+      "image": "https://media.rawg.io/media/screenshots/91f/91f72545902608044eed31e6e82be51c.jpg",
+      "width": 1280,
+      "height": 720,
+      "is_deleted": false
+    },
+    {
+      "id": 559487,
+      "image": "https://media.rawg.io/media/screenshots/013/013d70f0d40729748d79433af0ff29de.jpg",
+      "width": 1280,
+      "height": 720,
+      "is_deleted": false
+    },
+    {
+      "id": 559488,
+      "image": "https://media.rawg.io/media/screenshots/600/600b9bb98552448b9f2664c2724c3652.jpg",
+      "width": 1280,
+      "height": 720,
+      "is_deleted": false
+    }
+  ]
+}

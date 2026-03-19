@@ -1,0 +1,221 @@
+{
+  "details": {
+    "id": 50737,
+    "slug": "bayonetta-3",
+    "name": "Bayonetta 3",
+    "name_original": "Bayonetta 3",
+    "description": "<p>Bayonetta struts through multiple locations in an all-new, over-the-top climax action game. Sporting a wicked new ensemble and somehow familiar pigtails, the titular Umbra Witch must face a mysterious evil using her signature guns and time-slowing Witch Time ability. This time, invading manmade bioweapons called Homunculi find themselves in Bayonetta’s crosshairs.</p>\n<p>Tap into Bayonetta’s naughtier side with Demon Masquerade, a new ability that channels the demon linked to her weapon allowing for some exciting action options, not to mention some hair-raising combos. She can also summon her demonic darlings like Gomorrah, Malphas, and Phantasmaraneae during battle, unleashing their demonic powers in the heat of combat and in new, larger-than-life battles where you directly control the action.</p>\n<p>Fight your way through the streets of Tokyo, the mountains of China, and many other locales! Along the way you’ll meet a virtual coven of Bayonettas, each more fabulous than the last. You’ll also slash and slay as Viola, a feisty witch in training who fights with a sword and a capricious companion, the demon Cheshire. Find out what fate awaits Bayonetta, and if this arcane alliance can really save reality!</p>",
+    "metacritic": 86,
+    "metacritic_platforms": [
+      {
+        "metascore": 86,
+        "url": "https://www.metacritic.com/game/switch/bayonetta-3",
+        "platform": {
+          "platform": 7,
+          "name": "Nintendo Switch",
+          "slug": "nintendo-switch"
+        }
+      }
+    ],
+    "released": "2022-10-28",
+    "tba": false,
+    "updated": "2026-03-01T18:14:30",
+    "background_image": "https://media.rawg.io/media/games/c30/c30ac50cb13096f5402250bf666a321c.jpg",
+    "background_image_additional": "https://media.rawg.io/media/screenshots/a93/a937bc44e89368ffb93fe6a7f59c44dc.jpg",
+    "website": "https://www.platinumgames.com/games/bayonetta-3",
+    "rating": 4.24,
+    "rating_top": 5,
+    "ratings": [
+      {
+        "id": 5,
+        "title": "exceptional",
+        "count": 35,
+        "percent": 49.3
+      },
+      {
+        "id": 4,
+        "title": "recommended",
+        "count": 22,
+        "percent": 30.99
+      },
+      {
+        "id": 3,
+        "title": "meh",
+        "count": 12,
+        "percent": 16.9
+      },
+      {
+        "id": 1,
+        "title": "skip",
+        "count": 2,
+        "percent": 2.82
+      }
+    ],
+    "reactions": {},
+    "added": 545,
+    "added_by_status": {
+      "yet": 80,
+      "owned": 43,
+      "beaten": 76,
+      "toplay": 310,
+      "dropped": 15,
+      "playing": 21
+    },
+    "playtime": 0,
+    "screenshots_count": 23,
+    "movies_count": 0,
+    "creators_count": 16,
+    "achievements_count": 0,
+    "parent_achievements_count": 0,
+    "reddit_url": "https://www.reddit.com/r/Bayonetta/",
+    "reddit_name": "",
+    "reddit_description": "",
+    "reddit_logo": "",
+    "reddit_count": 1064,
+    "twitch_count": 5,
+    "youtube_count": 1000000,
+    "reviews_text_count": 1,
+    "ratings_count": 70,
+    "suggestions_count": 595,
+    "alternative_names": [],
+    "metacritic_url": "https://www.metacritic.com/game/switch/bayonetta-3",
+    "parents_count": 0,
+    "additions_count": 0,
+    "game_series_count": 5,
+    "user_game": null,
+    "reviews_count": 71,
+    "saturated_color": "0f0f0f",
+    "dominant_color": "0f0f0f",
+    "parent_platforms": [
+      {
+        "platform": {
+          "id": 7,
+          "name": "Nintendo",
+          "slug": "nintendo"
+        }
+      }
+    ],
+    "platforms": [
+      {
+        "platform": {
+          "id": 7,
+          "name": "Nintendo Switch",
+          "slug": "nintendo-switch",
+          "image": null,
+          "year_end": null,
+          "year_start": null,
+          "games_count": 5765,
+          "image_background": "https://media.rawg.io/media/games/5a4/5a44112251d70a25291cc33757220fce.jpg"
+        },
+        "released_at": "2022-10-28",
+        "requirements": {}
+      }
+    ],
+    "stores": [
+      {
+        "id": 670050,
+        "url": "",
+        "store": {
+          "id": 6,
+          "name": "Nintendo Store",
+          "slug": "nintendo",
+          "domain": "nintendo.com",
+          "games_count": 9150,
+          "image_background": "https://media.rawg.io/media/games/5eb/5eb49eb2fa0738fdb5bacea557b1bc57.jpg"
+        }
+      }
+    ],
+    "developers": [
+      {
+        "id": 10251,
+        "name": "Platinum Games",
+        "slug": "platinumgames",
+        "games_count": 40,
+        "image_background": "https://media.rawg.io/media/screenshots/c73/c735f779c571476e176d770f3ed9a7ca.jpg"
+      }
+    ],
+    "genres": [
+      {
+        "id": 4,
+        "name": "Action",
+        "slug": "action",
+        "games_count": 191508,
+        "image_background": "https://media.rawg.io/media/games/737/737ea5662211d2e0bbd6f5989189e4f1.jpg"
+      }
+    ],
+    "tags": [
+      {
+        "id": 37796,
+        "name": "exclusive",
+        "slug": "exclusive",
+        "language": "eng",
+        "games_count": 4491,
+        "image_background": "https://media.rawg.io/media/games/b7d/b7d3f1715fa8381a4e780173a197a615.jpg"
+      },
+      {
+        "id": 37797,
+        "name": "true exclusive",
+        "slug": "true-exclusive",
+        "language": "eng",
+        "games_count": 3981,
+        "image_background": "https://media.rawg.io/media/games/d30/d30ef0c7dd4878161b1f781e297ae6a0.jpg"
+      }
+    ],
+    "publishers": [
+      {
+        "id": 10681,
+        "name": "Nintendo",
+        "slug": "nintendo",
+        "games_count": 1241,
+        "image_background": "https://media.rawg.io/media/games/3a0/3a0c8e9ed3a711c542218831b893a0fa.jpg"
+      }
+    ],
+    "esrb_rating": null,
+    "clip": null,
+    "description_raw": "Bayonetta struts through multiple locations in an all-new, over-the-top climax action game. Sporting a wicked new ensemble and somehow familiar pigtails, the titular Umbra Witch must face a mysterious evil using her signature guns and time-slowing Witch Time ability. This time, invading manmade bioweapons called Homunculi find themselves in Bayonetta’s crosshairs.\n\nTap into Bayonetta’s naughtier side with Demon Masquerade, a new ability that channels the demon linked to her weapon allowing for some exciting action options, not to mention some hair-raising combos. She can also summon her demonic darlings like Gomorrah, Malphas, and Phantasmaraneae during battle, unleashing their demonic powers in the heat of combat and in new, larger-than-life battles where you directly control the action.\n\nFight your way through the streets of Tokyo, the mountains of China, and many other locales! Along the way you’ll meet a virtual coven of Bayonettas, each more fabulous than the last. You’ll also slash and slay as Viola, a feisty witch in training who fights with a sword and a capricious companion, the demon Cheshire. Find out what fate awaits Bayonetta, and if this arcane alliance can really save reality!"
+  },
+  "screenshots": [
+    {
+      "id": 3036685,
+      "image": "https://media.rawg.io/media/screenshots/97c/97c8f93509436d5fed288247b406e2e1_E0cjjr4.jpg",
+      "width": 1920,
+      "height": 1080,
+      "is_deleted": false
+    },
+    {
+      "id": 3036686,
+      "image": "https://media.rawg.io/media/screenshots/fa3/fa38af1eade91f988c6de8b994dfe37e.jpg",
+      "width": 1920,
+      "height": 1080,
+      "is_deleted": false
+    },
+    {
+      "id": 3036687,
+      "image": "https://media.rawg.io/media/screenshots/4a3/4a3151266e67ca40e3a38b39ab98ec52.jpg",
+      "width": 1600,
+      "height": 900,
+      "is_deleted": false
+    },
+    {
+      "id": 3036689,
+      "image": "https://media.rawg.io/media/screenshots/31f/31f0ff47f4f21a3e83b8f354e38e0a8d.jpg",
+      "width": 1600,
+      "height": 900,
+      "is_deleted": false
+    },
+    {
+      "id": 3036690,
+      "image": "https://media.rawg.io/media/screenshots/d98/d98af0bd19f496faaaec02722221e75c.jpg",
+      "width": 1600,
+      "height": 900,
+      "is_deleted": false
+    },
+    {
+      "id": 3036691,
+      "image": "https://media.rawg.io/media/screenshots/206/20631430a21c28a40ba884157c8be355.jpg",
+      "width": 1600,
+      "height": 900,
+      "is_deleted": false
+    }
+  ]
+}

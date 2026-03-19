@@ -1,0 +1,443 @@
+{
+  "details": {
+    "id": 46667,
+    "slug": "project-octopath-traveler",
+    "name": "Octopath Traveler",
+    "name_original": "Octopath Traveler",
+    "description": "<p>Eight travelers. Eight adventures. Eight roles to play in a new world<br />\nbrought to life by Square Enix. And now, you can enjoy all of them in<br />\nthe new demo. Step into the shoes and live the stories of each of the<br />\neight travelers and freely explore the world of Orsterra. Then, carry<br />\nyour choices and adventure into the main game with save data transfer.</p>\n<p>Use each character’s special abilities in and out of battle. Break<br />\nthrough enemy defenses by discovering and targeting weaknesses. Store<br />\nBoost Points with each turn and then spend them at strategic times to<br />\nstrengthen abilities, chain attacks, or provide aid. Choose the path you<br />\nwish to walk and discover what lies beyond the horizon.</p>\n<p>Explore multiple, distinct RPG adventures in a world created by Square<br />\nEnix</p>\n<p>Choose from eight characters, each with their own distinct story</p>\n<p>Deep, strategic turn-based combat with a layered battle system</p>\n<p>Visuals inspired by retro RPGs, brought to life with modern touches<br />\nand a rousing, dynamic musical score</p>",
+    "metacritic": 82,
+    "metacritic_platforms": [
+      {
+        "metascore": 80,
+        "url": "https://www.metacritic.com/game/pc/octopath-traveler",
+        "platform": {
+          "platform": 4,
+          "name": "PC",
+          "slug": "pc"
+        }
+      },
+      {
+        "metascore": 83,
+        "url": "https://www.metacritic.com/game/switch/octopath-traveler",
+        "platform": {
+          "platform": 7,
+          "name": "Nintendo Switch",
+          "slug": "nintendo-switch"
+        }
+      }
+    ],
+    "released": "2018-07-13",
+    "tba": false,
+    "updated": "2026-01-30T22:19:13",
+    "background_image": "https://media.rawg.io/media/games/e23/e2345c839b323a94b6811705fda5af73.jpg",
+    "background_image_additional": "https://media.rawg.io/media/screenshots/ca3/ca3be7b40f768bd68e0c391a40a1df71.jpg",
+    "website": "",
+    "rating": 3.92,
+    "rating_top": 4,
+    "ratings": [
+      {
+        "id": 4,
+        "title": "recommended",
+        "count": 160,
+        "percent": 49.08
+      },
+      {
+        "id": 5,
+        "title": "exceptional",
+        "count": 87,
+        "percent": 26.69
+      },
+      {
+        "id": 3,
+        "title": "meh",
+        "count": 62,
+        "percent": 19.02
+      },
+      {
+        "id": 1,
+        "title": "skip",
+        "count": 17,
+        "percent": 5.21
+      }
+    ],
+    "reactions": {
+      "12": 2,
+      "16": 1,
+      "18": 1
+    },
+    "added": 1667,
+    "added_by_status": {
+      "yet": 189,
+      "owned": 739,
+      "beaten": 141,
+      "toplay": 309,
+      "dropped": 172,
+      "playing": 117
+    },
+    "playtime": 6,
+    "screenshots_count": 26,
+    "movies_count": 0,
+    "creators_count": 13,
+    "achievements_count": 88,
+    "parent_achievements_count": 88,
+    "reddit_url": "",
+    "reddit_name": "",
+    "reddit_description": "",
+    "reddit_logo": "",
+    "reddit_count": 0,
+    "twitch_count": 0,
+    "youtube_count": 299236,
+    "reviews_text_count": 12,
+    "ratings_count": 314,
+    "suggestions_count": 591,
+    "alternative_names": [],
+    "metacritic_url": "https://www.metacritic.com/game/switch/octopath-traveler",
+    "parents_count": 0,
+    "additions_count": 0,
+    "game_series_count": 1,
+    "user_game": null,
+    "reviews_count": 326,
+    "saturated_color": "0f0f0f",
+    "dominant_color": "0f0f0f",
+    "parent_platforms": [
+      {
+        "platform": {
+          "id": 1,
+          "name": "PC",
+          "slug": "pc"
+        }
+      },
+      {
+        "platform": {
+          "id": 2,
+          "name": "PlayStation",
+          "slug": "playstation"
+        }
+      },
+      {
+        "platform": {
+          "id": 3,
+          "name": "Xbox",
+          "slug": "xbox"
+        }
+      },
+      {
+        "platform": {
+          "id": 7,
+          "name": "Nintendo",
+          "slug": "nintendo"
+        }
+      }
+    ],
+    "platforms": [
+      {
+        "platform": {
+          "id": 4,
+          "name": "PC",
+          "slug": "pc",
+          "image": null,
+          "year_end": null,
+          "year_start": null,
+          "games_count": 560528,
+          "image_background": "https://media.rawg.io/media/games/4be/4be6a6ad0364751a96229c56bf69be59.jpg"
+        },
+        "released_at": "2018-07-13",
+        "requirements": {
+          "minimum": "Minimum:\nRequires a 64-bit processor and operating system\nOS: tbc",
+          "recommended": "Recommended:\nRequires a 64-bit processor and operating system\nOS: tbc"
+        }
+      },
+      {
+        "platform": {
+          "id": 187,
+          "name": "PlayStation 5",
+          "slug": "playstation5",
+          "image": null,
+          "year_end": null,
+          "year_start": 2020,
+          "games_count": 1451,
+          "image_background": "https://media.rawg.io/media/games/909/909974d1c7863c2027241e265fe7011f.jpg"
+        },
+        "released_at": "2018-07-13",
+        "requirements": {}
+      },
+      {
+        "platform": {
+          "id": 18,
+          "name": "PlayStation 4",
+          "slug": "playstation4",
+          "image": null,
+          "year_end": null,
+          "year_start": null,
+          "games_count": 6984,
+          "image_background": "https://media.rawg.io/media/games/f46/f466571d536f2e3ea9e815ad17177501.jpg"
+        },
+        "released_at": "2018-07-13",
+        "requirements": {}
+      },
+      {
+        "platform": {
+          "id": 7,
+          "name": "Nintendo Switch",
+          "slug": "nintendo-switch",
+          "image": null,
+          "year_end": null,
+          "year_start": null,
+          "games_count": 5765,
+          "image_background": "https://media.rawg.io/media/games/5a4/5a44112251d70a25291cc33757220fce.jpg"
+        },
+        "released_at": "2018-07-13",
+        "requirements": {}
+      },
+      {
+        "platform": {
+          "id": 1,
+          "name": "Xbox One",
+          "slug": "xbox-one",
+          "image": null,
+          "year_end": null,
+          "year_start": null,
+          "games_count": 5736,
+          "image_background": "https://media.rawg.io/media/games/20a/20aa03a10cda45239fe22d035c0ebe64.jpg"
+        },
+        "released_at": "2018-07-13",
+        "requirements": {}
+      }
+    ],
+    "stores": [
+      {
+        "id": 38653,
+        "url": "",
+        "store": {
+          "id": 6,
+          "name": "Nintendo Store",
+          "slug": "nintendo",
+          "domain": "nintendo.com",
+          "games_count": 9150,
+          "image_background": "https://media.rawg.io/media/games/5eb/5eb49eb2fa0738fdb5bacea557b1bc57.jpg"
+        }
+      },
+      {
+        "id": 311256,
+        "url": "",
+        "store": {
+          "id": 1,
+          "name": "Steam",
+          "slug": "steam",
+          "domain": "store.steampowered.com",
+          "games_count": 123255,
+          "image_background": "https://media.rawg.io/media/games/587/587588c64afbff80e6f444eb2e46f9da.jpg"
+        }
+      },
+      {
+        "id": 570246,
+        "url": "",
+        "store": {
+          "id": 2,
+          "name": "Xbox Store",
+          "slug": "xbox-store",
+          "domain": "microsoft.com",
+          "games_count": 4938,
+          "image_background": "https://media.rawg.io/media/games/2ba/2bac0e87cf45e5b508f227d281c9252a.jpg"
+        }
+      },
+      {
+        "id": 579981,
+        "url": "",
+        "store": {
+          "id": 11,
+          "name": "Epic Games",
+          "slug": "epic-games",
+          "domain": "epicgames.com",
+          "games_count": 1448,
+          "image_background": "https://media.rawg.io/media/games/b54/b54598d1d5cc31899f4f0a7e3122a7b0.jpg"
+        }
+      }
+    ],
+    "developers": [
+      {
+        "id": 4132,
+        "name": "Square Enix",
+        "slug": "square-enix",
+        "games_count": 374,
+        "image_background": "https://media.rawg.io/media/games/54a/54a3e4c617217848dc43c4de9989fe37.jpg"
+      },
+      {
+        "id": 10964,
+        "name": "Acquire",
+        "slug": "acquire",
+        "games_count": 43,
+        "image_background": "https://media.rawg.io/media/screenshots/791/79105d97cff5e161cc02c4c72be26eff.jpg"
+      }
+    ],
+    "genres": [
+      {
+        "id": 3,
+        "name": "Adventure",
+        "slug": "adventure",
+        "games_count": 151684,
+        "image_background": "https://media.rawg.io/media/games/c50/c5085506fe4b5e20fc7aa5ace842c20b.jpg"
+      },
+      {
+        "id": 5,
+        "name": "RPG",
+        "slug": "role-playing-games-rpg",
+        "games_count": 61936,
+        "image_background": "https://media.rawg.io/media/games/d1a/d1a2e99ade53494c6330a0ed945fe823.jpg"
+      }
+    ],
+    "tags": [
+      {
+        "id": 31,
+        "name": "Singleplayer",
+        "slug": "singleplayer",
+        "language": "eng",
+        "games_count": 250812,
+        "image_background": "https://media.rawg.io/media/games/26d/26d4437715bee60138dab4a7c8c59c92.jpg"
+      },
+      {
+        "id": 40847,
+        "name": "Steam Achievements",
+        "slug": "steam-achievements",
+        "language": "eng",
+        "games_count": 51706,
+        "image_background": "https://media.rawg.io/media/games/49c/49c3dfa4ce2f6f140cc4825868e858cb.jpg"
+      },
+      {
+        "id": 40836,
+        "name": "Full controller support",
+        "slug": "full-controller-support",
+        "language": "eng",
+        "games_count": 24141,
+        "image_background": "https://media.rawg.io/media/games/8d6/8d69eb6c32ed6acfd75f82d532144993.jpg"
+      },
+      {
+        "id": 40849,
+        "name": "Steam Cloud",
+        "slug": "steam-cloud",
+        "language": "eng",
+        "games_count": 25731,
+        "image_background": "https://media.rawg.io/media/games/120/1201a40e4364557b124392ee50317b99.jpg"
+      },
+      {
+        "id": 7808,
+        "name": "steam-trading-cards",
+        "slug": "steam-trading-cards",
+        "language": "eng",
+        "games_count": 7568,
+        "image_background": "https://media.rawg.io/media/games/e6d/e6de699bd788497f4b52e2f41f9698f2.jpg"
+      },
+      {
+        "id": 42,
+        "name": "Great Soundtrack",
+        "slug": "great-soundtrack",
+        "language": "eng",
+        "games_count": 3450,
+        "image_background": "https://media.rawg.io/media/games/587/587588c64afbff80e6f444eb2e46f9da.jpg"
+      },
+      {
+        "id": 24,
+        "name": "RPG",
+        "slug": "rpg",
+        "language": "eng",
+        "games_count": 26621,
+        "image_background": "https://media.rawg.io/media/games/d69/d69810315bd7e226ea2d21f9156af629.jpg"
+      },
+      {
+        "id": 118,
+        "name": "Story Rich",
+        "slug": "story-rich",
+        "language": "eng",
+        "games_count": 27257,
+        "image_background": "https://media.rawg.io/media/games/bc0/bc06a29ceac58652b684deefe7d56099.jpg"
+      },
+      {
+        "id": 468,
+        "name": "role-playing",
+        "slug": "role-playing",
+        "language": "eng",
+        "games_count": 1657,
+        "image_background": "https://media.rawg.io/media/games/8ca/8ca40b562a755d6a0e30d48e6c74b178.jpg"
+      },
+      {
+        "id": 102,
+        "name": "Turn-Based",
+        "slug": "turn-based",
+        "language": "eng",
+        "games_count": 5605,
+        "image_background": "https://media.rawg.io/media/games/d1f/d1f872a48286b6b751670817d5c1e1be.jpg"
+      },
+      {
+        "id": 233,
+        "name": "JRPG",
+        "slug": "jrpg",
+        "language": "eng",
+        "games_count": 5264,
+        "image_background": "https://media.rawg.io/media/games/a59/a5993b9f84944570a31cb6ad08bfe502.jpg"
+      }
+    ],
+    "publishers": [
+      {
+        "id": 308,
+        "name": "Square Enix",
+        "slug": "square-enix",
+        "games_count": 609,
+        "image_background": "https://media.rawg.io/media/games/3d9/3d9bac98d79bcd2d445f829e8d6be902.jpg"
+      },
+      {
+        "id": 10681,
+        "name": "Nintendo",
+        "slug": "nintendo",
+        "games_count": 1241,
+        "image_background": "https://media.rawg.io/media/games/3a0/3a0c8e9ed3a711c542218831b893a0fa.jpg"
+      }
+    ],
+    "esrb_rating": null,
+    "clip": null,
+    "description_raw": "Eight travelers. Eight adventures. Eight roles to play in a new world\r\nbrought to life by Square Enix. And now, you can enjoy all of them in\r\nthe new demo. Step into the shoes and live the stories of each of the\r\neight travelers and freely explore the world of Orsterra. Then, carry\r\nyour choices and adventure into the main game with save data transfer.\r\n\r\nUse each character’s special abilities in and out of battle. Break\r\nthrough enemy defenses by discovering and targeting weaknesses. Store\r\nBoost Points with each turn and then spend them at strategic times to\r\nstrengthen abilities, chain attacks, or provide aid. Choose the path you\r\nwish to walk and discover what lies beyond the horizon.\r\n\r\nExplore multiple, distinct RPG adventures in a world created by Square\r\nEnix\r\n\r\nChoose from eight characters, each with their own distinct story\r\n\r\nDeep, strategic turn-based combat with a layered battle system\r\n\r\nVisuals inspired by retro RPGs, brought to life with modern touches\r\nand a rousing, dynamic musical score"
+  },
+  "screenshots": [
+    {
+      "id": 1898298,
+      "image": "https://media.rawg.io/media/screenshots/58d/58d9675a1900e2393e49d71ff62146f7.jpg",
+      "width": 1920,
+      "height": 1080,
+      "is_deleted": false
+    },
+    {
+      "id": 1898299,
+      "image": "https://media.rawg.io/media/screenshots/1bd/1bdbfcb03e7681d89098eac5cb7028ee.jpg",
+      "width": 1920,
+      "height": 1080,
+      "is_deleted": false
+    },
+    {
+      "id": 1898300,
+      "image": "https://media.rawg.io/media/screenshots/c55/c55be20356af61a27aa2eadaf60c3543.jpg",
+      "width": 1920,
+      "height": 1080,
+      "is_deleted": false
+    },
+    {
+      "id": 1898301,
+      "image": "https://media.rawg.io/media/screenshots/9b3/9b3c22df94750f0616c1a485da08954d.jpg",
+      "width": 1920,
+      "height": 1080,
+      "is_deleted": false
+    },
+    {
+      "id": 1898302,
+      "image": "https://media.rawg.io/media/screenshots/03f/03f6f547bded2e04efdf24d4c64bf05d.jpg",
+      "width": 1920,
+      "height": 1080,
+      "is_deleted": false
+    },
+    {
+      "id": 1898303,
+      "image": "https://media.rawg.io/media/screenshots/9c3/9c37b0e29e9c89a661d5b173df0991d2.jpg",
+      "width": 1920,
+      "height": 1080,
+      "is_deleted": false
+    }
+  ]
+}

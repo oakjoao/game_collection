@@ -1,0 +1,398 @@
+{
+  "details": {
+    "id": 3763,
+    "slug": "tales-of-symphonia",
+    "name": "Tales of Symphonia (2014)",
+    "name_original": "Tales of Symphonia (2014)",
+    "description": "<p>THE EPIC BATTLE FOR SURVIVAL<br />\nIn a dying world, legend has it that a Chosen One will one day rise from amongst the people and the land will be reborn. The line between good and evil blurs in this epic adventure where the fate of two interlocked worlds hangs in the balance.<br />\nAN EPIC ADVENTURE – Over 80 hours of gameplay in this epic, emotionally charged storyline.<br />\nREAL-TIME 3D BATTLE SYSTEM – Experience the fierce, action-packed battle system. Combine hundreds of special attacks and magic spells.<br />\nA CLASSIC ART STYLE LIVES ON – Become absorbed in endearing cel-shaded characters designed by renowned artist Kosuke Fujishima<br />\nFIRST TIME ON STEAM – Based on the PlayStation®3 port of the original GameCube game, this RPG classic is finally available for PC.</p>",
+    "metacritic": null,
+    "metacritic_platforms": [],
+    "released": "2014-02-25",
+    "tba": false,
+    "updated": "2026-01-02T07:57:27",
+    "background_image": "https://media.rawg.io/media/games/459/459a3bd05e0f59fce631897e3d6f2f6e.jpg",
+    "background_image_additional": "https://media.rawg.io/media/screenshots/dbb/dbbadf333dd8973e484e38be2af4e5e5.jpg",
+    "website": "",
+    "rating": 4.02,
+    "rating_top": 4,
+    "ratings": [
+      {
+        "id": 4,
+        "title": "recommended",
+        "count": 58,
+        "percent": 47.93
+      },
+      {
+        "id": 5,
+        "title": "exceptional",
+        "count": 43,
+        "percent": 35.54
+      },
+      {
+        "id": 3,
+        "title": "meh",
+        "count": 10,
+        "percent": 8.26
+      },
+      {
+        "id": 1,
+        "title": "skip",
+        "count": 10,
+        "percent": 8.26
+      }
+    ],
+    "reactions": {
+      "1": 1,
+      "3": 1,
+      "4": 1,
+      "8": 1,
+      "9": 2,
+      "11": 1,
+      "12": 2
+    },
+    "added": 1408,
+    "added_by_status": {
+      "yet": 116,
+      "owned": 1118,
+      "beaten": 72,
+      "toplay": 33,
+      "dropped": 46,
+      "playing": 23
+    },
+    "playtime": 4,
+    "screenshots_count": 10,
+    "movies_count": 0,
+    "creators_count": 11,
+    "achievements_count": 57,
+    "parent_achievements_count": 19,
+    "reddit_url": "",
+    "reddit_name": "",
+    "reddit_description": "",
+    "reddit_logo": "",
+    "reddit_count": 0,
+    "twitch_count": 185,
+    "youtube_count": 343393,
+    "reviews_text_count": 3,
+    "ratings_count": 118,
+    "suggestions_count": 534,
+    "alternative_names": [],
+    "metacritic_url": "https://www.metacritic.com/game/gamecube/tales-of-symphonia",
+    "parents_count": 1,
+    "additions_count": 0,
+    "game_series_count": 0,
+    "user_game": null,
+    "reviews_count": 121,
+    "saturated_color": "0f0f0f",
+    "dominant_color": "0f0f0f",
+    "parent_platforms": [
+      {
+        "platform": {
+          "id": 1,
+          "name": "PC",
+          "slug": "pc"
+        }
+      },
+      {
+        "platform": {
+          "id": 2,
+          "name": "PlayStation",
+          "slug": "playstation"
+        }
+      }
+    ],
+    "platforms": [
+      {
+        "platform": {
+          "id": 4,
+          "name": "PC",
+          "slug": "pc",
+          "image": null,
+          "year_end": null,
+          "year_start": null,
+          "games_count": 560528,
+          "image_background": "https://media.rawg.io/media/games/4be/4be6a6ad0364751a96229c56bf69be59.jpg"
+        },
+        "released_at": "2014-02-25",
+        "requirements": {
+          "minimum": "Minimum:\nOS: Windows Vista 32/64\nProcessor: Intel Core 2 Duo 2.4Ghz / AMD Athlon 64 X2 5200+, 2.6GHz\nMemory: 1 GB RAM\nGraphics: Nvidia GeForce 8800GT / ATI Radeon HD 4830\nDirectX: Version 9.0\nStorage: 7 GB available space\nAdditional Notes: Gamepad support",
+          "recommended": "Recommended:\nOS: Windows 7 (x64) / Windows 8 (x64)\nProcessor: Intel Core i3-530, 2.93 GHz / AMD Phenom II X4 940, 3.0GHz\nMemory: 4 GB RAM\nGraphics: Nvidia GeForce GTX 560 Ti / AMD Radeon HD 7850\nStorage: 7 GB available space\nAdditional Notes: Gamepad support"
+        }
+      },
+      {
+        "platform": {
+          "id": 16,
+          "name": "PlayStation 3",
+          "slug": "playstation3",
+          "image": null,
+          "year_end": null,
+          "year_start": null,
+          "games_count": 3164,
+          "image_background": "https://media.rawg.io/media/games/bc0/bc06a29ceac58652b684deefe7d56099.jpg"
+        },
+        "released_at": "2014-02-25",
+        "requirements": {}
+      }
+    ],
+    "stores": [
+      {
+        "id": 15599,
+        "url": "",
+        "store": {
+          "id": 1,
+          "name": "Steam",
+          "slug": "steam",
+          "domain": "store.steampowered.com",
+          "games_count": 123255,
+          "image_background": "https://media.rawg.io/media/games/587/587588c64afbff80e6f444eb2e46f9da.jpg"
+        }
+      }
+    ],
+    "developers": [
+      {
+        "id": 26425,
+        "name": "Bandai Namco Entertainment",
+        "slug": "bandai-namco-entertainment",
+        "games_count": 292,
+        "image_background": "https://media.rawg.io/media/screenshots/ef2/ef244c1bdc250dc5c82c56846675b90b.jpg"
+      }
+    ],
+    "genres": [
+      {
+        "id": 3,
+        "name": "Adventure",
+        "slug": "adventure",
+        "games_count": 151684,
+        "image_background": "https://media.rawg.io/media/games/c50/c5085506fe4b5e20fc7aa5ace842c20b.jpg"
+      },
+      {
+        "id": 5,
+        "name": "RPG",
+        "slug": "role-playing-games-rpg",
+        "games_count": 61936,
+        "image_background": "https://media.rawg.io/media/games/d1a/d1a2e99ade53494c6330a0ed945fe823.jpg"
+      }
+    ],
+    "tags": [
+      {
+        "id": 31,
+        "name": "Singleplayer",
+        "slug": "singleplayer",
+        "language": "eng",
+        "games_count": 250812,
+        "image_background": "https://media.rawg.io/media/games/26d/26d4437715bee60138dab4a7c8c59c92.jpg"
+      },
+      {
+        "id": 40847,
+        "name": "Steam Achievements",
+        "slug": "steam-achievements",
+        "language": "eng",
+        "games_count": 51706,
+        "image_background": "https://media.rawg.io/media/games/49c/49c3dfa4ce2f6f140cc4825868e858cb.jpg"
+      },
+      {
+        "id": 40836,
+        "name": "Full controller support",
+        "slug": "full-controller-support",
+        "language": "eng",
+        "games_count": 24141,
+        "image_background": "https://media.rawg.io/media/games/8d6/8d69eb6c32ed6acfd75f82d532144993.jpg"
+      },
+      {
+        "id": 40849,
+        "name": "Steam Cloud",
+        "slug": "steam-cloud",
+        "language": "eng",
+        "games_count": 25731,
+        "image_background": "https://media.rawg.io/media/games/120/1201a40e4364557b124392ee50317b99.jpg"
+      },
+      {
+        "id": 13,
+        "name": "Atmospheric",
+        "slug": "atmospheric",
+        "language": "eng",
+        "games_count": 39705,
+        "image_background": "https://media.rawg.io/media/games/d82/d82990b9c67ba0d2d09d4e6fa88885a7.jpg"
+      },
+      {
+        "id": 7808,
+        "name": "steam-trading-cards",
+        "slug": "steam-trading-cards",
+        "language": "eng",
+        "games_count": 7568,
+        "image_background": "https://media.rawg.io/media/games/e6d/e6de699bd788497f4b52e2f41f9698f2.jpg"
+      },
+      {
+        "id": 42,
+        "name": "Great Soundtrack",
+        "slug": "great-soundtrack",
+        "language": "eng",
+        "games_count": 3450,
+        "image_background": "https://media.rawg.io/media/games/587/587588c64afbff80e6f444eb2e46f9da.jpg"
+      },
+      {
+        "id": 24,
+        "name": "RPG",
+        "slug": "rpg",
+        "language": "eng",
+        "games_count": 26621,
+        "image_background": "https://media.rawg.io/media/games/d69/d69810315bd7e226ea2d21f9156af629.jpg"
+      },
+      {
+        "id": 18,
+        "name": "Co-op",
+        "slug": "co-op",
+        "language": "eng",
+        "games_count": 14390,
+        "image_background": "https://media.rawg.io/media/games/49c/49c3dfa4ce2f6f140cc4825868e858cb.jpg"
+      },
+      {
+        "id": 118,
+        "name": "Story Rich",
+        "slug": "story-rich",
+        "language": "eng",
+        "games_count": 27257,
+        "image_background": "https://media.rawg.io/media/games/bc0/bc06a29ceac58652b684deefe7d56099.jpg"
+      },
+      {
+        "id": 36,
+        "name": "Open World",
+        "slug": "open-world",
+        "language": "eng",
+        "games_count": 9265,
+        "image_background": "https://media.rawg.io/media/games/20a/20aa03a10cda45239fe22d035c0ebe64.jpg"
+      },
+      {
+        "id": 411,
+        "name": "cooperative",
+        "slug": "cooperative",
+        "language": "eng",
+        "games_count": 6587,
+        "image_background": "https://media.rawg.io/media/games/4a0/4a0a1316102366260e6f38fd2a9cfdce.jpg"
+      },
+      {
+        "id": 64,
+        "name": "Fantasy",
+        "slug": "fantasy",
+        "language": "eng",
+        "games_count": 32956,
+        "image_background": "https://media.rawg.io/media/games/aa3/aa36ba4b486a03ddfaef274fb4f5afd4.jpg"
+      },
+      {
+        "id": 193,
+        "name": "Classic",
+        "slug": "classic",
+        "language": "eng",
+        "games_count": 1839,
+        "image_background": "https://media.rawg.io/media/games/9c4/9c47f320eb73c9a02d462e12f6206b26.jpg"
+      },
+      {
+        "id": 75,
+        "name": "Local Co-Op",
+        "slug": "local-co-op",
+        "language": "eng",
+        "games_count": 6079,
+        "image_background": "https://media.rawg.io/media/games/c6b/c6bfece1daf8d06bc0a60632ac78e5bf.jpg"
+      },
+      {
+        "id": 97,
+        "name": "Action RPG",
+        "slug": "action-rpg",
+        "language": "eng",
+        "games_count": 8693,
+        "image_background": "https://media.rawg.io/media/games/af7/af7a831001c5c32c46e950cc883b8cb7.jpg"
+      },
+      {
+        "id": 72,
+        "name": "Local Multiplayer",
+        "slug": "local-multiplayer",
+        "language": "eng",
+        "games_count": 14033,
+        "image_background": "https://media.rawg.io/media/games/e0f/e0f05a97ff926acf4c8f43e0849b6832.jpg"
+      },
+      {
+        "id": 134,
+        "name": "Anime",
+        "slug": "anime",
+        "language": "eng",
+        "games_count": 17057,
+        "image_background": "https://media.rawg.io/media/games/3b5/3b56220d6038b8b1ad66c4d05ef95215.jpg"
+      },
+      {
+        "id": 5,
+        "name": "Replay Value",
+        "slug": "replay-value",
+        "language": "eng",
+        "games_count": 2259,
+        "image_background": "https://media.rawg.io/media/games/6d3/6d33014a4ed48a19c30a77ead5a0f62e.jpg"
+      },
+      {
+        "id": 233,
+        "name": "JRPG",
+        "slug": "jrpg",
+        "language": "eng",
+        "games_count": 5264,
+        "image_background": "https://media.rawg.io/media/games/a59/a5993b9f84944570a31cb6ad08bfe502.jpg"
+      }
+    ],
+    "publishers": [
+      {
+        "id": 8352,
+        "name": "Bandai Namco Entertainment",
+        "slug": "bandai-namco-entertainment",
+        "games_count": 616,
+        "image_background": "https://media.rawg.io/media/games/582/582b5518a52f5086d15dde128264b94d.jpg"
+      }
+    ],
+    "esrb_rating": {
+      "id": 2,
+      "name": "Everyone 10+",
+      "slug": "everyone-10-plus"
+    },
+    "clip": null,
+    "description_raw": "THE EPIC BATTLE FOR SURVIVAL\nIn a dying world, legend has it that a Chosen One will one day rise from amongst the people and the land will be reborn. The line between good and evil blurs in this epic adventure where the fate of two interlocked worlds hangs in the balance.\nAN EPIC ADVENTURE – Over 80 hours of gameplay in this epic, emotionally charged storyline.\nREAL-TIME 3D BATTLE SYSTEM – Experience the fierce, action-packed battle system. Combine hundreds of special attacks and magic spells.\nA CLASSIC ART STYLE LIVES ON – Become absorbed in endearing cel-shaded characters designed by renowned artist Kosuke Fujishima\nFIRST TIME ON STEAM – Based on the PlayStation®3 port of the original GameCube game, this RPG classic is finally available for PC."
+  },
+  "screenshots": [
+    {
+      "id": 123020,
+      "image": "https://media.rawg.io/media/screenshots/a20/a20727524722e1b06e5fd57c564eb215.jpg",
+      "width": 1280,
+      "height": 720,
+      "is_deleted": false
+    },
+    {
+      "id": 123021,
+      "image": "https://media.rawg.io/media/screenshots/a35/a351d7b843f342b7fef203f8efceec2a.jpg",
+      "width": 1280,
+      "height": 720,
+      "is_deleted": false
+    },
+    {
+      "id": 123022,
+      "image": "https://media.rawg.io/media/screenshots/828/828cc700fed6f160b905e9e1fef0e1cd.jpg",
+      "width": 1280,
+      "height": 720,
+      "is_deleted": false
+    },
+    {
+      "id": 123023,
+      "image": "https://media.rawg.io/media/screenshots/f34/f348f09881023c81327cca07141b136d.jpg",
+      "width": 1280,
+      "height": 720,
+      "is_deleted": false
+    },
+    {
+      "id": 123024,
+      "image": "https://media.rawg.io/media/screenshots/3b5/3b591bc255f759752275c848480b263e.jpg",
+      "width": 1280,
+      "height": 720,
+      "is_deleted": false
+    },
+    {
+      "id": 123025,
+      "image": "https://media.rawg.io/media/screenshots/a25/a250a85893e1f5061bbe6cbb922e07cb.jpg",
+      "width": 1280,
+      "height": 720,
+      "is_deleted": false
+    }
+  ]
+}

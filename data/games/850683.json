@@ -1,0 +1,269 @@
+{
+  "details": {
+    "id": 850683,
+    "slug": "octopath-traveller-2",
+    "name": "Octopath Traveler 2",
+    "name_original": "Octopath Traveler 2",
+    "description": "<p>This game is a brand-new entry in the OCTOPATH TRAVELER series, the first installment of which was initially released in 2018 and sold over 3 million copies worldwide. It takes the series’ HD-2D graphics, a fusion of retro pixel art and 3DCG, to even greater heights.<br />\nIn the world of Solistia, eight new travelers venture forth into an exciting new era.<br />\nWhere will you go? What will you do? Whose tale will you bring to life?<br />\nEvery path is yours to take.<br />\nEmbark on an adventure all your own.</p>\n<p>■Selling Points<br />\n1. Begin your adventure as one of eight new travelers, each with their own origins, motivations, and unique skills.</p>\n<ol>\n<li>\n<p>The series’ HD-2D graphics, a fusion of retro pixel art and 3DCG, have reached even greater heights.</p>\n</li>\n<li>\n<p>The story takes place in Solistia, where diverse cultures thrive from east to west and the industries of the new era flourish. You can sail the seas and explore every corner of a world that changes from day to night.</p>\n</li>\n<li>\n<p>Each traveler has a unique set of Path Actions they can use to battle townspeople, obtain items, take others along in their travels, and more. Where will you go? What will you do? Every path is yours to take.</p>\n</li>\n<li>\n<p>Familiar mechanics from the original game have been preserved, like the freedom to develop your travelers’ jobs and skills, as well as the Break and Boost system that made battles so exhilarating. New mechanics have also been added.</p>\n</li>\n</ol>",
+    "metacritic": null,
+    "metacritic_platforms": [],
+    "released": "2023-02-24",
+    "tba": false,
+    "updated": "2025-12-19T18:32:49",
+    "background_image": "https://media.rawg.io/media/games/2d1/2d1439e74ece0eae3f571211410646dc.jpg",
+    "background_image_additional": "https://media.rawg.io/media/screenshots/370/370611fa64ac90fd0b5b9ba7ab1f18b9.jpg",
+    "website": "",
+    "rating": 4.41,
+    "rating_top": 5,
+    "ratings": [
+      {
+        "id": 5,
+        "title": "exceptional",
+        "count": 15,
+        "percent": 55.56
+      },
+      {
+        "id": 4,
+        "title": "recommended",
+        "count": 10,
+        "percent": 37.04
+      },
+      {
+        "id": 3,
+        "title": "meh",
+        "count": 1,
+        "percent": 3.7
+      },
+      {
+        "id": 1,
+        "title": "skip",
+        "count": 1,
+        "percent": 3.7
+      }
+    ],
+    "reactions": {
+      "7": 1
+    },
+    "added": 302,
+    "added_by_status": {
+      "yet": 48,
+      "owned": 48,
+      "beaten": 26,
+      "toplay": 155,
+      "dropped": 14,
+      "playing": 11
+    },
+    "playtime": 0,
+    "screenshots_count": 5,
+    "movies_count": 0,
+    "creators_count": 3,
+    "achievements_count": 0,
+    "parent_achievements_count": 0,
+    "reddit_url": "",
+    "reddit_name": "",
+    "reddit_description": "",
+    "reddit_logo": "",
+    "reddit_count": 0,
+    "twitch_count": 0,
+    "youtube_count": 0,
+    "reviews_text_count": 2,
+    "ratings_count": 25,
+    "suggestions_count": 284,
+    "alternative_names": [],
+    "metacritic_url": "",
+    "parents_count": 0,
+    "additions_count": 0,
+    "game_series_count": 1,
+    "user_game": null,
+    "reviews_count": 27,
+    "saturated_color": "0f0f0f",
+    "dominant_color": "0f0f0f",
+    "parent_platforms": [
+      {
+        "platform": {
+          "id": 1,
+          "name": "PC",
+          "slug": "pc"
+        }
+      },
+      {
+        "platform": {
+          "id": 2,
+          "name": "PlayStation",
+          "slug": "playstation"
+        }
+      },
+      {
+        "platform": {
+          "id": 7,
+          "name": "Nintendo",
+          "slug": "nintendo"
+        }
+      }
+    ],
+    "platforms": [
+      {
+        "platform": {
+          "id": 187,
+          "name": "PlayStation 5",
+          "slug": "playstation5",
+          "image": null,
+          "year_end": null,
+          "year_start": 2020,
+          "games_count": 1451,
+          "image_background": "https://media.rawg.io/media/games/909/909974d1c7863c2027241e265fe7011f.jpg"
+        },
+        "released_at": "2023-02-24",
+        "requirements": {}
+      },
+      {
+        "platform": {
+          "id": 18,
+          "name": "PlayStation 4",
+          "slug": "playstation4",
+          "image": null,
+          "year_end": null,
+          "year_start": null,
+          "games_count": 6984,
+          "image_background": "https://media.rawg.io/media/games/f46/f466571d536f2e3ea9e815ad17177501.jpg"
+        },
+        "released_at": "2023-02-24",
+        "requirements": {}
+      },
+      {
+        "platform": {
+          "id": 4,
+          "name": "PC",
+          "slug": "pc",
+          "image": null,
+          "year_end": null,
+          "year_start": null,
+          "games_count": 560528,
+          "image_background": "https://media.rawg.io/media/games/4be/4be6a6ad0364751a96229c56bf69be59.jpg"
+        },
+        "released_at": "2023-02-24",
+        "requirements": {}
+      },
+      {
+        "platform": {
+          "id": 7,
+          "name": "Nintendo Switch",
+          "slug": "nintendo-switch",
+          "image": null,
+          "year_end": null,
+          "year_start": null,
+          "games_count": 5765,
+          "image_background": "https://media.rawg.io/media/games/5a4/5a44112251d70a25291cc33757220fce.jpg"
+        },
+        "released_at": "2023-02-24",
+        "requirements": {}
+      }
+    ],
+    "stores": [
+      {
+        "id": 868780,
+        "url": "",
+        "store": {
+          "id": 3,
+          "name": "PlayStation Store",
+          "slug": "playstation-store",
+          "domain": "store.playstation.com",
+          "games_count": 8075,
+          "image_background": "https://media.rawg.io/media/games/f87/f87457e8347484033cb34cde6101d08d.jpg"
+        }
+      },
+      {
+        "id": 868779,
+        "url": "",
+        "store": {
+          "id": 1,
+          "name": "Steam",
+          "slug": "steam",
+          "domain": "store.steampowered.com",
+          "games_count": 123255,
+          "image_background": "https://media.rawg.io/media/games/587/587588c64afbff80e6f444eb2e46f9da.jpg"
+        }
+      },
+      {
+        "id": 847885,
+        "url": "",
+        "store": {
+          "id": 6,
+          "name": "Nintendo Store",
+          "slug": "nintendo",
+          "domain": "nintendo.com",
+          "games_count": 9150,
+          "image_background": "https://media.rawg.io/media/games/5eb/5eb49eb2fa0738fdb5bacea557b1bc57.jpg"
+        }
+      }
+    ],
+    "developers": [
+      {
+        "id": 4132,
+        "name": "Square Enix",
+        "slug": "square-enix",
+        "games_count": 374,
+        "image_background": "https://media.rawg.io/media/games/54a/54a3e4c617217848dc43c4de9989fe37.jpg"
+      }
+    ],
+    "genres": [
+      {
+        "id": 10,
+        "name": "Strategy",
+        "slug": "strategy",
+        "games_count": 62382,
+        "image_background": "https://media.rawg.io/media/games/0fa/0fadc446fd1e9ae9e23a32793d9a5406.jpg"
+      }
+    ],
+    "tags": [],
+    "publishers": [
+      {
+        "id": 308,
+        "name": "Square Enix",
+        "slug": "square-enix",
+        "games_count": 609,
+        "image_background": "https://media.rawg.io/media/games/3d9/3d9bac98d79bcd2d445f829e8d6be902.jpg"
+      }
+    ],
+    "esrb_rating": null,
+    "clip": null,
+    "description_raw": "This game is a brand-new entry in the OCTOPATH TRAVELER series, the first installment of which was initially released in 2018 and sold over 3 million copies worldwide. It takes the series’ HD-2D graphics, a fusion of retro pixel art and 3DCG, to even greater heights.\nIn the world of Solistia, eight new travelers venture forth into an exciting new era.\nWhere will you go? What will you do? Whose tale will you bring to life?\nEvery path is yours to take.\nEmbark on an adventure all your own.\n\n■Selling Points\n1. Begin your adventure as one of eight new travelers, each with their own origins, motivations, and unique skills.\n\n2. The series’ HD-2D graphics, a fusion of retro pixel art and 3DCG, have reached even greater heights.\n\n3. The story takes place in Solistia, where diverse cultures thrive from east to west and the industries of the new era flourish. You can sail the seas and explore every corner of a world that changes from day to night.\n\n4. Each traveler has a unique set of Path Actions they can use to battle townspeople, obtain items, take others along in their travels, and more. Where will you go? What will you do? Every path is yours to take.\n\n5. Familiar mechanics from the original game have been preserved, like the freedom to develop your travelers’ jobs and skills, as well as the Break and Boost system that made battles so exhilarating. New mechanics have also been added."
+  },
+  "screenshots": [
+    {
+      "id": 3563816,
+      "image": "https://media.rawg.io/media/screenshots/b12/b12e399abe01d45b7aa302ae38a33d86.jpg",
+      "width": 1253,
+      "height": 701,
+      "is_deleted": false
+    },
+    {
+      "id": 3563817,
+      "image": "https://media.rawg.io/media/screenshots/1d2/1d23cb922ae5546220d64cc8eb9cf568.jpg",
+      "width": 1251,
+      "height": 701,
+      "is_deleted": false
+    },
+    {
+      "id": 3563818,
+      "image": "https://media.rawg.io/media/screenshots/130/1304891450deefb75216327b5707a9cf.jpg",
+      "width": 1251,
+      "height": 701,
+      "is_deleted": false
+    },
+    {
+      "id": 3563819,
+      "image": "https://media.rawg.io/media/screenshots/370/370611fa64ac90fd0b5b9ba7ab1f18b9.jpg",
+      "width": 1247,
+      "height": 695,
+      "is_deleted": false
+    },
+    {
+      "id": 3803985,
+      "image": "https://media.rawg.io/media/screenshots/c00/c00f85604456b28327d0aaa798fee4e9.jpeg",
+      "width": 3840,
+      "height": 2160,
+      "is_deleted": false
+    }
+  ]
+}

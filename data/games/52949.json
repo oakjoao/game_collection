@@ -1,0 +1,385 @@
+{
+  "details": {
+    "id": 52949,
+    "slug": "final-fantasy-tactics",
+    "name": "Final Fantasy Tactics",
+    "name_original": "Final Fantasy Tactics",
+    "description": "<p>Final Fantasy Tactics (ファイナルファンタジータクティクス, Fainaru Fantajī Takutikusu) is a tactical role-playing game developed and published by Squaresoft (later changed to Square and now Square Enix) for the Sony PlayStation video game console. It is the first game of the Final Fantasy Tactics series and was released in Japan in June 1997 and in the United States in January 1998. The game combines thematic elements of the Final Fantasy video game series with a game engine and battle system unlike those previously seen in the franchise. In contrast to other 32-bit era Final Fantasy titles, Final Fantasy Tactics uses a 3D, isometric, rotatable playing field, with bitmap sprite characters.<br />\nFinal Fantasy Tactics is set in a fictional medieval-inspired kingdom called Ivalice, created by Yasumi Matsuno. The game&#39;s story follows Ramza Beoulve, a highborn cadet who finds himself thrust into the middle of an intricate military conflict known as The Lion War, where two opposing noble factions are coveting the throne of the kingdom. As the story progresses, Ramza and his allies discover a sinister plot behind the war.<br />\nA spin-off title, Final Fantasy Tactics Advance, was released for the Nintendo Game Boy Advance in 2003 and a sequel to that title, Final Fantasy Tactics A2: Grimoire of the Rift, was released in 2007 for the Nintendo DS. Various other games have also utilized the Ivalice setting, including Vagrant Story for the PlayStation and Final Fantasy XII for the PlayStation 2. An enhanced port of Final Fantasy Tactics, Final Fantasy Tactics: The War of the Lions, was released in 2007 as part of Square Enix&#39;s Ivalice Alliance project. Overall, the game received positive reviews from gaming magazines and websites and has become a cult classic since its release.</p>",
+    "metacritic": 83,
+    "metacritic_platforms": [
+      {
+        "metascore": 83,
+        "url": "https://www.metacritic.com/game/playstation/final-fantasy-tactics",
+        "platform": {
+          "platform": 27,
+          "name": "PlayStation",
+          "slug": "playstation1"
+        }
+      }
+    ],
+    "released": "1997-06-28",
+    "tba": false,
+    "updated": "2026-01-05T15:50:04",
+    "background_image": "https://media.rawg.io/media/games/30c/30c067f9a6736000c8faf2efe4952a9b.jpg",
+    "background_image_additional": "https://media.rawg.io/media/screenshots/6c1/6c123db34f707030f34139341e506c0c.jpg",
+    "website": "",
+    "rating": 4.36,
+    "rating_top": 5,
+    "ratings": [
+      {
+        "id": 5,
+        "title": "exceptional",
+        "count": 74,
+        "percent": 56.92
+      },
+      {
+        "id": 4,
+        "title": "recommended",
+        "count": 39,
+        "percent": 30
+      },
+      {
+        "id": 3,
+        "title": "meh",
+        "count": 12,
+        "percent": 9.23
+      },
+      {
+        "id": 1,
+        "title": "skip",
+        "count": 5,
+        "percent": 3.85
+      }
+    ],
+    "reactions": {},
+    "added": 356,
+    "added_by_status": {
+      "yet": 50,
+      "owned": 74,
+      "beaten": 110,
+      "toplay": 61,
+      "dropped": 55,
+      "playing": 6
+    },
+    "playtime": 0,
+    "screenshots_count": 8,
+    "movies_count": 0,
+    "creators_count": 9,
+    "achievements_count": 0,
+    "parent_achievements_count": 0,
+    "reddit_url": "",
+    "reddit_name": "",
+    "reddit_description": "",
+    "reddit_logo": "",
+    "reddit_count": 0,
+    "twitch_count": 0,
+    "youtube_count": 5758,
+    "reviews_text_count": 1,
+    "ratings_count": 129,
+    "suggestions_count": 345,
+    "alternative_names": [
+      "Final Fantasy Tactics: Shishi Sensou"
+    ],
+    "metacritic_url": "https://www.metacritic.com/game/playstation/final-fantasy-tactics",
+    "parents_count": 0,
+    "additions_count": 2,
+    "game_series_count": 27,
+    "user_game": null,
+    "reviews_count": 130,
+    "saturated_color": "0f0f0f",
+    "dominant_color": "0f0f0f",
+    "parent_platforms": [
+      {
+        "platform": {
+          "id": 2,
+          "name": "PlayStation",
+          "slug": "playstation"
+        }
+      },
+      {
+        "platform": {
+          "id": 4,
+          "name": "iOS",
+          "slug": "ios"
+        }
+      },
+      {
+        "platform": {
+          "id": 8,
+          "name": "Android",
+          "slug": "android"
+        }
+      }
+    ],
+    "platforms": [
+      {
+        "platform": {
+          "id": 27,
+          "name": "PlayStation",
+          "slug": "playstation1",
+          "image": null,
+          "year_end": null,
+          "year_start": null,
+          "games_count": 1684,
+          "image_background": "https://media.rawg.io/media/games/786/786f9a212646c793ccbad196cba2cf36.jpg"
+        },
+        "released_at": "1997-06-28",
+        "requirements": {}
+      },
+      {
+        "platform": {
+          "id": 21,
+          "name": "Android",
+          "slug": "android",
+          "image": null,
+          "year_end": null,
+          "year_start": null,
+          "games_count": 52510,
+          "image_background": "https://media.rawg.io/media/games/e74/e74458058b35e01c1ae3feeb39a3f724.jpg"
+        },
+        "released_at": "1997-06-28",
+        "requirements": {}
+      },
+      {
+        "platform": {
+          "id": 3,
+          "name": "iOS",
+          "slug": "ios",
+          "image": null,
+          "year_end": null,
+          "year_start": null,
+          "games_count": 77433,
+          "image_background": "https://media.rawg.io/media/games/f90/f90ee1a4239247a822771c40488e68c5.jpg"
+        },
+        "released_at": "1997-06-28",
+        "requirements": {}
+      }
+    ],
+    "stores": [
+      {
+        "id": 392863,
+        "url": "",
+        "store": {
+          "id": 4,
+          "name": "App Store",
+          "slug": "apple-appstore",
+          "domain": "apps.apple.com",
+          "games_count": 75590,
+          "image_background": "https://media.rawg.io/media/games/13a/13a528ac9cf48bbb6be5d35fe029336d.jpg"
+        }
+      },
+      {
+        "id": 392864,
+        "url": "",
+        "store": {
+          "id": 3,
+          "name": "PlayStation Store",
+          "slug": "playstation-store",
+          "domain": "store.playstation.com",
+          "games_count": 8075,
+          "image_background": "https://media.rawg.io/media/games/f87/f87457e8347484033cb34cde6101d08d.jpg"
+        }
+      }
+    ],
+    "developers": [
+      {
+        "id": 4132,
+        "name": "Square Enix",
+        "slug": "square-enix",
+        "games_count": 374,
+        "image_background": "https://media.rawg.io/media/games/54a/54a3e4c617217848dc43c4de9989fe37.jpg"
+      },
+      {
+        "id": 6,
+        "name": "Sony Interactive Entertainment",
+        "slug": "sony-interactive-entertainment",
+        "games_count": 527,
+        "image_background": "https://media.rawg.io/media/games/596/596215939911a0d97facfc224b1bca30.jpg"
+      },
+      {
+        "id": 14687,
+        "name": "Square",
+        "slug": "square",
+        "games_count": 58,
+        "image_background": "https://media.rawg.io/media/games/813/81343372bb9d84cda2d9f0fec2ef9661.jpg"
+      },
+      {
+        "id": 15498,
+        "name": "SquareSoft",
+        "slug": "squaresoft",
+        "games_count": 13,
+        "image_background": "https://media.rawg.io/media/screenshots/f8c/f8ca93104f382ec1e7c76557af0e8f51.jpg"
+      }
+    ],
+    "genres": [
+      {
+        "id": 3,
+        "name": "Adventure",
+        "slug": "adventure",
+        "games_count": 151684,
+        "image_background": "https://media.rawg.io/media/games/c50/c5085506fe4b5e20fc7aa5ace842c20b.jpg"
+      },
+      {
+        "id": 5,
+        "name": "RPG",
+        "slug": "role-playing-games-rpg",
+        "games_count": 61936,
+        "image_background": "https://media.rawg.io/media/games/d1a/d1a2e99ade53494c6330a0ed945fe823.jpg"
+      },
+      {
+        "id": 14,
+        "name": "Simulation",
+        "slug": "simulation",
+        "games_count": 76815,
+        "image_background": "https://media.rawg.io/media/games/78d/78dfae12fb8c5b16cd78648553071e0a.jpg"
+      }
+    ],
+    "tags": [
+      {
+        "id": 31,
+        "name": "Singleplayer",
+        "slug": "singleplayer",
+        "language": "eng",
+        "games_count": 250812,
+        "image_background": "https://media.rawg.io/media/games/26d/26d4437715bee60138dab4a7c8c59c92.jpg"
+      },
+      {
+        "id": 7,
+        "name": "Multiplayer",
+        "slug": "multiplayer",
+        "language": "eng",
+        "games_count": 42552,
+        "image_background": "https://media.rawg.io/media/games/960/960b601d9541cec776c5fa42a00bf6c4.jpg"
+      },
+      {
+        "id": 64,
+        "name": "Fantasy",
+        "slug": "fantasy",
+        "language": "eng",
+        "games_count": 32956,
+        "image_background": "https://media.rawg.io/media/games/aa3/aa36ba4b486a03ddfaef274fb4f5afd4.jpg"
+      },
+      {
+        "id": 115,
+        "name": "Controller",
+        "slug": "controller",
+        "language": "eng",
+        "games_count": 15030,
+        "image_background": "https://media.rawg.io/media/games/85c/85c8ae70e7cdf0105f06ef6bdce63b8b.jpg"
+      },
+      {
+        "id": 70,
+        "name": "War",
+        "slug": "war",
+        "language": "eng",
+        "games_count": 10100,
+        "image_background": "https://media.rawg.io/media/games/6d3/6d33014a4ed48a19c30a77ead5a0f62e.jpg"
+      },
+      {
+        "id": 1221,
+        "name": "history",
+        "slug": "history",
+        "language": "eng",
+        "games_count": 2392,
+        "image_background": "https://media.rawg.io/media/games/cdd/cdd4b6cf03ac7ebf7460b0d82f9aaa09.jpg"
+      },
+      {
+        "id": 3728,
+        "name": "memory",
+        "slug": "memory",
+        "language": "eng",
+        "games_count": 3240,
+        "image_background": "https://media.rawg.io/media/games/c9f/c9fbbde8236fbefa330658166eba8419.jpg"
+      },
+      {
+        "id": 2876,
+        "name": "square",
+        "slug": "square",
+        "language": "eng",
+        "games_count": 1395,
+        "image_background": "https://media.rawg.io/media/screenshots/1ee/1eebae6019401de703e422ebf3b183cb.jpg"
+      }
+    ],
+    "publishers": [
+      {
+        "id": 308,
+        "name": "Square Enix",
+        "slug": "square-enix",
+        "games_count": 609,
+        "image_background": "https://media.rawg.io/media/games/3d9/3d9bac98d79bcd2d445f829e8d6be902.jpg"
+      },
+      {
+        "id": 10212,
+        "name": "Sony Computer Entertainment",
+        "slug": "sony-computer-entertainment",
+        "games_count": 468,
+        "image_background": "https://media.rawg.io/media/games/837/837a609b0584db5d03534c8e767861b1.jpg"
+      },
+      {
+        "id": 11687,
+        "name": "Sony Interactive Entertainment",
+        "slug": "sony-interactive-entertainment",
+        "games_count": 308,
+        "image_background": "https://media.rawg.io/media/games/9aa/9aa42d16d425fa6f179fc9dc2f763647.jpg"
+      },
+      {
+        "id": 11194,
+        "name": "Square",
+        "slug": "square",
+        "games_count": 68,
+        "image_background": "https://media.rawg.io/media/games/187/187c4033702cc8e5ba106820a4c39a4b.jpg"
+      }
+    ],
+    "esrb_rating": {
+      "id": 3,
+      "name": "Teen",
+      "slug": "teen"
+    },
+    "clip": null,
+    "description_raw": "Final Fantasy Tactics (ファイナルファンタジータクティクス, Fainaru Fantajī Takutikusu) is a tactical role-playing game developed and published by Squaresoft (later changed to Square and now Square Enix) for the Sony PlayStation video game console. It is the first game of the Final Fantasy Tactics series and was released in Japan in June 1997 and in the United States in January 1998. The game combines thematic elements of the Final Fantasy video game series with a game engine and battle system unlike those previously seen in the franchise. In contrast to other 32-bit era Final Fantasy titles, Final Fantasy Tactics uses a 3D, isometric, rotatable playing field, with bitmap sprite characters.\nFinal Fantasy Tactics is set in a fictional medieval-inspired kingdom called Ivalice, created by Yasumi Matsuno. The game's story follows Ramza Beoulve, a highborn cadet who finds himself thrust into the middle of an intricate military conflict known as The Lion War, where two opposing noble factions are coveting the throne of the kingdom. As the story progresses, Ramza and his allies discover a sinister plot behind the war.\nA spin-off title, Final Fantasy Tactics Advance, was released for the Nintendo Game Boy Advance in 2003 and a sequel to that title, Final Fantasy Tactics A2: Grimoire of the Rift, was released in 2007 for the Nintendo DS. Various other games have also utilized the Ivalice setting, including Vagrant Story for the PlayStation and Final Fantasy XII for the PlayStation 2. An enhanced port of Final Fantasy Tactics, Final Fantasy Tactics: The War of the Lions, was released in 2007 as part of Square Enix's Ivalice Alliance project. Overall, the game received positive reviews from gaming magazines and websites and has become a cult classic since its release."
+  },
+  "screenshots": [
+    {
+      "id": 729720,
+      "image": "https://media.rawg.io/media/screenshots/5ed/5ed60668e47bdbaaa273576346771209.jpg",
+      "width": 640,
+      "height": 480,
+      "is_deleted": false
+    },
+    {
+      "id": 729721,
+      "image": "https://media.rawg.io/media/screenshots/f94/f9406b516449f57ceb5ed5d3100f3e9e.jpg",
+      "width": 640,
+      "height": 480,
+      "is_deleted": false
+    },
+    {
+      "id": 729722,
+      "image": "https://media.rawg.io/media/screenshots/f1a/f1a1bad99aead562ee11668a3a585031.jpg",
+      "width": 640,
+      "height": 480,
+      "is_deleted": false
+    },
+    {
+      "id": 729723,
+      "image": "https://media.rawg.io/media/screenshots/0cc/0ccbf14bf6608033122ce006d7a5cce0.jpg",
+      "width": 640,
+      "height": 480,
+      "is_deleted": false
+    },
+    {
+      "id": 729724,
+      "image": "https://media.rawg.io/media/screenshots/6b3/6b377b91d61ebb378ba1682a9b1f058d.jpg",
+      "width": 480,
+      "height": 272,
+      "is_deleted": false
+    },
+    {
+      "id": 729725,
+      "image": "https://media.rawg.io/media/screenshots/e3b/e3b721973f624ff07d528ec79f440393.jpg",
+      "width": 480,
+      "height": 272,
+      "is_deleted": false
+    }
+  ]
+}

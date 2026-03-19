@@ -1,0 +1,266 @@
+{
+  "details": {
+    "id": 23760,
+    "slug": "bayonetta-2",
+    "name": "Bayonetta 2",
+    "name_original": "Bayonetta 2",
+    "description": "<p>Wield wild weapons and execute deadly moves—like the powerful Umbran<br />\nClimax—to take out angels and demons in this breathtaking action game.<br />\nYou can even team up with friends in 2-player online or local wireless<br />\nco-op fights (additional accessories required; sold separately.)</p>\n<p>Bayonetta is a butt-kicking, havoc-wreaking witch who wields sweet<br />\nweapons like pistols, whips, hammers, flamethrowers, and poison bows.<br />\nBut it’s not just about brawn—it’s also about style. Bayonetta is deadly<br />\nbut sleek, with moves like Witch Time that slows down time itself, and<br />\nthe all-new Umbran Climax—a special magic attack that summons Infernal<br />\nDemons to devastate enemies. The Bayonetta™ 2 game also features an<br />\nonline and local wireless 2-player cooperative mode where players bet<br />\nhalos on their performance and work together to amplify their sass,<br />\ncause destruction, and score some riches.</p>\n<p>Foxy, sassy Bayonetta is a butt-kicking witch who’s back to wreak havoc</p>\n<p>Wield stylish moves and deadly weapons—like a poison bow and<br />\nflamethrowers</p>\n<p>Use magic to execute Umbran Climax and summon Infernal Demons to do<br />\nyour bidding</p>\n<p>Team up with other players in the 2-player Tag Climax co-op mode via<br />\nlocal wireless or online (additional accessories required; sold<br />\nseparately)</p>\n<p>The original Wii U version of Bayonetta™ game is now on the Nintendo<br />\nSwitch™ system—included with the packaged version of Bayonetta 2 as a<br />\npack-in digital download code</p>",
+    "metacritic": 92,
+    "metacritic_platforms": [
+      {
+        "metascore": 91,
+        "url": "https://www.metacritic.com/game/wii-u/bayonetta-2",
+        "platform": {
+          "platform": 10,
+          "name": "Wii U",
+          "slug": "wii-u"
+        }
+      },
+      {
+        "metascore": 92,
+        "url": "https://www.metacritic.com/game/switch/bayonetta-2",
+        "platform": {
+          "platform": 7,
+          "name": "Nintendo Switch",
+          "slug": "nintendo-switch"
+        }
+      }
+    ],
+    "released": "2014-09-20",
+    "tba": false,
+    "updated": "2026-02-21T19:09:41",
+    "background_image": "https://media.rawg.io/media/games/3d7/3d7c8e749b18cfc898c80016594981fe.jpg",
+    "background_image_additional": "https://media.rawg.io/media/screenshots/b1e/b1e17ea001b8e4ae58f6c346e4b606ee.jpg",
+    "website": "https://www.platinumgames.com/games/bayonetta-2",
+    "rating": 4.36,
+    "rating_top": 5,
+    "ratings": [
+      {
+        "id": 5,
+        "title": "exceptional",
+        "count": 213,
+        "percent": 60.34
+      },
+      {
+        "id": 4,
+        "title": "recommended",
+        "count": 93,
+        "percent": 26.35
+      },
+      {
+        "id": 3,
+        "title": "meh",
+        "count": 27,
+        "percent": 7.65
+      },
+      {
+        "id": 1,
+        "title": "skip",
+        "count": 20,
+        "percent": 5.67
+      }
+    ],
+    "reactions": {
+      "1": 1,
+      "2": 1,
+      "3": 3,
+      "4": 2,
+      "6": 1,
+      "9": 3,
+      "10": 1,
+      "11": 2,
+      "12": 1
+    },
+    "added": 1056,
+    "added_by_status": {
+      "yet": 184,
+      "owned": 178,
+      "beaten": 356,
+      "toplay": 259,
+      "dropped": 52,
+      "playing": 27
+    },
+    "playtime": 0,
+    "screenshots_count": 32,
+    "movies_count": 0,
+    "creators_count": 11,
+    "achievements_count": 0,
+    "parent_achievements_count": 0,
+    "reddit_url": "https://www.reddit.com/r/bayonetta2/",
+    "reddit_name": "",
+    "reddit_description": "",
+    "reddit_logo": "",
+    "reddit_count": 28,
+    "twitch_count": 158,
+    "youtube_count": 1000000,
+    "reviews_text_count": 10,
+    "ratings_count": 343,
+    "suggestions_count": 622,
+    "alternative_names": [],
+    "metacritic_url": "https://www.metacritic.com/game/switch/bayonetta-2",
+    "parents_count": 0,
+    "additions_count": 1,
+    "game_series_count": 5,
+    "user_game": null,
+    "reviews_count": 353,
+    "saturated_color": "0f0f0f",
+    "dominant_color": "0f0f0f",
+    "parent_platforms": [
+      {
+        "platform": {
+          "id": 7,
+          "name": "Nintendo",
+          "slug": "nintendo"
+        }
+      }
+    ],
+    "platforms": [
+      {
+        "platform": {
+          "id": 10,
+          "name": "Wii U",
+          "slug": "wii-u",
+          "image": null,
+          "year_end": null,
+          "year_start": null,
+          "games_count": 1114,
+          "image_background": "https://media.rawg.io/media/games/cc1/cc196a5ad763955d6532cdba236f730c.jpg"
+        },
+        "released_at": "2014-09-20",
+        "requirements": {}
+      },
+      {
+        "platform": {
+          "id": 7,
+          "name": "Nintendo Switch",
+          "slug": "nintendo-switch",
+          "image": null,
+          "year_end": null,
+          "year_start": null,
+          "games_count": 5765,
+          "image_background": "https://media.rawg.io/media/games/5a4/5a44112251d70a25291cc33757220fce.jpg"
+        },
+        "released_at": "2014-09-20",
+        "requirements": {}
+      }
+    ],
+    "stores": [
+      {
+        "id": 27917,
+        "url": "",
+        "store": {
+          "id": 6,
+          "name": "Nintendo Store",
+          "slug": "nintendo",
+          "domain": "nintendo.com",
+          "games_count": 9150,
+          "image_background": "https://media.rawg.io/media/games/5eb/5eb49eb2fa0738fdb5bacea557b1bc57.jpg"
+        }
+      }
+    ],
+    "developers": [
+      {
+        "id": 10251,
+        "name": "Platinum Games",
+        "slug": "platinumgames",
+        "games_count": 40,
+        "image_background": "https://media.rawg.io/media/screenshots/c73/c735f779c571476e176d770f3ed9a7ca.jpg"
+      }
+    ],
+    "genres": [
+      {
+        "id": 4,
+        "name": "Action",
+        "slug": "action",
+        "games_count": 191508,
+        "image_background": "https://media.rawg.io/media/games/737/737ea5662211d2e0bbd6f5989189e4f1.jpg"
+      }
+    ],
+    "tags": [
+      {
+        "id": 68,
+        "name": "Hack and Slash",
+        "slug": "hack-and-slash",
+        "language": "eng",
+        "games_count": 5347,
+        "image_background": "https://media.rawg.io/media/games/1f1/1f1888e1308959dfd3be4c144a81d19c.jpg"
+      },
+      {
+        "id": 37796,
+        "name": "exclusive",
+        "slug": "exclusive",
+        "language": "eng",
+        "games_count": 4491,
+        "image_background": "https://media.rawg.io/media/games/b7d/b7d3f1715fa8381a4e780173a197a615.jpg"
+      },
+      {
+        "id": 37797,
+        "name": "true exclusive",
+        "slug": "true-exclusive",
+        "language": "eng",
+        "games_count": 3981,
+        "image_background": "https://media.rawg.io/media/games/d30/d30ef0c7dd4878161b1f781e297ae6a0.jpg"
+      }
+    ],
+    "publishers": [
+      {
+        "id": 10681,
+        "name": "Nintendo",
+        "slug": "nintendo",
+        "games_count": 1241,
+        "image_background": "https://media.rawg.io/media/games/3a0/3a0c8e9ed3a711c542218831b893a0fa.jpg"
+      }
+    ],
+    "esrb_rating": {
+      "id": 4,
+      "name": "Mature",
+      "slug": "mature"
+    },
+    "clip": null,
+    "description_raw": "Wield wild weapons and execute deadly moves—like the powerful Umbran\nClimax—to take out angels and demons in this breathtaking action game.\nYou can even team up with friends in 2-player online or local wireless\nco-op fights (additional accessories required; sold separately.)\n\nBayonetta is a butt-kicking, havoc-wreaking witch who wields sweet\nweapons like pistols, whips, hammers, flamethrowers, and poison bows.\nBut it’s not just about brawn—it’s also about style. Bayonetta is deadly\nbut sleek, with moves like Witch Time that slows down time itself, and\nthe all-new Umbran Climax—a special magic attack that summons Infernal\nDemons to devastate enemies. The Bayonetta™ 2 game also features an\nonline and local wireless 2-player cooperative mode where players bet\nhalos on their performance and work together to amplify their sass,\ncause destruction, and score some riches.\n\nFoxy, sassy Bayonetta is a butt-kicking witch who’s back to wreak havoc\n\nWield stylish moves and deadly weapons—like a poison bow and\nflamethrowers\n\nUse magic to execute Umbran Climax and summon Infernal Demons to do\nyour bidding\n\nTeam up with other players in the 2-player Tag Climax co-op mode via\nlocal wireless or online (additional accessories required; sold\nseparately)\n\nThe original Wii U version of Bayonetta™ game is now on the Nintendo\nSwitch™ system—included with the packaged version of Bayonetta 2 as a\npack-in digital download code"
+  },
+  "screenshots": [
+    {
+      "id": 241546,
+      "image": "https://media.rawg.io/media/screenshots/9bd/9bdf5a7fd96180970182cfe1c2644591.jpg",
+      "width": 745,
+      "height": 419,
+      "is_deleted": false
+    },
+    {
+      "id": 241547,
+      "image": "https://media.rawg.io/media/screenshots/24e/24e17421e42f3f8456c37aa7e8e07b69.jpg",
+      "width": 745,
+      "height": 419,
+      "is_deleted": false
+    },
+    {
+      "id": 241548,
+      "image": "https://media.rawg.io/media/screenshots/71d/71d7a438a97e74d025a8d726e6634948.jpg",
+      "width": 745,
+      "height": 419,
+      "is_deleted": false
+    },
+    {
+      "id": 241549,
+      "image": "https://media.rawg.io/media/screenshots/375/375f76c0880c82743b69a0f62041f7e1.jpg",
+      "width": 745,
+      "height": 419,
+      "is_deleted": false
+    },
+    {
+      "id": 241550,
+      "image": "https://media.rawg.io/media/screenshots/80e/80eaee524a7e217d7e58cf155780a254.jpg",
+      "width": 745,
+      "height": 419,
+      "is_deleted": false
+    },
+    {
+      "id": 241551,
+      "image": "https://media.rawg.io/media/screenshots/950/9508546289ffd6e38d9920c1e527ded5.jpg",
+      "width": 745,
+      "height": 419,
+      "is_deleted": false
+    }
+  ]
+}

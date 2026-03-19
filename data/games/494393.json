@@ -1,0 +1,547 @@
+{
+  "details": {
+    "id": 494393,
+    "slug": "monster-hunter-rise",
+    "name": "Monster Hunter Rise",
+    "name_original": "Monster Hunter Rise",
+    "description": "<p>Set in the ninja-inspired land of Kamura Village, explore lush ecosystems and battle fearsome monsters to become the ultimate hunter. It’s been half a century since the last calamity struck, but a terrifying new monster has reared its head and threatens to plunge the land into chaos once again.<br />\nHunt solo or in a party with friends to earn rewards that you can use to craft a huge variety of weapons and armor. Brand new gameplay systems such as the high-flying ‘Wire Action’ and your canine companion ‘Palamute’ will add exciting new layers to the already robust combat that Monster Hunter is known for.</p>",
+    "metacritic": 87,
+    "metacritic_platforms": [
+      {
+        "metascore": 87,
+        "url": "https://www.metacritic.com/game/xbox-series-x/monster-hunter-rise",
+        "platform": {
+          "platform": 186,
+          "name": "Xbox Series S/X",
+          "slug": "xbox-series-x"
+        }
+      },
+      {
+        "metascore": 87,
+        "url": "https://www.metacritic.com/game/playstation-5/monster-hunter-rise",
+        "platform": {
+          "platform": 187,
+          "name": "PlayStation 5",
+          "slug": "playstation5"
+        }
+      },
+      {
+        "metascore": 86,
+        "url": "https://www.metacritic.com/game/pc/monster-hunter-rise",
+        "platform": {
+          "platform": 4,
+          "name": "PC",
+          "slug": "pc"
+        }
+      },
+      {
+        "metascore": 88,
+        "url": "https://www.metacritic.com/game/switch/monster-hunter-rise",
+        "platform": {
+          "platform": 7,
+          "name": "Nintendo Switch",
+          "slug": "nintendo-switch"
+        }
+      }
+    ],
+    "released": "2021-03-26",
+    "tba": false,
+    "updated": "2026-01-02T07:55:36",
+    "background_image": "https://media.rawg.io/media/games/dbb/dbba6100aae179b5f24052c9141d426d.jpg",
+    "background_image_additional": "https://media.rawg.io/media/screenshots/bfd/bfd2effb4293b71322b6fbacad6cfd75.jpg",
+    "website": "https://www.monsterhunter.com/rise/us/",
+    "rating": 4.22,
+    "rating_top": 5,
+    "ratings": [
+      {
+        "id": 5,
+        "title": "exceptional",
+        "count": 83,
+        "percent": 45.36
+      },
+      {
+        "id": 4,
+        "title": "recommended",
+        "count": 69,
+        "percent": 37.7
+      },
+      {
+        "id": 3,
+        "title": "meh",
+        "count": 25,
+        "percent": 13.66
+      },
+      {
+        "id": 1,
+        "title": "skip",
+        "count": 6,
+        "percent": 3.28
+      }
+    ],
+    "reactions": {
+      "6": 1
+    },
+    "added": 1538,
+    "added_by_status": {
+      "yet": 98,
+      "owned": 1018,
+      "beaten": 116,
+      "toplay": 149,
+      "dropped": 83,
+      "playing": 74
+    },
+    "playtime": 15,
+    "screenshots_count": 6,
+    "movies_count": 0,
+    "creators_count": 7,
+    "achievements_count": 300,
+    "parent_achievements_count": 103,
+    "reddit_url": "https://www.reddit.com/r/MHRise/",
+    "reddit_name": "",
+    "reddit_description": "",
+    "reddit_logo": "",
+    "reddit_count": 901,
+    "twitch_count": 136,
+    "youtube_count": 1000000,
+    "reviews_text_count": 5,
+    "ratings_count": 178,
+    "suggestions_count": 374,
+    "alternative_names": [],
+    "metacritic_url": "https://www.metacritic.com/game/switch/monster-hunter-rise",
+    "parents_count": 0,
+    "additions_count": 1,
+    "game_series_count": 22,
+    "user_game": null,
+    "reviews_count": 183,
+    "saturated_color": "0f0f0f",
+    "dominant_color": "0f0f0f",
+    "parent_platforms": [
+      {
+        "platform": {
+          "id": 1,
+          "name": "PC",
+          "slug": "pc"
+        }
+      },
+      {
+        "platform": {
+          "id": 2,
+          "name": "PlayStation",
+          "slug": "playstation"
+        }
+      },
+      {
+        "platform": {
+          "id": 3,
+          "name": "Xbox",
+          "slug": "xbox"
+        }
+      },
+      {
+        "platform": {
+          "id": 7,
+          "name": "Nintendo",
+          "slug": "nintendo"
+        }
+      }
+    ],
+    "platforms": [
+      {
+        "platform": {
+          "id": 4,
+          "name": "PC",
+          "slug": "pc",
+          "image": null,
+          "year_end": null,
+          "year_start": null,
+          "games_count": 560528,
+          "image_background": "https://media.rawg.io/media/games/4be/4be6a6ad0364751a96229c56bf69be59.jpg"
+        },
+        "released_at": "2021-03-26",
+        "requirements": {
+          "minimum": "Minimum:\nRequires a 64-bit processor and operating system\nOS: Windows 10 （64-bit）\nProcessor: Intel® Core™ i3-4130 or Core™ i5-3470 or AMD FX™-6100\nMemory: 8 GB RAM\nGraphics: NVIDIA® GeForce® GT 1030 (DDR4) or AMD Radeon™ RX 550\nDirectX: Version 12\nNetwork: Broadband Internet connection\nStorage: 23 GB available space\nAdditional Notes: 1080p/30fps when graphics settings are set to &quot;Low&quot;. System requirements subject to change during game development.",
+          "recommended": "Recommended:\nRequires a 64-bit processor and operating system\nOS: Windows 10 （64-bit）\nProcessor: Intel® Core™ i5-4460 or AMD FX™-8300\nMemory: 8 GB RAM\nGraphics: NVIDIA® GeForce® GTX 1060 (VRAM 3GB) or AMD Radeon™ RX 570 (VRAM 4GB)\nDirectX: Version 12\nNetwork: Broadband Internet connection\nStorage: 23 GB available space\nAdditional Notes: 1080p/30fps when graphics settings are set to &quot;Average&quot;. System requirements subject to change during game development."
+        }
+      },
+      {
+        "platform": {
+          "id": 186,
+          "name": "Xbox Series S/X",
+          "slug": "xbox-series-x",
+          "image": null,
+          "year_end": null,
+          "year_start": 2020,
+          "games_count": 1240,
+          "image_background": "https://media.rawg.io/media/games/618/618c2031a07bbff6b4f611f10b6bcdbc.jpg"
+        },
+        "released_at": "2021-03-26",
+        "requirements": {}
+      },
+      {
+        "platform": {
+          "id": 1,
+          "name": "Xbox One",
+          "slug": "xbox-one",
+          "image": null,
+          "year_end": null,
+          "year_start": null,
+          "games_count": 5736,
+          "image_background": "https://media.rawg.io/media/games/20a/20aa03a10cda45239fe22d035c0ebe64.jpg"
+        },
+        "released_at": "2021-03-26",
+        "requirements": {}
+      },
+      {
+        "platform": {
+          "id": 18,
+          "name": "PlayStation 4",
+          "slug": "playstation4",
+          "image": null,
+          "year_end": null,
+          "year_start": null,
+          "games_count": 6984,
+          "image_background": "https://media.rawg.io/media/games/f46/f466571d536f2e3ea9e815ad17177501.jpg"
+        },
+        "released_at": "2021-03-26",
+        "requirements": {}
+      },
+      {
+        "platform": {
+          "id": 187,
+          "name": "PlayStation 5",
+          "slug": "playstation5",
+          "image": null,
+          "year_end": null,
+          "year_start": 2020,
+          "games_count": 1451,
+          "image_background": "https://media.rawg.io/media/games/909/909974d1c7863c2027241e265fe7011f.jpg"
+        },
+        "released_at": "2021-03-26",
+        "requirements": {}
+      },
+      {
+        "platform": {
+          "id": 7,
+          "name": "Nintendo Switch",
+          "slug": "nintendo-switch",
+          "image": null,
+          "year_end": null,
+          "year_start": null,
+          "games_count": 5765,
+          "image_background": "https://media.rawg.io/media/games/5a4/5a44112251d70a25291cc33757220fce.jpg"
+        },
+        "released_at": "2021-03-26",
+        "requirements": {}
+      }
+    ],
+    "stores": [
+      {
+        "id": 486049,
+        "url": "",
+        "store": {
+          "id": 6,
+          "name": "Nintendo Store",
+          "slug": "nintendo",
+          "domain": "nintendo.com",
+          "games_count": 9150,
+          "image_background": "https://media.rawg.io/media/games/5eb/5eb49eb2fa0738fdb5bacea557b1bc57.jpg"
+        }
+      },
+      {
+        "id": 666448,
+        "url": "",
+        "store": {
+          "id": 1,
+          "name": "Steam",
+          "slug": "steam",
+          "domain": "store.steampowered.com",
+          "games_count": 123255,
+          "image_background": "https://media.rawg.io/media/games/587/587588c64afbff80e6f444eb2e46f9da.jpg"
+        }
+      }
+    ],
+    "developers": [
+      {
+        "id": 3678,
+        "name": "Capcom",
+        "slug": "capcom",
+        "games_count": 476,
+        "image_background": "https://media.rawg.io/media/screenshots/119/1190d9632988dbe1c6d3001ee51c4c74.jpg"
+      }
+    ],
+    "genres": [
+      {
+        "id": 4,
+        "name": "Action",
+        "slug": "action",
+        "games_count": 191508,
+        "image_background": "https://media.rawg.io/media/games/737/737ea5662211d2e0bbd6f5989189e4f1.jpg"
+      },
+      {
+        "id": 5,
+        "name": "RPG",
+        "slug": "role-playing-games-rpg",
+        "games_count": 61936,
+        "image_background": "https://media.rawg.io/media/games/d1a/d1a2e99ade53494c6330a0ed945fe823.jpg"
+      }
+    ],
+    "tags": [
+      {
+        "id": 31,
+        "name": "Singleplayer",
+        "slug": "singleplayer",
+        "language": "eng",
+        "games_count": 250812,
+        "image_background": "https://media.rawg.io/media/games/26d/26d4437715bee60138dab4a7c8c59c92.jpg"
+      },
+      {
+        "id": 40847,
+        "name": "Steam Achievements",
+        "slug": "steam-achievements",
+        "language": "eng",
+        "games_count": 51706,
+        "image_background": "https://media.rawg.io/media/games/49c/49c3dfa4ce2f6f140cc4825868e858cb.jpg"
+      },
+      {
+        "id": 7,
+        "name": "Multiplayer",
+        "slug": "multiplayer",
+        "language": "eng",
+        "games_count": 42552,
+        "image_background": "https://media.rawg.io/media/games/960/960b601d9541cec776c5fa42a00bf6c4.jpg"
+      },
+      {
+        "id": 40836,
+        "name": "Full controller support",
+        "slug": "full-controller-support",
+        "language": "eng",
+        "games_count": 24141,
+        "image_background": "https://media.rawg.io/media/games/8d6/8d69eb6c32ed6acfd75f82d532144993.jpg"
+      },
+      {
+        "id": 40849,
+        "name": "Steam Cloud",
+        "slug": "steam-cloud",
+        "language": "eng",
+        "games_count": 25731,
+        "image_background": "https://media.rawg.io/media/games/120/1201a40e4364557b124392ee50317b99.jpg"
+      },
+      {
+        "id": 13,
+        "name": "Atmospheric",
+        "slug": "atmospheric",
+        "language": "eng",
+        "games_count": 39705,
+        "image_background": "https://media.rawg.io/media/games/d82/d82990b9c67ba0d2d09d4e6fa88885a7.jpg"
+      },
+      {
+        "id": 24,
+        "name": "RPG",
+        "slug": "rpg",
+        "language": "eng",
+        "games_count": 26621,
+        "image_background": "https://media.rawg.io/media/games/d69/d69810315bd7e226ea2d21f9156af629.jpg"
+      },
+      {
+        "id": 18,
+        "name": "Co-op",
+        "slug": "co-op",
+        "language": "eng",
+        "games_count": 14390,
+        "image_background": "https://media.rawg.io/media/games/49c/49c3dfa4ce2f6f140cc4825868e858cb.jpg"
+      },
+      {
+        "id": 118,
+        "name": "Story Rich",
+        "slug": "story-rich",
+        "language": "eng",
+        "games_count": 27257,
+        "image_background": "https://media.rawg.io/media/games/bc0/bc06a29ceac58652b684deefe7d56099.jpg"
+      },
+      {
+        "id": 411,
+        "name": "cooperative",
+        "slug": "cooperative",
+        "language": "eng",
+        "games_count": 6587,
+        "image_background": "https://media.rawg.io/media/games/4a0/4a0a1316102366260e6f38fd2a9cfdce.jpg"
+      },
+      {
+        "id": 149,
+        "name": "Third Person",
+        "slug": "third-person",
+        "language": "eng",
+        "games_count": 14710,
+        "image_background": "https://media.rawg.io/media/games/d69/d69810315bd7e226ea2d21f9156af629.jpg"
+      },
+      {
+        "id": 9,
+        "name": "Online Co-Op",
+        "slug": "online-co-op",
+        "language": "eng",
+        "games_count": 7680,
+        "image_background": "https://media.rawg.io/media/games/2ba/2bac0e87cf45e5b508f227d281c9252a.jpg"
+      },
+      {
+        "id": 64,
+        "name": "Fantasy",
+        "slug": "fantasy",
+        "language": "eng",
+        "games_count": 32956,
+        "image_background": "https://media.rawg.io/media/games/aa3/aa36ba4b486a03ddfaef274fb4f5afd4.jpg"
+      },
+      {
+        "id": 97,
+        "name": "Action RPG",
+        "slug": "action-rpg",
+        "language": "eng",
+        "games_count": 8693,
+        "image_background": "https://media.rawg.io/media/games/af7/af7a831001c5c32c46e950cc883b8cb7.jpg"
+      },
+      {
+        "id": 134,
+        "name": "Anime",
+        "slug": "anime",
+        "language": "eng",
+        "games_count": 17057,
+        "image_background": "https://media.rawg.io/media/games/3b5/3b56220d6038b8b1ad66c4d05ef95215.jpg"
+      },
+      {
+        "id": 121,
+        "name": "Character Customization",
+        "slug": "character-customization",
+        "language": "eng",
+        "games_count": 6646,
+        "image_background": "https://media.rawg.io/media/games/e3d/e3ddc524c6292a435d01d97cc5f42ea7.jpg"
+      },
+      {
+        "id": 571,
+        "name": "3D",
+        "slug": "3d",
+        "language": "eng",
+        "games_count": 93797,
+        "image_background": "https://media.rawg.io/media/games/73e/73efc5c0ac6f354271dae610276f617c.jpg"
+      },
+      {
+        "id": 40937,
+        "name": "Steam Trading Cards",
+        "slug": "steam-trading-cards-2",
+        "language": "eng",
+        "games_count": 842,
+        "image_background": "https://media.rawg.io/media/games/a4b/a4bb55f42fe837ae7bf1307e7b41cc85.jpg"
+      },
+      {
+        "id": 171,
+        "name": "PvE",
+        "slug": "pve",
+        "language": "eng",
+        "games_count": 7983,
+        "image_background": "https://media.rawg.io/media/games/0d7/0d7b7a687bf665b61337904193c56855.jpg"
+      },
+      {
+        "id": 215,
+        "name": "Dragons",
+        "slug": "dragons",
+        "language": "eng",
+        "games_count": 2877,
+        "image_background": "https://media.rawg.io/media/games/7cf/7cfc9220b401b7a300e409e539c9afd5.jpg"
+      },
+      {
+        "id": 186,
+        "name": "Ninja",
+        "slug": "ninja",
+        "language": "eng",
+        "games_count": 2513,
+        "image_background": "https://media.rawg.io/media/screenshots/033/033f9667f8d25eb544f600429f145b14.jpg"
+      },
+      {
+        "id": 774,
+        "name": "nature",
+        "slug": "nature",
+        "language": "eng",
+        "games_count": 7359,
+        "image_background": "https://media.rawg.io/media/screenshots/ed0/ed006da5dfcf9d97d34a7f065769d18b.jpeg"
+      },
+      {
+        "id": 181,
+        "name": "Hunting",
+        "slug": "hunting",
+        "language": "eng",
+        "games_count": 1091,
+        "image_background": "https://media.rawg.io/media/games/119/119bb59e64c7956171a33df0d35aee6b.jpg"
+      },
+      {
+        "id": 326,
+        "name": "Investigation",
+        "slug": "investigation",
+        "language": "eng",
+        "games_count": 3403,
+        "image_background": "https://media.rawg.io/media/games/369/36925f823ec3e9e28a91729c88bf31ec.jpg"
+      },
+      {
+        "id": 342,
+        "name": "Conversation",
+        "slug": "conversation",
+        "language": "eng",
+        "games_count": 3049,
+        "image_background": "https://media.rawg.io/media/games/b28/b28a135fa6133e17b228f46902a4fda4.jpg"
+      }
+    ],
+    "publishers": [
+      {
+        "id": 2150,
+        "name": "Capcom",
+        "slug": "capcom",
+        "games_count": 634,
+        "image_background": "https://media.rawg.io/media/games/21c/21cc15d233117c6809ec86870559e105.jpg"
+      }
+    ],
+    "esrb_rating": null,
+    "clip": null,
+    "description_raw": "Set in the ninja-inspired land of Kamura Village, explore lush ecosystems and battle fearsome monsters to become the ultimate hunter. It’s been half a century since the last calamity struck, but a terrifying new monster has reared its head and threatens to plunge the land into chaos once again.\r\nHunt solo or in a party with friends to earn rewards that you can use to craft a huge variety of weapons and armor. Brand new gameplay systems such as the high-flying ‘Wire Action’ and your canine companion ‘Palamute’ will add exciting new layers to the already robust combat that Monster Hunter is known for."
+  },
+  "screenshots": [
+    {
+      "id": 2534134,
+      "image": "https://media.rawg.io/media/screenshots/4fd/4fde628fb5a29a98d806fb2a71f3bfd1.jpg",
+      "width": 1280,
+      "height": 720,
+      "is_deleted": false
+    },
+    {
+      "id": 2534135,
+      "image": "https://media.rawg.io/media/screenshots/7d2/7d21ff31e4adec7363214a11e3bfb560.jpg",
+      "width": 1280,
+      "height": 720,
+      "is_deleted": false
+    },
+    {
+      "id": 2534136,
+      "image": "https://media.rawg.io/media/screenshots/0c1/0c14820a685d353cd3b53d5a9659f5bb.jpg",
+      "width": 1280,
+      "height": 720,
+      "is_deleted": false
+    },
+    {
+      "id": 2534137,
+      "image": "https://media.rawg.io/media/screenshots/070/07003d74cfd13122d08c1c587594204c.jpg",
+      "width": 1280,
+      "height": 720,
+      "is_deleted": false
+    },
+    {
+      "id": 2534138,
+      "image": "https://media.rawg.io/media/screenshots/bfd/bfd2effb4293b71322b6fbacad6cfd75.jpg",
+      "width": 1280,
+      "height": 720,
+      "is_deleted": false
+    },
+    {
+      "id": 2534139,
+      "image": "https://media.rawg.io/media/screenshots/818/818de548a199e35e3c08e7a0cfae5bc6.jpg",
+      "width": 1280,
+      "height": 720,
+      "is_deleted": false
+    }
+  ]
+}

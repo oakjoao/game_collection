@@ -1,0 +1,191 @@
+{
+  "details": {
+    "id": 558973,
+    "slug": "mario-golf-super-rush",
+    "name": "Mario Golf: Super Rush",
+    "name_original": "Mario Golf: Super Rush",
+    "description": "<p>Tee off with family and friends in the biggest Mario Golf game yet</p>\n<p>Hit the green with up to four players locally<em> or online</em>* and golf with familiar Mushroom Kingdom characters. Modes range from Standard Golf to the energetic Speed Golf and an RPG-like golf adventure in story mode. Intuitive motion or button controls, a shot gauge that adapts to the curve of the course, and other new features make it easy for both new players and seasoned pros to drive and putt with power.</p>\n<p>Swing simultaneously and make a break for the ball in Speed Golf</p>\n<p>Tee off at the same time with up to three other players* and race through the course to get your ball in first. Outpace and interrupt your opponents with dashes and special shots. Mario, for example, can blow other players&#39; balls away.</p>\n<p>Rise through the ranks of golf training in story mode</p>\n<p>Enroll your Mii™ character in golf training in a prestigious country club and go from rookie to pro! You’ll face off against your Mushroom Kingdom classmates and earn experience points. Level up to improve your character’s stats like power, movement, and spin. You can bring your character (and their customized stats) into other modes, too!</p>",
+    "metacritic": 70,
+    "metacritic_platforms": [
+      {
+        "metascore": 70,
+        "url": "https://www.metacritic.com/game/switch/mario-golf-super-rush",
+        "platform": {
+          "platform": 7,
+          "name": "Nintendo Switch",
+          "slug": "nintendo-switch"
+        }
+      }
+    ],
+    "released": "2021-06-25",
+    "tba": false,
+    "updated": "2025-01-24T18:27:12",
+    "background_image": "https://media.rawg.io/media/screenshots/78e/78e89d605b0f4edd14bb53463f476d09.jpg",
+    "background_image_additional": "https://media.rawg.io/media/screenshots/c18/c181711839545d5ca8f323f56040ca7a.jpg",
+    "website": "https://www.nintendo.com/games/detail/mario-golf-super-rush-switch/",
+    "rating": 3,
+    "rating_top": 3,
+    "ratings": [
+      {
+        "id": 3,
+        "title": "meh",
+        "count": 8,
+        "percent": 47.06
+      },
+      {
+        "id": 4,
+        "title": "recommended",
+        "count": 6,
+        "percent": 35.29
+      },
+      {
+        "id": 1,
+        "title": "skip",
+        "count": 3,
+        "percent": 17.65
+      }
+    ],
+    "reactions": {
+      "21": 1
+    },
+    "added": 83,
+    "added_by_status": {
+      "yet": 8,
+      "owned": 14,
+      "beaten": 10,
+      "toplay": 28,
+      "dropped": 17,
+      "playing": 6
+    },
+    "playtime": 0,
+    "screenshots_count": 5,
+    "movies_count": 0,
+    "creators_count": 0,
+    "achievements_count": 0,
+    "parent_achievements_count": 0,
+    "reddit_url": "",
+    "reddit_name": "",
+    "reddit_description": "",
+    "reddit_logo": "",
+    "reddit_count": 0,
+    "twitch_count": 153,
+    "youtube_count": 0,
+    "reviews_text_count": 1,
+    "ratings_count": 16,
+    "suggestions_count": 212,
+    "alternative_names": [],
+    "metacritic_url": "https://www.metacritic.com/game/switch/mario-golf-super-rush",
+    "parents_count": 0,
+    "additions_count": 0,
+    "game_series_count": 7,
+    "user_game": null,
+    "reviews_count": 17,
+    "saturated_color": "0f0f0f",
+    "dominant_color": "0f0f0f",
+    "parent_platforms": [
+      {
+        "platform": {
+          "id": 7,
+          "name": "Nintendo",
+          "slug": "nintendo"
+        }
+      }
+    ],
+    "platforms": [
+      {
+        "platform": {
+          "id": 7,
+          "name": "Nintendo Switch",
+          "slug": "nintendo-switch",
+          "image": null,
+          "year_end": null,
+          "year_start": null,
+          "games_count": 5765,
+          "image_background": "https://media.rawg.io/media/games/5a4/5a44112251d70a25291cc33757220fce.jpg"
+        },
+        "released_at": "2021-06-25",
+        "requirements": {}
+      }
+    ],
+    "stores": [],
+    "developers": [
+      {
+        "id": 28075,
+        "name": "Camelot",
+        "slug": "camelot",
+        "games_count": 3,
+        "image_background": "https://media.rawg.io/media/screenshots/78e/78e89d605b0f4edd14bb53463f476d09.jpg"
+      }
+    ],
+    "genres": [
+      {
+        "id": 15,
+        "name": "Sports",
+        "slug": "sports",
+        "games_count": 22628,
+        "image_background": "https://media.rawg.io/media/games/d16/d160819f22de73d29813f7b6dad815f9.jpg"
+      },
+      {
+        "id": 11,
+        "name": "Arcade",
+        "slug": "arcade",
+        "games_count": 22685,
+        "image_background": "https://media.rawg.io/media/games/786/7863e587bac630de82fca50d799236a9.jpg"
+      }
+    ],
+    "tags": [],
+    "publishers": [
+      {
+        "id": 10681,
+        "name": "Nintendo",
+        "slug": "nintendo",
+        "games_count": 1241,
+        "image_background": "https://media.rawg.io/media/games/3a0/3a0c8e9ed3a711c542218831b893a0fa.jpg"
+      }
+    ],
+    "esrb_rating": {
+      "id": 1,
+      "name": "Everyone",
+      "slug": "everyone"
+    },
+    "clip": null,
+    "description_raw": "Tee off with family and friends in the biggest Mario Golf game yet\n\nHit the green with up to four players locally* or online** and golf with familiar Mushroom Kingdom characters. Modes range from Standard Golf to the energetic Speed Golf and an RPG-like golf adventure in story mode. Intuitive motion or button controls, a shot gauge that adapts to the curve of the course, and other new features make it easy for both new players and seasoned pros to drive and putt with power.\n\nSwing simultaneously and make a break for the ball in Speed Golf\n\nTee off at the same time with up to three other players* and race through the course to get your ball in first. Outpace and interrupt your opponents with dashes and special shots. Mario, for example, can blow other players' balls away.\n\nRise through the ranks of golf training in story mode\n\nEnroll your Mii™ character in golf training in a prestigious country club and go from rookie to pro! You’ll face off against your Mushroom Kingdom classmates and earn experience points. Level up to improve your character’s stats like power, movement, and spin. You can bring your character (and their customized stats) into other modes, too!"
+  },
+  "screenshots": [
+    {
+      "id": 2717649,
+      "image": "https://media.rawg.io/media/screenshots/07f/07f4cc2e79ba23509c6fc3958c9e9288.jpg",
+      "width": 2007,
+      "height": 1129,
+      "is_deleted": false
+    },
+    {
+      "id": 2717650,
+      "image": "https://media.rawg.io/media/screenshots/c80/c80b525a4cde49a9aae92405d374bc42.jpg",
+      "width": 2007,
+      "height": 1129,
+      "is_deleted": false
+    },
+    {
+      "id": 2717651,
+      "image": "https://media.rawg.io/media/screenshots/f06/f0605dfde5d67965d2c7481a063dd9bd.jpg",
+      "width": 2007,
+      "height": 1129,
+      "is_deleted": false
+    },
+    {
+      "id": 2717652,
+      "image": "https://media.rawg.io/media/screenshots/c18/c181711839545d5ca8f323f56040ca7a.jpg",
+      "width": 2007,
+      "height": 1129,
+      "is_deleted": false
+    },
+    {
+      "id": 2717653,
+      "image": "https://media.rawg.io/media/screenshots/78e/78e89d605b0f4edd14bb53463f476d09.jpg",
+      "width": 2007,
+      "height": 1129,
+      "is_deleted": false
+    }
+  ]
+}

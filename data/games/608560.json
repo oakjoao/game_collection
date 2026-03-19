@@ -1,0 +1,373 @@
+{
+  "details": {
+    "id": 608560,
+    "slug": "dragon-quest-treasures",
+    "name": "Dragon Quest Treasures",
+    "name_original": "Dragon Quest Treasures",
+    "description": "<p>Сompletely new spin-out work &quot;Dragon Quest Treasures&quot; of the &quot;Dragon Quest&quot; series.<br />\nAn RPG in which &quot;Kamu&quot; and his younger sister &quot;Maya&quot; who appeared in &quot;Dragon Quest XI In Search of the Passing Time&quot; search for treasure with their dependable friends in a different world where they lost their childhood.</p>",
+    "metacritic": null,
+    "metacritic_platforms": [],
+    "released": "2022-12-09",
+    "tba": false,
+    "updated": "2023-07-17T03:53:37",
+    "background_image": "https://media.rawg.io/media/games/f5c/f5c8be5e01259f5c7218ab96ef1160da.jpg",
+    "background_image_additional": "https://media.rawg.io/media/screenshots/7f9/7f9dca449febb8bf4edd79a1a1eb906d.jpg",
+    "website": "",
+    "rating": 0,
+    "rating_top": 0,
+    "ratings": [],
+    "reactions": null,
+    "added": 27,
+    "added_by_status": {
+      "yet": 6,
+      "owned": 9,
+      "beaten": 1,
+      "toplay": 11
+    },
+    "playtime": 3,
+    "screenshots_count": 3,
+    "movies_count": 0,
+    "creators_count": 0,
+    "achievements_count": 50,
+    "parent_achievements_count": 50,
+    "reddit_url": "",
+    "reddit_name": "",
+    "reddit_description": "",
+    "reddit_logo": "",
+    "reddit_count": 0,
+    "twitch_count": 0,
+    "youtube_count": 0,
+    "reviews_text_count": 0,
+    "ratings_count": 0,
+    "suggestions_count": 181,
+    "alternative_names": [],
+    "metacritic_url": "",
+    "parents_count": 0,
+    "additions_count": 0,
+    "game_series_count": 0,
+    "user_game": null,
+    "reviews_count": 0,
+    "community_rating": 0,
+    "saturated_color": "0f0f0f",
+    "dominant_color": "0f0f0f",
+    "parent_platforms": [
+      {
+        "platform": {
+          "id": 1,
+          "name": "PC",
+          "slug": "pc"
+        }
+      },
+      {
+        "platform": {
+          "id": 7,
+          "name": "Nintendo",
+          "slug": "nintendo"
+        }
+      }
+    ],
+    "platforms": [
+      {
+        "platform": {
+          "id": 4,
+          "name": "PC",
+          "slug": "pc",
+          "image": null,
+          "year_end": null,
+          "year_start": null,
+          "games_count": 560528,
+          "image_background": "https://media.rawg.io/media/games/4be/4be6a6ad0364751a96229c56bf69be59.jpg"
+        },
+        "released_at": "2023-07-14",
+        "requirements": {
+          "minimum": "Minimum:\nRequires a 64-bit processor and operating system\nOS: Windows® 10 / 11 64-bit\nProcessor: AMD Ryzen™ 3 1200 / Intel® Core™ i5-3330\nMemory: 8 GB RAM\nGraphics: AMD Radeon™ RX 460 / Intel® Arc™ A380 / NVIDIA® GeForce® GTX 750\nDirectX: Version 12\nStorage: 8 GB available space\nAdditional Notes: 60 FPS @ 1280x720, Preset &quot;Low&quot;, Systen RAM 16GB required when running on Intel Arc GPU",
+          "recommended": "Recommended:\nRequires a 64-bit processor and operating system\nOS: Windows® 10 / 11 64-bit\nProcessor: AMD Ryzen™ 3 1200 / Intel® Core™ i5-6500\nMemory: 8 GB RAM\nGraphics: AMD Radeon™ RX 480 / Intel® Arc™ A750 / NVIDIA® GeForce® GTX 970\nDirectX: Version 12\nStorage: 8 GB available space\nAdditional Notes: 60 FPS @ 1920x1080, Preset &quot;High&quot;, Systen RAM 16GB required when running on Intel Arc GPU"
+        }
+      },
+      {
+        "platform": {
+          "id": 7,
+          "name": "Nintendo Switch",
+          "slug": "nintendo-switch",
+          "image": null,
+          "year_end": null,
+          "year_start": null,
+          "games_count": 5765,
+          "image_background": "https://media.rawg.io/media/games/5a4/5a44112251d70a25291cc33757220fce.jpg"
+        },
+        "released_at": "2022-12-09",
+        "requirements": {}
+      }
+    ],
+    "stores": [
+      {
+        "id": 962632,
+        "url": "",
+        "store": {
+          "id": 1,
+          "name": "Steam",
+          "slug": "steam",
+          "domain": "store.steampowered.com",
+          "games_count": 123255,
+          "image_background": "https://media.rawg.io/media/games/587/587588c64afbff80e6f444eb2e46f9da.jpg"
+        }
+      },
+      {
+        "id": 885600,
+        "url": "",
+        "store": {
+          "id": 6,
+          "name": "Nintendo Store",
+          "slug": "nintendo",
+          "domain": "nintendo.com",
+          "games_count": 9150,
+          "image_background": "https://media.rawg.io/media/games/5eb/5eb49eb2fa0738fdb5bacea557b1bc57.jpg"
+        }
+      }
+    ],
+    "developers": [
+      {
+        "id": 4132,
+        "name": "Square Enix",
+        "slug": "square-enix",
+        "games_count": 374,
+        "image_background": "https://media.rawg.io/media/games/54a/54a3e4c617217848dc43c4de9989fe37.jpg"
+      },
+      {
+        "id": 26476,
+        "name": "Tose Co",
+        "slug": "tose-co-ltd",
+        "games_count": 6,
+        "image_background": "https://media.rawg.io/media/screenshots/20e/20e08abdfada0bb76a65b5b45ceab913.jpg"
+      }
+    ],
+    "genres": [
+      {
+        "id": 4,
+        "name": "Action",
+        "slug": "action",
+        "games_count": 191508,
+        "image_background": "https://media.rawg.io/media/games/737/737ea5662211d2e0bbd6f5989189e4f1.jpg"
+      },
+      {
+        "id": 5,
+        "name": "RPG",
+        "slug": "role-playing-games-rpg",
+        "games_count": 61936,
+        "image_background": "https://media.rawg.io/media/games/d1a/d1a2e99ade53494c6330a0ed945fe823.jpg"
+      },
+      {
+        "id": 40,
+        "name": "Casual",
+        "slug": "casual",
+        "games_count": 67642,
+        "image_background": "https://media.rawg.io/media/games/d11/d11470677a829e34562e95a4002c2c7f.jpg"
+      }
+    ],
+    "tags": [
+      {
+        "id": 31,
+        "name": "Singleplayer",
+        "slug": "singleplayer",
+        "language": "eng",
+        "games_count": 250812,
+        "image_background": "https://media.rawg.io/media/games/26d/26d4437715bee60138dab4a7c8c59c92.jpg"
+      },
+      {
+        "id": 40847,
+        "name": "Steam Achievements",
+        "slug": "steam-achievements",
+        "language": "eng",
+        "games_count": 51706,
+        "image_background": "https://media.rawg.io/media/games/49c/49c3dfa4ce2f6f140cc4825868e858cb.jpg"
+      },
+      {
+        "id": 40836,
+        "name": "Full controller support",
+        "slug": "full-controller-support",
+        "language": "eng",
+        "games_count": 24141,
+        "image_background": "https://media.rawg.io/media/games/8d6/8d69eb6c32ed6acfd75f82d532144993.jpg"
+      },
+      {
+        "id": 40849,
+        "name": "Steam Cloud",
+        "slug": "steam-cloud",
+        "language": "eng",
+        "games_count": 25731,
+        "image_background": "https://media.rawg.io/media/games/120/1201a40e4364557b124392ee50317b99.jpg"
+      },
+      {
+        "id": 13,
+        "name": "Atmospheric",
+        "slug": "atmospheric",
+        "language": "eng",
+        "games_count": 39705,
+        "image_background": "https://media.rawg.io/media/games/d82/d82990b9c67ba0d2d09d4e6fa88885a7.jpg"
+      },
+      {
+        "id": 24,
+        "name": "RPG",
+        "slug": "rpg",
+        "language": "eng",
+        "games_count": 26621,
+        "image_background": "https://media.rawg.io/media/games/d69/d69810315bd7e226ea2d21f9156af629.jpg"
+      },
+      {
+        "id": 118,
+        "name": "Story Rich",
+        "slug": "story-rich",
+        "language": "eng",
+        "games_count": 27257,
+        "image_background": "https://media.rawg.io/media/games/bc0/bc06a29ceac58652b684deefe7d56099.jpg"
+      },
+      {
+        "id": 64,
+        "name": "Fantasy",
+        "slug": "fantasy",
+        "language": "eng",
+        "games_count": 32956,
+        "image_background": "https://media.rawg.io/media/games/aa3/aa36ba4b486a03ddfaef274fb4f5afd4.jpg"
+      },
+      {
+        "id": 97,
+        "name": "Action RPG",
+        "slug": "action-rpg",
+        "language": "eng",
+        "games_count": 8693,
+        "image_background": "https://media.rawg.io/media/games/af7/af7a831001c5c32c46e950cc883b8cb7.jpg"
+      },
+      {
+        "id": 107,
+        "name": "Family Friendly",
+        "slug": "family-friendly",
+        "language": "eng",
+        "games_count": 10692,
+        "image_background": "https://media.rawg.io/media/games/e4f/e4fb3fd188f61fabec48dca22e6ef28a.jpg"
+      },
+      {
+        "id": 88,
+        "name": "Cute",
+        "slug": "cute",
+        "language": "eng",
+        "games_count": 39781,
+        "image_background": "https://media.rawg.io/media/games/4cb/4cb855e8ef1578415a928e53c9f51867.png"
+      },
+      {
+        "id": 40937,
+        "name": "Steam Trading Cards",
+        "slug": "steam-trading-cards-2",
+        "language": "eng",
+        "games_count": 842,
+        "image_background": "https://media.rawg.io/media/games/a4b/a4bb55f42fe837ae7bf1307e7b41cc85.jpg"
+      },
+      {
+        "id": 138,
+        "name": "Relaxing",
+        "slug": "relaxing",
+        "language": "eng",
+        "games_count": 21523,
+        "image_background": "https://media.rawg.io/media/games/00b/00b164224ebaf381104d0b215a37afb3.jpg"
+      },
+      {
+        "id": 233,
+        "name": "JRPG",
+        "slug": "jrpg",
+        "language": "eng",
+        "games_count": 5264,
+        "image_background": "https://media.rawg.io/media/games/a59/a5993b9f84944570a31cb6ad08bfe502.jpg"
+      },
+      {
+        "id": 98,
+        "name": "Loot",
+        "slug": "loot",
+        "language": "eng",
+        "games_count": 2892,
+        "image_background": "https://media.rawg.io/media/games/3c3/3c363e31f4add887affadc82c641de72.jpg"
+      },
+      {
+        "id": 572,
+        "name": "Emotional",
+        "slug": "emotional",
+        "language": "eng",
+        "games_count": 4554,
+        "image_background": "https://media.rawg.io/media/games/d47/d479582ed0a46496ad34f65c7099d7e5.jpg"
+      },
+      {
+        "id": 206,
+        "name": "Party-Based RPG",
+        "slug": "party-based-rpg",
+        "language": "eng",
+        "games_count": 1585,
+        "image_background": "https://media.rawg.io/media/games/998/9988525895232b81618aa7eb2b844002.jpg"
+      },
+      {
+        "id": 295,
+        "name": "Soundtrack",
+        "slug": "soundtrack",
+        "language": "eng",
+        "games_count": 3298,
+        "image_background": "https://media.rawg.io/media/games/958/9582b5acfecaefac5875fa13e5901081.jpg"
+      },
+      {
+        "id": 140,
+        "name": "Hidden Object",
+        "slug": "hidden-object",
+        "language": "eng",
+        "games_count": 5730,
+        "image_background": "https://media.rawg.io/media/screenshots/a09/a09387c63a3e0101f03b985d797c3460.jpg"
+      },
+      {
+        "id": 304,
+        "name": "Character Action Game",
+        "slug": "character-action-game",
+        "language": "eng",
+        "games_count": 642,
+        "image_background": "https://media.rawg.io/media/games/61e/61e3d39225c5761eb51cf035a508a91b.jpg"
+      },
+      {
+        "id": 55320,
+        "name": "Creature Collector",
+        "slug": "creature-collector",
+        "language": "eng",
+        "games_count": 1576,
+        "image_background": "https://media.rawg.io/media/screenshots/234/2341a78cfc68acd460228fafcf7f9ccc.jpg"
+      }
+    ],
+    "publishers": [
+      {
+        "id": 308,
+        "name": "Square Enix",
+        "slug": "square-enix",
+        "games_count": 609,
+        "image_background": "https://media.rawg.io/media/games/3d9/3d9bac98d79bcd2d445f829e8d6be902.jpg"
+      }
+    ],
+    "esrb_rating": null,
+    "clip": null,
+    "description_raw": "Сompletely new spin-out work \"Dragon Quest Treasures\" of the \"Dragon Quest\" series.\nAn RPG in which \"Kamu\" and his younger sister \"Maya\" who appeared in \"Dragon Quest XI In Search of the Passing Time\" search for treasure with their dependable friends in a different world where they lost their childhood."
+  },
+  "screenshots": [
+    {
+      "id": 2858335,
+      "image": "https://media.rawg.io/media/screenshots/896/89633e5cff14fcd47cf7f1de64471d8e.jpg",
+      "width": 2399,
+      "height": 1031,
+      "is_deleted": false
+    },
+    {
+      "id": 2858336,
+      "image": "https://media.rawg.io/media/screenshots/7f9/7f9dca449febb8bf4edd79a1a1eb906d.jpg",
+      "width": 2395,
+      "height": 1233,
+      "is_deleted": false
+    },
+    {
+      "id": 2858337,
+      "image": "https://media.rawg.io/media/screenshots/6d9/6d90c802daab8a9098e519af8b1d6257.jpg",
+      "width": 2403,
+      "height": 1031,
+      "is_deleted": false
+    }
+  ]
+}

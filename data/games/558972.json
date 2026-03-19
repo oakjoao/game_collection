@@ -1,0 +1,437 @@
+{
+  "details": {
+    "id": 558972,
+    "slug": "project-triangle-strategy",
+    "name": "TRIANGLE STRATEGY",
+    "name_original": "TRIANGLE STRATEGY",
+    "description": "<p>Three nations battle for control of the dwindling resources of salt and iron<br />\nCommand a group of warriors as Serenoa, heir to the Kingdom of Glenbrook in a tangled plot where your decisions make all the difference. Key choices you make will bolster one of three convictions—Utility, Morality, Liberty—which together make up Serenoa’s world view and influence how the story will unfold. When faced with truly momentous decisions, multiple characters will weigh in by casting their votes on the Scales of Conviction. In these moments, the allies and decisions you make can determine the fate of whole nations and the continent of Norzelia itself.</p>\n<p>Control multi-tiered battlefields to strategically secure victory</p>\n<p>Finding the best location in turn-based battles can tip the tide of combat in your favor. Position units on higher ground to take control of the battlefield and gain the advantage with increased range. You can also flank enemies on both sides, then strike from behind for a powerful follow-up attack. Elemental chain reactions are also an important part of combat. For example, use fire to melt icy terrain, then use lightning to electrocute it. Push the enemy into the electrified water to see sparks fly!</p>",
+    "metacritic": 84,
+    "metacritic_platforms": [
+      {
+        "metascore": 84,
+        "url": "https://www.metacritic.com/game/pc/triangle-strategy",
+        "platform": {
+          "platform": 4,
+          "name": "PC",
+          "slug": "pc"
+        }
+      },
+      {
+        "metascore": 83,
+        "url": "https://www.metacritic.com/game/switch/triangle-strategy",
+        "platform": {
+          "platform": 7,
+          "name": "Nintendo Switch",
+          "slug": "nintendo-switch"
+        }
+      }
+    ],
+    "released": "2022-03-04",
+    "tba": false,
+    "updated": "2025-12-15T13:14:45",
+    "background_image": "https://media.rawg.io/media/games/334/3340776fc9a78199838c7c1d8ec22bd5.jpg",
+    "background_image_additional": "https://media.rawg.io/media/screenshots/5ea/5eaa1fedde087676b9cf6277549a6299.jpg",
+    "website": "https://www.nintendo.com/games/detail/triangle-strategy-switch/",
+    "rating": 4.24,
+    "rating_top": 5,
+    "ratings": [
+      {
+        "id": 5,
+        "title": "exceptional",
+        "count": 19,
+        "percent": 51.35
+      },
+      {
+        "id": 4,
+        "title": "recommended",
+        "count": 10,
+        "percent": 27.03
+      },
+      {
+        "id": 3,
+        "title": "meh",
+        "count": 7,
+        "percent": 18.92
+      },
+      {
+        "id": 1,
+        "title": "skip",
+        "count": 1,
+        "percent": 2.7
+      }
+    ],
+    "reactions": {
+      "1": 2,
+      "2": 2,
+      "3": 2,
+      "9": 1,
+      "12": 1
+    },
+    "added": 329,
+    "added_by_status": {
+      "yet": 45,
+      "owned": 109,
+      "beaten": 28,
+      "toplay": 125,
+      "dropped": 10,
+      "playing": 12
+    },
+    "playtime": 3,
+    "screenshots_count": 7,
+    "movies_count": 0,
+    "creators_count": 0,
+    "achievements_count": 107,
+    "parent_achievements_count": 107,
+    "reddit_url": "",
+    "reddit_name": "",
+    "reddit_description": "",
+    "reddit_logo": "",
+    "reddit_count": 0,
+    "twitch_count": 196,
+    "youtube_count": 0,
+    "reviews_text_count": 4,
+    "ratings_count": 33,
+    "suggestions_count": 426,
+    "alternative_names": [
+      "Project TRIANGLE STRATEGY (DEMO)"
+    ],
+    "metacritic_url": "https://www.metacritic.com/game/switch/triangle-strategy",
+    "parents_count": 0,
+    "additions_count": 0,
+    "game_series_count": 0,
+    "user_game": null,
+    "reviews_count": 37,
+    "saturated_color": "0f0f0f",
+    "dominant_color": "0f0f0f",
+    "parent_platforms": [
+      {
+        "platform": {
+          "id": 1,
+          "name": "PC",
+          "slug": "pc"
+        }
+      },
+      {
+        "platform": {
+          "id": 7,
+          "name": "Nintendo",
+          "slug": "nintendo"
+        }
+      }
+    ],
+    "platforms": [
+      {
+        "platform": {
+          "id": 4,
+          "name": "PC",
+          "slug": "pc",
+          "image": null,
+          "year_end": null,
+          "year_start": null,
+          "games_count": 560528,
+          "image_background": "https://media.rawg.io/media/games/4be/4be6a6ad0364751a96229c56bf69be59.jpg"
+        },
+        "released_at": "2022-10-13",
+        "requirements": {
+          "minimum": "Minimum:\nRequires a 64-bit processor and operating system\nOS: Windows® 8.1 / 10 64-bit\nProcessor: AMD A8-7600 / Intel® Core™ i3-3210\nMemory: 4 GB RAM\nGraphics: AMD Radeon™ RX 460 / NVIDIA® GeForce® GTX 950 / Intel® Iris® Xe Graphics G7\nDirectX: Version 11\nStorage: 10 GB available space\nSound Card: DirectX Compatible Sound Card\nAdditional Notes: 60 FPS @ 1280x720",
+          "recommended": "Recommended:\nRequires a 64-bit processor and operating system\nOS: Windows® 8.1 / 10 64-bit\nProcessor: AMD Ryzen™ 3 1200 / Intel® Core™ i5-6400\nMemory: 8 GB RAM\nGraphics: AMD Radeon™ RX 470 / NVIDIA® GeForce® GTX 1060 (3GB)\nDirectX: Version 11\nStorage: 10 GB available space\nSound Card: DirectX Compatible Sound Card\nAdditional Notes: 60 FPS @ 1920x1080"
+        }
+      },
+      {
+        "platform": {
+          "id": 7,
+          "name": "Nintendo Switch",
+          "slug": "nintendo-switch",
+          "image": null,
+          "year_end": null,
+          "year_start": null,
+          "games_count": 5765,
+          "image_background": "https://media.rawg.io/media/games/5a4/5a44112251d70a25291cc33757220fce.jpg"
+        },
+        "released_at": "2022-03-04",
+        "requirements": {}
+      }
+    ],
+    "stores": [
+      {
+        "id": 862576,
+        "url": "",
+        "store": {
+          "id": 1,
+          "name": "Steam",
+          "slug": "steam",
+          "domain": "store.steampowered.com",
+          "games_count": 123255,
+          "image_background": "https://media.rawg.io/media/games/587/587588c64afbff80e6f444eb2e46f9da.jpg"
+        }
+      },
+      {
+        "id": 552313,
+        "url": "",
+        "store": {
+          "id": 6,
+          "name": "Nintendo Store",
+          "slug": "nintendo",
+          "domain": "nintendo.com",
+          "games_count": 9150,
+          "image_background": "https://media.rawg.io/media/games/5eb/5eb49eb2fa0738fdb5bacea557b1bc57.jpg"
+        }
+      }
+    ],
+    "developers": [
+      {
+        "id": 4132,
+        "name": "Square Enix",
+        "slug": "square-enix",
+        "games_count": 374,
+        "image_background": "https://media.rawg.io/media/games/54a/54a3e4c617217848dc43c4de9989fe37.jpg"
+      },
+      {
+        "id": 7261,
+        "name": "ARTDINK",
+        "slug": "artdink",
+        "games_count": 44,
+        "image_background": "https://media.rawg.io/media/games/7b9/7b90afec0b2946264971d9b74011699f.jpg"
+      }
+    ],
+    "genres": [
+      {
+        "id": 3,
+        "name": "Adventure",
+        "slug": "adventure",
+        "games_count": 151684,
+        "image_background": "https://media.rawg.io/media/games/c50/c5085506fe4b5e20fc7aa5ace842c20b.jpg"
+      },
+      {
+        "id": 5,
+        "name": "RPG",
+        "slug": "role-playing-games-rpg",
+        "games_count": 61936,
+        "image_background": "https://media.rawg.io/media/games/d1a/d1a2e99ade53494c6330a0ed945fe823.jpg"
+      },
+      {
+        "id": 10,
+        "name": "Strategy",
+        "slug": "strategy",
+        "games_count": 62382,
+        "image_background": "https://media.rawg.io/media/games/0fa/0fadc446fd1e9ae9e23a32793d9a5406.jpg"
+      },
+      {
+        "id": 14,
+        "name": "Simulation",
+        "slug": "simulation",
+        "games_count": 76815,
+        "image_background": "https://media.rawg.io/media/games/78d/78dfae12fb8c5b16cd78648553071e0a.jpg"
+      }
+    ],
+    "tags": [
+      {
+        "id": 31,
+        "name": "Singleplayer",
+        "slug": "singleplayer",
+        "language": "eng",
+        "games_count": 250812,
+        "image_background": "https://media.rawg.io/media/games/26d/26d4437715bee60138dab4a7c8c59c92.jpg"
+      },
+      {
+        "id": 40847,
+        "name": "Steam Achievements",
+        "slug": "steam-achievements",
+        "language": "eng",
+        "games_count": 51706,
+        "image_background": "https://media.rawg.io/media/games/49c/49c3dfa4ce2f6f140cc4825868e858cb.jpg"
+      },
+      {
+        "id": 40836,
+        "name": "Full controller support",
+        "slug": "full-controller-support",
+        "language": "eng",
+        "games_count": 24141,
+        "image_background": "https://media.rawg.io/media/games/8d6/8d69eb6c32ed6acfd75f82d532144993.jpg"
+      },
+      {
+        "id": 40849,
+        "name": "Steam Cloud",
+        "slug": "steam-cloud",
+        "language": "eng",
+        "games_count": 25731,
+        "image_background": "https://media.rawg.io/media/games/120/1201a40e4364557b124392ee50317b99.jpg"
+      },
+      {
+        "id": 24,
+        "name": "RPG",
+        "slug": "rpg",
+        "language": "eng",
+        "games_count": 26621,
+        "image_background": "https://media.rawg.io/media/games/d69/d69810315bd7e226ea2d21f9156af629.jpg"
+      },
+      {
+        "id": 45,
+        "name": "2D",
+        "slug": "2d",
+        "language": "eng",
+        "games_count": 207749,
+        "image_background": "https://media.rawg.io/media/games/234/23410661770ae13eac11066980834367.jpg"
+      },
+      {
+        "id": 122,
+        "name": "Pixel Graphics",
+        "slug": "pixel-graphics",
+        "language": "eng",
+        "games_count": 99332,
+        "image_background": "https://media.rawg.io/media/games/5c2/5c2b78d4ee2647849d0bfb5d772345c8.jpg"
+      },
+      {
+        "id": 80,
+        "name": "Tactical",
+        "slug": "tactical",
+        "language": "eng",
+        "games_count": 6619,
+        "image_background": "https://media.rawg.io/media/games/9bf/9bfac18ff678f41a4674250fa0e04a52.jpg"
+      },
+      {
+        "id": 70,
+        "name": "War",
+        "slug": "war",
+        "language": "eng",
+        "games_count": 10100,
+        "image_background": "https://media.rawg.io/media/games/6d3/6d33014a4ed48a19c30a77ead5a0f62e.jpg"
+      },
+      {
+        "id": 40937,
+        "name": "Steam Trading Cards",
+        "slug": "steam-trading-cards-2",
+        "language": "eng",
+        "games_count": 842,
+        "image_background": "https://media.rawg.io/media/games/a4b/a4bb55f42fe837ae7bf1307e7b41cc85.jpg"
+      },
+      {
+        "id": 233,
+        "name": "JRPG",
+        "slug": "jrpg",
+        "language": "eng",
+        "games_count": 5264,
+        "image_background": "https://media.rawg.io/media/games/a59/a5993b9f84944570a31cb6ad08bfe502.jpg"
+      },
+      {
+        "id": 176,
+        "name": "Turn-Based Tactics",
+        "slug": "turn-based-tactics",
+        "language": "eng",
+        "games_count": 4445,
+        "image_background": "https://media.rawg.io/media/games/238/2383a172b4d50a7b44e07980eb7141ea.jpg"
+      },
+      {
+        "id": 231,
+        "name": "Strategy RPG",
+        "slug": "strategy-rpg",
+        "language": "eng",
+        "games_count": 3369,
+        "image_background": "https://media.rawg.io/media/games/389/389355994024b6b2a2becd960e13b5b1.jpg"
+      },
+      {
+        "id": 626,
+        "name": "cats",
+        "slug": "cats",
+        "language": "eng",
+        "games_count": 6897,
+        "image_background": "https://media.rawg.io/media/screenshots/1ff/1ff70369c650b1e3a3a7b157c01b42ca.jpg"
+      },
+      {
+        "id": 219,
+        "name": "Politics",
+        "slug": "politics",
+        "language": "eng",
+        "games_count": 751,
+        "image_background": "https://media.rawg.io/media/games/c22/c22d804ac753c72f2617b3708a625dec.jpg"
+      },
+      {
+        "id": 298,
+        "name": "Grid-Based Movement",
+        "slug": "grid-based-movement",
+        "language": "eng",
+        "games_count": 1592,
+        "image_background": "https://media.rawg.io/media/games/1d6/1d65bc7a33b90263aae066abe32b5754.jpg"
+      },
+      {
+        "id": 58268,
+        "name": "Котики",
+        "slug": "kotiki",
+        "language": "eng",
+        "games_count": 1735,
+        "image_background": "https://media.rawg.io/media/screenshots/b26/b2688f72567e196b860b8d4054a5344e.jpg"
+      },
+      {
+        "id": 4880,
+        "name": "tabletop",
+        "slug": "tabletop",
+        "language": "eng",
+        "games_count": 2943,
+        "image_background": "https://media.rawg.io/media/screenshots/2b8/2b89858ce6c9eb04c68bbe477caf40f8.jpg"
+      }
+    ],
+    "publishers": [
+      {
+        "id": 308,
+        "name": "Square Enix",
+        "slug": "square-enix",
+        "games_count": 609,
+        "image_background": "https://media.rawg.io/media/games/3d9/3d9bac98d79bcd2d445f829e8d6be902.jpg"
+      },
+      {
+        "id": 10681,
+        "name": "Nintendo",
+        "slug": "nintendo",
+        "games_count": 1241,
+        "image_background": "https://media.rawg.io/media/games/3a0/3a0c8e9ed3a711c542218831b893a0fa.jpg"
+      }
+    ],
+    "esrb_rating": null,
+    "clip": null,
+    "description_raw": "Three nations battle for control of the dwindling resources of salt and iron\nCommand a group of warriors as Serenoa, heir to the Kingdom of Glenbrook in a tangled plot where your decisions make all the difference. Key choices you make will bolster one of three convictions—Utility, Morality, Liberty—which together make up Serenoa’s world view and influence how the story will unfold. When faced with truly momentous decisions, multiple characters will weigh in by casting their votes on the Scales of Conviction. In these moments, the allies and decisions you make can determine the fate of whole nations and the continent of Norzelia itself.\n\nControl multi-tiered battlefields to strategically secure victory\n\nFinding the best location in turn-based battles can tip the tide of combat in your favor. Position units on higher ground to take control of the battlefield and gain the advantage with increased range. You can also flank enemies on both sides, then strike from behind for a powerful follow-up attack. Elemental chain reactions are also an important part of combat. For example, use fire to melt icy terrain, then use lightning to electrocute it. Push the enemy into the electrified water to see sparks fly!"
+  },
+  "screenshots": [
+    {
+      "id": 2717648,
+      "image": "https://media.rawg.io/media/screenshots/a81/a81f5c108e634ad405ac6eb4c74f707c.jpg",
+      "width": 1200,
+      "height": 673,
+      "is_deleted": false
+    },
+    {
+      "id": 2717701,
+      "image": "https://media.rawg.io/media/screenshots/43c/43cab079ff4357bf1b76bdd7b3a1a24b.jpg",
+      "width": 1280,
+      "height": 720,
+      "is_deleted": false
+    },
+    {
+      "id": 2717702,
+      "image": "https://media.rawg.io/media/screenshots/18e/18e3468a5e9e1a6fe9fc05bd4fd3a336.jpg",
+      "width": 1280,
+      "height": 720,
+      "is_deleted": false
+    },
+    {
+      "id": 2717703,
+      "image": "https://media.rawg.io/media/screenshots/87a/87a0fb90be8b48be2d929b96a9f02e48.jpg",
+      "width": 1280,
+      "height": 720,
+      "is_deleted": false
+    },
+    {
+      "id": 2717704,
+      "image": "https://media.rawg.io/media/screenshots/e09/e09a375cf6856084b8629d6842edcabd.jpg",
+      "width": 1280,
+      "height": 720,
+      "is_deleted": false
+    },
+    {
+      "id": 2717705,
+      "image": "https://media.rawg.io/media/screenshots/5ea/5eaa1fedde087676b9cf6277549a6299.jpg",
+      "width": 1280,
+      "height": 720,
+      "is_deleted": false
+    }
+  ]
+}

@@ -1,0 +1,427 @@
+{
+  "details": {
+    "id": 58084,
+    "slug": "dragon-quest-xi",
+    "name": "DRAGON QUEST XI: Echoes of an Elusive Age",
+    "name_original": "DRAGON QUEST XI: Echoes of an Elusive Age",
+    "description": "<p>DRAGON QUEST® XI: Echoes of an Elusive Age™ follows the journey of a hunted Hero who must uncover the mystery of his fate with the aid of a charismatic cast of supporting characters. They embark on a quest taking them across continents and over vast oceans as they learn of an ominous threat facing the world.<br />\nDQ XI brings a massive, gorgeous world to life in a style that blends stylistic cel-shading with photorealistic detail.<br />\nEngage in a turn-based battle system that eases players into combat, featuring mechanics simple enough for novices but with enough depth to satisfy long-time fans.<br />\nDQ XI features tons of side-quests and mini-games, providing enough content to keep you playing for well over 100 hours.<br />\nSoftware subject to license (us.playstation.com/softwarelicense). Online features require an account and are subject to terms of service and applicable privacy policy (playstationnetwork.com/terms-of-service &amp; playstationnetwork.com/privacy-policy). One-time license fee for play on account’s designated primary PS4™ system and other PS4™ systems when signed in with that account.<br />\nDRAGON QUEST, ECHOES OF AN ELUSIVE AGE, SQUARE ENIX and the SQUARE ENIX logo are trademarks or registered trademarks of Square Enix Holdings Co., Ltd.</p>",
+    "metacritic": 91,
+    "metacritic_platforms": [
+      {
+        "metascore": 92,
+        "url": "https://www.metacritic.com/game/xbox-one/dragon-quest-xi-s-echoes-of-an-elusive-age---definitive-edition",
+        "platform": {
+          "platform": 1,
+          "name": "Xbox One",
+          "slug": "xbox-one"
+        }
+      },
+      {
+        "metascore": 91,
+        "url": "https://www.metacritic.com/game/playstation-4/dragon-quest-xi-s-echoes-of-an-elusive-age---definitive-edition",
+        "platform": {
+          "platform": 18,
+          "name": "PlayStation 4",
+          "slug": "playstation4"
+        }
+      },
+      {
+        "metascore": 91,
+        "url": "https://www.metacritic.com/game/switch/dragon-quest-xi-s-echoes-of-an-elusive-age---definitive-edition",
+        "platform": {
+          "platform": 7,
+          "name": "Nintendo Switch",
+          "slug": "nintendo-switch"
+        }
+      }
+    ],
+    "released": "2017-07-29",
+    "tba": false,
+    "updated": "2025-12-22T10:33:58",
+    "background_image": "https://media.rawg.io/media/games/e04/e041cc430f6b6681477580d3bcddf29f.jpg",
+    "background_image_additional": "https://media.rawg.io/media/screenshots/740/740a4e65a98ee112d9c84d6a63989733.jpg",
+    "website": "https://www.DQ11.com",
+    "rating": 4.31,
+    "rating_top": 5,
+    "ratings": [
+      {
+        "id": 5,
+        "title": "exceptional",
+        "count": 191,
+        "percent": 50.53
+      },
+      {
+        "id": 4,
+        "title": "recommended",
+        "count": 140,
+        "percent": 37.04
+      },
+      {
+        "id": 3,
+        "title": "meh",
+        "count": 33,
+        "percent": 8.73
+      },
+      {
+        "id": 1,
+        "title": "skip",
+        "count": 14,
+        "percent": 3.7
+      }
+    ],
+    "reactions": {},
+    "added": 1720,
+    "added_by_status": {
+      "yet": 155,
+      "owned": 844,
+      "beaten": 234,
+      "toplay": 256,
+      "dropped": 104,
+      "playing": 127
+    },
+    "playtime": 15,
+    "screenshots_count": 42,
+    "movies_count": 0,
+    "creators_count": 7,
+    "achievements_count": 161,
+    "parent_achievements_count": 55,
+    "reddit_url": "",
+    "reddit_name": "",
+    "reddit_description": "",
+    "reddit_logo": "",
+    "reddit_count": 0,
+    "twitch_count": 0,
+    "youtube_count": 557714,
+    "reviews_text_count": 3,
+    "ratings_count": 375,
+    "suggestions_count": 434,
+    "alternative_names": [],
+    "metacritic_url": "https://www.metacritic.com/game/switch/dragon-quest-xi-s-echoes-of-an-elusive-age---definitive-edition",
+    "parents_count": 0,
+    "additions_count": 1,
+    "game_series_count": 35,
+    "user_game": null,
+    "reviews_count": 378,
+    "saturated_color": "0f0f0f",
+    "dominant_color": "0f0f0f",
+    "parent_platforms": [
+      {
+        "platform": {
+          "id": 1,
+          "name": "PC",
+          "slug": "pc"
+        }
+      },
+      {
+        "platform": {
+          "id": 2,
+          "name": "PlayStation",
+          "slug": "playstation"
+        }
+      },
+      {
+        "platform": {
+          "id": 3,
+          "name": "Xbox",
+          "slug": "xbox"
+        }
+      },
+      {
+        "platform": {
+          "id": 7,
+          "name": "Nintendo",
+          "slug": "nintendo"
+        }
+      }
+    ],
+    "platforms": [
+      {
+        "platform": {
+          "id": 4,
+          "name": "PC",
+          "slug": "pc",
+          "image": null,
+          "year_end": null,
+          "year_start": null,
+          "games_count": 560528,
+          "image_background": "https://media.rawg.io/media/games/4be/4be6a6ad0364751a96229c56bf69be59.jpg"
+        },
+        "released_at": "2017-07-29",
+        "requirements": {}
+      },
+      {
+        "platform": {
+          "id": 18,
+          "name": "PlayStation 4",
+          "slug": "playstation4",
+          "image": null,
+          "year_end": null,
+          "year_start": null,
+          "games_count": 6984,
+          "image_background": "https://media.rawg.io/media/games/f46/f466571d536f2e3ea9e815ad17177501.jpg"
+        },
+        "released_at": "2017-07-29",
+        "requirements": {}
+      },
+      {
+        "platform": {
+          "id": 1,
+          "name": "Xbox One",
+          "slug": "xbox-one",
+          "image": null,
+          "year_end": null,
+          "year_start": null,
+          "games_count": 5736,
+          "image_background": "https://media.rawg.io/media/games/20a/20aa03a10cda45239fe22d035c0ebe64.jpg"
+        },
+        "released_at": "2017-07-29",
+        "requirements": {}
+      },
+      {
+        "platform": {
+          "id": 7,
+          "name": "Nintendo Switch",
+          "slug": "nintendo-switch",
+          "image": null,
+          "year_end": null,
+          "year_start": null,
+          "games_count": 5765,
+          "image_background": "https://media.rawg.io/media/games/5a4/5a44112251d70a25291cc33757220fce.jpg"
+        },
+        "released_at": "2017-07-29",
+        "requirements": {}
+      },
+      {
+        "platform": {
+          "id": 8,
+          "name": "Nintendo 3DS",
+          "slug": "nintendo-3ds",
+          "image": null,
+          "year_end": null,
+          "year_start": null,
+          "games_count": 1682,
+          "image_background": "https://media.rawg.io/media/games/041/041026016869e440fb1fb2b6be5222c4.jpg"
+        },
+        "released_at": "2017-07-29",
+        "requirements": {}
+      }
+    ],
+    "stores": [
+      {
+        "id": 50357,
+        "url": "",
+        "store": {
+          "id": 1,
+          "name": "Steam",
+          "slug": "steam",
+          "domain": "store.steampowered.com",
+          "games_count": 123255,
+          "image_background": "https://media.rawg.io/media/games/587/587588c64afbff80e6f444eb2e46f9da.jpg"
+        }
+      },
+      {
+        "id": 593086,
+        "url": "",
+        "store": {
+          "id": 11,
+          "name": "Epic Games",
+          "slug": "epic-games",
+          "domain": "epicgames.com",
+          "games_count": 1448,
+          "image_background": "https://media.rawg.io/media/games/b54/b54598d1d5cc31899f4f0a7e3122a7b0.jpg"
+        }
+      }
+    ],
+    "developers": [
+      {
+        "id": 4132,
+        "name": "Square Enix",
+        "slug": "square-enix",
+        "games_count": 374,
+        "image_background": "https://media.rawg.io/media/games/54a/54a3e4c617217848dc43c4de9989fe37.jpg"
+      },
+      {
+        "id": 19299,
+        "name": "Armor Project",
+        "slug": "armor-project",
+        "games_count": 5,
+        "image_background": "https://media.rawg.io/media/screenshots/d2f/d2f0449ba85517b144ace60e496350e5.jpg"
+      }
+    ],
+    "genres": [
+      {
+        "id": 5,
+        "name": "RPG",
+        "slug": "role-playing-games-rpg",
+        "games_count": 61936,
+        "image_background": "https://media.rawg.io/media/games/d1a/d1a2e99ade53494c6330a0ed945fe823.jpg"
+      }
+    ],
+    "tags": [
+      {
+        "id": 31,
+        "name": "Singleplayer",
+        "slug": "singleplayer",
+        "language": "eng",
+        "games_count": 250812,
+        "image_background": "https://media.rawg.io/media/games/26d/26d4437715bee60138dab4a7c8c59c92.jpg"
+      },
+      {
+        "id": 40847,
+        "name": "Steam Achievements",
+        "slug": "steam-achievements",
+        "language": "eng",
+        "games_count": 51706,
+        "image_background": "https://media.rawg.io/media/games/49c/49c3dfa4ce2f6f140cc4825868e858cb.jpg"
+      },
+      {
+        "id": 40836,
+        "name": "Full controller support",
+        "slug": "full-controller-support",
+        "language": "eng",
+        "games_count": 24141,
+        "image_background": "https://media.rawg.io/media/games/8d6/8d69eb6c32ed6acfd75f82d532144993.jpg"
+      },
+      {
+        "id": 40849,
+        "name": "Steam Cloud",
+        "slug": "steam-cloud",
+        "language": "eng",
+        "games_count": 25731,
+        "image_background": "https://media.rawg.io/media/games/120/1201a40e4364557b124392ee50317b99.jpg"
+      },
+      {
+        "id": 7808,
+        "name": "steam-trading-cards",
+        "slug": "steam-trading-cards",
+        "language": "eng",
+        "games_count": 7568,
+        "image_background": "https://media.rawg.io/media/games/e6d/e6de699bd788497f4b52e2f41f9698f2.jpg"
+      },
+      {
+        "id": 42,
+        "name": "Great Soundtrack",
+        "slug": "great-soundtrack",
+        "language": "eng",
+        "games_count": 3450,
+        "image_background": "https://media.rawg.io/media/games/587/587588c64afbff80e6f444eb2e46f9da.jpg"
+      },
+      {
+        "id": 24,
+        "name": "RPG",
+        "slug": "rpg",
+        "language": "eng",
+        "games_count": 26621,
+        "image_background": "https://media.rawg.io/media/games/d69/d69810315bd7e226ea2d21f9156af629.jpg"
+      },
+      {
+        "id": 118,
+        "name": "Story Rich",
+        "slug": "story-rich",
+        "language": "eng",
+        "games_count": 27257,
+        "image_background": "https://media.rawg.io/media/games/bc0/bc06a29ceac58652b684deefe7d56099.jpg"
+      },
+      {
+        "id": 64,
+        "name": "Fantasy",
+        "slug": "fantasy",
+        "language": "eng",
+        "games_count": 32956,
+        "image_background": "https://media.rawg.io/media/games/aa3/aa36ba4b486a03ddfaef274fb4f5afd4.jpg"
+      },
+      {
+        "id": 134,
+        "name": "Anime",
+        "slug": "anime",
+        "language": "eng",
+        "games_count": 17057,
+        "image_background": "https://media.rawg.io/media/games/3b5/3b56220d6038b8b1ad66c4d05ef95215.jpg"
+      },
+      {
+        "id": 102,
+        "name": "Turn-Based",
+        "slug": "turn-based",
+        "language": "eng",
+        "games_count": 5605,
+        "image_background": "https://media.rawg.io/media/games/d1f/d1f872a48286b6b751670817d5c1e1be.jpg"
+      },
+      {
+        "id": 233,
+        "name": "JRPG",
+        "slug": "jrpg",
+        "language": "eng",
+        "games_count": 5264,
+        "image_background": "https://media.rawg.io/media/games/a59/a5993b9f84944570a31cb6ad08bfe502.jpg"
+      },
+      {
+        "id": 175,
+        "name": "Turn-Based Combat",
+        "slug": "turn-based-combat",
+        "language": "eng",
+        "games_count": 6346,
+        "image_background": "https://media.rawg.io/media/screenshots/3f5/3f58a7b2a2b290994eb798eb72ca3fb2.jpg"
+      }
+    ],
+    "publishers": [
+      {
+        "id": 308,
+        "name": "Square Enix",
+        "slug": "square-enix",
+        "games_count": 609,
+        "image_background": "https://media.rawg.io/media/games/3d9/3d9bac98d79bcd2d445f829e8d6be902.jpg"
+      }
+    ],
+    "esrb_rating": {
+      "id": 3,
+      "name": "Teen",
+      "slug": "teen"
+    },
+    "clip": null,
+    "description_raw": "DRAGON QUEST® XI: Echoes of an Elusive Age™ follows the journey of a hunted Hero who must uncover the mystery of his fate with the aid of a charismatic cast of supporting characters. They embark on a quest taking them across continents and over vast oceans as they learn of an ominous threat facing the world.\r\nDQ XI brings a massive, gorgeous world to life in a style that blends stylistic cel-shading with photorealistic detail.\r\nEngage in a turn-based battle system that eases players into combat, featuring mechanics simple enough for novices but with enough depth to satisfy long-time fans.\r\nDQ XI features tons of side-quests and mini-games, providing enough content to keep you playing for well over 100 hours.\r\nSoftware subject to license (us.playstation.com/softwarelicense). Online features require an account and are subject to terms of service and applicable privacy policy (playstationnetwork.com/terms-of-service & playstationnetwork.com/privacy-policy). One-time license fee for play on account’s designated primary PS4™ system and other PS4™ systems when signed in with that account.\r\n© 2017, 2018 ARMOR PROJECT/BIRD STUDIO/SQUARE ENIX All Rights Reserved. ©SUGIYAMA KOBO ⓅSUGIYAMA KOBO\r\nDRAGON QUEST, ECHOES OF AN ELUSIVE AGE, SQUARE ENIX and the SQUARE ENIX logo are trademarks or registered trademarks of Square Enix Holdings Co., Ltd."
+  },
+  "screenshots": [
+    {
+      "id": 765752,
+      "image": "https://media.rawg.io/media/screenshots/e72/e72929ca1e26e1243ba32213905ffbf4.jpg",
+      "width": 1280,
+      "height": 720,
+      "is_deleted": false
+    },
+    {
+      "id": 765753,
+      "image": "https://media.rawg.io/media/screenshots/575/575cc0244161649a74e1a290fb7eee8e.jpg",
+      "width": 1280,
+      "height": 720,
+      "is_deleted": false
+    },
+    {
+      "id": 765754,
+      "image": "https://media.rawg.io/media/screenshots/728/728fa0cc969c86222bf70e14deeb6d54.jpg",
+      "width": 1280,
+      "height": 720,
+      "is_deleted": false
+    },
+    {
+      "id": 765755,
+      "image": "https://media.rawg.io/media/screenshots/ee7/ee7c5b9dd1703cc4ef7eb2069edf7bf0.jpg",
+      "width": 1280,
+      "height": 720,
+      "is_deleted": false
+    },
+    {
+      "id": 765756,
+      "image": "https://media.rawg.io/media/screenshots/441/44169f7d62e183cf226673bb7610a8bd.jpg",
+      "width": 1280,
+      "height": 720,
+      "is_deleted": false
+    },
+    {
+      "id": 765757,
+      "image": "https://media.rawg.io/media/screenshots/683/6830fbd1b33cdb4876bdbf8fc5f42d00.jpg",
+      "width": 1280,
+      "height": 720,
+      "is_deleted": false
+    }
+  ]
+}

@@ -1,0 +1,194 @@
+{
+  "details": {
+    "id": 558974,
+    "slug": "the-legend-of-zelda-skyward-sword-hd",
+    "name": "The Legend of Zelda: Skyward Sword HD",
+    "name_original": "The Legend of Zelda: Skyward Sword HD",
+    "description": "<p>The Legend of Zelda: Skyward Sword game soars onto Nintendo Switch!</p>\n<p>Take to the skies, draw your sword, and experience the earliest story in the Legend of Zelda series. Join Link in his high-flying quest to save Zelda, a childhood friend who must confront her destiny. Soar between floating islands and descend to the treacherous surface world in this updated HD version of the Legend of Zelda: Skyward Sword.</p>\n<p>Master realistic swordplay that matches your movements<br />\nSwing your sword and angle your slashes to uncover and break through opponents’ defenses using intuitive motion controls. Link will match the angle of each strike you make with the Joy-Con controller, creating immersive swordplay that relies on strategy and accuracy. Movements feel smoother and more immediate thanks to the Nintendo Switch system’s increased processing power and HD graphics. Take advantage of the newly-added button only control scheme—perfect for playing in handheld mode or on the Nintendo Switch Lite system.</p>",
+    "metacritic": 81,
+    "metacritic_platforms": [
+      {
+        "metascore": 81,
+        "url": "https://www.metacritic.com/game/switch/the-legend-of-zelda-skyward-sword-hd",
+        "platform": {
+          "platform": 7,
+          "name": "Nintendo Switch",
+          "slug": "nintendo-switch"
+        }
+      }
+    ],
+    "released": "2021-07-16",
+    "tba": false,
+    "updated": "2026-02-05T06:34:16",
+    "background_image": "https://media.rawg.io/media/games/624/624ee5ea783877a9ad8ccf68b8d8300b.jpg",
+    "background_image_additional": "https://media.rawg.io/media/screenshots/b08/b08968a340a09c8ce345f3e52a317837.jpg",
+    "website": "https://www.nintendo.com/games/detail/the-legend-of-zelda-skyward-sword-hd-switch/",
+    "rating": 4.35,
+    "rating_top": 5,
+    "ratings": [
+      {
+        "id": 5,
+        "title": "exceptional",
+        "count": 49,
+        "percent": 49
+      },
+      {
+        "id": 4,
+        "title": "recommended",
+        "count": 41,
+        "percent": 41
+      },
+      {
+        "id": 3,
+        "title": "meh",
+        "count": 8,
+        "percent": 8
+      },
+      {
+        "id": 1,
+        "title": "skip",
+        "count": 2,
+        "percent": 2
+      }
+    ],
+    "reactions": {},
+    "added": 414,
+    "added_by_status": {
+      "yet": 71,
+      "owned": 66,
+      "beaten": 111,
+      "toplay": 105,
+      "dropped": 30,
+      "playing": 31
+    },
+    "playtime": 0,
+    "screenshots_count": 3,
+    "movies_count": 0,
+    "creators_count": 12,
+    "achievements_count": 0,
+    "parent_achievements_count": 0,
+    "reddit_url": "",
+    "reddit_name": "",
+    "reddit_description": "",
+    "reddit_logo": "",
+    "reddit_count": 0,
+    "twitch_count": 153,
+    "youtube_count": 0,
+    "reviews_text_count": 1,
+    "ratings_count": 99,
+    "suggestions_count": 147,
+    "alternative_names": [],
+    "metacritic_url": "https://www.metacritic.com/game/switch/the-legend-of-zelda-skyward-sword-hd",
+    "parents_count": 1,
+    "additions_count": 0,
+    "game_series_count": 0,
+    "user_game": null,
+    "reviews_count": 100,
+    "saturated_color": "0f0f0f",
+    "dominant_color": "0f0f0f",
+    "parent_platforms": [
+      {
+        "platform": {
+          "id": 7,
+          "name": "Nintendo",
+          "slug": "nintendo"
+        }
+      }
+    ],
+    "platforms": [
+      {
+        "platform": {
+          "id": 7,
+          "name": "Nintendo Switch",
+          "slug": "nintendo-switch",
+          "image": null,
+          "year_end": null,
+          "year_start": null,
+          "games_count": 5765,
+          "image_background": "https://media.rawg.io/media/games/5a4/5a44112251d70a25291cc33757220fce.jpg"
+        },
+        "released_at": "2021-07-16",
+        "requirements": {}
+      }
+    ],
+    "stores": [
+      {
+        "id": 552298,
+        "url": "",
+        "store": {
+          "id": 6,
+          "name": "Nintendo Store",
+          "slug": "nintendo",
+          "domain": "nintendo.com",
+          "games_count": 9150,
+          "image_background": "https://media.rawg.io/media/games/5eb/5eb49eb2fa0738fdb5bacea557b1bc57.jpg"
+        }
+      }
+    ],
+    "developers": [
+      {
+        "id": 16257,
+        "name": "Nintendo",
+        "slug": "nintendo",
+        "games_count": 429,
+        "image_background": "https://media.rawg.io/media/games/c23/c231ef56cdd277fad5fbcd2f6b7d2951.jpg"
+      }
+    ],
+    "genres": [
+      {
+        "id": 4,
+        "name": "Action",
+        "slug": "action",
+        "games_count": 191508,
+        "image_background": "https://media.rawg.io/media/games/737/737ea5662211d2e0bbd6f5989189e4f1.jpg"
+      },
+      {
+        "id": 3,
+        "name": "Adventure",
+        "slug": "adventure",
+        "games_count": 151684,
+        "image_background": "https://media.rawg.io/media/games/c50/c5085506fe4b5e20fc7aa5ace842c20b.jpg"
+      }
+    ],
+    "tags": [],
+    "publishers": [
+      {
+        "id": 10681,
+        "name": "Nintendo",
+        "slug": "nintendo",
+        "games_count": 1241,
+        "image_background": "https://media.rawg.io/media/games/3a0/3a0c8e9ed3a711c542218831b893a0fa.jpg"
+      }
+    ],
+    "esrb_rating": {
+      "id": 2,
+      "name": "Everyone 10+",
+      "slug": "everyone-10-plus"
+    },
+    "clip": null,
+    "description_raw": "The Legend of Zelda: Skyward Sword game soars onto Nintendo Switch!\n\nTake to the skies, draw your sword, and experience the earliest story in the Legend of Zelda series. Join Link in his high-flying quest to save Zelda, a childhood friend who must confront her destiny. Soar between floating islands and descend to the treacherous surface world in this updated HD version of the Legend of Zelda: Skyward Sword.\n\nMaster realistic swordplay that matches your movements\nSwing your sword and angle your slashes to uncover and break through opponents’ defenses using intuitive motion controls. Link will match the angle of each strike you make with the Joy-Con controller, creating immersive swordplay that relies on strategy and accuracy. Movements feel smoother and more immediate thanks to the Nintendo Switch system’s increased processing power and HD graphics. Take advantage of the newly-added button only control scheme—perfect for playing in handheld mode or on the Nintendo Switch Lite system."
+  },
+  "screenshots": [
+    {
+      "id": 2717654,
+      "image": "https://media.rawg.io/media/screenshots/4e0/4e0de58309e3b5b802e1ec727772e70c.jpg",
+      "width": 2007,
+      "height": 1129,
+      "is_deleted": false
+    },
+    {
+      "id": 2717655,
+      "image": "https://media.rawg.io/media/screenshots/b08/b08968a340a09c8ce345f3e52a317837.jpg",
+      "width": 2007,
+      "height": 1129,
+      "is_deleted": false
+    },
+    {
+      "id": 2717656,
+      "image": "https://media.rawg.io/media/screenshots/805/805c364cd9ca40f694c3bf51232a3826.jpg",
+      "width": 2007,
+      "height": 1129,
+      "is_deleted": false
+    }
+  ]
+}

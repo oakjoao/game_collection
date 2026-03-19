@@ -1,0 +1,165 @@
+{
+  "details": {
+    "id": 850694,
+    "slug": "kirbys-return-to-dream-land-deluxe",
+    "name": "Kirby’s Return to Dream Land Deluxe",
+    "name_original": "Kirby’s Return to Dream Land Deluxe",
+    "description": "<p>The tough puff Kirby is back for a 4-player* platforming adventure. Copy enemies’ abilities and use their power to attack with a sword, wield a whip, and float with a parasol. You can also laser blast with the new Mecha Copy Ability that makes a series debut! The extra muscle will be handy in finding missing pieces for Magolor’s ship, which crash landed on Planet Popstar. Float and fight along with friends on the same system, where each player can control another Kirby or one of Kirby’s iconic friends like King Dedede, Meta Knight, and Bandana Waddle Dee.</p>\n<p>Take a break from the adventure and play subgames with friends</p>\n<p>Play attractions built around returning subgames like Samurai Kirby as well as some brand-new ones like Magolor’s Tome Trackers. Bring along up to 3 additional friends on a detour from the adventure as you compete on the same system* and share the fun together!</p>",
+    "metacritic": null,
+    "metacritic_platforms": [],
+    "released": "2023-02-24",
+    "tba": false,
+    "updated": "2026-03-01T11:10:29",
+    "background_image": "https://media.rawg.io/media/games/adb/adb29ad3144e4cd9fb177e18e7162d26.jpg",
+    "background_image_additional": "https://media.rawg.io/media/screenshots/b0f/b0f416a33e24e49a6d52c1c0ff9ec788.jpg",
+    "website": "",
+    "rating": 3.87,
+    "rating_top": 4,
+    "ratings": [
+      {
+        "id": 4,
+        "title": "recommended",
+        "count": 13,
+        "percent": 86.67
+      },
+      {
+        "id": 3,
+        "title": "meh",
+        "count": 2,
+        "percent": 13.33
+      }
+    ],
+    "reactions": null,
+    "added": 93,
+    "added_by_status": {
+      "yet": 9,
+      "owned": 11,
+      "beaten": 22,
+      "toplay": 41,
+      "dropped": 4,
+      "playing": 6
+    },
+    "playtime": 0,
+    "screenshots_count": 3,
+    "movies_count": 0,
+    "creators_count": 0,
+    "achievements_count": 0,
+    "parent_achievements_count": 0,
+    "reddit_url": "",
+    "reddit_name": "",
+    "reddit_description": "",
+    "reddit_logo": "",
+    "reddit_count": 0,
+    "twitch_count": 0,
+    "youtube_count": 0,
+    "reviews_text_count": 0,
+    "ratings_count": 15,
+    "suggestions_count": 150,
+    "alternative_names": [],
+    "metacritic_url": "",
+    "parents_count": 0,
+    "additions_count": 0,
+    "game_series_count": 0,
+    "user_game": null,
+    "reviews_count": 15,
+    "saturated_color": "0f0f0f",
+    "dominant_color": "0f0f0f",
+    "parent_platforms": [
+      {
+        "platform": {
+          "id": 7,
+          "name": "Nintendo",
+          "slug": "nintendo"
+        }
+      }
+    ],
+    "platforms": [
+      {
+        "platform": {
+          "id": 7,
+          "name": "Nintendo Switch",
+          "slug": "nintendo-switch",
+          "image": null,
+          "year_end": null,
+          "year_start": null,
+          "games_count": 5765,
+          "image_background": "https://media.rawg.io/media/games/5a4/5a44112251d70a25291cc33757220fce.jpg"
+        },
+        "released_at": "2023-02-24",
+        "requirements": {}
+      }
+    ],
+    "stores": [
+      {
+        "id": 847893,
+        "url": "",
+        "store": {
+          "id": 6,
+          "name": "Nintendo Store",
+          "slug": "nintendo",
+          "domain": "nintendo.com",
+          "games_count": 9150,
+          "image_background": "https://media.rawg.io/media/games/5eb/5eb49eb2fa0738fdb5bacea557b1bc57.jpg"
+        }
+      }
+    ],
+    "developers": [
+      {
+        "id": 16257,
+        "name": "Nintendo",
+        "slug": "nintendo",
+        "games_count": 429,
+        "image_background": "https://media.rawg.io/media/games/c23/c231ef56cdd277fad5fbcd2f6b7d2951.jpg"
+      }
+    ],
+    "genres": [
+      {
+        "id": 83,
+        "name": "Platformer",
+        "slug": "platformer",
+        "games_count": 100923,
+        "image_background": "https://media.rawg.io/media/games/388/388935d851846f8ec747fffc7c765800.jpg"
+      }
+    ],
+    "tags": [],
+    "publishers": [
+      {
+        "id": 10681,
+        "name": "Nintendo",
+        "slug": "nintendo",
+        "games_count": 1241,
+        "image_background": "https://media.rawg.io/media/games/3a0/3a0c8e9ed3a711c542218831b893a0fa.jpg"
+      }
+    ],
+    "esrb_rating": {
+      "id": 2,
+      "name": "Everyone 10+",
+      "slug": "everyone-10-plus"
+    },
+    "clip": null,
+    "description_raw": "The tough puff Kirby is back for a 4-player* platforming adventure. Copy enemies’ abilities and use their power to attack with a sword, wield a whip, and float with a parasol. You can also laser blast with the new Mecha Copy Ability that makes a series debut! The extra muscle will be handy in finding missing pieces for Magolor’s ship, which crash landed on Planet Popstar. Float and fight along with friends on the same system, where each player can control another Kirby or one of Kirby’s iconic friends like King Dedede, Meta Knight, and Bandana Waddle Dee.\n\nTake a break from the adventure and play subgames with friends\n\nPlay attractions built around returning subgames like Samurai Kirby as well as some brand-new ones like Magolor’s Tome Trackers. Bring along up to 3 additional friends on a detour from the adventure as you compete on the same system* and share the fun together!"
+  },
+  "screenshots": [
+    {
+      "id": 3563841,
+      "image": "https://media.rawg.io/media/screenshots/206/20631c03a4d8b166de635dec76611bf0.jpg",
+      "width": 1251,
+      "height": 707,
+      "is_deleted": false
+    },
+    {
+      "id": 3563842,
+      "image": "https://media.rawg.io/media/screenshots/b0f/b0f416a33e24e49a6d52c1c0ff9ec788.jpg",
+      "width": 1247,
+      "height": 705,
+      "is_deleted": false
+    },
+    {
+      "id": 3563843,
+      "image": "https://media.rawg.io/media/screenshots/81b/81b436160fd665c5e88d42951cb592ec.jpg",
+      "width": 1251,
+      "height": 707,
+      "is_deleted": false
+    }
+  ]
+}

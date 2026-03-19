@@ -1,0 +1,197 @@
+{
+  "details": {
+    "id": 487914,
+    "slug": "super-mario-3d-all-stars",
+    "name": "Super Mario 3D All-Stars",
+    "name_original": "Super Mario 3D All-Stars",
+    "description": "<p>Play three of Mario’s greatest 3D platform adventures—all in one package!<br />\nPlay three classic games at home or on the go—all in one package on the Nintendo Switch™ system! Jump into paintings in Super Mario 64™, clean up paint-like goop in Super Mario Sunshine™, and fly from planet to planet in Super Mario Galaxy™.</p>\n<p>Run, jump, and dive with ease!</p>\n<p>Make Mario move using the Nintendo Switch system’s Joy-Con™ controllers. You can also pass a Joy-Con controller to a friend to play the Super Mario Galaxy game in Co-Star Mode! Mario’s movements are as smooth as ever with HD resolution for each game, while still retaining the look and feel of the originals.</p>\n<p>Listen to timeless Super Mario tunes</p>\n<p>Listen to a total of 175 iconic tunes from all three games! Whether you want to get up and dance or take a minute to relax—this collection has music to fit your mood!</p>\n<p>Discover (or rediscover) three of Mario’s most iconic 3D platform adventures, all in one package, available on the Nintendo Switch™ system. Experience Mario’s first foray into 3D platforming in the Super Mario 64™ game, originally released in 1996. Wall jump, backflip, and even fly as you explore paintings and collect Power Stars to save Princess Peach!<br />\nSoak up the sun in the Super Mario Sunshine™ game, originally released in 2002, and spray the goop away with your water-spouting pal, FLUDD! You’ll need to collect Shine Sprites and clear the picturesque Isle Delfino of pollution—just look out for Bowser Jr.<br />\nDefy gravity as you explore space in the Super Mario Galaxy™ game, originally released in 2007! Help Rosalina restore her ship by collecting Power Stars and save Princess Peach. Gently shake a Joy-Con™ controller to activate Mario’s Spin ability or pass a Joy-Con controller to a friend for some extra help in Co-Star Mode*.<br />\nEven when you aren’t playing, you can enjoy the sounds that these worlds (and galaxies!) are so famous for. With three games, modern upgrades, and music-player mode, this collection is filled with fun for both new players and 3D platforming Mario masters. Super Mario 3D All-Stars will be available as a limited-run retail edition and a digital edition that is available for a limited time until the end of March 2021.</p>",
+    "metacritic": 82,
+    "metacritic_platforms": [
+      {
+        "metascore": 82,
+        "url": "https://www.metacritic.com/game/switch/super-mario-3d-all-stars",
+        "platform": {
+          "platform": 7,
+          "name": "Nintendo Switch",
+          "slug": "nintendo-switch"
+        }
+      }
+    ],
+    "released": "2020-09-18",
+    "tba": false,
+    "updated": "2026-01-08T12:34:12",
+    "background_image": "https://media.rawg.io/media/games/58a/58a051c3626dcac72bc111fb056b082c.jpg",
+    "background_image_additional": "https://media.rawg.io/media/screenshots/ffe/ffe628b63a43cea5a3d2332c8ab0f43b.jpg",
+    "website": "",
+    "rating": 3.92,
+    "rating_top": 4,
+    "ratings": [
+      {
+        "id": 4,
+        "title": "recommended",
+        "count": 73,
+        "percent": 57.48
+      },
+      {
+        "id": 5,
+        "title": "exceptional",
+        "count": 31,
+        "percent": 24.41
+      },
+      {
+        "id": 3,
+        "title": "meh",
+        "count": 14,
+        "percent": 11.02
+      },
+      {
+        "id": 1,
+        "title": "skip",
+        "count": 9,
+        "percent": 7.09
+      }
+    ],
+    "reactions": {
+      "1": 1,
+      "4": 1
+    },
+    "added": 435,
+    "added_by_status": {
+      "yet": 73,
+      "owned": 78,
+      "beaten": 94,
+      "toplay": 58,
+      "dropped": 65,
+      "playing": 67
+    },
+    "playtime": 0,
+    "screenshots_count": 3,
+    "movies_count": 0,
+    "creators_count": 0,
+    "achievements_count": 0,
+    "parent_achievements_count": 0,
+    "reddit_url": "https://www.reddit.com/r/SuperMario3DAllStars/",
+    "reddit_name": "",
+    "reddit_description": "",
+    "reddit_logo": "",
+    "reddit_count": 181,
+    "twitch_count": 0,
+    "youtube_count": 0,
+    "reviews_text_count": 1,
+    "ratings_count": 126,
+    "suggestions_count": 126,
+    "alternative_names": [],
+    "metacritic_url": "https://www.metacritic.com/game/switch/super-mario-3d-all-stars",
+    "parents_count": 3,
+    "additions_count": 0,
+    "game_series_count": 0,
+    "user_game": null,
+    "reviews_count": 127,
+    "saturated_color": "0f0f0f",
+    "dominant_color": "0f0f0f",
+    "parent_platforms": [
+      {
+        "platform": {
+          "id": 7,
+          "name": "Nintendo",
+          "slug": "nintendo"
+        }
+      }
+    ],
+    "platforms": [
+      {
+        "platform": {
+          "id": 7,
+          "name": "Nintendo Switch",
+          "slug": "nintendo-switch",
+          "image": null,
+          "year_end": null,
+          "year_start": null,
+          "games_count": 5765,
+          "image_background": "https://media.rawg.io/media/games/5a4/5a44112251d70a25291cc33757220fce.jpg"
+        },
+        "released_at": "2020-09-18",
+        "requirements": {}
+      }
+    ],
+    "stores": [
+      {
+        "id": 479065,
+        "url": "",
+        "store": {
+          "id": 6,
+          "name": "Nintendo Store",
+          "slug": "nintendo",
+          "domain": "nintendo.com",
+          "games_count": 9150,
+          "image_background": "https://media.rawg.io/media/games/5eb/5eb49eb2fa0738fdb5bacea557b1bc57.jpg"
+        }
+      }
+    ],
+    "developers": [
+      {
+        "id": 16257,
+        "name": "Nintendo",
+        "slug": "nintendo",
+        "games_count": 429,
+        "image_background": "https://media.rawg.io/media/games/c23/c231ef56cdd277fad5fbcd2f6b7d2951.jpg"
+      }
+    ],
+    "genres": [
+      {
+        "id": 4,
+        "name": "Action",
+        "slug": "action",
+        "games_count": 191508,
+        "image_background": "https://media.rawg.io/media/games/737/737ea5662211d2e0bbd6f5989189e4f1.jpg"
+      },
+      {
+        "id": 83,
+        "name": "Platformer",
+        "slug": "platformer",
+        "games_count": 100923,
+        "image_background": "https://media.rawg.io/media/games/388/388935d851846f8ec747fffc7c765800.jpg"
+      }
+    ],
+    "tags": [],
+    "publishers": [
+      {
+        "id": 10681,
+        "name": "Nintendo",
+        "slug": "nintendo",
+        "games_count": 1241,
+        "image_background": "https://media.rawg.io/media/games/3a0/3a0c8e9ed3a711c542218831b893a0fa.jpg"
+      }
+    ],
+    "esrb_rating": {
+      "id": 1,
+      "name": "Everyone",
+      "slug": "everyone"
+    },
+    "clip": null,
+    "description_raw": "Play three of Mario’s greatest 3D platform adventures—all in one package!\nPlay three classic games at home or on the go—all in one package on the Nintendo Switch™ system! Jump into paintings in Super Mario 64™, clean up paint-like goop in Super Mario Sunshine™, and fly from planet to planet in Super Mario Galaxy™.\n\nRun, jump, and dive with ease!\n\nMake Mario move using the Nintendo Switch system’s Joy-Con™ controllers. You can also pass a Joy-Con controller to a friend to play the Super Mario Galaxy game in Co-Star Mode! Mario’s movements are as smooth as ever with HD resolution for each game, while still retaining the look and feel of the originals.\n\nListen to timeless Super Mario tunes\n\nListen to a total of 175 iconic tunes from all three games! Whether you want to get up and dance or take a minute to relax—this collection has music to fit your mood!\n\nDiscover (or rediscover) three of Mario’s most iconic 3D platform adventures, all in one package, available on the Nintendo Switch™ system. Experience Mario’s first foray into 3D platforming in the Super Mario 64™ game, originally released in 1996. Wall jump, backflip, and even fly as you explore paintings and collect Power Stars to save Princess Peach!\nSoak up the sun in the Super Mario Sunshine™ game, originally released in 2002, and spray the goop away with your water-spouting pal, FLUDD! You’ll need to collect Shine Sprites and clear the picturesque Isle Delfino of pollution—just look out for Bowser Jr.\nDefy gravity as you explore space in the Super Mario Galaxy™ game, originally released in 2007! Help Rosalina restore her ship by collecting Power Stars and save Princess Peach. Gently shake a Joy-Con™ controller to activate Mario’s Spin ability or pass a Joy-Con controller to a friend for some extra help in Co-Star Mode*.\nEven when you aren’t playing, you can enjoy the sounds that these worlds (and galaxies!) are so famous for. With three games, modern upgrades, and music-player mode, this collection is filled with fun for both new players and 3D platforming Mario masters. Super Mario 3D All-Stars will be available as a limited-run retail edition and a digital edition that is available for a limited time until the end of March 2021."
+  },
+  "screenshots": [
+    {
+      "id": 2505832,
+      "image": "https://media.rawg.io/media/screenshots/ae9/ae9327f54646a6ce29dcf01ac52f96b9.jpg",
+      "width": 1280,
+      "height": 720,
+      "is_deleted": false
+    },
+    {
+      "id": 2505833,
+      "image": "https://media.rawg.io/media/screenshots/ffe/ffe628b63a43cea5a3d2332c8ab0f43b.jpg",
+      "width": 1280,
+      "height": 720,
+      "is_deleted": false
+    },
+    {
+      "id": 2505834,
+      "image": "https://media.rawg.io/media/screenshots/363/363db3f68598b8496e8a2c9138ff04eb.jpg",
+      "width": 1280,
+      "height": 720,
+      "is_deleted": false
+    }
+  ]
+}

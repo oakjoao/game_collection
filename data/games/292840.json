@@ -1,0 +1,228 @@
+{
+  "details": {
+    "id": 292840,
+    "slug": "super-mario-maker-2",
+    "name": "Super Mario Maker 2",
+    "name_original": "Super Mario Maker 2",
+    "description": "<p>Let your imagination run wild with new tools, course parts, and features as you create the Super Mario courses of your dreams. This sequel to Super Mario Maker launches exclusively on Nintendo Switch.</p>",
+    "metacritic": 88,
+    "metacritic_platforms": [
+      {
+        "metascore": 88,
+        "url": "https://www.metacritic.com/game/switch/super-mario-maker-2",
+        "platform": {
+          "platform": 7,
+          "name": "Nintendo Switch",
+          "slug": "nintendo-switch"
+        }
+      }
+    ],
+    "released": "2019-06-28",
+    "tba": false,
+    "updated": "2025-12-15T19:35:50",
+    "background_image": "https://media.rawg.io/media/games/25f/25f1b4a7b6ed811a5f6e34e43d6cc550.jpg",
+    "background_image_additional": "https://media.rawg.io/media/screenshots/466/466553760c24b134bf9bd8e832b266f6.jpg",
+    "website": "https://supermariomaker.nintendo.com/",
+    "rating": 4.21,
+    "rating_top": 4,
+    "ratings": [
+      {
+        "id": 4,
+        "title": "recommended",
+        "count": 162,
+        "percent": 53.47
+      },
+      {
+        "id": 5,
+        "title": "exceptional",
+        "count": 112,
+        "percent": 36.96
+      },
+      {
+        "id": 3,
+        "title": "meh",
+        "count": 20,
+        "percent": 6.6
+      },
+      {
+        "id": 1,
+        "title": "skip",
+        "count": 9,
+        "percent": 2.97
+      }
+    ],
+    "reactions": {
+      "3": 3,
+      "4": 2,
+      "6": 3,
+      "7": 1,
+      "8": 2,
+      "11": 2,
+      "12": 1
+    },
+    "added": 795,
+    "added_by_status": {
+      "yet": 46,
+      "owned": 147,
+      "beaten": 195,
+      "toplay": 182,
+      "dropped": 121,
+      "playing": 104
+    },
+    "playtime": 0,
+    "screenshots_count": 17,
+    "movies_count": 0,
+    "creators_count": 12,
+    "achievements_count": 0,
+    "parent_achievements_count": 0,
+    "reddit_url": "https://www.reddit.com/r/MarioMaker2/",
+    "reddit_name": "",
+    "reddit_description": "",
+    "reddit_logo": "",
+    "reddit_count": 4214,
+    "twitch_count": 196,
+    "youtube_count": 1000000,
+    "reviews_text_count": 8,
+    "ratings_count": 295,
+    "suggestions_count": 327,
+    "alternative_names": [],
+    "metacritic_url": "https://www.metacritic.com/game/switch/super-mario-maker-2",
+    "parents_count": 0,
+    "additions_count": 0,
+    "game_series_count": 2,
+    "user_game": null,
+    "reviews_count": 303,
+    "saturated_color": "0f0f0f",
+    "dominant_color": "0f0f0f",
+    "parent_platforms": [
+      {
+        "platform": {
+          "id": 7,
+          "name": "Nintendo",
+          "slug": "nintendo"
+        }
+      }
+    ],
+    "platforms": [
+      {
+        "platform": {
+          "id": 7,
+          "name": "Nintendo Switch",
+          "slug": "nintendo-switch",
+          "image": null,
+          "year_end": null,
+          "year_start": null,
+          "games_count": 5765,
+          "image_background": "https://media.rawg.io/media/games/5a4/5a44112251d70a25291cc33757220fce.jpg"
+        },
+        "released_at": "2019-06-28",
+        "requirements": {}
+      }
+    ],
+    "stores": [
+      {
+        "id": 293360,
+        "url": "",
+        "store": {
+          "id": 6,
+          "name": "Nintendo Store",
+          "slug": "nintendo",
+          "domain": "nintendo.com",
+          "games_count": 9150,
+          "image_background": "https://media.rawg.io/media/games/5eb/5eb49eb2fa0738fdb5bacea557b1bc57.jpg"
+        }
+      }
+    ],
+    "developers": [],
+    "genres": [
+      {
+        "id": 4,
+        "name": "Action",
+        "slug": "action",
+        "games_count": 191508,
+        "image_background": "https://media.rawg.io/media/games/737/737ea5662211d2e0bbd6f5989189e4f1.jpg"
+      },
+      {
+        "id": 83,
+        "name": "Platformer",
+        "slug": "platformer",
+        "games_count": 100923,
+        "image_background": "https://media.rawg.io/media/games/388/388935d851846f8ec747fffc7c765800.jpg"
+      }
+    ],
+    "tags": [
+      {
+        "id": 37796,
+        "name": "exclusive",
+        "slug": "exclusive",
+        "language": "eng",
+        "games_count": 4491,
+        "image_background": "https://media.rawg.io/media/games/b7d/b7d3f1715fa8381a4e780173a197a615.jpg"
+      },
+      {
+        "id": 37797,
+        "name": "true exclusive",
+        "slug": "true-exclusive",
+        "language": "eng",
+        "games_count": 3981,
+        "image_background": "https://media.rawg.io/media/games/d30/d30ef0c7dd4878161b1f781e297ae6a0.jpg"
+      }
+    ],
+    "publishers": [
+      {
+        "id": 10681,
+        "name": "Nintendo",
+        "slug": "nintendo",
+        "games_count": 1241,
+        "image_background": "https://media.rawg.io/media/games/3a0/3a0c8e9ed3a711c542218831b893a0fa.jpg"
+      }
+    ],
+    "esrb_rating": null,
+    "clip": null,
+    "description_raw": "Let your imagination run wild with new tools, course parts, and features as you create the Super Mario courses of your dreams. This sequel to Super Mario Maker launches exclusively on Nintendo Switch."
+  },
+  "screenshots": [
+    {
+      "id": 1837468,
+      "image": "https://media.rawg.io/media/screenshots/ab9/ab98871dc9c538266acb6402762ad9a0.jpg",
+      "width": 1280,
+      "height": 720,
+      "is_deleted": false
+    },
+    {
+      "id": 1837469,
+      "image": "https://media.rawg.io/media/screenshots/b0e/b0e81c17a813e4dce39005deebbcaf65.jpg",
+      "width": 1280,
+      "height": 720,
+      "is_deleted": false
+    },
+    {
+      "id": 1837470,
+      "image": "https://media.rawg.io/media/screenshots/1fb/1fb1754afaadb43a916b7fbd40177c5f.jpg",
+      "width": 1280,
+      "height": 720,
+      "is_deleted": false
+    },
+    {
+      "id": 1837471,
+      "image": "https://media.rawg.io/media/screenshots/e58/e58fceb077d2d15835a64f00629675dc.jpg",
+      "width": 1280,
+      "height": 720,
+      "is_deleted": false
+    },
+    {
+      "id": 1837472,
+      "image": "https://media.rawg.io/media/screenshots/20d/20d90763964dee2ae5122b4dbcb0fc5b.jpg",
+      "width": 1280,
+      "height": 720,
+      "is_deleted": false
+    },
+    {
+      "id": 1837473,
+      "image": "https://media.rawg.io/media/screenshots/b4d/b4de90994b6f6da7b62ee63d7ab7eb0a.jpg",
+      "width": 1280,
+      "height": 720,
+      "is_deleted": false
+    }
+  ]
+}

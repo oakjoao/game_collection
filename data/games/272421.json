@@ -1,0 +1,430 @@
+{
+  "details": {
+    "id": 272421,
+    "slug": "tales-of-vesperia-definitive-edition",
+    "name": "Tales of Vesperia: Definitive Edition",
+    "name_original": "Tales of Vesperia: Definitive Edition",
+    "description": "<p>Celebrate the 10th anniversary of Tales of Vesperia and the return of this fan-favorite with the Definitive Edition!<br />\nA power struggle begins in a civilization dependent on an ancient technology, the blastia, and the Empire that controls it. The fates of two friends traveling separate paths intertwine in an epic adventure that threatens the existence of all.<br />\nDive into the Definitive version of this game with updated full HD graphics, brand-new music tracks, exciting mini-games, bosses, and a collection of unreleased costume DLC!<br />\nTwo more playable characters join the fray!<br />\n• Patty Fleur, a cheerful and tough young pirate girl in search of treasure, adventure… and her forgotten memories.<br />\n• Flynn Scifo, Yuri’s best friend and an Imperial Knight, now joins the rest on their journey!</p>",
+    "metacritic": 81,
+    "metacritic_platforms": [
+      {
+        "metascore": 80,
+        "url": "https://www.metacritic.com/game/xbox-one/tales-of-vesperia-definitive-edition",
+        "platform": {
+          "platform": 1,
+          "name": "Xbox One",
+          "slug": "xbox-one"
+        }
+      },
+      {
+        "metascore": 81,
+        "url": "https://www.metacritic.com/game/playstation-4/tales-of-vesperia-definitive-edition",
+        "platform": {
+          "platform": 18,
+          "name": "PlayStation 4",
+          "slug": "playstation4"
+        }
+      },
+      {
+        "metascore": 80,
+        "url": "https://www.metacritic.com/game/pc/tales-of-vesperia-definitive-edition",
+        "platform": {
+          "platform": 4,
+          "name": "PC",
+          "slug": "pc"
+        }
+      },
+      {
+        "metascore": 83,
+        "url": "https://www.metacritic.com/game/switch/tales-of-vesperia-definitive-edition",
+        "platform": {
+          "platform": 7,
+          "name": "Nintendo Switch",
+          "slug": "nintendo-switch"
+        }
+      }
+    ],
+    "released": "2019-01-10",
+    "tba": false,
+    "updated": "2025-08-02T08:45:22",
+    "background_image": "https://media.rawg.io/media/screenshots/bde/bdeec8652a076c7b6d3dfaa13ad9fc38.jpg",
+    "background_image_additional": "https://media.rawg.io/media/screenshots/f9e/f9e8a9cc3de219b9a28bab384f427416.jpg",
+    "website": "http://talesofvesperia.eu",
+    "rating": 3.6,
+    "rating_top": 4,
+    "ratings": [
+      {
+        "id": 4,
+        "title": "recommended",
+        "count": 63,
+        "percent": 40.38
+      },
+      {
+        "id": 5,
+        "title": "exceptional",
+        "count": 44,
+        "percent": 28.21
+      },
+      {
+        "id": 1,
+        "title": "skip",
+        "count": 29,
+        "percent": 18.59
+      },
+      {
+        "id": 3,
+        "title": "meh",
+        "count": 20,
+        "percent": 12.82
+      }
+    ],
+    "reactions": {
+      "16": 1
+    },
+    "added": 1208,
+    "added_by_status": {
+      "yet": 118,
+      "owned": 815,
+      "beaten": 88,
+      "toplay": 103,
+      "dropped": 53,
+      "playing": 31
+    },
+    "playtime": 3,
+    "screenshots_count": 11,
+    "movies_count": 0,
+    "creators_count": 10,
+    "achievements_count": 73,
+    "parent_achievements_count": 15,
+    "reddit_url": "",
+    "reddit_name": "",
+    "reddit_description": "",
+    "reddit_logo": "",
+    "reddit_count": 0,
+    "twitch_count": 0,
+    "youtube_count": 110491,
+    "reviews_text_count": 2,
+    "ratings_count": 154,
+    "suggestions_count": 502,
+    "alternative_names": [],
+    "metacritic_url": "https://www.metacritic.com/game/switch/tales-of-vesperia-definitive-edition",
+    "parents_count": 1,
+    "additions_count": 0,
+    "game_series_count": 0,
+    "user_game": null,
+    "reviews_count": 156,
+    "saturated_color": "0f0f0f",
+    "dominant_color": "0f0f0f",
+    "parent_platforms": [
+      {
+        "platform": {
+          "id": 1,
+          "name": "PC",
+          "slug": "pc"
+        }
+      },
+      {
+        "platform": {
+          "id": 2,
+          "name": "PlayStation",
+          "slug": "playstation"
+        }
+      },
+      {
+        "platform": {
+          "id": 3,
+          "name": "Xbox",
+          "slug": "xbox"
+        }
+      },
+      {
+        "platform": {
+          "id": 7,
+          "name": "Nintendo",
+          "slug": "nintendo"
+        }
+      }
+    ],
+    "platforms": [
+      {
+        "platform": {
+          "id": 18,
+          "name": "PlayStation 4",
+          "slug": "playstation4",
+          "image": null,
+          "year_end": null,
+          "year_start": null,
+          "games_count": 6984,
+          "image_background": "https://media.rawg.io/media/games/f46/f466571d536f2e3ea9e815ad17177501.jpg"
+        },
+        "released_at": "2019-01-10",
+        "requirements": {}
+      },
+      {
+        "platform": {
+          "id": 7,
+          "name": "Nintendo Switch",
+          "slug": "nintendo-switch",
+          "image": null,
+          "year_end": null,
+          "year_start": null,
+          "games_count": 5765,
+          "image_background": "https://media.rawg.io/media/games/5a4/5a44112251d70a25291cc33757220fce.jpg"
+        },
+        "released_at": "2019-01-10",
+        "requirements": {}
+      },
+      {
+        "platform": {
+          "id": 4,
+          "name": "PC",
+          "slug": "pc",
+          "image": null,
+          "year_end": null,
+          "year_start": null,
+          "games_count": 560528,
+          "image_background": "https://media.rawg.io/media/games/4be/4be6a6ad0364751a96229c56bf69be59.jpg"
+        },
+        "released_at": "2019-01-10",
+        "requirements": {
+          "minimum": "Minimum:\nRequires a 64-bit processor and operating system\nOS: OS：Microsoft Windows 7/8/8.1/Windows 10 (64-bit)\nProcessor: CPU：Core i5-750, ～2.7GHz / AMD X6 FX-6350 3,9GHz AM3\nMemory: 4 GB RAM\nGraphics: GeForce GTX 660 2GB  / Radeon HD 7950 3GB\nDirectX: Version 11\nStorage: 25 GB available space\nSound Card: DirectX 11 compatible\nAdditional Notes: Minimum Spec: Frame Fate: stable more than 60 Resolution: 1280x720 Setting: LOW/OFF Anti-aliasing: OFF The above conditions need to be met to achieve minimum system requirements.",
+          "recommended": "Recommended:\nRequires a 64-bit processor and operating system\nOS: Microsoft Windows 7/8/8.1/ Windows 10  (64-bit)\nProcessor: CPU：Intel(R) Core(TM) i7-4770S、～3.1GHz / AMD Ryzen 7 1700\nMemory: 16 GB RAM\nGraphics: NVIDIA GeForce GTX 970 / Radeon (TM) RX 470 Graphics\nDirectX: Version 11\nStorage: 25 GB available space\nSound Card: DirectX 11 compatible\nAdditional Notes: Reccomended Spec requirement: Frame Fate: stable more than 60 Resolution: 1920x1080 Setting: HIGH Anti-aliasing: 2x or more The above conditions need to be met to achieve recommended spec requirement."
+        }
+      },
+      {
+        "platform": {
+          "id": 1,
+          "name": "Xbox One",
+          "slug": "xbox-one",
+          "image": null,
+          "year_end": null,
+          "year_start": null,
+          "games_count": 5736,
+          "image_background": "https://media.rawg.io/media/games/20a/20aa03a10cda45239fe22d035c0ebe64.jpg"
+        },
+        "released_at": "2019-01-10",
+        "requirements": {}
+      }
+    ],
+    "stores": [
+      {
+        "id": 270940,
+        "url": "",
+        "store": {
+          "id": 1,
+          "name": "Steam",
+          "slug": "steam",
+          "domain": "store.steampowered.com",
+          "games_count": 123255,
+          "image_background": "https://media.rawg.io/media/games/587/587588c64afbff80e6f444eb2e46f9da.jpg"
+        }
+      }
+    ],
+    "developers": [
+      {
+        "id": 26425,
+        "name": "Bandai Namco Entertainment",
+        "slug": "bandai-namco-entertainment",
+        "games_count": 292,
+        "image_background": "https://media.rawg.io/media/screenshots/ef2/ef244c1bdc250dc5c82c56846675b90b.jpg"
+      },
+      {
+        "id": 3606,
+        "name": "QLOC",
+        "slug": "qloc",
+        "games_count": 19,
+        "image_background": "https://media.rawg.io/media/screenshots/20f/20fe75dfab90e65898416ef5f69a946b.jpg"
+      }
+    ],
+    "genres": [
+      {
+        "id": 4,
+        "name": "Action",
+        "slug": "action",
+        "games_count": 191508,
+        "image_background": "https://media.rawg.io/media/games/737/737ea5662211d2e0bbd6f5989189e4f1.jpg"
+      },
+      {
+        "id": 5,
+        "name": "RPG",
+        "slug": "role-playing-games-rpg",
+        "games_count": 61936,
+        "image_background": "https://media.rawg.io/media/games/d1a/d1a2e99ade53494c6330a0ed945fe823.jpg"
+      }
+    ],
+    "tags": [
+      {
+        "id": 31,
+        "name": "Singleplayer",
+        "slug": "singleplayer",
+        "language": "eng",
+        "games_count": 250812,
+        "image_background": "https://media.rawg.io/media/games/26d/26d4437715bee60138dab4a7c8c59c92.jpg"
+      },
+      {
+        "id": 40847,
+        "name": "Steam Achievements",
+        "slug": "steam-achievements",
+        "language": "eng",
+        "games_count": 51706,
+        "image_background": "https://media.rawg.io/media/games/49c/49c3dfa4ce2f6f140cc4825868e858cb.jpg"
+      },
+      {
+        "id": 7,
+        "name": "Multiplayer",
+        "slug": "multiplayer",
+        "language": "eng",
+        "games_count": 42552,
+        "image_background": "https://media.rawg.io/media/games/960/960b601d9541cec776c5fa42a00bf6c4.jpg"
+      },
+      {
+        "id": 40836,
+        "name": "Full controller support",
+        "slug": "full-controller-support",
+        "language": "eng",
+        "games_count": 24141,
+        "image_background": "https://media.rawg.io/media/games/8d6/8d69eb6c32ed6acfd75f82d532144993.jpg"
+      },
+      {
+        "id": 40849,
+        "name": "Steam Cloud",
+        "slug": "steam-cloud",
+        "language": "eng",
+        "games_count": 25731,
+        "image_background": "https://media.rawg.io/media/games/120/1201a40e4364557b124392ee50317b99.jpg"
+      },
+      {
+        "id": 42,
+        "name": "Great Soundtrack",
+        "slug": "great-soundtrack",
+        "language": "eng",
+        "games_count": 3450,
+        "image_background": "https://media.rawg.io/media/games/587/587588c64afbff80e6f444eb2e46f9da.jpg"
+      },
+      {
+        "id": 24,
+        "name": "RPG",
+        "slug": "rpg",
+        "language": "eng",
+        "games_count": 26621,
+        "image_background": "https://media.rawg.io/media/games/d69/d69810315bd7e226ea2d21f9156af629.jpg"
+      },
+      {
+        "id": 18,
+        "name": "Co-op",
+        "slug": "co-op",
+        "language": "eng",
+        "games_count": 14390,
+        "image_background": "https://media.rawg.io/media/games/49c/49c3dfa4ce2f6f140cc4825868e858cb.jpg"
+      },
+      {
+        "id": 118,
+        "name": "Story Rich",
+        "slug": "story-rich",
+        "language": "eng",
+        "games_count": 27257,
+        "image_background": "https://media.rawg.io/media/games/bc0/bc06a29ceac58652b684deefe7d56099.jpg"
+      },
+      {
+        "id": 40850,
+        "name": "Steam Leaderboards",
+        "slug": "steam-leaderboards",
+        "language": "eng",
+        "games_count": 8464,
+        "image_background": "https://media.rawg.io/media/games/7ac/7aca7ccf0e70cd0974cb899ab9e5158e.jpg"
+      },
+      {
+        "id": 75,
+        "name": "Local Co-Op",
+        "slug": "local-co-op",
+        "language": "eng",
+        "games_count": 6079,
+        "image_background": "https://media.rawg.io/media/games/c6b/c6bfece1daf8d06bc0a60632ac78e5bf.jpg"
+      },
+      {
+        "id": 72,
+        "name": "Local Multiplayer",
+        "slug": "local-multiplayer",
+        "language": "eng",
+        "games_count": 14033,
+        "image_background": "https://media.rawg.io/media/games/e0f/e0f05a97ff926acf4c8f43e0849b6832.jpg"
+      },
+      {
+        "id": 134,
+        "name": "Anime",
+        "slug": "anime",
+        "language": "eng",
+        "games_count": 17057,
+        "image_background": "https://media.rawg.io/media/games/3b5/3b56220d6038b8b1ad66c4d05ef95215.jpg"
+      },
+      {
+        "id": 233,
+        "name": "JRPG",
+        "slug": "jrpg",
+        "language": "eng",
+        "games_count": 5264,
+        "image_background": "https://media.rawg.io/media/games/a59/a5993b9f84944570a31cb6ad08bfe502.jpg"
+      }
+    ],
+    "publishers": [
+      {
+        "id": 8352,
+        "name": "Bandai Namco Entertainment",
+        "slug": "bandai-namco-entertainment",
+        "games_count": 616,
+        "image_background": "https://media.rawg.io/media/games/582/582b5518a52f5086d15dde128264b94d.jpg"
+      }
+    ],
+    "esrb_rating": {
+      "id": 3,
+      "name": "Teen",
+      "slug": "teen"
+    },
+    "clip": null,
+    "description_raw": "Celebrate the 10th anniversary of Tales of Vesperia and the return of this fan-favorite with the Definitive Edition!\nA power struggle begins in a civilization dependent on an ancient technology, the blastia, and the Empire that controls it. The fates of two friends traveling separate paths intertwine in an epic adventure that threatens the existence of all.\nDive into the Definitive version of this game with updated full HD graphics, brand-new music tracks, exciting mini-games, bosses, and a collection of unreleased costume DLC!\nTwo more playable characters join the fray!\n• Patty Fleur, a cheerful and tough young pirate girl in search of treasure, adventure… and her forgotten memories.\n• Flynn Scifo, Yuri’s best friend and an Imperial Knight, now joins the rest on their journey!"
+  },
+  "screenshots": [
+    {
+      "id": 1761057,
+      "image": "https://media.rawg.io/media/screenshots/049/04925120f4aba4c7d44e1f7770c8678a.jpg",
+      "width": 1920,
+      "height": 1080,
+      "is_deleted": false
+    },
+    {
+      "id": 1761058,
+      "image": "https://media.rawg.io/media/screenshots/7bc/7bc642673d610df10d0646fc1de3ad72.jpg",
+      "width": 1920,
+      "height": 1080,
+      "is_deleted": false
+    },
+    {
+      "id": 1761059,
+      "image": "https://media.rawg.io/media/screenshots/085/085b1f06b974a6714a638b2cae2b7167.jpg",
+      "width": 1920,
+      "height": 1080,
+      "is_deleted": false
+    },
+    {
+      "id": 1761060,
+      "image": "https://media.rawg.io/media/screenshots/7f2/7f2f52ef68ef8524a1c09180435d5786.jpg",
+      "width": 1920,
+      "height": 1080,
+      "is_deleted": false
+    },
+    {
+      "id": 1761061,
+      "image": "https://media.rawg.io/media/screenshots/cb9/cb9a3e59ddbbfbe5958f6235832d3b79.jpg",
+      "width": 1920,
+      "height": 1080,
+      "is_deleted": false
+    },
+    {
+      "id": 1761062,
+      "image": "https://media.rawg.io/media/screenshots/902/90247825dc9b8138197666fe44aa5ace.jpg",
+      "width": 1920,
+      "height": 1080,
+      "is_deleted": false
+    }
+  ]
+}

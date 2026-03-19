@@ -1,0 +1,264 @@
+{
+  "details": {
+    "id": 23756,
+    "slug": "xenoblade-chronicles-x",
+    "name": "Xenoblade Chronicles X",
+    "name_original": "Xenoblade Chronicles X",
+    "description": "<p>The next massive sci-fi role-playing game from Monolith Soft, the<br />\ncreators of Baten Kaitos and Xenoblade Chronicles, comes exclusively to<br />\nWii U. A terrible intergalactic war leaves just a handful of Earth<br />\nsurvivors trying to live in a beautiful yet hostile environment. Players<br />\nengage in battles against powerful creatures of all forms and sizes<br />\nusing the deep battle system that builds on the triumphs of Xenoblade<br />\nChronicles for Wii.</p>\n<p>FEATURES:</p>\n<p>Riding and controlling a weaponized mech, players can explore every<br />\ninch of the massive open world displayed in gorgeous high-definition<br />\ngraphics. The world is filled with strange and imaginative creatures,<br />\nfrom small bugs to giant dinosaurs.</p>\n<p>As characters improve in different classes, they will learn new combat<br />\nand defensive skills, or Arts. Players can customize the Arts palette<br />\nas their characters learn new Arts. All Arts have a “recast&quot; time –<br />\nonce cast, the player must wait out a “cooldown&quot; period before that<br />\nArt can be used again.</p>\n<p>Players can customize everything about the main character&#39;s<br />\nappearance, including gender, shapes, height, skin color, voice and<br />\ntattoos.</p>",
+    "metacritic": 84,
+    "metacritic_platforms": [
+      {
+        "metascore": 84,
+        "url": "https://www.metacritic.com/game/wii-u/xenoblade-chronicles-x",
+        "platform": {
+          "platform": 10,
+          "name": "Wii U",
+          "slug": "wii-u"
+        }
+      }
+    ],
+    "released": "2015-12-04",
+    "tba": false,
+    "updated": "2025-12-05T20:36:25",
+    "background_image": "https://media.rawg.io/media/screenshots/db8/db83a83c7fc09dca7d5357ed28d167dd.jpg",
+    "background_image_additional": "https://media.rawg.io/media/screenshots/612/612b1efc30b97321442be852f867d7b2.jpg",
+    "website": "http://xenobladechroniclesx.nintendo.com/",
+    "rating": 4.3,
+    "rating_top": 5,
+    "ratings": [
+      {
+        "id": 5,
+        "title": "exceptional",
+        "count": 36,
+        "percent": 51.43
+      },
+      {
+        "id": 4,
+        "title": "recommended",
+        "count": 21,
+        "percent": 30
+      },
+      {
+        "id": 3,
+        "title": "meh",
+        "count": 12,
+        "percent": 17.14
+      },
+      {
+        "id": 1,
+        "title": "skip",
+        "count": 1,
+        "percent": 1.43
+      }
+    ],
+    "reactions": {
+      "1": 1,
+      "2": 1,
+      "3": 1,
+      "9": 1,
+      "10": 1,
+      "12": 1
+    },
+    "added": 224,
+    "added_by_status": {
+      "yet": 45,
+      "owned": 31,
+      "beaten": 57,
+      "toplay": 40,
+      "dropped": 41,
+      "playing": 10
+    },
+    "playtime": 0,
+    "screenshots_count": 20,
+    "movies_count": 0,
+    "creators_count": 13,
+    "achievements_count": 0,
+    "parent_achievements_count": 0,
+    "reddit_url": "",
+    "reddit_name": "",
+    "reddit_description": "",
+    "reddit_logo": "",
+    "reddit_count": 0,
+    "twitch_count": 140,
+    "youtube_count": 590742,
+    "reviews_text_count": 2,
+    "ratings_count": 68,
+    "suggestions_count": 619,
+    "alternative_names": [],
+    "metacritic_url": "https://www.metacritic.com/game/wii-u/xenoblade-chronicles-x",
+    "parents_count": 0,
+    "additions_count": 0,
+    "game_series_count": 8,
+    "user_game": null,
+    "reviews_count": 70,
+    "saturated_color": "0f0f0f",
+    "dominant_color": "0f0f0f",
+    "parent_platforms": [
+      {
+        "platform": {
+          "id": 7,
+          "name": "Nintendo",
+          "slug": "nintendo"
+        }
+      }
+    ],
+    "platforms": [
+      {
+        "platform": {
+          "id": 10,
+          "name": "Wii U",
+          "slug": "wii-u",
+          "image": null,
+          "year_end": null,
+          "year_start": null,
+          "games_count": 1114,
+          "image_background": "https://media.rawg.io/media/games/cc1/cc196a5ad763955d6532cdba236f730c.jpg"
+        },
+        "released_at": "2015-12-04",
+        "requirements": {}
+      }
+    ],
+    "stores": [
+      {
+        "id": 27913,
+        "url": "",
+        "store": {
+          "id": 6,
+          "name": "Nintendo Store",
+          "slug": "nintendo",
+          "domain": "nintendo.com",
+          "games_count": 9150,
+          "image_background": "https://media.rawg.io/media/games/5eb/5eb49eb2fa0738fdb5bacea557b1bc57.jpg"
+        }
+      }
+    ],
+    "developers": [
+      {
+        "id": 28889,
+        "name": "8-4",
+        "slug": "8-4",
+        "games_count": 16,
+        "image_background": "https://media.rawg.io/media/screenshots/db8/db83a83c7fc09dca7d5357ed28d167dd.jpg"
+      },
+      {
+        "id": 27291,
+        "name": "Monolith Soft",
+        "slug": "monolith-soft",
+        "games_count": 17,
+        "image_background": "https://media.rawg.io/media/games/7bc/7bc9d42940b6de00164dced33d45c746.jpg"
+      },
+      {
+        "id": 45539,
+        "name": "Kusanagi",
+        "slug": "kusanagi",
+        "games_count": 2,
+        "image_background": "https://media.rawg.io/media/screenshots/db8/db83a83c7fc09dca7d5357ed28d167dd.jpg"
+      }
+    ],
+    "genres": [
+      {
+        "id": 4,
+        "name": "Action",
+        "slug": "action",
+        "games_count": 191508,
+        "image_background": "https://media.rawg.io/media/games/737/737ea5662211d2e0bbd6f5989189e4f1.jpg"
+      },
+      {
+        "id": 3,
+        "name": "Adventure",
+        "slug": "adventure",
+        "games_count": 151684,
+        "image_background": "https://media.rawg.io/media/games/c50/c5085506fe4b5e20fc7aa5ace842c20b.jpg"
+      },
+      {
+        "id": 5,
+        "name": "RPG",
+        "slug": "role-playing-games-rpg",
+        "games_count": 61936,
+        "image_background": "https://media.rawg.io/media/games/d1a/d1a2e99ade53494c6330a0ed945fe823.jpg"
+      }
+    ],
+    "tags": [
+      {
+        "id": 468,
+        "name": "role-playing",
+        "slug": "role-playing",
+        "language": "eng",
+        "games_count": 1657,
+        "image_background": "https://media.rawg.io/media/games/8ca/8ca40b562a755d6a0e30d48e6c74b178.jpg"
+      },
+      {
+        "id": 37796,
+        "name": "exclusive",
+        "slug": "exclusive",
+        "language": "eng",
+        "games_count": 4491,
+        "image_background": "https://media.rawg.io/media/games/b7d/b7d3f1715fa8381a4e780173a197a615.jpg"
+      },
+      {
+        "id": 37797,
+        "name": "true exclusive",
+        "slug": "true-exclusive",
+        "language": "eng",
+        "games_count": 3981,
+        "image_background": "https://media.rawg.io/media/games/d30/d30ef0c7dd4878161b1f781e297ae6a0.jpg"
+      }
+    ],
+    "publishers": [
+      {
+        "id": 10681,
+        "name": "Nintendo",
+        "slug": "nintendo",
+        "games_count": 1241,
+        "image_background": "https://media.rawg.io/media/games/3a0/3a0c8e9ed3a711c542218831b893a0fa.jpg"
+      }
+    ],
+    "esrb_rating": null,
+    "clip": null,
+    "description_raw": "The next massive sci-fi role-playing game from Monolith Soft, the\ncreators of Baten Kaitos and Xenoblade Chronicles, comes exclusively to\nWii U. A terrible intergalactic war leaves just a handful of Earth\nsurvivors trying to live in a beautiful yet hostile environment. Players\nengage in battles against powerful creatures of all forms and sizes\nusing the deep battle system that builds on the triumphs of Xenoblade\nChronicles for Wii.\n\nFEATURES:\n\nRiding and controlling a weaponized mech, players can explore every\ninch of the massive open world displayed in gorgeous high-definition\ngraphics. The world is filled with strange and imaginative creatures,\nfrom small bugs to giant dinosaurs.\n\nAs characters improve in different classes, they will learn new combat\nand defensive skills, or Arts. Players can customize the Arts palette\nas their characters learn new Arts. All Arts have a “recast\" time –\nonce cast, the player must wait out a “cooldown\" period before that\nArt can be used again.\n\nPlayers can customize everything about the main character's\nappearance, including gender, shapes, height, skin color, voice and\ntattoos."
+  },
+  "screenshots": [
+    {
+      "id": 241506,
+      "image": "https://media.rawg.io/media/screenshots/827/827bebd1b2160a5fcb825bd32ea2551b.jpg",
+      "width": 745,
+      "height": 419,
+      "is_deleted": false
+    },
+    {
+      "id": 241507,
+      "image": "https://media.rawg.io/media/screenshots/074/0743129a05e625bd9a8c8ebad7c4d352.jpg",
+      "width": 745,
+      "height": 419,
+      "is_deleted": false
+    },
+    {
+      "id": 241508,
+      "image": "https://media.rawg.io/media/screenshots/53b/53bcaeab75ae68f154f23ea5ebb2ac04.jpg",
+      "width": 745,
+      "height": 419,
+      "is_deleted": false
+    },
+    {
+      "id": 241509,
+      "image": "https://media.rawg.io/media/screenshots/645/6455821c8c11b663e8e3a5cadcde4222.jpg",
+      "width": 745,
+      "height": 419,
+      "is_deleted": false
+    },
+    {
+      "id": 241510,
+      "image": "https://media.rawg.io/media/screenshots/095/0958e51f7714f046e2fab770e8eff8ea.jpg",
+      "width": 745,
+      "height": 419,
+      "is_deleted": false
+    },
+    {
+      "id": 241511,
+      "image": "https://media.rawg.io/media/screenshots/aa5/aa5c1aa2e1b578b3126362d88fb0de8a.jpg",
+      "width": 745,
+      "height": 419,
+      "is_deleted": false
+    }
+  ]
+}

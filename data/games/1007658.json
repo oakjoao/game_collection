@@ -1,0 +1,463 @@
+{
+  "details": {
+    "id": 1007658,
+    "slug": "dragon-quest-i-ii-hd-2d-remake",
+    "name": "Dragon Quest I & II HD-2D Remake",
+    "name_original": "Dragon Quest I & II HD-2D Remake",
+    "description": "<p>DRAGON QUEST I &amp; II HD-2D Remake is a stunning reimagination of the first two legendary adventures in The Erdrick Trilogy, brought together in one package.</p>",
+    "metacritic": null,
+    "metacritic_platforms": [],
+    "released": "2025-10-30",
+    "tba": false,
+    "updated": "2025-11-18T03:28:59",
+    "background_image": "https://media.rawg.io/media/screenshots/2a5/2a592bf9ad6c7493e98d3eaa254cee88.jpg",
+    "background_image_additional": null,
+    "website": "",
+    "rating": 0,
+    "rating_top": 0,
+    "ratings": [
+      {
+        "id": 4,
+        "title": "recommended",
+        "count": 1,
+        "percent": 100
+      }
+    ],
+    "reactions": {},
+    "added": 19,
+    "added_by_status": {
+      "yet": 2,
+      "owned": 1,
+      "beaten": 1,
+      "toplay": 13,
+      "playing": 2
+    },
+    "playtime": 0,
+    "screenshots_count": 1,
+    "movies_count": 0,
+    "creators_count": 0,
+    "achievements_count": 0,
+    "parent_achievements_count": 0,
+    "reddit_url": "",
+    "reddit_name": "",
+    "reddit_description": "",
+    "reddit_logo": "",
+    "reddit_count": 0,
+    "twitch_count": 0,
+    "youtube_count": 0,
+    "reviews_text_count": 1,
+    "ratings_count": 0,
+    "suggestions_count": 47,
+    "alternative_names": [],
+    "metacritic_url": "",
+    "parents_count": 0,
+    "additions_count": 0,
+    "game_series_count": 0,
+    "user_game": null,
+    "reviews_count": 1,
+    "community_rating": 0,
+    "saturated_color": "0f0f0f",
+    "dominant_color": "0f0f0f",
+    "parent_platforms": [
+      {
+        "platform": {
+          "id": 1,
+          "name": "PC",
+          "slug": "pc"
+        }
+      },
+      {
+        "platform": {
+          "id": 2,
+          "name": "PlayStation",
+          "slug": "playstation"
+        }
+      },
+      {
+        "platform": {
+          "id": 3,
+          "name": "Xbox",
+          "slug": "xbox"
+        }
+      },
+      {
+        "platform": {
+          "id": 7,
+          "name": "Nintendo",
+          "slug": "nintendo"
+        }
+      }
+    ],
+    "platforms": [
+      {
+        "platform": {
+          "id": 4,
+          "name": "PC",
+          "slug": "pc",
+          "image": null,
+          "year_end": null,
+          "year_start": null,
+          "games_count": 560528,
+          "image_background": "https://media.rawg.io/media/games/4be/4be6a6ad0364751a96229c56bf69be59.jpg"
+        },
+        "released_at": "2025-10-30",
+        "requirements": {
+          "minimum": "Minimum:\nRequires a 64-bit processor and operating system\nOS: Windows® 11\nProcessor: AMD Ryzen™ 3 2300X / Intel® Core™ i3-8100\nMemory: 8 GB RAM\nGraphics: AMD Radeon™ RX 460 / Intel® Arc™ A380 / NVIDIA® GeForce® GTX 750 Ti\nStorage: 20 GB available space\nAdditional Notes: 1920 × 1080, Graphics Preset &quot;Lowest&quot;, 60FPS. 16GB RAM required when using Intel Arc GPU.",
+          "recommended": "Recommended:\nRequires a 64-bit processor and operating system\nOS: Windows® 11\nProcessor: AMD Ryzen™ 3 2300X /  Intel® Core™ i3-8100\nMemory: 8 GB RAM\nGraphics: AMD Radeon™ RX 470 / Intel® Arc™ A580 / NVIDIA® GeForce® GTX 1060\nStorage: 20 GB available space\nAdditional Notes: 1920x1080, Graphics Preset &quot;Highest&quot;, 60FPS. 16GB RAM required when using Intel Arc GPU."
+        }
+      },
+      {
+        "platform": {
+          "id": 7,
+          "name": "Nintendo Switch",
+          "slug": "nintendo-switch",
+          "image": null,
+          "year_end": null,
+          "year_start": null,
+          "games_count": 5765,
+          "image_background": "https://media.rawg.io/media/games/5a4/5a44112251d70a25291cc33757220fce.jpg"
+        },
+        "released_at": "2025-10-30",
+        "requirements": {}
+      },
+      {
+        "platform": {
+          "id": 186,
+          "name": "Xbox Series S/X",
+          "slug": "xbox-series-x",
+          "image": null,
+          "year_end": null,
+          "year_start": 2020,
+          "games_count": 1240,
+          "image_background": "https://media.rawg.io/media/games/618/618c2031a07bbff6b4f611f10b6bcdbc.jpg"
+        },
+        "released_at": "2025-10-30",
+        "requirements": {}
+      },
+      {
+        "platform": {
+          "id": 187,
+          "name": "PlayStation 5",
+          "slug": "playstation5",
+          "image": null,
+          "year_end": null,
+          "year_start": 2020,
+          "games_count": 1451,
+          "image_background": "https://media.rawg.io/media/games/909/909974d1c7863c2027241e265fe7011f.jpg"
+        },
+        "released_at": "2025-10-30",
+        "requirements": {}
+      }
+    ],
+    "stores": [
+      {
+        "id": 1015237,
+        "url": "",
+        "store": {
+          "id": 1,
+          "name": "Steam",
+          "slug": "steam",
+          "domain": "store.steampowered.com",
+          "games_count": 123255,
+          "image_background": "https://media.rawg.io/media/games/587/587588c64afbff80e6f444eb2e46f9da.jpg"
+        }
+      }
+    ],
+    "developers": [
+      {
+        "id": 4132,
+        "name": "Square Enix",
+        "slug": "square-enix",
+        "games_count": 374,
+        "image_background": "https://media.rawg.io/media/games/54a/54a3e4c617217848dc43c4de9989fe37.jpg"
+      },
+      {
+        "id": 7261,
+        "name": "ARTDINK",
+        "slug": "artdink",
+        "games_count": 44,
+        "image_background": "https://media.rawg.io/media/games/7b9/7b90afec0b2946264971d9b74011699f.jpg"
+      }
+    ],
+    "genres": [
+      {
+        "id": 5,
+        "name": "RPG",
+        "slug": "role-playing-games-rpg",
+        "games_count": 61936,
+        "image_background": "https://media.rawg.io/media/games/d1a/d1a2e99ade53494c6330a0ed945fe823.jpg"
+      }
+    ],
+    "tags": [
+      {
+        "id": 31,
+        "name": "Singleplayer",
+        "slug": "singleplayer",
+        "language": "eng",
+        "games_count": 250812,
+        "image_background": "https://media.rawg.io/media/games/26d/26d4437715bee60138dab4a7c8c59c92.jpg"
+      },
+      {
+        "id": 40847,
+        "name": "Steam Achievements",
+        "slug": "steam-achievements",
+        "language": "eng",
+        "games_count": 51706,
+        "image_background": "https://media.rawg.io/media/games/49c/49c3dfa4ce2f6f140cc4825868e858cb.jpg"
+      },
+      {
+        "id": 40849,
+        "name": "Steam Cloud",
+        "slug": "steam-cloud",
+        "language": "eng",
+        "games_count": 25731,
+        "image_background": "https://media.rawg.io/media/games/120/1201a40e4364557b124392ee50317b99.jpg"
+      },
+      {
+        "id": 13,
+        "name": "Atmospheric",
+        "slug": "atmospheric",
+        "language": "eng",
+        "games_count": 39705,
+        "image_background": "https://media.rawg.io/media/games/d82/d82990b9c67ba0d2d09d4e6fa88885a7.jpg"
+      },
+      {
+        "id": 24,
+        "name": "RPG",
+        "slug": "rpg",
+        "language": "eng",
+        "games_count": 26621,
+        "image_background": "https://media.rawg.io/media/games/d69/d69810315bd7e226ea2d21f9156af629.jpg"
+      },
+      {
+        "id": 40845,
+        "name": "Partial Controller Support",
+        "slug": "partial-controller-support",
+        "language": "eng",
+        "games_count": 13990,
+        "image_background": "https://media.rawg.io/media/games/c80/c80bcf321da44d69b18a06c04d942662.jpg"
+      },
+      {
+        "id": 64,
+        "name": "Fantasy",
+        "slug": "fantasy",
+        "language": "eng",
+        "games_count": 32956,
+        "image_background": "https://media.rawg.io/media/games/aa3/aa36ba4b486a03ddfaef274fb4f5afd4.jpg"
+      },
+      {
+        "id": 122,
+        "name": "Pixel Graphics",
+        "slug": "pixel-graphics",
+        "language": "eng",
+        "games_count": 99332,
+        "image_background": "https://media.rawg.io/media/games/5c2/5c2b78d4ee2647849d0bfb5d772345c8.jpg"
+      },
+      {
+        "id": 102,
+        "name": "Turn-Based",
+        "slug": "turn-based",
+        "language": "eng",
+        "games_count": 5605,
+        "image_background": "https://media.rawg.io/media/games/d1f/d1f872a48286b6b751670817d5c1e1be.jpg"
+      },
+      {
+        "id": 88,
+        "name": "Cute",
+        "slug": "cute",
+        "language": "eng",
+        "games_count": 39781,
+        "image_background": "https://media.rawg.io/media/games/4cb/4cb855e8ef1578415a928e53c9f51867.png"
+      },
+      {
+        "id": 165,
+        "name": "Colorful",
+        "slug": "colorful",
+        "language": "eng",
+        "games_count": 28940,
+        "image_background": "https://media.rawg.io/media/games/43f/43f4f3a50651f371c147ecce8ee841a9.jpg"
+      },
+      {
+        "id": 1465,
+        "name": "combat",
+        "slug": "combat",
+        "language": "eng",
+        "games_count": 16388,
+        "image_background": "https://media.rawg.io/media/games/4be/4be6a6ad0364751a96229c56bf69be59.jpg"
+      },
+      {
+        "id": 82,
+        "name": "Magic",
+        "slug": "magic",
+        "language": "eng",
+        "games_count": 11345,
+        "image_background": "https://media.rawg.io/media/games/516/516c6bfe36ddb498d860f68927448a75.jpg"
+      },
+      {
+        "id": 40937,
+        "name": "Steam Trading Cards",
+        "slug": "steam-trading-cards-2",
+        "language": "eng",
+        "games_count": 842,
+        "image_background": "https://media.rawg.io/media/games/a4b/a4bb55f42fe837ae7bf1307e7b41cc85.jpg"
+      },
+      {
+        "id": 271,
+        "name": "Remake",
+        "slug": "remake",
+        "language": "eng",
+        "games_count": 1738,
+        "image_background": "https://media.rawg.io/media/games/367/367463d43c2a1465f27e830b5b1334ee.jpg"
+      },
+      {
+        "id": 233,
+        "name": "JRPG",
+        "slug": "jrpg",
+        "language": "eng",
+        "games_count": 5264,
+        "image_background": "https://media.rawg.io/media/games/a59/a5993b9f84944570a31cb6ad08bfe502.jpg"
+      },
+      {
+        "id": 116,
+        "name": "2.5D",
+        "slug": "25d",
+        "language": "eng",
+        "games_count": 2949,
+        "image_background": "https://media.rawg.io/media/games/04a/04a7e7e185fb51493bdcbe1693a8b3dc.jpg"
+      },
+      {
+        "id": 175,
+        "name": "Turn-Based Combat",
+        "slug": "turn-based-combat",
+        "language": "eng",
+        "games_count": 6346,
+        "image_background": "https://media.rawg.io/media/screenshots/3f5/3f58a7b2a2b290994eb798eb72ca3fb2.jpg"
+      },
+      {
+        "id": 205,
+        "name": "Lore-Rich",
+        "slug": "lore-rich",
+        "language": "eng",
+        "games_count": 2219,
+        "image_background": "https://media.rawg.io/media/games/813/81343372bb9d84cda2d9f0fec2ef9661.jpg"
+      },
+      {
+        "id": 572,
+        "name": "Emotional",
+        "slug": "emotional",
+        "language": "eng",
+        "games_count": 4554,
+        "image_background": "https://media.rawg.io/media/games/d47/d479582ed0a46496ad34f65c7099d7e5.jpg"
+      },
+      {
+        "id": 91686,
+        "name": "Family Sharing",
+        "slug": "family-sharing",
+        "language": "eng",
+        "games_count": 28910,
+        "image_background": "https://media.rawg.io/media/games/22e/22e68bb62b3013283972cecf98ed51dc.jpg"
+      },
+      {
+        "id": 224,
+        "name": "1980s",
+        "slug": "1980s",
+        "language": "eng",
+        "games_count": 3428,
+        "image_background": "https://media.rawg.io/media/games/c64/c64d2f63cabeab9126693b7d39539c8d.jpg"
+      },
+      {
+        "id": 206,
+        "name": "Party-Based RPG",
+        "slug": "party-based-rpg",
+        "language": "eng",
+        "games_count": 1585,
+        "image_background": "https://media.rawg.io/media/games/998/9988525895232b81618aa7eb2b844002.jpg"
+      },
+      {
+        "id": 570,
+        "name": "Old School",
+        "slug": "old-school",
+        "language": "eng",
+        "games_count": 5123,
+        "image_background": "https://media.rawg.io/media/screenshots/066/066eb1b7a3f332b8089645fbf8c3ebdc.jpg"
+      },
+      {
+        "id": 2483,
+        "name": "nostalgia",
+        "slug": "nostalgia",
+        "language": "eng",
+        "games_count": 308,
+        "image_background": "https://media.rawg.io/media/screenshots/959/959405176f9c1742d5a81bfca979205a.jpg"
+      },
+      {
+        "id": 92227,
+        "name": "Custom Volume Controls",
+        "slug": "custom-volume-controls",
+        "language": "eng",
+        "games_count": 3287,
+        "image_background": "https://media.rawg.io/media/games/e7f/e7f2f571761abd7b3c0598c719ae8893.jpg"
+      },
+      {
+        "id": 78619,
+        "name": "Ремейк",
+        "slug": "remeik",
+        "language": "eng",
+        "games_count": 90,
+        "image_background": "https://media.rawg.io/media/screenshots/36e/36e62fca6fc31cb2e5b940d7504af20c.jpg"
+      },
+      {
+        "id": 92225,
+        "name": "Playable without Timed Input",
+        "slug": "playable-without-timed-input",
+        "language": "eng",
+        "games_count": 3294,
+        "image_background": "https://media.rawg.io/media/games/dcc/dcc38d78ab1f1a90fdc4ba1bea3a73ff.jpg"
+      },
+      {
+        "id": 92231,
+        "name": "Camera Comfort",
+        "slug": "camera-comfort",
+        "language": "eng",
+        "games_count": 1074,
+        "image_background": "https://media.rawg.io/media/screenshots/53b/53bce679df0668826ebcb1d6ca030d94.jpg"
+      },
+      {
+        "id": 92235,
+        "name": "Adjustable Difficulty",
+        "slug": "adjustable-difficulty",
+        "language": "eng",
+        "games_count": 1025,
+        "image_background": "https://media.rawg.io/media/games/021/021d48108ec99947d8f09dc6abe3f980.jpg"
+      },
+      {
+        "id": 92232,
+        "name": "Keyboard Only Option",
+        "slug": "keyboard-only-option",
+        "language": "eng",
+        "games_count": 1076,
+        "image_background": "https://media.rawg.io/media/screenshots/70f/70fb740261ef152d0d3392a9a306c9ca.jpg"
+      }
+    ],
+    "publishers": [
+      {
+        "id": 308,
+        "name": "Square Enix",
+        "slug": "square-enix",
+        "games_count": 609,
+        "image_background": "https://media.rawg.io/media/games/3d9/3d9bac98d79bcd2d445f829e8d6be902.jpg"
+      }
+    ],
+    "esrb_rating": null,
+    "clip": null,
+    "description_raw": "DRAGON QUEST I & II HD-2D Remake is a stunning reimagination of the first two legendary adventures in The Erdrick Trilogy, brought together in one package."
+  },
+  "screenshots": [
+    {
+      "id": 4236621,
+      "image": "https://media.rawg.io/media/screenshots/2a5/2a592bf9ad6c7493e98d3eaa254cee88.jpg",
+      "width": 460,
+      "height": 215,
+      "is_deleted": false
+    }
+  ]
+}

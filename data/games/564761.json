@@ -1,0 +1,224 @@
+{
+  "details": {
+    "id": 564761,
+    "slug": "pokemon-legends-arceus",
+    "name": "Pokémon Legends: Arceus",
+    "name_original": "Pokémon Legends: Arceus",
+    "description": "<p>First came Sinnoh remakes. Then came Sinnoh pre-makes.</p>\n<p>Introducing #PokemonLegendsArceus​, a new challenge and a new frontier for the Pokémon world.<br />\nThe Pokémon Legends: Arceus game honours past Pokémon games’ core gameplay while infusing new action and RPG elements.</p>\n<p>You’ll need to catch, survey, and research wild Pokémon in a long-gone era of the Sinnoh region to create and complete the region’s first Pokédex.</p>",
+    "metacritic": 83,
+    "metacritic_platforms": [
+      {
+        "metascore": 83,
+        "url": "https://www.metacritic.com/game/switch/pokemon-legends-arceus",
+        "platform": {
+          "platform": 7,
+          "name": "Nintendo Switch",
+          "slug": "nintendo-switch"
+        }
+      }
+    ],
+    "released": "2022-01-28",
+    "tba": false,
+    "updated": "2026-01-29T18:32:31",
+    "background_image": "https://media.rawg.io/media/games/80a/80a3e1060b49c02f901e781b263cd881.jpg",
+    "background_image_additional": "https://media.rawg.io/media/screenshots/b76/b76b55696325644de255c269bf867264.jpg",
+    "website": "https://legends.pokemon.com/",
+    "rating": 4.02,
+    "rating_top": 4,
+    "ratings": [
+      {
+        "id": 4,
+        "title": "recommended",
+        "count": 66,
+        "percent": 39.29
+      },
+      {
+        "id": 5,
+        "title": "exceptional",
+        "count": 65,
+        "percent": 38.69
+      },
+      {
+        "id": 3,
+        "title": "meh",
+        "count": 25,
+        "percent": 14.88
+      },
+      {
+        "id": 1,
+        "title": "skip",
+        "count": 12,
+        "percent": 7.14
+      }
+    ],
+    "reactions": {
+      "2": 1,
+      "3": 2,
+      "4": 1,
+      "7": 2,
+      "12": 1
+    },
+    "added": 563,
+    "added_by_status": {
+      "yet": 55,
+      "owned": 75,
+      "beaten": 190,
+      "toplay": 126,
+      "dropped": 59,
+      "playing": 58
+    },
+    "playtime": 0,
+    "screenshots_count": 13,
+    "movies_count": 0,
+    "creators_count": 0,
+    "achievements_count": 0,
+    "parent_achievements_count": 0,
+    "reddit_url": "",
+    "reddit_name": "",
+    "reddit_description": "",
+    "reddit_logo": "",
+    "reddit_count": 0,
+    "twitch_count": 99,
+    "youtube_count": 0,
+    "reviews_text_count": 5,
+    "ratings_count": 163,
+    "suggestions_count": 385,
+    "alternative_names": [],
+    "metacritic_url": "https://www.metacritic.com/game/switch/pokemon-legends-arceus",
+    "parents_count": 0,
+    "additions_count": 0,
+    "game_series_count": 0,
+    "user_game": null,
+    "reviews_count": 168,
+    "saturated_color": "0f0f0f",
+    "dominant_color": "0f0f0f",
+    "parent_platforms": [
+      {
+        "platform": {
+          "id": 7,
+          "name": "Nintendo",
+          "slug": "nintendo"
+        }
+      }
+    ],
+    "platforms": [
+      {
+        "platform": {
+          "id": 7,
+          "name": "Nintendo Switch",
+          "slug": "nintendo-switch",
+          "image": null,
+          "year_end": null,
+          "year_start": null,
+          "games_count": 5765,
+          "image_background": "https://media.rawg.io/media/games/5a4/5a44112251d70a25291cc33757220fce.jpg"
+        },
+        "released_at": "2022-01-28",
+        "requirements": {}
+      }
+    ],
+    "stores": [
+      {
+        "id": 670051,
+        "url": "",
+        "store": {
+          "id": 6,
+          "name": "Nintendo Store",
+          "slug": "nintendo",
+          "domain": "nintendo.com",
+          "games_count": 9150,
+          "image_background": "https://media.rawg.io/media/games/5eb/5eb49eb2fa0738fdb5bacea557b1bc57.jpg"
+        }
+      }
+    ],
+    "developers": [
+      {
+        "id": 8230,
+        "name": "Game Freak",
+        "slug": "game-freak",
+        "games_count": 61,
+        "image_background": "https://media.rawg.io/media/games/82f/82f7b1424c5ee7eebee83faf694889c5.jpg"
+      }
+    ],
+    "genres": [
+      {
+        "id": 4,
+        "name": "Action",
+        "slug": "action",
+        "games_count": 191508,
+        "image_background": "https://media.rawg.io/media/games/737/737ea5662211d2e0bbd6f5989189e4f1.jpg"
+      },
+      {
+        "id": 3,
+        "name": "Adventure",
+        "slug": "adventure",
+        "games_count": 151684,
+        "image_background": "https://media.rawg.io/media/games/c50/c5085506fe4b5e20fc7aa5ace842c20b.jpg"
+      },
+      {
+        "id": 5,
+        "name": "RPG",
+        "slug": "role-playing-games-rpg",
+        "games_count": 61936,
+        "image_background": "https://media.rawg.io/media/games/d1a/d1a2e99ade53494c6330a0ed945fe823.jpg"
+      }
+    ],
+    "tags": [],
+    "publishers": [
+      {
+        "id": 10681,
+        "name": "Nintendo",
+        "slug": "nintendo",
+        "games_count": 1241,
+        "image_background": "https://media.rawg.io/media/games/3a0/3a0c8e9ed3a711c542218831b893a0fa.jpg"
+      }
+    ],
+    "esrb_rating": null,
+    "clip": null,
+    "description_raw": "First came Sinnoh remakes. Then came Sinnoh pre-makes.\n\nIntroducing #PokemonLegendsArceus​, a new challenge and a new frontier for the Pokémon world.\nThe Pokémon Legends: Arceus game honours past Pokémon games’ core gameplay while infusing new action and RPG elements.\n\nYou’ll need to catch, survey, and research wild Pokémon in a long-gone era of the Sinnoh region to create and complete the region’s first Pokédex."
+  },
+  "screenshots": [
+    {
+      "id": 2734351,
+      "image": "https://media.rawg.io/media/screenshots/002/0027de7e28bd3f3ae82ab64fe7154d2c.jpg",
+      "width": 972,
+      "height": 552,
+      "is_deleted": false
+    },
+    {
+      "id": 2734352,
+      "image": "https://media.rawg.io/media/screenshots/518/51841584f540acbde38b2bd66c1846f2.jpg",
+      "width": 980,
+      "height": 550,
+      "is_deleted": false
+    },
+    {
+      "id": 2734353,
+      "image": "https://media.rawg.io/media/screenshots/de0/de04a30693a4351cb459b259c2c8ec2b.jpg",
+      "width": 974,
+      "height": 540,
+      "is_deleted": false
+    },
+    {
+      "id": 2734354,
+      "image": "https://media.rawg.io/media/screenshots/7e6/7e60be5ad7383f3be0361d787b8064f4.jpg",
+      "width": 976,
+      "height": 530,
+      "is_deleted": false
+    },
+    {
+      "id": 2734355,
+      "image": "https://media.rawg.io/media/screenshots/d96/d9631155f9dda27fdb263b179c052c33.jpg",
+      "width": 968,
+      "height": 536,
+      "is_deleted": false
+    },
+    {
+      "id": 2734356,
+      "image": "https://media.rawg.io/media/screenshots/c61/c61e1af8c77559d0b6c714162c571b96.jpg",
+      "width": 966,
+      "height": 530,
+      "is_deleted": false
+    }
+  ]
+}
