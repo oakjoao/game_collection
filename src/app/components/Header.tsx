@@ -2,7 +2,7 @@
 
 import { useState, useRef, useEffect } from "react";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
-import { faSearch, faFilter, faBars, faTimes, faFileExport } from "@fortawesome/free-solid-svg-icons";
+import { faSearch, faFilter, faBars, faTimes, faFileExport, faFileCode } from "@fortawesome/free-solid-svg-icons";
 import { Button } from "@/components/ui/button";
 import { Input } from "@/components/ui/input";
 import { Badge } from "@/components/ui/badge";
@@ -30,6 +30,7 @@ interface HeaderProps {
   onToggleConsole: (console: string) => void;
   onClearConsoles: () => void;
   onExportCsv: () => void;
+  onExportJson: () => void;
 }
 
 export default function Header({
@@ -40,6 +41,7 @@ export default function Header({
   onToggleConsole,
   onClearConsoles,
   onExportCsv,
+  onExportJson,
 }: HeaderProps) {
   const [mobileSearchOpen, setMobileSearchOpen] = useState(false);
   const mobileInputRef = useRef<HTMLInputElement>(null);
@@ -200,6 +202,17 @@ export default function Header({
             title="Export as CSV"
           >
             <FontAwesomeIcon icon={faFileExport} style={{ width: "16px", height: "16px" }} />
+          </Button>
+
+          {/* Export JSON button (for iOS import) */}
+          <Button
+            variant="ghost"
+            size="icon"
+            className="flex text-muted-foreground hover:text-foreground"
+            onClick={onExportJson}
+            title="Export as JSON (iOS import)"
+          >
+            <FontAwesomeIcon icon={faFileCode} style={{ width: "16px", height: "16px" }} />
           </Button>
         </div>
       </div>

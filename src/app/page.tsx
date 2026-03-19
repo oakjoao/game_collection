@@ -44,6 +44,16 @@ function HomeContent() {
     URL.revokeObjectURL(url);
   };
 
+  const exportJson = () => {
+    const blob = new Blob([JSON.stringify(games, null, 2)], { type: "application/json" });
+    const url = URL.createObjectURL(blob);
+    const a = document.createElement("a");
+    a.href = url;
+    a.download = "game_collection.json";
+    a.click();
+    URL.revokeObjectURL(url);
+  };
+
   const filteredGames = games.filter((game) => {
     const matchesSearch = searchQuery.trim()
       ? game.name.toLowerCase().includes(searchQuery.toLowerCase())
@@ -65,6 +75,7 @@ function HomeContent() {
         onToggleConsole={toggleConsole}
         onClearConsoles={clearConsoles}
         onExportCsv={exportCsv}
+        onExportJson={exportJson}
       />
 
       <div className="flex flex-1 overflow-hidden">
